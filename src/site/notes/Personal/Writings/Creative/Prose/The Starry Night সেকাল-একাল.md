@@ -1,6 +1,8 @@
 ---
-{"title":"The Starry Night: সেকাল-একাল","updated":"2022-12-22T11:33:50+06:00","created":"2020-08-13T21:37:00+06:00","latitude":23.78267264,"longitude":90.42135418,"altitude":-26.295,"tags":["art","criticism"],"location":"বাড্ডা, ঢাকা","dg-publish":true,"permalink":"/personal/writings/creative/prose/the-starry-night/","dgPassFrontmatter":true}
+{"title":"The Starry Night: সেকাল-একাল","updated":"2023-01-02T22:56:19+06:00","created":"2020-08-13T21:37:00+06:00","latitude":23.78267264,"longitude":90.42135418,"altitude":-26.295,"tags":["art","criticism"],"location":"বাড্ডা, ঢাকা","dg-publish":true,"permalink":"/personal/writings/creative/prose/the-starry-night/","dgPassFrontmatter":true}
 ---
+
+# The Starry Night: সেকাল-একাল
 
 ![The Starry Night](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
