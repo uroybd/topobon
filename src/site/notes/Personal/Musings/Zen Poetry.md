@@ -1,8 +1,7 @@
 ---
-{"title":"Zen Poetry","updated":"2023-01-02T23:45:17+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
+{"title":"Zen Poetry","updated":"2023-01-03T00:58:04+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
 ---
 
-# Zen Poetry
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
 
 It can be deduced naturally that the poets of zen (often priests) walked on a thin line. Their attachment was not of the mundane kind that we know. Artists, in general, are subtly attached to reality with a kind of super-sensibility, a refined type of attachment.
@@ -142,8 +141,6 @@ and yet … and yet …
 
 
 
-
-# শিল্পভাবনা ১: হৃদয়বৃত্তি
 
 শিল্প বা আর্ট কীভাবে শিল্প হয়ে ওঠে তা নিয়ে ভাবনাচিন্তার অন্ত নেই। শিল্পের ধরণ অনুযায়ী তা নিয়ে ভিন্ন ভিন্ন আলোচনা আছে। তর্ক আছে যেমন কুতর্কও আছে। 'সকলেই কবি নয় কেউ কেউ কবি' থেকে কল্পনাকে বলতে গেলে অচ্ছুত করে দিয়ে 'রিয়ালিজম'-এর চর্চাও আছে।
 
