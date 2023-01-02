@@ -41,13 +41,13 @@ function getPermalink(path, key) {
             permalink = frontMatter.data.permalink;
         }
         if (frontMatter.data.title) {
-            title = frontMatter.data.title;
+            name = frontMatter.data.title;
         }
     } catch {
         //ignore
     }
 
-    return { permalink, name};
+    return { permalink, name };
 }
 
 function populateWithPermalink(tree) {
