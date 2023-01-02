@@ -56,7 +56,7 @@ function populateWithPermalink(tree) {
             const isNote = tree[key].path.endsWith(".md");
             tree[key].isNote = isNote;
             if (isNote) {
-                let { permalink, name } = getPermalink(tree[key].path);
+                let { permalink, name } = getPermalink(tree[key].path, key);
                 tree[key].permalink = permalink;
                 tree[key].name = name;
             }
