@@ -20,7 +20,7 @@ body {
             content: "“";
             font-size: 3em;
             position: absolute;
-            left: 15px;
+            left: calc(3vw - 20px);
         }
     }
 }
