@@ -1,11 +1,6 @@
 ---
-{"title":"The Power of Myth","created":"2018-02-28T00:00:00+06:00","updated":"2023-01-03T20:59:24+06:00","read_at":["2018-03-17T00:00:00+06:00"],"read_count":1,"authors":["Joseph Campbell","Bill Moyers"],"isbn10":385418868,"status":"Read","rating":5,"reviewed":true,"cover":"http://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api","tags":["bestreads"],"dg-publish":true,"permalink":"/personal/reading/books/read/the-power-of-myth-by-joseph-campbell/","dgPassFrontmatter":true}
+{"title":"The Power of Myth","created":"2018-02-28T00:00:00+06:00","updated":"2023-01-03T21:18:23+06:00","read_at":["2018-03-17T00:00:00+06:00"],"read_count":1,"authors":["Joseph Campbell","Bill Moyers"],"isbn10":385418868,"status":"Read","rating":5,"reviewed":true,"cover":"http://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api","tags":["bestreads"],"dg-publish":true,"permalink":"/personal/reading/books/read/the-power-of-myth-by-joseph-campbell/","dgPassFrontmatter":true}
 ---
-
-### About The Power of Myth by Joseph Campbell, Bill Moyers
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| ![The Power of Myth\|150](http://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api)         | To Campbell, mythology was the “song of the universe, the music of the spheres.” With Bill Moyers, one of America’s most prominent journalists, as his thoughtful and engaging interviewer, The Power of Myth touches on subjects from modern marriage to virgin births, from Jesus to John Lennon, offering a brilliant combination of intelligence and wit.|
 
 ### Review
 The Power of Myth বইটি বস্তুত বিল ময়ার্স নামক একজন জনপ্রিয় সাংবাদিকের কাছে জোসেফ ক্যাম্পবেলের সাক্ষাৎকারের লিখিত রূপ বলা চলে। বিল ময়ার্স আমাদের দেশের সমকালীন সাংবাদিকদের মত নন তা আমি বইটি পড়ে বুঝতে পেরেছি। যথেষ্ট জ্ঞানী একজন মানুষ। অপরপক্ষে জোসেফ ক্যাম্পবেল অ্যাকাডেমিশিয়ান। জুটিটা ভালো ছিল।  
@@ -43,3 +38,8 @@ The Power of Myth বইটি বস্তুত বিল ময়ার্স�
 সব মিলিয়ে, অন্তত আমার ক্ষেত্রে বইটি চিন্তার খোরাক ছিল। ছিল দীর্ঘজীবন কাটিয়ে আসা একজন মানুষের অভিজ্ঞ চোখে অন্য মানুষের ভেতরটা দেখার একটা সুযোগ। মানুষের জীবন ও সভ্যতার চিরায়ত কিছু প্রশ্নের উত্তরে আমি ক্যাম্পবেলের সাথে একমত। পার্থক্য এই যে আমাদের পথ আলাদা।
 
 Notes:: [[Personal/Reading/Notes and Highlights/The Power of Myth\|The Power of Myth]]
+
+### About The Power of Myth by Joseph Campbell, Bill Moyers
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| ![The Power of Myth\|150](http://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api)         | To Campbell, mythology was the “song of the universe, the music of the spheres.” With Bill Moyers, one of America’s most prominent journalists, as his thoughtful and engaging interviewer, The Power of Myth touches on subjects from modern marriage to virgin births, from Jesus to John Lennon, offering a brilliant combination of intelligence and wit.|
