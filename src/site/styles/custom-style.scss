@@ -3,36 +3,13 @@
 }
 
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-//     .markdown-embed {
-//         padding-left: 3vw !important;
-//         padding-right: 3vw !important;
-//         background-color: inherit !important;
-//         border: none !important;
-        
-//         &:before {
-//             content: "“";
-//             font-size: 3em;
-//             position: absolute;
-//             left: calc(3vw - 20px);
-//         }
-//     }
 
     .timestamps {
         display: flex;
         flex-direction: row;
         font-size: 0.8em;
         color: lightslategray;
+        margin-bottom: 2em;
 
         div {
             margin-right: 5px;
