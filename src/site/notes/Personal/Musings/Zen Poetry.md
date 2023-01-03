@@ -24,15 +24,6 @@ thus should one regard one’s self.
 
 *Page Number: 110*
 
-#### Time：2021-06-28 16:55
-AND what is mind
-and how is it recognized?
-It is clearly drawn
-in sumi ink, the sound
-of breezes drifting through pine.
-
-*Page Number: 110*
-
 
 </div></div>
 
@@ -52,16 +43,6 @@ in sumi ink, the sound
 of breezes drifting through pine.
 
 *Page Number: 110*
-
-#### Time：2021-06-28 16:56
-**Face-to-Face with My Lover on Daitō’s Anniversary**
-
-MONKS recite the sutras in honor of the founder,
-their many voices cacophonous in my ear.
-Afterward, making love, our intimate whispers
-mock the empty formal discipline of others.
-
-*Page Number: 111*
 
 
 </div></div>
@@ -87,16 +68,6 @@ of every cherry tree
 
 *Page Number: 93*
 
-#### Time：2021-06-28 16:46
-THIS loneliness is
-not simply the result
-of autumn colors—
-even mountain evergreens make
-me feel like autumn evening
-
-*Page Number: 98*
-
-### Fujiwara no Ietaka
 
 </div></div>
 
@@ -115,7 +86,6 @@ chrysanthemums.
 
 *Page Number: 115*
 
-### Buson
 
 </div></div>
 
@@ -139,12 +109,6 @@ heavy autumn frost
 ^974afb
 
 *Page Number:54*
-#### Time：2021-06-26 16:13
-With clear melting dew,  
-I’d try to wash away the dust  
-of this floating world
-
-*Page Number:55*
 
 </div></div>
 
@@ -177,6 +141,6 @@ and yet … and yet …
 
 
 
-তো শিল্পীর একধরণের যত্ন করে গড়ে তোলা হৃদয়ের প্রয়োজন পড়ে। তার মূলে থাকে একধরণের বোধ। সে কেমন বোধ? জাপানিজরা সেই বোধকে বলে '[[Entities/Concept/Mono no aware\|Mono no aware]]'। জীবন ও জগতের প্রতি একধরণের বিস্ময়পূর্ণ দুঃখবোধ। একদিন হঠাৎ ভোরে সূর্যোদয়, অথবা আশ্বিনের রাতের আকাশের গাঢ় নীলে অজস্র তারা, কিংবা হঠাৎ একদিন সোডিয়াম বাতির নীচে দাঁড়ালে, কাজের শেষে, জাগতিকতার শেষে হঠাৎ মুখ থেকে যে 'আহ্' বেরিয়ে আসে, কিংবা সারি সারি মৃত্যু, জীবনের অপচয় দেখে যে দুঃখবোধ হয়- গভীর ও ইন্দ্রীয়াতীত, সেটাকে গ্রহণ করার ক্ষমতাই শিল্পীর হৃদয়বৃত্তির মূল বিষয়। ^715f40
+তো শিল্পীর একধরণের যত্ন করে গড়ে তোলা হৃদয়ের প্রয়োজন পড়ে। তার মূলে থাকে একধরণের বোধ। সে কেমন বোধ? জাপানিজরা সেই বোধকে বলে '[[Entities/Concept/Mono no aware\|Mono no aware]]'। জীবন ও জগতের প্রতি একধরণের বিস্ময়পূর্ণ দুঃখবোধ। একদিন হঠাৎ ভোরে সূর্যোদয়, অথবা আশ্বিনের রাতের আকাশের গাঢ় নীলে অজস্র তারা, কিংবা হঠাৎ একদিন সোডিয়াম বাতির নীচে দাঁড়ালে, কাজের শেষে, জাগতিকতার শেষে হঠাৎ মুখ থেকে যে 'আহ্' বেরিয়ে আসে, কিংবা সারি সারি মৃত্যু, জীবনের অপচয় দেখে যে দুঃখবোধ হয়- গভীর ও ইন্দ্রীয়াতীত, সেটাকে গ্রহণ করার ক্ষমতাই শিল্পীর হৃদয়বৃত্তির মূল বিষয়। 
 
 </div></div>
