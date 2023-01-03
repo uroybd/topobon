@@ -1,5 +1,5 @@
 ---
-{"title":"Zen Poetry","updated":"2023-01-03T12:10:45+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
+{"title":"Zen Poetry","updated":"2023-01-03T12:46:43+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
 ---
 
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
@@ -108,4 +108,16 @@ and yet … and yet …
   1. [[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton\|The Poetry of Zen by Sam Hamill, J.P. Seaton]]
   2. [[Personal/Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings\|Narrow Road to the Interior and Other Writings by Matsuo Bashō]]
 
-[^1]: [[Personal/Musings/শিল্পভাবনা ১ হৃদয়বৃত্তি#^715f40\|শিল্পভাবনা ১ হৃদয়বৃত্তি]]
+[^1]: 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# শিল্পভাবনা ১ হৃদয়বৃত্তি
+
+</div>
+
+
+তো শিল্পীর একধরণের যত্ন করে গড়ে তোলা হৃদয়ের প্রয়োজন পড়ে। তার মূলে থাকে একধরণের বোধ। সে কেমন বোধ? জাপানিজরা সেই বোধকে বলে '[[Entities/Concept/Mono no aware\|Mono no aware]]'। জীবন ও জগতের প্রতি একধরণের বিস্ময়পূর্ণ দুঃখবোধ। একদিন হঠাৎ ভোরে সূর্যোদয়, অথবা আশ্বিনের রাতের আকাশের গাঢ় নীলে অজস্র তারা, কিংবা হঠাৎ একদিন সোডিয়াম বাতির নীচে দাঁড়ালে, কাজের শেষে, জাগতিকতার শেষে হঠাৎ মুখ থেকে যে 'আহ্' বেরিয়ে আসে, কিংবা সারি সারি মৃত্যু, জীবনের অপচয় দেখে যে দুঃখবোধ হয়- গভীর ও ইন্দ্রীয়াতীত, সেটাকে গ্রহণ করার ক্ষমতাই শিল্পীর হৃদয়বৃত্তির মূল বিষয়। 
+
+</div></div>
