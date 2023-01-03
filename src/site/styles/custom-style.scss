@@ -10,21 +10,21 @@ body {
     //  h1 {
     //   color: black;
     //  }
-    .markdown-embed {
-        padding-left: 3vw !important;
-        padding-right: 3vw !important;
-        background-color: inherit !important;
-        border: none !important;
+//     .markdown-embed {
+//         padding-left: 3vw !important;
+//         padding-right: 3vw !important;
+//         background-color: inherit !important;
+//         border: none !important;
         
-        &:before {
-            content: "“";
-            font-size: 3em;
-            position: absolute;
-            left: calc(3vw - 20px);
-        }
-    }
+//         &:before {
+//             content: "“";
+//             font-size: 3em;
+//             position: absolute;
+//             left: calc(3vw - 20px);
+//         }
+//     }
 }
 
-body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
-    top: 0em !important;
-}
+// body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
+//     top: 0em !important;
+// }
