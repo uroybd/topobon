@@ -108,7 +108,8 @@ and yet … and yet …
   1. [[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton\|The Poetry of Zen by Sam Hamill, J.P. Seaton]]
   2. [[Personal/Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings\|Narrow Road to the Interior and Other Writings by Matsuo Bashō]]
 
-[^1]: 
+[^1]: From: [[Personal/Musings/শিল্পভাবনা ১ হৃদয়বৃত্তি#^715f40\|শিল্পভাবনা ১ হৃদয়বৃত্তি]]:
+  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
