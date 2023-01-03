@@ -27,6 +27,44 @@ body {
 //             left: calc(3vw - 20px);
 //         }
 //     }
+
+    .timestamps {
+        display: flex;
+        flex-direction: row;
+        font-size: 0.8em;
+        color: lightslategray;
+
+        div {
+            margin-right: 5px;
+        }
+    }
+
+    h1 {
+        font-size: 2.5em !important; /* 40px/16=2.5em */
+    }
+
+    h2 {
+        font-size: 1.5em !important; /* 30px/16=1.875em */
+    }
+
+    h3 {
+        font-size: 1.17em !important;
+    }
+
+    h4 {
+        font-size: 1em !important;
+        font-weight: bolder !important;
+    }
+
+    h5 {
+        font-size: .83em !important;
+        font-weight: bolder !important;
+    }
+
+    h6 {
+        font-size: .67em !important;
+        font-weight: bolder !important; 
+    }
 }
 
 // body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
