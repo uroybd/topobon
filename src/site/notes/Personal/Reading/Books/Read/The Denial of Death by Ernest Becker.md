@@ -1,11 +1,6 @@
 ---
-{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2023-01-03T18:49:14+06:00","read_at":["2019-01-11T00:00:00+06:00"],"read_count":1,"authors":["Ernest Becker"],"isbn10":"141659034X","status":"Read","rating":3,"cover":"http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","reviewed":true,"dg-publish":true,"permalink":"/personal/reading/books/read/the-denial-of-death-by-ernest-becker/","dgPassFrontmatter":true}
+{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2023-01-03T21:27:07+06:00","read_at":["2019-01-11T00:00:00+06:00"],"read_count":1,"authors":["Ernest Becker"],"isbn10":"141659034X","status":"Read","rating":3,"cover":"http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","reviewed":true,"dg-publish":true,"permalink":"/personal/reading/books/read/the-denial-of-death-by-ernest-becker/","dgPassFrontmatter":true}
 ---
-
-### About The Denial of Death by Ernest Becker
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| ![The Denial of Death\|150](http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)         | Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern         |
 
 ### Review
 Thought Provoking.  
@@ -18,6 +13,9 @@ Thought Provoking.
   
 সাইকোঅ্যানালাইসিস আজ অব্দি বোধহয় শুদ্ধ বিজ্ঞান না। এর অনেকটাই মানুষের সাবজেক্টিভ রিয়্যালিটির ওপর নির্ভরশীল এবং সাবজেক্টিভ রিয়্যালিটির এই অংশগুলো যথার্থভাবে ট্রান্সফার বা প্রকাশের বিশেষ সুবিধা মানুষের নেই। কনভার্সেশনই শেষ ভরসা। অনেকটাই অন্ধের হাতি দেখার মত অবস্থা। সেসব মেনে নিলে সাইকোঅ্যালাইসিসের রথী-মহারথীরা যথার্থই জিনিয়াস। কিন্তু শুদ্ধ বিজ্ঞান হতে হয়ত অনেকটা দূর যেতে হবে।
 
-
-
 Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]]
+
+### About The Denial of Death by Ernest Becker
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| ![The Denial of Death\|150](http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)         | Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern         |
