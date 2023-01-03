@@ -1,5 +1,5 @@
 ---
-{"title":"Zen Poetry","updated":"2023-01-03T00:58:04+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
+{"title":"Zen Poetry","updated":"2023-01-03T11:26:17+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
 ---
 
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
@@ -15,15 +15,11 @@ When Ikkyū Sōjun, the eccentric priest, poet, and lover writes:
 
 
 
-#### Time：2021-06-28 16:54
 LIKE vanishing dew,
 a passing apparition
 or the sudden flash
 of lightning—already gone—
-thus should one regard one’s self.
-
-*Page Number: 110*
-
+thus should one regard one’s self. 
 
 </div></div>
 
@@ -35,15 +31,11 @@ or
 
 
 
-#### Time：2021-06-28 16:55
 AND what is mind
 and how is it recognized?
 It is clearly drawn
 in sumi ink, the sound
-of breezes drifting through pine.
-
-*Page Number: 110*
-
+of breezes drifting through pine. 
 
 </div></div>
 
@@ -59,15 +51,11 @@ The teaching of Zen, ironically, can produce the opposite of detachment. For exa
 
 
 
-#### Time：2021-06-28 12:56
 I’D like to divide
 myself in order to see,
 among these mountains,
 each and every flower
-of every cherry tree
-
-*Page Number: 93*
-
+of every cherry tree 
 
 </div></div>
 
@@ -79,13 +67,9 @@ Now, this is a very special kind of urge to be attached. It is also a kind of se
 
 
 
-#### Time：2021-06-28 16:58
 TO learn how to die,
 watch cherry blossoms, observe
-chrysanthemums.
-
-*Page Number: 115*
-
+chrysanthemums. 
 
 </div></div>
 
@@ -99,16 +83,9 @@ Then comes the anguish. Even with a solid understanding of Zen philosophy poets 
 
 
 
-#### Time：2021-06-26 16:11
-My older brother opened a small amulet, saying, “Bow to your mother’s white hair. This is like the famous jeweled box of Urashima Tarō— your own eyebrows have already turned gray!” I wrote this after we had all shed our tears:
-
 If I took it in hand,  
 it would melt in my hot tears—  
 heavy autumn frost
-
-^974afb
-
-*Page Number:54*
 
 </div></div>
 
@@ -120,14 +97,9 @@ Or, for Kobayashi Issa, it was the death of his baby girl and the crying of his 
 
 
 
-#### Time：2021-06-28 17:09
 This world of dew
 is only the world of dew—
-and yet … and yet …
-
-*Page Number: 145*
-
-
+and yet … and yet … 
 
 </div></div>
 
