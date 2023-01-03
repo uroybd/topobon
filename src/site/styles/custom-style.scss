@@ -24,3 +24,7 @@ body {
         }
     }
 }
+
+body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
+    top: 0em !important;
+}
