@@ -44,8 +44,8 @@ body {
     }
 
     table {
-        width: 100%;
-        border: 1px solid lightgray;
+        width: 100% !important;
+        border: 1px solid lightgray !important;
 
         td, th {
             padding: 1vw !important;
