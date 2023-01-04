@@ -1,5 +1,5 @@
 ---
-{"title":"The Power of Myth","created":"2018-02-28T00:00:00+06:00","updated":"2023-01-03T21:18:23+06:00","read_at":["2018-03-17T00:00:00+06:00"],"read_count":1,"authors":["Joseph Campbell","Bill Moyers"],"isbn10":385418868,"status":"Read","rating":5,"reviewed":true,"cover":"http://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api","tags":["bestreads"],"dg-publish":true,"permalink":"/personal/reading/books/read/the-power-of-myth-by-joseph-campbell/","dgPassFrontmatter":true}
+{"title":"The Power of Myth","created":"2018-02-28T00:00:00+06:00","updated":"2023-01-03T21:18:23+06:00","read_at":["2018-03-17T00:00:00+06:00"],"read_count":1,"authors":["Joseph Campbell","Bill Moyers"],"isbn10":385418868,"status":"Read","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api","tags":["bestreads"],"dg-publish":true,"permalink":"/personal/reading/books/read/the-power-of-myth-by-joseph-campbell/","dgPassFrontmatter":true}
 ---
 
 ### Review
@@ -42,4 +42,4 @@ Notes:: [[Personal/Reading/Notes and Highlights/The Power of Myth\|The Power of 
 ### About The Power of Myth by Joseph Campbell, Bill Moyers
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| ![The Power of Myth\|150](http://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api)         | To Campbell, mythology was the “song of the universe, the music of the spheres.” With Bill Moyers, one of America’s most prominent journalists, as his thoughtful and engaging interviewer, The Power of Myth touches on subjects from modern marriage to virgin births, from Jesus to John Lennon, offering a brilliant combination of intelligence and wit.|
+| ![The Power of Myth\|150](https://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api)         | To Campbell, mythology was the “song of the universe, the music of the spheres.” With Bill Moyers, one of America’s most prominent journalists, as his thoughtful and engaging interviewer, The Power of Myth touches on subjects from modern marriage to virgin births, from Jesus to John Lennon, offering a brilliant combination of intelligence and wit.|
