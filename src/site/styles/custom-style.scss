@@ -17,7 +17,7 @@ body {
     }
 
     h1 {
-        font-size: 2.5em !important; /* 40px/16=2.5em */
+        font-size: 2em !important; /* 40px/16=2.5em */
     }
 
     h2 {
@@ -53,6 +53,39 @@ body {
             hr {
                 margin: 5px !important;
             }
+        }
+    }
+
+    .graph {
+        @media (max-width: 1490px) {
+            display: block !important;
+            order: 3;
+
+            & div:first-child {
+                justify-content: flex-start !important;
+                
+            }
+            #link-graph {
+                border-radius: 0 10px 10px 10px !important;
+            }
+        }
+    }
+
+    .toc {
+        @media (max-width: 1490px) {
+            display: block !important;
+        }
+    }
+
+    .sidebar-container {
+        flex-wrap: wrap;
+        & > div {
+            min-width: 300px;
+        }
+
+        @media (max-width: 1490px) {
+            flex-direction: row;
+            justify-content: space-between;
         }
     }
 }
