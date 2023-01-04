@@ -1,5 +1,5 @@
 ---
-{"title":"Narrow Road to the Interior: And Other Writings","created":"2021-06-25T00:00:00+06:00","updated":"2023-01-03T21:25:36+06:00","read_at":["2021-06-26T00:00:00+06:00"],"read_count":1,"authors":["Matsuo Bashō","Sam Hamill"],"isbn10":1570627169,"status":"Read","rating":5,"reviewed":true,"dg-publish":true,"cover":"https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["history","japanese","travel","poetry","medieval","bestreads"],"permalink":"/personal/reading/books/read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","dgPassFrontmatter":true}
+{"title":"Narrow Road to the Interior: And Other Writings","created":"2021-06-25T00:00:00+06:00","updated":"2023-01-04T18:12:15+06:00","read_at":["2021-06-26T00:00:00+06:00"],"read_count":1,"authors":["Matsuo Bashō","Sam Hamill"],"isbn10":1570627169,"status":"Read","rating":5,"reviewed":true,"dg-publish":true,"cover":"https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["history","japanese","travel","poetry","medieval","bestreads"],"permalink":"/personal/reading/books/read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","dgPassFrontmatter":true}
 ---
 
 ### Review
@@ -7,7 +7,7 @@ Art is, to me, the most authentic self-expression. Beauty is secondary. Art thri
   
 Being a writer myself, I envy Bashō and his time. Yes, it was war-torn medieval Japan. But, people in general are so sincere. Even prostitutes used to utter Haikus. More than that people used to remember poems with their context and history which is, in this age only done by experts. They cherished art and artists. Without so much distractions of our era, a person can live on very little and a poet could have been a hermit.  
   
-Bashō lived art in that time. He practices Zen. He immersed himself in writings of his predecessors. He preached his way of poetry and lived by his rules with absolute honesty. He taught himself to be one with the nature and when he wrote about nature, he wrote about himself.  
+Bashō lived art in that time. He practiced Zen. He immersed himself in writings of his predecessors. He preached his way of poetry and lived by his rules with absolute honesty. He taught himself to be one with the nature and when he wrote about nature, he wrote about himself.  
   
 And, what did he achieved? To me, Bashō is synonymous with excellence.
 
