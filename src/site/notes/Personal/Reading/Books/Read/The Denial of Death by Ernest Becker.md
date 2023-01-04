@@ -1,5 +1,5 @@
 ---
-{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2023-01-03T21:27:07+06:00","read_at":["2019-01-11T00:00:00+06:00"],"read_count":1,"authors":["Ernest Becker"],"isbn10":"141659034X","status":"Read","rating":3,"cover":"http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","reviewed":true,"dg-publish":true,"permalink":"/personal/reading/books/read/the-denial-of-death-by-ernest-becker/","dgPassFrontmatter":true}
+{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2023-01-03T21:27:07+06:00","read_at":["2019-01-11T00:00:00+06:00"],"read_count":1,"authors":["Ernest Becker"],"isbn10":"141659034X","status":"Read","rating":3,"cover":"https://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","reviewed":true,"dg-publish":true,"permalink":"/personal/reading/books/read/the-denial-of-death-by-ernest-becker/","dgPassFrontmatter":true}
 ---
 
 ### Review
@@ -18,4 +18,4 @@ Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial 
 ### About The Denial of Death by Ernest Becker
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| ![The Denial of Death\|150](http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)         | Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern         |
+| ![The Denial of Death\|150](https://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)         | Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern         |
