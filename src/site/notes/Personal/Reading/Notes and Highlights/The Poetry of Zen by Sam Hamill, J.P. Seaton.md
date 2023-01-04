@@ -195,7 +195,8 @@ I’D like to divide
 myself in order to see,
 among these mountains,
 each and every flower
-of every cherry tree ^1c8b2a
+of every cherry tree 
+{ #1c8b2a}
 
 *Page Number: 93*
 
@@ -283,7 +284,8 @@ LIKE vanishing dew,
 a passing apparition
 or the sudden flash
 of lightning—already gone—
-thus should one regard one’s self. ^e34d1e
+thus should one regard one’s self. 
+{ #e34d1e}
 
 *Page Number: 110*
 
@@ -292,7 +294,8 @@ AND what is mind
 and how is it recognized?
 It is clearly drawn
 in sumi ink, the sound
-of breezes drifting through pine. ^605009
+of breezes drifting through pine. 
+{ #605009}
 
 *Page Number: 110*
 
@@ -320,7 +323,8 @@ all-night love, all eternity in our vows.
 #### Time：2021-06-28 16:58
 TO learn how to die,
 watch cherry blossoms, observe
-chrysanthemums. ^c91c44
+chrysanthemums. 
+{ #c91c44}
 
 *Page Number: 115*
 
@@ -376,7 +380,8 @@ No moon, no finger—nothing there at all.
 #### Time：2021-06-28 17:09
 This world of dew
 is only the world of dew—
-and yet … and yet … ^17ca5d
+and yet … and yet … 
+{ #17ca5d}
 
 *Page Number: 145*
 
