@@ -46,6 +46,7 @@ module.exports = {
             url: otherNote.url,
             title: otherNote.data.title || otherNote.data.page.fileSlug,
             preview,
+            isHome: otherNote.data["dg-home"] || false,
             id: counter++,
           });
         }
@@ -95,6 +96,7 @@ module.exports = {
             url: outboundNote.url,
             title: outboundNote.data.title || outboundNote.data.page.fileSlug,
             id: counter++,
+            isHome: outboundNote.data["dg-home"] || false,
           };
         })
         .filter((x) => x);

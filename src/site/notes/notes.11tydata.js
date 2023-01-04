@@ -39,6 +39,7 @@ module.exports = {
           let preview = noteContent.slice(0, 240);
           backlinks.push({
             url: otherNote.url,
+            isHome: otherNote.data["dg-home"] || false,
             title: otherNote.data.title || otherNote.data.page.fileSlug,
             preview,
             id: counter++,
@@ -96,6 +97,7 @@ module.exports = {
           return {
             url: outboundNote.url,
             title: outboundNote.data.title || outboundNote.data.page.fileSlug,
+            isHome: outboundNote.data["dg-home"] || false,
             id: counter++,
           };
         })

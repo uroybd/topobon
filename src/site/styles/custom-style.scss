@@ -48,7 +48,11 @@ body {
         border: 1px solid lightgray !important;
 
         td, th {
-            padding: 1vw !important;
+            padding: 5px 10px !important;
+
+            hr {
+                margin: 5px !important;
+            }
         }
     }
 }
