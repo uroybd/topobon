@@ -97,6 +97,11 @@ body {
 
     .transclusion {
         position: relative;
+        .markdown-embed-link {
+            z-index: 99;
+            display: block;
+            width: auto !important;
+        }
     }
 }
 
