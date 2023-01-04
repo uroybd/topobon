@@ -2,6 +2,7 @@ require("dotenv").config();
 const settings = require("../helpers/constants");
 
 const wikilink = /\[\[(.*?\|.*?)\]\]/g;
+const internalLinkRegex = /href="\/(.*?)"/g;
 
 const markdownIt = require("markdown-it");
 const md = markdownIt({
@@ -22,9 +23,11 @@ module.exports = {
         return [];
       }
       const currentFileSlug = data.page.filePathStem.replace("/notes/", "");
+      const currentURL = data.page.url;
 
       let backlinks = [];
       let counter = 1;
+      let uniqueLinks = new Set();
 
       for (const otherNote of notes) {
         const noteContent = otherNote.template.frontMatter.content;
@@ -37,18 +40,36 @@ module.exports = {
             .replace("\\", "")
             .trim()
         );
+        const embedLinks = (noteContent.match(internalLinkRegex) || []).map(
+          (link) =>
+            link
+              .slice(6, -1)
+              .split("|")[0]
+              .replace(/.(md|markdown)\s?$/i, "")
+              .replace("\\", "")
+              .trim()
+        );
+
+        const allLinks = [...outboundLinks, ...embedLinks];
 
         if (
-          outboundLinks.some((link) => caselessCompare(link, currentFileSlug))
+          allLinks.some(
+            (link) =>
+              caselessCompare(link, currentFileSlug) ||
+              currentURL == link.split("#")[0]
+          )
         ) {
-          let preview = noteContent.slice(0, 240);
-          backlinks.push({
-            url: otherNote.url,
-            title: otherNote.data.title || otherNote.data.page.fileSlug,
-            preview,
-            isHome: otherNote.data["dg-home"] || false,
-            id: counter++,
-          });
+          if (!uniqueLinks.has(otherNote.url)) {
+            let preview = noteContent.slice(0, 240);
+            backlinks.push({
+              url: otherNote.url,
+              isHome: otherNote.data["dg-home"] || false,
+              title: otherNote.data.title || otherNote.data.page.fileSlug,
+              preview,
+              id: counter++,
+            });
+            uniqueLinks.add(otherNote.url);
+          }
         }
       }
 
@@ -80,24 +101,44 @@ module.exports = {
           .trim()
       );
 
-      let outbound = outboundLinks
+      const embedLinks = (noteContent.match(internalLinkRegex) || []).map(
+        (link) =>
+          link
+            .slice(6, -1)
+            .split("|")[0]
+            .replace(/.(md|markdown)\s?$/i, "")
+            .replace("\\", "")
+            .trim()
+      );
+
+      const allLinks = [...outboundLinks, ...embedLinks];
+
+      let uniqueLinks = new Set();
+
+      let outbound = allLinks
         .map((fileslug) => {
-          var outboundNote = notes.find((x) =>
-            caselessCompare(
-              x.data.page.filePathStem.replace("/notes/", ""),
-              fileslug
-            )
+          var outboundNote = notes.find(
+            (x) =>
+              caselessCompare(
+                x.data.page.filePathStem.replace("/notes/", ""),
+                fileslug
+              ) || x.data.page.url == fileslug.split("#")[0]
           );
           if (!outboundNote) {
             return null;
           }
 
-          return {
-            url: outboundNote.url,
-            title: outboundNote.data.title || outboundNote.data.page.fileSlug,
-            id: counter++,
-            isHome: outboundNote.data["dg-home"] || false,
-          };
+          if (!uniqueLinks.has(outboundNote.url)) {
+            uniqueLinks.add(outboundNote.url);
+            return {
+              url: outboundNote.url,
+              title: outboundNote.data.title || outboundNote.data.page.fileSlug,
+              isHome: outboundNote.data["dg-home"] || false,
+              id: counter++,
+            };
+          } else {
+            return null;
+          }
         })
         .filter((x) => x);
 

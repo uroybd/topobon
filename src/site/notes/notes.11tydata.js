@@ -2,6 +2,7 @@ require("dotenv").config();
 const settings = require("../../helpers/constants");
 
 const wikilink = /\[\[(.*?\|.*?)\]\]/g;
+const internalLinkRegex = /href="\/(.*?)"/g;
 
 function caselessCompare(a, b) {
   return a.toLowerCase() === b.toLowerCase();
@@ -17,8 +18,10 @@ module.exports = {
         return [];
       }
       const currentFileSlug = data.page.filePathStem.replace("/notes/", "");
+      const currentURL = data.page.url;
 
       let backlinks = [];
+      let uniqueLinks = new Set();
       let counter = 1;
 
       for (const otherNote of notes) {
@@ -33,17 +36,36 @@ module.exports = {
             .trim()
         );
 
+        const embedLinks = (noteContent.match(internalLinkRegex) || []).map(
+          (link) =>
+            link
+              .slice(6, -1)
+              .split("|")[0]
+              .replace(/.(md|markdown)\s?$/i, "")
+              .replace("\\", "")
+              .trim()
+        );
+
+        const allLinks = [...outboundLinks, ...embedLinks];
+
         if (
-          outboundLinks.some((link) => caselessCompare(link, currentFileSlug))
+          allLinks.some(
+            (link) =>
+              caselessCompare(link, currentFileSlug) ||
+              currentURL == link.split("#")[0]
+          )
         ) {
-          let preview = noteContent.slice(0, 240);
-          backlinks.push({
-            url: otherNote.url,
-            isHome: otherNote.data["dg-home"] || false,
-            title: otherNote.data.title || otherNote.data.page.fileSlug,
-            preview,
-            id: counter++,
-          });
+          if (!uniqueLinks.has(otherNote.url)) {
+            let preview = noteContent.slice(0, 240);
+            backlinks.push({
+              url: otherNote.url,
+              isHome: otherNote.data["dg-home"] || false,
+              title: otherNote.data.title || otherNote.data.page.fileSlug,
+              preview,
+              id: counter++,
+            });
+            uniqueLinks.add(otherNote.url);
+          }
         }
       }
 
@@ -72,7 +94,6 @@ module.exports = {
       let counter = 1;
 
       const noteContent = currentNote.template.frontMatter.content;
-
       const outboundLinks = (noteContent.match(wikilink) || []).map((link) =>
         link
           .slice(2, -2)
@@ -82,24 +103,44 @@ module.exports = {
           .trim()
       );
 
-      let outbound = outboundLinks
+      const embedLinks = (noteContent.match(internalLinkRegex) || []).map(
+        (link) =>
+          link
+            .slice(6, -1)
+            .split("|")[0]
+            .replace(/.(md|markdown)\s?$/i, "")
+            .replace("\\", "")
+            .trim()
+      );
+
+      const allLinks = [...outboundLinks, ...embedLinks];
+
+      let uniqueLinks = new Set();
+
+      let outbound = allLinks
         .map((fileslug) => {
-          var outboundNote = notes.find((x) =>
-            caselessCompare(
-              x.data.page.filePathStem.replace("/notes/", ""),
-              fileslug
-            )
-          );
+          var outboundNote = notes.find((x) => {
+            return (
+              caselessCompare(
+                x.data.page.filePathStem.replace("/notes/", ""),
+                fileslug
+              ) || x.data.page.url == fileslug.split("#")[0]
+            );
+          });
           if (!outboundNote) {
             return null;
           }
-
-          return {
-            url: outboundNote.url,
-            title: outboundNote.data.title || outboundNote.data.page.fileSlug,
-            isHome: outboundNote.data["dg-home"] || false,
-            id: counter++,
-          };
+          if (!uniqueLinks.has(outboundNote.url)) {
+            uniqueLinks.add(outboundNote.url);
+            return {
+              url: outboundNote.url,
+              title: outboundNote.data.title || outboundNote.data.page.fileSlug,
+              isHome: outboundNote.data["dg-home"] || false,
+              id: counter++,
+            };
+          } else {
+            return null;
+          }
         })
         .filter((x) => x);
 
