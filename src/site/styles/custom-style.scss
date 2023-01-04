@@ -42,6 +42,15 @@ body {
         font-size: .67em !important;
         font-weight: bolder !important; 
     }
+
+    table {
+        width: 100%;
+        border: 1px solid lightgray;
+
+        td, th {
+            padding: 1vw !important;
+        }
+    }
 }
 
 // body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
