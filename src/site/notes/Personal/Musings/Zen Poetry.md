@@ -11,7 +11,7 @@ Precisely for the practice of Zen where the goal is to get enlightenment with a 
 When Ikkyū Sōjun, the eccentric priest, poet, and lover writes:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#e34d1e" style="position: relative; top: 50px; left: calc(100% - 30px); cursor: pointer; z-index: 9999;" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#e34d1e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -27,7 +27,7 @@ thus should one regard one’s self.
 or
 
 
-<div class="transclusion internal-embed is-loaded"><a class="embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#605009" style="position: relative; top: 50px; left: calc(100% - 30px); cursor: pointer; z-index: 9999;" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#605009" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -47,7 +47,7 @@ Therefore, the self, understood through Zen is superbly temporal like a drop of 
 The teaching of Zen, ironically, can produce the opposite of detachment. For example, Saigyō writes:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#1c8b2a" style="position: relative; top: 50px; left: calc(100% - 30px); cursor: pointer; z-index: 9999;" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#1c8b2a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -63,7 +63,7 @@ of every cherry tree
 Now, this is a very special kind of urge to be attached. It is also a kind of self-denial but an acceptance of nature and the overwhelming ecstasy it holds for us. This attitude, this detachment through attachment, is a recurring theme for many poems. An anonymous Japanese poet writes:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#c91c44" style="position: relative; top: 50px; left: calc(100% - 30px); cursor: pointer; z-index: 9999;" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#c91c44" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -79,7 +79,7 @@ Poetry like this requires a certain emotional quality known as '[[Entities/Conce
 Then comes the anguish. Even with a solid understanding of Zen philosophy poets often faced situations that caused them pain beyond reason. For Bashō, it was when his older brother presented him a lock of white hair of their late mother:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="embed-link" href="/personal/reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/#974afb" style="position: relative; top: 50px; left: calc(100% - 30px); cursor: pointer; z-index: 9999;" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/#974afb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -93,7 +93,7 @@ heavy autumn frost
 Or, for Kobayashi Issa, it was the death of his baby girl and the crying of his wife. Zen was there, was the impermanence too, so was the anguish:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#17ca5d" style="position: relative; top: 50px; left: calc(100% - 30px); cursor: pointer; z-index: 9999;" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#17ca5d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
