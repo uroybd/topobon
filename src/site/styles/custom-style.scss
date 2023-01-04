@@ -88,6 +88,12 @@ body {
             justify-content: space-between;
         }
     }
+
+    nav.filetree-sidebar {
+        .fa-sticky-note {
+            display: none !important;
+        }
+    }
 }
 
 // body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
