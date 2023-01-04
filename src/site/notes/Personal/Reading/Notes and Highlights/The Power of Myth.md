@@ -16,7 +16,8 @@ Sadly, Ramakrishna is not a mainstream. Hinduism has it's own very dark corners.
 
 ## MYTH AND THE MODERN WORLD 
 ### Page 17 @ March 1, 2018
-With the loss of that, we've really lost something because we don't have a comparable literature to take its place. These bits of information from ancient times, which have to do with the themes that have supported human life, built civilizations, and informed religions over the millennia, have to do with deep inner problems, inner mysteries, inner thresholds of passage, and if you don't know what the guide-signs are along the way, you have to work it out yourself. But once this subject catches you, there is such a feeling, from one or another of these traditions, of information of a deep, rich, life-vivifying sort that you don't want to give it up. ^dcccd1
+With the loss of that, we've really lost something because we don't have a comparable literature to take its place. These bits of information from ancient times, which have to do with the themes that have supported human life, built civilizations, and informed religions over the millennia, have to do with deep inner problems, inner mysteries, inner thresholds of passage, and if you don't know what the guide-signs are along the way, you have to work it out yourself. But once this subject catches you, there is such a feeling, from one or another of these traditions, of information of a deep, rich, life-vivifying sort that you don't want to give it up. 
+{ #dcccd1}
 
 ---
 At the same time it can causes blindness.
