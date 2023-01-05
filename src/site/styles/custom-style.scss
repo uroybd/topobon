@@ -103,6 +103,19 @@ body {
             width: auto !important;
         }
     }
+
+    .header-tags {
+        display: flex;
+        flex-wrap: wrap;
+
+        .tag {
+            margin-right: 5px;
+            background-color: #6a86958c;
+            padding: 0 5px;
+            border-radius: 10px;
+            color: #f9f9f9;
+        }
+    }
 }
 
 // body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
