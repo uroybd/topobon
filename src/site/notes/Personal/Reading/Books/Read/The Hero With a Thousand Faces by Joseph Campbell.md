@@ -8,24 +8,64 @@ Now, though [[Entities/Person/Joseph Campbell\|Joseph Campbell]] himself is a be
   
 In this book, Campbell used ideas from psychoanalysis heavily to predict the possible origin of myths. The uncanny similarities between many neurotics’ dreams have compelled him to conclude that:
 
-![[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^1a6dea\|Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^1a6dea]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-hero-with-a-thousand-faces/#1a6dea" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Dream is the personalized myth, myth the depersonalized dream; 
+
+</div></div>
+
   
 Or, in another place:  
 
-![[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^d9fcc4\|Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^d9fcc4]]  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-hero-with-a-thousand-faces/#d9fcc4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Mythology, in other words, is psychology misread as biography; history, and cosmology. 
+
+</div></div>
+  
 
 Now, in this scope, in this domain of subjective reality and experience, the historical truth behind a myth is irrelevant, religion is somewhat less necessary.  
   
 Mythology, the way he has seen, is not something that expresses the truth or the ultimate. It simply gives a vibe of that. Taking these symbols literally only diminish their meaning:
 
-![[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^ddc8e9\|Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^ddc8e9]]
-![[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^0da9bb\|Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^0da9bb]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-hero-with-a-thousand-faces/#ddc8e9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Symbols are only the vehicles of communication; they must not be mistaken for the final term, the tenor , of their reference. No matter how attractive or impressive they may seem, they remain but convenient means, accommodated to the understanding. 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-hero-with-a-thousand-faces/#0da9bb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Mistaking a vehicle for its tenor may lead to the spilling not only of valueless ink, but of valuable blood. 
+
+</div></div>
+
 
 And by referencing myths from both very smaller tribal population to mega-religions he has indeed well-established the point.  
   
 At the end, he predicted the decline of the world of myth and new possibilities. The idea he held of about the modern way of a meaningful life is more or less a [[Entities/Person/Joseph Campbell#^a99897\|rephrasing of individualism]]:  
 
-![[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^053775\|Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces#^053775]]  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-hero-with-a-thousand-faces/#053775" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+And so every one of us shares the supreme ordeal—carries the cross of the redeemer—not in the bright moments of his tribe’s great victories, but in the silences of his personal despair. 
+
+</div></div>
+  
 
 Now, many of the things he said may not have the same degree of truth it had once. Psychology and Neurology had walked a long way after his time and many ideas he may have believed are not true. But wise men are wise because they broke through the barrier of thoughts of their time, but not for some absolute truths they’ve spoken. Nevertheless, the book is an amazing read. His storytelling and knowledge of myth are awe-striking. Enjoyed the book, totally.
 
