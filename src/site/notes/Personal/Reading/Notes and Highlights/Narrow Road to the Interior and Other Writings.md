@@ -16,8 +16,9 @@ The fourteenth-century Zen monk Ikkyū Sōjun wrote, “Ame furaba fure, kazefuk
 #### Time：2021-06-26 00:03
 Matsushima ya  
 ah Matsushima ya  
-Matsushima ya 
+Matsushima ya
 { #83dc7c}
+
 
 This is the sort of poem that can be done once, and once only. But it is quintessentially Bashō, both playful and inspired, yet with a hint of [[Entities/Concept/Mono no aware\|Mono no aware]], a trace of the pathos of beautiful mortality. A literal translation: “PineIslands, ah! / Oh, Pine Islands, ah! / Pine Islands, ah!” Simple as it is, the poem implies co-dependent origination, physical landscape, and a breathless—almost speechless—reverence.
 
@@ -104,8 +105,8 @@ My older brother opened a small amulet, saying, “Bow to your mother’s white 
 If I took it in hand,  
 it would melt in my hot tears—  
 heavy autumn frost
-
 { #974afb}
+
 
 *Page Number:54*
 #### Time：2021-06-26 16:13
