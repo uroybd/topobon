@@ -29,7 +29,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         <div class="timestamps">{% if created %}<div>Created At: <span class="human-date" data-date="{{created}}"></span></div>{% endif %}
         {% if updated %}<div>Updated At: <span class="human-date" data-date="{{updated}}"></span></div>{% endif %}
         </div>
-        {% if tags %}<div class="header-tags">{% for tag in tags %}<div class="tag">#{{tag}}</div>{% endfor %}</div>{% endif %}
+        {% if tags %}<div class="header-tags">{% for tag in tags %}<div class="tag" onclick="toggleTagSearch(this)">#{{tag}}</div>{% endfor %}</div>{% endif %}
       </div>
       {{ content | link | highlight | safe}}
     </div>
