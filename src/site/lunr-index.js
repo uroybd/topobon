@@ -1,13 +1,14 @@
-require("dotenv").config()
-const lunrjs = require('lunr');
-const path = require('path');
+require("dotenv").config();
+const lunrjs = require("lunr");
+const path = require("path");
 
 function createIndex(posts) {
   return lunrjs(function () {
-    this.ref('id');
-    this.field('title');
-    this.field('content');
-    this.field('date');
+    this.ref("id");
+    this.field("title");
+    this.field("content");
+    this.field("date");
+    this.field("tags");
 
     posts.forEach((p, idx) => {
       p.id = idx;
@@ -16,6 +17,9 @@ function createIndex(posts) {
   });
 }
 
-const data = require('../../netlify/functions/search/data.json');
+const data = require("../../netlify/functions/search/data.json");
 const index = createIndex(data);
-require('fs').writeFileSync(path.join(__dirname, '../../netlify/functions/search/index.json'), JSON.stringify(index));
+require("fs").writeFileSync(
+  path.join(__dirname, "../../netlify/functions/search/index.json"),
+  JSON.stringify(index)
+);
