@@ -12,22 +12,25 @@ among Delhi’s twenty High Court judges, not one belonged to the Scheduled Cast
 No wonder.
 
 ### Page 38 @ March 30, 2018
-The trouble is that Gandhi actually said everything and its opposite. To cherry pickers, he offers such a bewildering variety of cherries that you have to wonder if there was something the matter with the tree. 
+The trouble is that Gandhi actually said everything and its opposite. To cherry pickers, he offers such a bewildering variety of cherries that you have to wonder if there was something the matter with the tree.
 { #bde40d}
+
 
 ---
 :D
 
 ### Page 38 @ April 4, 2018
-Caste is another name for control. Caste puts a limit on enjoyment. Caste does not allow a person to transgress caste limits in pursuit of his enjoyment. That is the meaning of such caste restrictions as inter-dining and inter-marriage … These being my views I am opposed to all those who are out to destroy the Caste System. 
+Caste is another name for control. Caste puts a limit on enjoyment. Caste does not allow a person to transgress caste limits in pursuit of his enjoyment. That is the meaning of such caste restrictions as inter-dining and inter-marriage … These being my views I am opposed to all those who are out to destroy the Caste System.
 { #71ece7}
+
 
 ---
 Claps for Gandhi!
 
 ### Page 40 @ April 4, 2018
-In 1931, when Ambedkar met Gandhi for the first time, Gandhi questioned him about his sharp criticism of the Congress (which, it was assumed, was tantamount to criticising the struggle for the Homeland). “Gandhiji, I have no Homeland,” was Ambedkar’s famous reply. “No Untouchable worth the name will be proud of this land.” 
+In 1931, when Ambedkar met Gandhi for the first time, Gandhi questioned him about his sharp criticism of the Congress (which, it was assumed, was tantamount to criticising the struggle for the Homeland). “Gandhiji, I have no Homeland,” was Ambedkar’s famous reply. “No Untouchable worth the name will be proud of this land.”
 { #fa4d41}
+
 
 ---
 আহারে!
@@ -96,8 +99,9 @@ It was extraordinary that, through all the chaos and prejudice, the first law mi
 ## Annihilation of Caste
 
 ### Page 173 @ April 1, 2018  
-But the world owes much to rebels who would dare to argue in the face of the pontiff and insist that he is not infallible. I do not care for the credit which every progressive society must give to its rebels. I shall be satisfied if I make the Hindus realise that they are the sick men of India, and that their sickness is causing danger to the health and happiness of other Indians. 
+But the world owes much to rebels who would dare to argue in the face of the pontiff and insist that he is not infallible. I do not care for the credit which every progressive society must give to its rebels. I shall be satisfied if I make the Hindus realise that they are the sick men of India, and that their sickness is causing danger to the health and happiness of other Indians.
 { #44b1ef}
+
 
 ---
 Loving it.
