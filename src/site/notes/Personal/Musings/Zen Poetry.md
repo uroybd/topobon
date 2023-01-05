@@ -10,11 +10,35 @@ Precisely for the practice of Zen where the goal is to get enlightenment with a 
 
 When Ikkyū Sōjun, the eccentric priest, poet, and lover writes:
 
-![[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton#^e34d1e\|The Poetry of Zen by Sam Hamill, J.P. Seaton#^e34d1e]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#e34d1e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+LIKE vanishing dew,
+a passing apparition
+or the sudden flash
+of lightning—already gone—
+thus should one regard one’s self. 
+
+</div></div>
+
 
 or
 
-![[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton#^605009\|The Poetry of Zen by Sam Hamill, J.P. Seaton#^605009]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#605009" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+AND what is mind
+and how is it recognized?
+It is clearly drawn
+in sumi ink, the sound
+of breezes drifting through pine. 
+
+</div></div>
+
 
 He is writing about Zen. These Tanka poems are as much koans as they are poems. A central idea of Buddhism is [[Personal/Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way#Time：2020-11-21 15:39\|anātman]], which is the denial of the existence of self or soul as an indivisible and indestructible unit. Instead, the self we know is a continuous process working through our senses. It is very much material and the self is considered as an illusion.
 
@@ -22,21 +46,63 @@ Therefore, the self, understood through Zen is superbly temporal like a drop of 
 
 The teaching of Zen, ironically, can produce the opposite of detachment. For example, Saigyō writes:
 
-![[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton#^1c8b2a\|The Poetry of Zen by Sam Hamill, J.P. Seaton#^1c8b2a]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#1c8b2a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+I’D like to divide
+myself in order to see,
+among these mountains,
+each and every flower
+of every cherry tree 
+
+</div></div>
+
 
 Now, this is a very special kind of urge to be attached. It is also a kind of self-denial but an acceptance of nature and the overwhelming ecstasy it holds for us. This attitude, this detachment through attachment, is a recurring theme for many poems. An anonymous Japanese poet writes:
 
-![[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton#^c91c44\|The Poetry of Zen by Sam Hamill, J.P. Seaton#^c91c44]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#c91c44" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+TO learn how to die,
+watch cherry blossoms, observe
+chrysanthemums. 
+
+</div></div>
+
 
 Poetry like this requires a certain emotional quality known as '[[Entities/Concept/Mono no aware\|Mono no aware]]' which is often translated as 'Love for Impermanence' or 'Patheos of Things'. Impermanence is a core idea of Buddhism. This supplied zen poets with a framework to hone their Mono No Aware.
 
 Then comes the anguish. Even with a solid understanding of Zen philosophy poets often faced situations that caused them pain beyond reason. For Bashō, it was when his older brother presented him a lock of white hair of their late mother:
 
-![[Personal/Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings#^974afb\|Narrow Road to the Interior and Other Writings#^974afb]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/#974afb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+If I took it in hand,  
+it would melt in my hot tears—  
+heavy autumn frost
+
+</div></div>
+
 
 Or, for Kobayashi Issa, it was the death of his baby girl and the crying of his wife. Zen was there, was the impermanence too, so was the anguish:
 
-![[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton#^17ca5d\|The Poetry of Zen by Sam Hamill, J.P. Seaton#^17ca5d]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/#17ca5d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+This world of dew
+is only the world of dew—
+and yet … and yet … 
+
+</div></div>
+
 
 #### References
   1. [[Personal/Reading/Books/Read/The Poetry of Zen by Sam Hamill\|The Poetry of Zen by Sam Hamill, J.P. Seaton]]
