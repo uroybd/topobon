@@ -19,7 +19,7 @@ module.exports = async () => {
     }
 
     const res = await axios.get(themeUrl);
-    fs.writeFileSync("dist/styles/theme.css", res.data, function (err) {
+    fs.writeFileSync("src/site/styles/theme.css", res.data, function (err) {
       if (err) {
         return console.log(err);
       }
