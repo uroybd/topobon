@@ -25,15 +25,39 @@
   
 আম্বেদকার সংগ্রাম করলেন। নিষ্পেষিত মানুষদের জন্য। কংগ্রেসের মত গোঁড়া হিন্দুত্ববাদী রাজনৈতিক দল সবসময়ই তাকে শত্রুর কাতারে ফেলেছে। বলা হয়, গান্ধীর সবচেয়ে বড় শত্রু তিনি। বলা হবেই বা না কেন? স্পষ্টভাষী ও বাস্তববাদী তিনি। বিনয় ছিল যথেষ্ট তবু সত্যের খাতিরে গান্ধীর সফেদ ভাবমূর্তি কাদায় মাখামাখি করা ছাড়া কোনো উপায় ছিল না। ব্যক্তি হিসেবে গান্ধী সারাজীবনই স্বার্থান্বেষী ছিলেন। প্রচণ্ড মৌলবাদী হলেও সময়মত ভোল পাল্টাতে তার দ্বিধা ছিল না। অরুন্ধতী রায়ের মতে:  
 
-![[Personal/Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar#^bde40d\|Annihilation of Caste by B.R. Ambedkar#^bde40d]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/#bde40d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+The trouble is that Gandhi actually said everything and its opposite. To cherry pickers, he offers such a bewildering variety of cherries that you have to wonder if there was something the matter with the tree. 
+
+</div></div>
+
   
 তাছাড়া খুব ইনিয়ে-বিনিয়ে সাফাই গাইতেও তার জুড়ি ছিল না। জাতিবাদ নিয়ে তিনি বলেন:
 
-![[Personal/Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar#^71ece7\|Annihilation of Caste by B.R. Ambedkar#^71ece7]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/#71ece7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Caste is another name for control. Caste puts a limit on enjoyment. Caste does not allow a person to transgress caste limits in pursuit of his enjoyment. That is the meaning of such caste restrictions as inter-dining and inter-marriage … These being my views I am opposed to all those who are out to destroy the Caste System. 
+
+</div></div>
+
   
 আম্বেদকারের সংগ্রাম তখনকার স্বরাজের সংগ্রাম থেকে অধিকতর কঠিন ছিল। স্বরাজের আন্দোলন বস্তুত নিজেদের দেশের ওপর নিজেদের কর্তৃত্বের দাবী। কিন্তু এইসব অস্পৃশ্য জাতির দেশ থেকেও নেই। গান্ধীর সাথে আম্বেদকারের প্রথম সাক্ষাত সম্পর্কে অরুন্ধতী রায় লিখেছেন:  
 
-![[Personal/Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar#^fa4d41\|Annihilation of Caste by B.R. Ambedkar#^fa4d41]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/#fa4d41" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+In 1931, when Ambedkar met Gandhi for the first time, Gandhi questioned him about his sharp criticism of the Congress (which, it was assumed, was tantamount to criticising the struggle for the Homeland). “Gandhiji, I have no Homeland,” was Ambedkar’s famous reply. “No Untouchable worth the name will be proud of this land.” 
+
+</div></div>
+
   
 এই অবস্থান থেকে ছিল তার লড়াইটা।  
   
@@ -44,7 +68,15 @@
   
 এখন, কারো কারো কাছে এটি ঐতিহাসিক দলিল। ঐতিহাসিক ব্যর্থতার দলিল, কেননা এখনো শুধু ভারতে ১৬কোটি অস্পৃশ্য মানুষের বাস। ব্যর্থতা আম্বেদকারের না, হিন্দুদের। যে ব্যর্থতার কথা বলেছিলেন আম্বেদকার। শুধু একটি মূর্খ জনগোষ্ঠী কর্ণপাত করেনি:  
 
-![[Personal/Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar#^44b1ef\|Annihilation of Caste by B.R. Ambedkar#^44b1ef]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/#44b1ef" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+But the world owes much to rebels who would dare to argue in the face of the pontiff and insist that he is not infallible. I do not care for the credit which every progressive society must give to its rebels. I shall be satisfied if I make the Hindus realise that they are the sick men of India, and that their sickness is causing danger to the health and happiness of other Indians. 
+
+</div></div>
+
 
 Notes:: [[Personal/Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar\|Annihilation of Caste by B.R. Ambedkar]]
 
