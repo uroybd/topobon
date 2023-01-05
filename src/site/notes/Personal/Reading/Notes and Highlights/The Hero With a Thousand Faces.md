@@ -7,8 +7,9 @@
 
 ## 1. Myth and Dream 
 ### Page 21 @ August 14, 2018
-Dream is the personalized myth, myth the depersonalized dream; 
+Dream is the personalized myth, myth the depersonalized dream;
 { #1a6dea}
+
 
 ## 4. Atonement with the Father 
 ### Page 116 @ January 13, 2019
@@ -32,23 +33,26 @@ Time to time, I find scholars both atheist and theist bearing the idea that pant
 
 ## 5. Master of the Two Worlds 
 ### Page 205 @ January 16, 2019
-Symbols are only the vehicles of communication; they must not be mistaken for the final term, the tenor , of their reference. No matter how attractive or impressive they may seem, they remain but convenient means, accommodated to the understanding. 
+Symbols are only the vehicles of communication; they must not be mistaken for the final term, the tenor , of their reference. No matter how attractive or impressive they may seem, they remain but convenient means, accommodated to the understanding.
 { #ddc8e9}
+
 
 ---
 Hm.
 
 ### Page 206 @ January 16, 2019
-Mistaking a vehicle for its tenor may lead to the spilling not only of valueless ink, but of valuable blood. 
+Mistaking a vehicle for its tenor may lead to the spilling not only of valueless ink, but of valuable blood.
 { #0da9bb}
+
 
 ---
 Hm.
 
 ## 1. From Psychology to Metaphysics 
 ### Page 221 @ January 17, 2019
-Mythology, in other words, is psychology misread as biography; history, and cosmology. 
+Mythology, in other words, is psychology misread as biography; history, and cosmology.
 { #d9fcc4}
+
 
 ---
 Interesting.
@@ -78,8 +82,9 @@ anyone in exile from the community is a nothing. From the other point of view, h
 
 ## 3. The Hero Today 
 ### Page 341 @ January 20, 2019
-And so every one of us shares the supreme ordeal—carries the cross of the redeemer—not in the bright moments of his tribe’s great victories, but in the silences of his personal despair. 
+And so every one of us shares the supreme ordeal—carries the cross of the redeemer—not in the bright moments of his tribe’s great victories, but in the silences of his personal despair.
 { #053775}
+
 
 ---
 Indeed.
