@@ -1,5 +1,5 @@
 ---
-{"title":"The Sea","created":"2022-10-06T00:00:00+06:00","updated":"2023-01-03T21:19:24+06:00","read_at":["2022-10-08T00:00:00+06:00"],"read_count":1,"authors":["John Banville"],"isbn10":1400097029,"status":"Read","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=ovu5y7K6eg8C&printsec=frontcover&img=1&zoom=1&source=gbs_api","dg-publish":true,"permalink":"/personal/reading/books/read/the-sea-by-john-banville/","dgPassFrontmatter":true}
+{"title":"The Sea","created":"2022-10-06T00:00:00+06:00","updated":"2023-01-05T17:03:49+06:00","read_at":["2022-10-08T00:00:00+06:00"],"read_count":1,"authors":["John Banville"],"isbn10":1400097029,"status":"Read","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg","dg-publish":true,"permalink":"/personal/reading/books/read/the-sea-by-john-banville/","dgPassFrontmatter":true}
 ---
 
 ### Review
@@ -12,4 +12,4 @@ Notes:: [[Personal/Reading/Notes and Highlights/The Sea by John Banville\|The Se
 ### About The Sea by John Banville
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| ![The Sea\|150](https://books.google.com/books/content?id=ovu5y7K6eg8C&printsec=frontcover&img=1&zoom=1&source=gbs_api)         | When art historian Max Morden returns to the seaside village where he once spent a childhood holiday, he is both escaping from a recent loss and confronting a distant trauma. The Grace twins, Myles and Chloe, fascinated Max. He grew to know them intricately, and what ensued would haunt him for the rest of his years.         |
+| ![The Sea\|150](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg)         | When art historian Max Morden returns to the seaside village where he once spent a childhood holiday, he is both escaping from a recent loss and confronting a distant trauma. The Grace twins, Myles and Chloe, fascinated Max. He grew to know them intricately, and what ensued would haunt him for the rest of his years.         |
