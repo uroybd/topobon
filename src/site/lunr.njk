@@ -5,10 +5,9 @@ eleventyExcludeFromCollections: true
 ---
 [{% for post in collections.note %}
 {
-		"title": {% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %},
+		"title": {{post.fileSlug | jsonify | safe }},
 		"date":"{{ post.date }}",
 		"url":"{{ post.url }}",
-		"content": {{ post.templateContent | striptags(true) | link | jsonify | safe  }},
-		"tags": [{% if post.data.tags %}{% for tag in post.data.tags %}"{{tag}}"{% if not loop.last %},{% endif %}{% endfor %}{% endif %}]
+		"content": {{ post.templateContent | striptags(true) | link | jsonify | safe  }}
 }{% if not loop.last %},{% endif %}
 {% endfor %}]
