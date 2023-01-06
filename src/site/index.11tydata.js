@@ -12,7 +12,7 @@ const allSettings = settings.ALL_NOTE_SETTINGS;
 module.exports = {
   eleventyComputed: {
     backlinks: (data) => getBacklinks(data),
-    outbound: (data) => getOutboundLinks(data),
+    outbound: (data) => getOutboundLinks(data, true),
     settings: (data) => {
       const currentnote =
         data.collections.gardenEntry && data.collections.gardenEntry[0];

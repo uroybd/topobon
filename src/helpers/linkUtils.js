@@ -45,9 +45,10 @@ function getBacklinks(data) {
             let preview = noteContent.slice(0, 240);
             backlinks.push({
                 url: otherNote.url,
-                title: otherNote.data.page.fileSlug,
+                title: otherNote.data.title || otherNote.data.page.fileSlug,
                 preview,
-                id: counter++
+                id: counter++,
+                isHome: otherNote.data["dg-home"] || false
             })
             uniqueLinks.add(otherNote.url);
         }
@@ -55,15 +56,23 @@ function getBacklinks(data) {
     return backlinks;
 }
 
-function getOutboundLinks(data){
+function getOutboundLinks(data, isHome=false){
     const notes = data.collections.note;
-    const currentFileSlug = data.page.filePathStem.replace('/notes/', ''); 
+
+    
 
     if (!notes || notes.length == 0) {
         return [];
     }
 
-    const currentNote = notes.find(x => x.data.page.filePathStem && caselessCompare(x.data.page.filePathStem.replace('/notes/', ''), currentFileSlug));
+    let currentNote;
+    if (isHome) {
+        currentNote = data.collections.gardenEntry && data.collections.gardenEntry[0];
+    } else {
+        const currentFileSlug = data.page.filePathStem.replace('/notes/', ''); 
+        currentNote = notes.find(x => x.data.page.filePathStem && caselessCompare(x.data.page.filePathStem.replace('/notes/', ''), currentFileSlug));
+    }
+
     if (!currentNote) {
         return [];
     }
@@ -72,13 +81,13 @@ function getOutboundLinks(data){
     let uniqueLinks = new Set();
 
     const outboundLinks = extractLinks(currentNote.template.frontMatter.content);
-
     let outbound = outboundLinks.map(fileslug => {
         var outboundNote = notes.find(x => caselessCompare(x.data.page.filePathStem.replace("/notes/", ""), fileslug) || x.data.page.url == fileslug.split("#")[0]);
         if (!outboundNote) {
             return null;
         }
         if (!uniqueLinks.has(outboundNote.url)) {
+            
             uniqueLinks.add(outboundNote.url);
             return {
               url: outboundNote.url,
@@ -90,9 +99,7 @@ function getOutboundLinks(data){
             return null;
         }
     }).filter(x => x);
-
     return outbound;
-
 }
 
 exports.wikilink = wikilink;
