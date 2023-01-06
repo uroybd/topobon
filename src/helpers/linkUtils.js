@@ -45,10 +45,9 @@ function getBacklinks(data) {
             let preview = noteContent.slice(0, 240);
             backlinks.push({
                 url: otherNote.url,
-                title: otherNote.data.title || otherNote.data.page.fileSlug,
+                title: otherNote.data.page.fileSlug,
                 preview,
-                id: counter++,
-                isHome: otherNote.data["dg-home"] || false
+                id: counter++
             })
             uniqueLinks.add(otherNote.url);
         }
@@ -91,8 +90,7 @@ function getOutboundLinks(data, isHome=false){
             uniqueLinks.add(outboundNote.url);
             return {
               url: outboundNote.url,
-              title: outboundNote.data.title || outboundNote.data.page.fileSlug,
-              isHome: outboundNote.data["dg-home"] || false,
+              title: outboundNote.data.page.fileSlug,
               id: counter++,
             };
         } else {
