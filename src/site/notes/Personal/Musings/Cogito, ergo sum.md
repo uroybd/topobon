@@ -2,8 +2,6 @@
 {"title":"Cogito, ergo sum","updated":"2023-01-03T20:39:06+06:00","tags":["philosophy"],"created":"2022-05-02T20:36:00+06:00","location":"Badda, Dhaka","dg-publish":true,"permalink":"/personal/musings/cogito-ergo-sum/","dgPassFrontmatter":true}
 ---
 
-# Cogito, ergo sum
-
 Practically all modern self-searching starts with "Cogito, ergo sum", i.e. "I think, therefore I am."
 
 I think, I perceive, and I see the world with utmost subjectivity. I find myself, quite naturally, in the centre of my world. My historicity defines the history of my world. This **I** became so valuable I cannot imagine a world without it. Indeed, I **MUST** be, be it in the afterlife, an endless cycle of rebirth, or simply as a tiny flux of consciousness stored in some corner of the universe.
