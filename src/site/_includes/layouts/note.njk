@@ -1,11 +1,11 @@
 ---
-title: "/{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}/"
+title: "/{{ page.fileSlug }}/"
 permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} | {{meta.siteName}}</title>
+    <title>{{ page.fileSlug }}</title>
     {%include "components/pageheader.njk"%}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
@@ -23,14 +23,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content cm-s-obsidian">
       {% if settings.dgShowInlineTitle === true %}
-        <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+        <h1>{{ page.fileSlug }}</h1>
       {% endif %}
-      <div class="header-meta">
-        <div class="timestamps">{% if created %}<div>Created At: <span class="human-date" data-date="{{created}}"></span></div>{% endif %}
-        {% if updated %}<div>Updated At: <span class="human-date" data-date="{{updated}}"></span></div>{% endif %}
-        </div>
-        {% if tags %}<div class="header-tags">{% for tag in tags %}<div class="tag" onclick="toggleTagSearch(this)">#{{tag}}</div>{% endfor %}</div>{% endif %}
-      </div>
       {{ content | link | highlight | safe}}
     </div>
 
@@ -41,11 +35,5 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% if settings.dgLinkPreview === true %}
       {%include "components/linkPreview.njk"%}
     {% endif %}
-
-    <script>
-      document.querySelectorAll('.human-date').forEach(function (el) {
-        el.innerHTML = dayjs(el.getAttribute('data-date')).format('MMM D, YYYY h:mm A');
-      });
-    </script>
   </body>
 </html>
