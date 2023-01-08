@@ -1,5 +1,5 @@
 ---
-{"title":"On Good Life","location":"Badda, Dhaka","tags":["life","morality"],"created":"2023-01-01T01:04:23+06:00","updated":"2023-01-08T13:54:27+06:00","dg-publish":true,"permalink":"/personal/musings/on-good-life/","dgPassFrontmatter":true}
+{"title":"On Good Life","location":"Badda, Dhaka","tags":["life","morality"],"created":"2023-01-01T01:04:23+06:00","updated":"2023-01-08T16:25:03+06:00","dg-publish":true,"permalink":"/personal/musings/on-good-life/","dgPassFrontmatter":true}
 ---
 
 The simplest of all definitions (and the best) of the good life I found is the one given by Bertrand Russell:
@@ -20,4 +20,6 @@ The way of love is a complicated one. Love is so powerful that all major religio
 
 The emphasis must be made on **love without provinciality**. Historically speaking, we never lacked love. The problem is, we never lacked hate too. They were there, often marching together to our undoing. Love should be all-encompassing, all-pervading, and bestow us with never-ending blessedness.
 
-Knowledge, I must replace with wisdom here. Knowledge is static. It can be outdated or wrong. Wisdom is a process. It is alive and curious. It will refine and seek purer knowledge over time. Thus, protecting us from the pitfalls of various dogmas. I'm sure, Russell used knowledge and wisdom interchangeably. 
+Knowledge, I must replace with wisdom here. Knowledge is static. It can be outdated or wrong. Wisdom is a process. It is alive and curious. It will refine and seek purer knowledge over time. Thus, protecting us from the pitfalls of various dogmas.[^1]
+
+[^1]: I'm quite sure, Russell used knowledge and wisdom interchangeably. If so, I'm just playing with words.
