@@ -1,5 +1,5 @@
 ---
-{"title":"The Sea","created":"2022-10-06T00:00:00+06:00","updated":"2023-01-05T17:22:34+06:00","read_at":["2022-10-08T00:00:00+06:00"],"read_count":1,"authors":["John Banville"],"isbn10":1400097029,"status":"Read","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg"},"dg-publish":true,"permalink":"/personal/reading/books/read/the-sea-by-john-banville/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg"},"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/personal/reading/books/read/the-sea-by-john-banville/","title":"The Sea","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg"}}
 ---
 
 ### Review
