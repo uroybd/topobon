@@ -1,5 +1,5 @@
 ---
-{"title":"Narrow Road to the Interior: And Other Writings","created":"2021-06-25T00:00:00+06:00","updated":"2023-01-04T18:12:15+06:00","read_at":["2021-06-26T00:00:00+06:00"],"read_count":1,"authors":["Matsuo Bashō","Sam Hamill"],"isbn10":1570627169,"status":"Read","rating":5,"reviewed":true,"dg-publish":true,"cover":"https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["history","japanese","travel","poetry","medieval","bestreads"],"permalink":"/personal/reading/books/read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/personal/reading/books/read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","title":"Narrow Road to the Interior: And Other Writings"}
 ---
 
 ### Review
