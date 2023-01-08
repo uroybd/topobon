@@ -38,4 +38,9 @@
 {% for name, content in metatags %}
   <meta name="{{ name }}" content="{{ content }}">
 {% endfor %}
+{% if not metatags.includes("og:image") %}
+ <meta name="og:image" content="/img/cover.png">
+{% endif %}
+{% else %}
+<meta name="og:image" content="/img/cover.png">
 {% endif %}
