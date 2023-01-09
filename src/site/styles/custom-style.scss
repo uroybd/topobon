@@ -112,6 +112,31 @@ body {
     .header-meta {
         margin-bottom: 1.8em;
     }
+    
+    .content > *[id] {
+        position: relative;
+        cursor: pointer;
+        &:hover {
+            border: var(--tag-border-width) solid var(--tag-border-color);
+        }
+        &:hover::before {
+            content: "Double-click to copy";
+            position: absolute;
+            right: 0;
+            top: -1.55em;
+            font-weight: normal;
+            font-size: 12px;
+            background-color: var(--tag-background);
+            color: var(--tag-color);
+            font-variant: initial;
+            letter-spacing: 0.24px;
+            line-height: 14px;
+        }
+    }
+
+    .content > .referred {
+        background-color: lightyellow;
+    }
 }
 
 // body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
