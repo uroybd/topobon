@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/musings/cogito-ergo-sum/","title":"Cogito, ergo sum"}
+{"title":"Cogito, ergo sum","updated":"2023-01-03T20:39:06+06:00","tags":["philosophy"],"created":"2022-05-02T20:36:00+06:00","location":"Badda, Dhaka","dg-publish":true,"permalink":"/personal/musings/cogito-ergo-sum/","dgPassFrontmatter":true}
 ---
 
 Practically all modern self-searching starts with "Cogito, ergo sum", i.e. "I think, therefore I am."
