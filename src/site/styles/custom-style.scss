@@ -126,7 +126,7 @@ body {
             top: -1.55em;
             font-weight: normal;
             font-size: 12px;
-            background-color: rgb(200, 236, 255);
+            background-color: rgba(106, 134, 149, 0.31);
             padding: 10px;
             color: var(--tag-color);
             font-variant: initial;
@@ -136,7 +136,7 @@ body {
     }
 
     .content > .referred {
-        background-color: rgb(200, 236, 255);
+        background-color: rgba(106, 134, 149, 0.31);
         padding: 10px;
     }
 }
