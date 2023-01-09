@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/journal/the-supposed-last-year-of-my-life/the-importance-of-dying/","title":"The Importance of Dying"}
+{"weather":"unknown","mood":"indifferent","title":"The Importance of Dying","updated":"2023-01-09T11:42:08+06:00","latitude":23.78275167,"longitude":90.42144,"altitude":-32.8,"dg-publish":true,"tags":["death"],"created":"2022-10-22T22:00:00+06:00","location":"Badda, Dhaka","permalink":"/personal/journal/the-supposed-last-year-of-my-life/the-importance-of-dying/","dgPassFrontmatter":true}
 ---
 
 The self-help and motivation industry depends immensely on our urge to live (or to live until we buy one more book or service).
