@@ -118,6 +118,10 @@ body {
         cursor: pointer;
         &:hover {
             border: var(--tag-border-width) solid var(--tag-border-color);
+            background-color: rgba(106, 134, 149, 0.31);
+            margin-left: -10px;
+            margin-right: -10px;
+            padding: 10px;
         }
         &:hover::before {
             content: "Double-click to copy";
@@ -126,18 +130,17 @@ body {
             top: -1.55em;
             font-weight: normal;
             font-size: 12px;
-            background-color: rgba(106, 134, 149, 0.31);
-            padding: 10px;
             color: var(--tag-color);
             font-variant: initial;
             letter-spacing: 0.24px;
             line-height: 14px;
+            
         }
     }
 
     .content > .referred {
         background-color: rgba(106, 134, 149, 0.31);
-        padding: 10px;
+        padding: 10px;   
     }
 }
 
