@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/musings/exploring-buddhism/","title":"Exploring Buddhism"}
+{"title":"Exploring Buddhism","updated":"2023-01-03T21:47:48+06:00","tags":["buddhism","philosophy"],"created":"2021-08-30T20:24:08+06:00","dg-publish":true,"permalink":"/personal/musings/exploring-buddhism/","dgPassFrontmatter":true}
 ---
 
 # Exploring Buddhism
