@@ -143,6 +143,15 @@ body {
         margin-left: -10px;
         margin-right: -10px; 
     }
+
+    #emailme {
+        position: sticky;
+        bottom: 5px;
+        left: calc(100% - 29px);
+        font-size: 24px;
+        z-index: 999999;
+        cursor: pointer;
+    }
 }
 
 // body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {

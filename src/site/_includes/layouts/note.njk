@@ -42,6 +42,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/linkPreview.njk"%}
     {% endif %}
 
+    <a href="mailto:connect@utsob.me?subject=Regarding {{title}}&body=Discussing {{meta.siteBaseUrl}}{{permalink}}"><i class="fa fa-envelope-o" id="emailme" aria-hidden="true"></i></a>
+
     <script>
       if (window.location.hash) {
         document.getElementById(window.location.hash.slice(1)).classList.add('referred');
@@ -68,6 +70,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           navigator.clipboard.writeText(ref_url);
       }
       });
+
+      
     </script>
   </body>
 </html>
