@@ -1,5 +1,5 @@
 ---
-{"title":"The Walkway","dg-home":true,"dg-publish":true,"created":"2023-01-02T21:30:15+06:00","updated":"2023-01-08T19:40:47+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":"gardenEntry","dgPassFrontmatter":true}
+{"title":"The Walkway","dg-home":true,"dg-publish":true,"created":"2023-01-02T21:30:15+06:00","updated":"2023-01-08T19:40:47+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 তপোবন (Topobon) can be loosly translated to forest-hermitage. In indian myths there are numerous mentions of topobons.
