@@ -36,13 +36,16 @@
         }
         
     }
-    let theme = window.localStorage.getItem('site-theme') || auto;
+    let theme = window.localStorage.getItem('site-theme') || "auto";
     setTheme(theme, true);
     window.theme = theme;
     window.localStorage.setItem('site-theme', theme);
 
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(event) {
-        setTheme("auto", true);
+        const settings = window.localStorage.getItem('site-theme');
+        if (!settings || settings == "auto") {
+            setTheme("auto", true);
+        }
     });
     document.getElementById('theme-switch').addEventListener('click', function() {
         let theme;
