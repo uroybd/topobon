@@ -147,7 +147,7 @@ body {
     #emailme {
         position: fixed;
         bottom: 1vmax;
-        right: 1vmax;
+        right: calc(1vmax + 34px);
         font-size: 24px;
         z-index: 999999;
         cursor: pointer;
@@ -155,15 +155,10 @@ body {
 
     #theme-switch {
         position: fixed;
-        position: fixed;
         bottom: 1vmax;
-        right: calc(1vmax + 34px);
-        font-size: 20px;
+        right: 1vmax;
+        font-size: 24px;
         z-index: 999999;
         cursor: pointer;
     }
 }
-
-// body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
-//     top: 0em !important;
-// }
