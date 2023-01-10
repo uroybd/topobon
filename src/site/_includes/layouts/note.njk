@@ -42,7 +42,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/linkPreview.njk"%}
     {% endif %}
 
-    <a href="mailto:connect@utsob.me?subject=Regarding {{title}}&body=Discussing {{meta.siteBaseUrl}}{{permalink}}"><i class="fa fa-envelope-o" id="emailme" aria-hidden="true"></i></a>
+    <a href="mailto:connect@utsob.me?subject=Regarding {{title}}&body=Discussing {{meta.siteBaseUrl}}{{permalink}}"><i class="fa fa-envelope-o" title="Discuss" id="emailme" aria-hidden="true"></i></a>
 
     <script>
       if (window.location.hash) {
