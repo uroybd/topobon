@@ -146,7 +146,7 @@ body {
 
     #emailme {
         position: sticky;
-        bottom: 5px;
+        top: calc(100% - 29px);
         left: calc(100% - 29px);
         font-size: 24px;
         z-index: 999999;
