@@ -21,6 +21,8 @@ In contemporary Western society, buying a magazine on astrology - at a newsstand
 
 ### Page 64 @ March 25, 2016
 ‘Mortal as I am,’ he wrote, ‘I know that I am born for a day. But when I follow at my pleasure the serried multitude of the stars in their circular course, my feet no longer touch the Earth…’
+{ #e1d103}
+
 
 ---
 Ptolemy's Quote.
