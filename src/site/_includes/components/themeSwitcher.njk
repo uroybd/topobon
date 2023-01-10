@@ -1,0 +1,60 @@
+<i class="fa" id="theme-switch" aria-hidden="true"></i>
+    
+<script>
+    function setThemeIcon(theme) {
+        let toAdd, toRemove;
+        switch (theme) {
+            case 'dark':
+                toAdd = 'fa-sun-o';
+                toRemove = ['fa-moon-o', 'fa-adjust'];
+                break;
+            case 'light':
+                toAdd = 'fa-adjust';
+                toRemove = ['fa-moon-o', 'fa-sun-o'];
+                break;
+            default:
+                toAdd = 'fa-moon-o';
+                toRemove = ['fa-adjust', 'fa-sun-o'];
+                break;
+        }
+        document.getElementById('theme-switch').classList.add(toAdd);
+        document.getElementById('theme-switch').classList.remove(...toRemove);
+    }
+    function setTheme(theme, setIcon) {
+        if (setIcon) {
+            setThemeIcon(theme);
+        }
+        if (theme == 'dark') {
+            document.body.classList.remove('theme-light');
+            document.body.classList.add('theme-dark');
+        } else if (theme == "light") {
+            document.body.classList.add('theme-light');
+            document.body.classList.remove('theme-dark');
+        } else {
+            theme = (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+            setTheme(theme, false);
+        }
+        
+    }
+    let theme = window.localStorage.getItem('site-theme') || auto;
+    setTheme(theme, true);
+    window.theme = theme;
+    window.localStorage.setItem('site-theme', theme);
+
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(event) {
+        setTheme("auto", true);
+    });
+    document.getElementById('theme-switch').addEventListener('click', function() {
+        let theme;
+        if (window.theme == 'auto') {
+            theme = "dark";
+        } else if (window.theme == 'dark') {
+            theme = 'light'
+        } else {
+            theme = 'auto';
+        }
+        setTheme(theme, true);
+        window.localStorage.setItem('site-theme', theme);
+        window.theme = theme;
+    })
+</script>

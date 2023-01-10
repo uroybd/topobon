@@ -152,6 +152,16 @@ body {
         z-index: 999999;
         cursor: pointer;
     }
+
+    #theme-switch {
+        position: fixed;
+        position: fixed;
+        bottom: 1vmax;
+        right: calc(1vmax + 34px);
+        font-size: 20px;
+        z-index: 999999;
+        cursor: pointer;
+    }
 }
 
 // body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
