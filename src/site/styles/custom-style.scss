@@ -8,7 +8,7 @@ body {
         display: flex;
         flex-direction: row;
         font-size: 0.8em;
-        color: lightslategray;
+        color: var(--text-muted);
         gap: 5px;
     }
 
@@ -115,8 +115,8 @@ body {
         position: relative;
         cursor: pointer;
         &:hover {
-            border: var(--tag-border-width) solid var(--tag-border-color);
-            background-color: rgba(106, 134, 149, 0.31);
+            border: 1px dotted;
+            border-color: var(--text-accent);
             margin-left: -10px;
             margin-right: -10px;
             padding: 10px;
@@ -128,7 +128,7 @@ body {
             top: -1.55em;
             font-weight: normal;
             font-size: 12px;
-            color: var(--tag-color);
+            color: var(--text-accent);
             font-variant: initial;
             letter-spacing: 0.24px;
             line-height: 14px;
@@ -137,7 +137,8 @@ body {
     }
 
     .content > .referred {
-        background-color: rgba(106, 134, 149, 0.31);
+        border: 1px dashed;
+        border-color: var(--text-accent);
         padding: 10px;  
         margin-left: -10px;
         margin-right: -10px; 
