@@ -11,7 +11,7 @@
   
 উঠে এসেছে নানান কথা। তবে সবগুলোই বুঝি কেন্দ্রে রাখলো আমাদের পরিচয়। এই মহাবিশ্বে আমরা কী, কতটুকু ক্ষুদ্র, কতটুকু মূল্যবান, কতটুকু ক্ষমতা আমাদের এই বিষয়গুলো উঠে এসেছে বৈজ্ঞানিক সত্যের সাথে। প্রাসঙ্গিকভাবেই উঠে এসেছে মানুষ নিজের ক্ষুদ্রতা অস্বীকার করতে, কোনো ঐশ্বরিক স্বত্তার মান বজায় রাখতে কীভাবে বিজ্ঞানের বিরুদ্ধে দাঁড়ায়।  
   
-মানুষ খুব আত্মকেন্দ্রিক স্বাভাবিকভাবে। সমাজ নেহায়েতই দায়ে পড়ে তৈরী করা। তাই নিজেকে সৃষ্টির সেরা জীব হিসেবে দেখার ইচ্ছে প্রবল। কিন্তু বিজ্ঞান কোনো ব্যক্তি কেন, কোনোকিছুরই ধার ধারে না। যারা সত্যসন্ধানী তাদের কাছে ক্ষুদ্রতা পীড়াদায়ক না। তাদের চোখে মহাবিশ্ব তার সমস্ত সৌন্দর্য নিয়ে ধরা দেয়। যেমন টলেমি বলেছেন‌, 
+মানুষ খুব আত্মকেন্দ্রিক স্বাভাবিকভাবে। সমাজ নেহায়েতই দায়ে পড়ে তৈরী করা। তাই নিজেকে সৃষ্টির সেরা জীব হিসেবে দেখার ইচ্ছে প্রবল। কিন্তু বিজ্ঞান কোনো ব্যক্তি কেন, কোনোকিছুরই ধার ধারে না। যারা সত্যসন্ধানী তাদের কাছে ক্ষুদ্রতা পীড়াদায়ক না। তাদের চোখে মহাবিশ্ব তার সমস্ত সৌন্দর্য নিয়ে ধরা দেয়। যেমন টলেমি বলেছেন‌[^1], 
 
 > Mortal as I am, I know that I am born for a day. But when I follow at my pleasure the serried multitude of the stars in their circular course, my feet no longer touch the Earth…
   
@@ -52,3 +52,12 @@ Notes:: [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan\
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 | ![Cosmos\|150](https://d.gr-assets.com/books/1407113244l/11509720.jpg)         | * Spacecraft missions to nearby planets * The Library of ancient Alexandria * The human brain * Egyptian hieroglyphics * The origin of life * The death of the sun * The evolution of galaxies * The origins of matter, suns and worlds The story of fifteen billion years of cosmic evolution transforming matter and life into consciousness, of how science and civilisation grew up together, and of the forces and individuals who helped shape modern science. A story told with Carl Sagan's remarkable ability to make scientific ideas both comprehensible and exciting.         |
+
+
+[^1]: [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan#^e1d103\|Paraphrased from as quotes by Carl Sagan]]
+
+
+
+
+
+
