@@ -161,4 +161,20 @@ body {
         z-index: 999999;
         cursor: pointer;
     }
+
+    .fnote {
+        display: none;
+        background-color: var(--background-secondary);
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 10px;
+        text-align: center;
+        z-index: 999;
+    }
+
+    .shownote {
+        display: block;
+    }
 }
