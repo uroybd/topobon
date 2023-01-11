@@ -1,5 +1,5 @@
 ---
-{"title":"Narrow Road to the Interior and Other Writings by Matsuo Bashō, (trans. Sam Hamill)","updated":"2023-01-02T23:11:17+06:00","created":"2021-06-26T12:28:11+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"tags":["japanese","travelog","autobiography","classic"],"permalink":"/personal/reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true}
+{"title":"Narrow Road to the Interior and Other Writings by Matsuo Bashō, (trans. Sam Hamill)","updated":"2023-01-11T14:14:47+06:00","created":"2021-06-26T12:28:11+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"tags":["japanese","travelog","autobiography","classic","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true}
 ---
 
 # Notes & Highlights:  Narrow Road to the Interior and Other Writings
