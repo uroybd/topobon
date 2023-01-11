@@ -1,5 +1,5 @@
 ---
-{"title":"Zen Poetry","updated":"2023-01-03T12:46:43+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
+{"title":"Zen Poetry","updated":"2023-01-11T18:12:46+06:00","tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
 ---
 
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
@@ -74,7 +74,7 @@ chrysanthemums.
 </div></div>
 
 
-Poetry like this requires a certain emotional quality known as '[[Entities/Concept/Mono no aware\|Entities/Concept/Mono no aware]]' which is often translated as 'Love for Impermanence' or 'Patheos of Things'. Impermanence is a core idea of Buddhism. This supplied zen poets with a framework to hone their Mono No Aware.
+Poetry like this requires a certain emotional quality known as '[[Entities/Concept/Mono no aware\|Mono no aware]]' which is often translated as 'Love for Impermanence' or 'Patheos of Things'. Impermanence is a core idea of Buddhism. This supplied zen poets with a framework to hone their Mono No Aware.
 
 Then comes the anguish. Even with a solid understanding of Zen philosophy poets often faced situations that caused them pain beyond reason. For Bashō, it was when his older brother presented him a lock of white hair of their late mother:
 
