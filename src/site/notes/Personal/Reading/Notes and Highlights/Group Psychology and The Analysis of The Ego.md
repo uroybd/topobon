@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Group Psychology and The Analysis of The Ego","dg-publish":true,"created":"2019-11-19T17:41:24+06:00","updated":"2023-01-08T16:50:05+06:00","permalink":"/personal/reading/notes-and-highlights/group-psychology-and-the-analysis-of-the-ego/","dgPassFrontmatter":true}
+{"tags":["reading-notes"],"title":"Notes from Group Psychology and The Analysis of The Ego","dg-publish":true,"created":"2019-11-19T17:41:24+06:00","updated":"2023-01-11T14:14:30+06:00","permalink":"/personal/reading/notes-and-highlights/group-psychology-and-the-analysis-of-the-ego/","dgPassFrontmatter":true}
 ---
 
 # Group Psychology and The Analysis of The Ego
