@@ -1,5 +1,5 @@
 ---
-{"title":"The Book of Disquiet by Fernando Pessoa","updated":"2023-01-05T17:04:20+06:00","created":"2022-06-28T08:13:59+06:00","tags":["novel","stream-of-consciousness","classic"],"dg-publish":true,"permalink":"/personal/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/","dgPassFrontmatter":true}
+{"title":"The Book of Disquiet by Fernando Pessoa","updated":"2023-01-11T14:15:04+06:00","created":"2022-06-28T08:13:59+06:00","tags":["novel","stream-of-consciousness","classic","reading-notes"],"dg-publish":true,"permalink":"/personal/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/","dgPassFrontmatter":true}
 ---
 
 # The Book of Disquiet
