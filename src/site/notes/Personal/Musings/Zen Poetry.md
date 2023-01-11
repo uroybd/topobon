@@ -74,7 +74,7 @@ chrysanthemums.
 </div></div>
 
 
-Poetry like this requires a certain emotional quality known as '[[Entities/Concepts/Mono no aware\|Entities/Concepts/Mono no aware]]' which is often translated as 'Love for Impermanence' or 'Patheos of Things'. Impermanence is a core idea of Buddhism. This supplied zen poets with a framework to hone their Mono No Aware.
+Poetry like this requires a certain emotional quality known as '[[Entities/Concept/Mono no aware\|Entities/Concept/Mono no aware]]' which is often translated as 'Love for Impermanence' or 'Patheos of Things'. Impermanence is a core idea of Buddhism. This supplied zen poets with a framework to hone their Mono No Aware.
 
 Then comes the anguish. Even with a solid understanding of Zen philosophy poets often faced situations that caused them pain beyond reason. For Bashō, it was when his older brother presented him a lock of white hair of their late mother:
 
