@@ -1,5 +1,5 @@
 ---
-{"title":"History of Reading by Alberto Manguel","updated":"2023-01-05T21:23:36+06:00","created":"2021-09-08T17:40:56+06:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"tags":["history","books"],"permalink":"/personal/reading/notes-and-highlights/history-of-reading-by-alberto-manguel/","dgPassFrontmatter":true}
+{"title":"History of Reading by Alberto Manguel","updated":"2023-01-11T14:14:38+06:00","created":"2021-09-08T17:40:56+06:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"tags":["history","books","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/history-of-reading-by-alberto-manguel/","dgPassFrontmatter":true}
 ---
 
 # A History of Reading-Penguin Books (2014)
