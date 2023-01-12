@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="205"
+   viewBox="0 0 39.6875 54.239583"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="tree-1.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1512195"
+     inkscape:cx="50.815678"
+     inkscape:cy="232.36229"
+     inkscape:window-width="1800"
+     inkscape:window-height="1097"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="g371">
+    <g
+       id="g363">
+      <g
+         id="g1452"
+         transform="translate(-69.69977,-93.955927)">
+        <g
+           id="g356"
+           transform="matrix(2.4999989,0,0,2.4999989,30.012297,-203.41476)">
+          <path
+             style="fill:none;fill-opacity:1;stroke:currentColor;stroke-width:0.83;stroke-dasharray:none;stroke-opacity:1"
+             d="M 15.874996,140.22917 H 31.750003"
+             id="path309-6-3" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:currentColor;stroke-width:0.976;stroke-dasharray:none;stroke-opacity:1"
+             d="M 23.8125,140.22917 V 134.9375"
+             id="path1162-2-9" />
+          <circle
+             style="fill:none;fill-opacity:1;stroke:currentColor;stroke-width:0.777784;stroke-dasharray:none;stroke-opacity:1"
+             id="path1252-7-9"
+             cx="23.8125"
+             cy="128.77023"
+             r="4.4160662" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.752669;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1843-7"
+     width="39.6875"
+     height="54.239582"
+     x="125.67709"
+     y="61.26017" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.752669;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1843-1"
+     width="39.6875"
+     height="54.239582"
+     x="200.27625"
+     y="-31.75" />
+</svg>
