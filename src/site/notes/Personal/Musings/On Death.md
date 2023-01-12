@@ -1,5 +1,5 @@
 ---
-{"title":"On Death","dg-publish":true,"updated":"2023-01-08T12:19:32+06:00","created":"2021-10-16T21:38:35+06:00","tags":["death"],"permalink":"/personal/musings/on-death/","dgPassFrontmatter":true}
+{"title":"On Death","dg-publish":true,"updated":"2023-01-12T12:20:41+06:00","created":"2021-10-16T21:38:35+06:00","tags":["death"],"maturity":2,"permalink":"/personal/musings/on-death/","dgPassFrontmatter":true}
 ---
 
 Death is possibly my most favourite topic to muse. Perhaps, because I know next to nothing about it, and that enables me to think about it with the utmost freedom.
