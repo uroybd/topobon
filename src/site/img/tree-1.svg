@@ -11,34 +11,49 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
- 
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1512195"
+     inkscape:cx="75.137712"
+     inkscape:cy="102.93432"
+     inkscape:window-width="1800"
+     inkscape:window-height="1097"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1452" />
   <defs
      id="defs2" />
   <g
-     id="g371">
+     id="g306">
     <g
-       id="g363">
+       id="g1452"
+       transform="translate(-69.69977,-93.955927)">
       <g
-         id="g1452"
-         transform="translate(-69.69977,-93.955927)">
-        <g
-           id="g356"
-           transform="matrix(2.4999989,0,0,2.4999989,30.012297,-203.41476)">
-          <path
-             style="fill:none;fill-opacity:1;stroke:green;stroke-width:0.83;stroke-dasharray:none;stroke-opacity:1"
-             d="M 15.874996,140.22917 H 31.750003"
-             id="path309-6-3" />
-          <path
-             style="fill:none;fill-opacity:1;stroke:green;stroke-width:0.976;stroke-dasharray:none;stroke-opacity:1"
-             d="M 23.8125,140.22917 V 134.9375"
-             id="path1162-2-9" />
-          <circle
-             style="fill:none;fill-opacity:1;stroke:green;stroke-width:0.777784;stroke-dasharray:none;stroke-opacity:1"
-             id="path1252-7-9"
-             cx="23.8125"
-             cy="128.77023"
-             r="4.4160662" />
-        </g>
+         id="g873"
+         transform="translate(0,-0.28541479)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
+           d="m 69.69977,147.15801 h 39.6875"
+           id="path309-6-3" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
+           d="M 89.54352,147.15801 V 133.92884"
+           id="path1162-2-9" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
+           id="path1252-7-9"
+           cx="89.543518"
+           cy="118.51068"
+           r="11.04016" />
       </g>
     </g>
   </g>
