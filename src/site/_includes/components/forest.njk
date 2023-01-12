@@ -1,0 +1,67 @@
+<script>
+const canvasTrees = [{% for post in collections.note %}
+{% if post.data.maturity %}
+     [{{post.data.maturity}}, "{{post.url}}", {% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %}]
+{% else %}
+    [1, "{{post.url}}", {% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %}]
+{% endif %}{% if not loop.last %},{% endif %}
+{% endfor %}]
+
+function shuffle(a) {
+    var j, x, i;
+    for (i = a.length - 1; i > 0; i--) {
+        j = Math.floor(Math.random() * (i + 1));
+        x = a[i];
+        a[i] = a[j];
+        a[j] = x;
+    }
+    return a;
+}
+
+function sliceIntoChunks(arr, chunkSize) {
+    const res = [];
+    for (let i = 0; i < arr.length; i += chunkSize) {
+        const chunk = arr.slice(i, i + chunkSize);
+        res.push(chunk);
+    }
+    return res;
+}
+
+function getPositions(trees) {
+    trees = shuffle([...trees]);
+    console.log(trees);
+    let minInRow = Math.floor(Math.sqrt(trees.length));
+    let maxInRow = Math.ceil(Math.sqrt(trees.length));
+    let levels = sliceIntoChunks(trees, minInRow);
+    if (minInRow != maxInRow) {
+        let lastRow = levels.pop();
+        for (let i = 0; i < lastRow.length; i++) {
+            levels[i].push(lastRow[i]);
+        }
+    }
+    return levels
+    
+}
+
+const trees = getPositions(canvasTrees);
+console.log(trees);
+const forest = document.createElement('div');
+forest.classList.add('forest-body');
+for (let i = trees.length - 1; i > -1; i--) {
+    let rowTrees = trees[i]
+    let row = document.createElement('div');
+    row.classList.add('forest-row');
+    for (let j = 0; j < rowTrees.length; j++) {
+        const rowTree = rowTrees[j]
+        const height = rowTree[0];
+        let tree = document.createElement('a');
+        tree.classList.add('tree');
+        tree.setAttribute('href', rowTree[1]);
+        tree.setAttribute('title', rowTree[2]);
+        tree.innerHTML = `<object data="/img/tree-${height}-colored.svg" width="auto" height="${5 + (height * 10)}"></object>`
+        row.appendChild(tree);
+    }
+    forest.appendChild(row);
+}
+document.querySelector("#forest-graph").appendChild(forest);
+</script>

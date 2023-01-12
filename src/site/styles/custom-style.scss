@@ -177,4 +177,50 @@ body {
     .shownote {
         display: block;
     }
+
+    #forest-graph {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 20px;
+        .forest-body {
+            display: inline-flex;
+            flex-direction: column;
+            transform: rotate(45deg);
+            margin: 60px;
+            align-items: flex-end;
+            scale: (1.2);
+            .forest-row {
+                display: flex;
+                flex-direction: row;
+                align-items: flex-end;
+
+                .tree {
+                    transform: rotate(-45deg);
+                    width: 25px;
+                    height: 25px;
+                    cursor: pointer;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    object {
+                        pointer-events: none;
+                    }
+                }
+
+                .tree-1 {
+                    color: lightblue;
+                }
+
+                .tree-2 {
+                    color: lightgreen;
+                }
+
+                .tree-3 {
+                    color: lightseagreen;
+                }
+            }
+        }
+    }
 }

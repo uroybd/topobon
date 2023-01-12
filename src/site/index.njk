@@ -17,11 +17,15 @@
     <div class="content cm-s-obsidian">
 
       {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
+        <h1>{{ noteTitle }}</h1>
       {% endif %}
       {%- for garden in collections.gardenEntry -%}
         {{garden.templateContent | link | highlight | safe }}
       {%- endfor -%}
+      <h2>The Forest<h2>
+      <div id="forest-graph">
+        
+      </div>
     </div>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
@@ -32,5 +36,6 @@
       {%include "components/linkPreview.njk"%}
     {% endif %}
     {% include "components/themeSwitcher.njk" %}
+    {% include "components/forest.njk" %}
     </body>
   </html>
