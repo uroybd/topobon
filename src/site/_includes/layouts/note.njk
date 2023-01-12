@@ -24,8 +24,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     <div class="content cm-s-obsidian">
       {% if settings.dgShowInlineTitle === true %}
         <h1>
-          {% getTreeIcon maturity %}
-          {# <object data="{% if maturity %}/img/tree-{{maturity}}.svg{% else %}/img/tree-1.svg{% endif %}" width="auto" height="32"></object> #}
+          <img src="/img/tree-{% if maturity %}{{maturity}}{% else %}1{% endif %}.svg" />
           {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}
           </h1>
 
