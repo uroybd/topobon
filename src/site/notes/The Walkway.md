@@ -1,5 +1,5 @@
 ---
-{"title":"The Walkway","dg-home":true,"dg-publish":true,"maturity":2,"created":"2023-01-02T21:30:15+06:00","updated":"2023-01-12T12:19:08+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"The Walkway","dg-home":true,"dg-publish":true,"maturity":2,"created":"2023-01-02T21:30:15+06:00","updated":"2023-01-12T12:19:22+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 তপোবন (Topobon) can be loosely translated to forest-hermitage. In Indian myths, there are numerous mentions of topobons.
@@ -11,7 +11,7 @@ Thoughts here are, like every thought, ever-changing.
 If you have any query, please feel free to contact me at [connect@utsob.me](mailto:connect@utsob.me) or use the mail button in an individual note's page to fire up a mail thread with contextual discussion.
 
 ## Maturity Level
-Maturity level of each note is being represented by plant icons like these:
+Maturity level for each note is being represented by plant icons like these:
   1. Seedling (![Maturity Level: 1|10x16](https://topobon.utsob.me/img/tree-1.svg)): Just started.
   2. Sapling (![Maturity Level: 2|10x16](https://topobon.utsob.me/img/tree-2.svg)): Made some progress and have some coherence.
   3. Tree (![Maturity Level: 3|10x16](https://topobon.utsob.me/img/tree-3.svg)): A coherent piece of thought or writing that can be considered completely, even only provisionally.
