@@ -1,5 +1,5 @@
 ---
-{"title":"Cosmos","created":"2016-02-14T00:00:00+06:00","updated":"2023-01-11T00:15:55+06:00","read_at":["2016-04-08T00:00:00+06:00"],"read_count":1,"authors":["Carl Sagan"],"isbn10":307800989,"status":"Read","rating":5,"reviewed":true,"maturity":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"tags":["bestreads","science","pop"],"permalink":"/personal/reading/books/read/cosmos-by-carl-sagan/","metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"dgPassFrontmatter":true}
+{"title":"Cosmos","created":"2016-02-14T00:00:00+06:00","updated":"2023-01-12T12:31:00+06:00","read_at":["2016-04-08T00:00:00+06:00"],"read_count":1,"authors":["Carl Sagan"],"isbn10":307800989,"status":"Read","rating":5,"reviewed":true,"maturity":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"tags":["bestreads","science","pop"],"permalink":"/personal/reading/books/read/cosmos-by-carl-sagan/","metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### Review
