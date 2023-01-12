@@ -14,6 +14,10 @@ body {
 
     h1 {
         font-size: 2em !important; /* 40px/16=2.5em */
+        svg {
+            height: 32px;
+            width: auto;
+        }
     }
 
     h2 {

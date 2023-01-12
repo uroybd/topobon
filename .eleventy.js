@@ -4,7 +4,7 @@ const fs = require("fs");
 const matter = require("gray-matter");
 const faviconPlugin = require("eleventy-favicon");
 const tocPlugin = require("eleventy-plugin-toc");
-
+const Image = require("@11ty/eleventy-img");
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 
 module.exports = function (eleventyConfig) {
@@ -224,6 +224,23 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("jsonify", function (variable) {
     return JSON.stringify(variable);
   });
+  eleventyConfig.addNunjucksAsyncShortcode(
+    "getTreeIcon",
+
+    async (tree, colored = false) => {
+      if (!tree) {
+        tree = 1;
+      }
+      const src = `https://topobon.utsob.me/img/tree-${tree}${
+        colored ? "-colored" : ""
+      }.svg`;
+      let metadata = await Image(src, {
+        formats: ["svg"],
+        dryRun: true,
+      });
+      return metadata.svg[0].buffer.toString();
+    }
+  );
 
   return {
     dir: {

@@ -23,7 +23,12 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content cm-s-obsidian">
       {% if settings.dgShowInlineTitle === true %}
-        <h1><object data="{% if maturity %}/img/tree-{{maturity}}.svg{% else %}/img/tree-1.svg{% endif %}" width="auto" height="32"> </object> {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+        <h1>
+          {% getTreeIcon maturity %}
+          {# <object data="{% if maturity %}/img/tree-{{maturity}}.svg{% else %}/img/tree-1.svg{% endif %}" width="auto" height="32"></object> #}
+          {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}
+          </h1>
+
       {% endif %}
       <div class="header-meta">
         <div class="timestamps">{% if created %}<div>Created At: <span class="human-date" data-date="{{created}}"></span></div>{% endif %}
