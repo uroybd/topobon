@@ -28,22 +28,19 @@ function sliceIntoChunks(arr, chunkSize) {
 }
 
 function getPositions(trees) {
-    trees = shuffle([...trees]);
-    console.log(trees);
     let minInRow = Math.floor(Math.sqrt(trees.length));
     let maxInRow = Math.ceil(Math.sqrt(trees.length));
-    let levels = sliceIntoChunks(trees, minInRow);
-    if (minInRow != maxInRow) {
-        let lastRow = levels.pop();
-        for (let i = 0; i < lastRow.length; i++) {
-            levels[i].push(lastRow[i]);
-        }
+    if (minInRow < maxInRow) {
+        trees = trees.concat(Array(Math.pow(maxInRow, 2) - trees.length).fill([0, '', '']));
     }
+    console.log(trees, maxInRow, minInRow);
+    trees = shuffle([...trees]);
+    let levels = sliceIntoChunks(trees, maxInRow);
     return levels
-    
 }
 
 const trees = getPositions(canvasTrees);
+console.log(trees);
 const forest = document.createElement('div');
 forest.classList.add('forest-body');
 for (let i = trees.length - 1; i > -1; i--) {
@@ -55,9 +52,15 @@ for (let i = trees.length - 1; i > -1; i--) {
         const height = rowTree[0];
         let tree = document.createElement('a');
         tree.classList.add('tree');
-        tree.setAttribute('href', rowTree[1]);
-        tree.setAttribute('title', rowTree[2]);
-        tree.innerHTML = `<img src="/img/tree-${height}.svg" style="width: auto;height: ${5 + (10 * height)}px;" />`;
+        if (height == 0) {
+            tree.classList.add('plane');
+            tree.innerHTML = `<span></span>`;
+        } else {
+            
+            tree.setAttribute('href', rowTree[1]);
+            tree.setAttribute('title', rowTree[2]);
+            tree.innerHTML = `<img src="/img/tree-${height}.svg" style="width: auto;height: ${5 + (10 * height)}px;" />`;
+        }
         row.appendChild(tree);
     }
     forest.appendChild(row);
