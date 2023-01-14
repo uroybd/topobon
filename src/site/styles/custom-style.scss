@@ -403,7 +403,7 @@ div.language-ad-quote,
 div.callout-quote {
     background-color: transparent !important;
     border: none;
-    :not(admonition-title) {
+    :not(:first-child) {
         margin-left: 2em;
         margin-right: 2em;
     }
