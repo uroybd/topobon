@@ -35,12 +35,20 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.7/dayjs.min.js" integrity="sha512-hcV6DX35BKgiTiWYrJgPbu3FxS6CsCjKgmrsPRpUPkXWbvPiKxvSVSdhWX0yXcPctOI2FJ4WP6N1zH+17B/sAA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 {% favicon './src/site/favicon.svg' %}
 {% if metatags %}
-{% for name, content in metatags %}
-  <meta name="{{ name }}" content="{{ content }}">
-{% endfor %}
-{% if not metatags["og:image"] %}
- <meta name="og:image" content="/img/cover.png">
-{% endif %}
+    {% for name, content in metatags %}
+        <meta name="{{ name }}" content="{{ content }}">
+    {% endfor %}
+    {% if not metatags["og:image"] %}
+        {% if maturity %}
+            <meta name="og:image" content="{{meta.siteBaseUrl}}/img/tree-{{maturity}}-cover.jpg">
+        {% else %}
+            <meta name="og:image" content="{{meta.siteBaseUrl}}/img/tree-1-cover.jpg">
+        {% endif %}
+    {% endif %}
 {% else %}
-<meta name="og:image" content="/img/cover.png">
+    {% if maturity %}
+        <meta name="og:image" content="{{meta.siteBaseUrl}}/img/tree-{{maturity}}-cover.jpg">
+    {% else %}
+        <meta name="og:image" content="{{meta.siteBaseUrl}}/img/tree-1-cover.jpg">
+    {% endif %}
 {% endif %}
