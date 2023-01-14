@@ -320,6 +320,8 @@ To know nothing about oneself is to live. To know a little about oneself is to t
 ## 246 [6 May 1930]
 ### Page 174 @ 07 June 2022 01:38 AM
 They bring me faith wrapped up like a parcel and borne on someone else’s tray. They want me to accept it, but not open it. They bring me science, like a knife on a plate, with which I will cut the pages of a book of blank pages. They bring me doubt, like dust inside a box; but why do they bring me the box if all it contains is dust?
+{ #b0539e}
+
 
 ## 250 [12 June 1930]
 ### Page 177 @ 07 June 2022 01:52 PM
