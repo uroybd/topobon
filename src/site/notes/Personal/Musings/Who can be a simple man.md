@@ -1,12 +1,13 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-14T22:39:54+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-14T22:41:08+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","dgPassFrontmatter":true}
 ---
 
-> সহজ লোকের মতো কে চলিতে পারে।  
-কে থামিতে পারে এই আলোয় আঁধারে  
-সহজ লোকের মতো; তাদের মতন ভাষা কথা  
-কে বলিতে পারে আর; কোনো নিশ্চয়তা  
-কে জানিতে পারে আর? — জীবনানন্দ দাশ (বোধ)
+> সহজ লোকের মতো কে চলিতে পারে।
+> কে থামিতে পারে এই আলোয় আঁধারে
+> সহজ লোকের মতো; তাদের মতন ভাষা কথা
+> কে বলিতে পারে আর; কোনো নিশ্চয়তা
+> কে জানিতে পারে আর?
+>                                — জীবনানন্দ দাশ (বোধ)
 > 
 > ---
 > 
