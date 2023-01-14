@@ -1,5 +1,5 @@
 ---
-{"title":"The Walkway","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-01-14T21:21:52+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"The Walkway","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-01-14T21:31:48+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 তপোবন (Topobon) can be loosely translated to forest-hermitage. In Indian myths, there are numerous mentions of topobons.
@@ -48,7 +48,7 @@ Every note has a comment section powered by Disqus. Feel free to use that if you
 I don't seek publicity. If you find anything praiseworthy (I doubt you will), tell me privately. For commenting, these are the basic rules I believe not too much to abide by:
 1. Constructive Criticism.
 2. Adhere to the rules of arguments. To name a few:
-  1. No personal attack (it's a fallacy)
-  2. Other logical fallacies
-  3. Avoid irrelevance.
+    1. No personal attack (it's a fallacy)
+    2. Other logical fallacies
+    3. Avoid irrelevance.
 3. Be civil, please.
