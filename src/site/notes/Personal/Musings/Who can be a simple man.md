@@ -1,5 +1,5 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-15T01:56:14+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-15T03:14:18+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
 ---
 
 > [!quote] জীবনানন্দ দাশ ([বোধ](https://bn.m.wikisource.org/wiki/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/%E0%A6%AC%E0%A7%8B%E0%A6%A7))
@@ -12,10 +12,10 @@
 > ---
 > 
 > Who can be a simple man.
-> Can navigate like in this confusion
+> Can navigate in this confusion
 > like a simple man; Can talk like them
 > any more anyway; Any certainty
-> who can no any more?
+> who can know any more?
 
 A recurring idea in modern writings, literature or scholarly, is the spiritual crisis of the modern time. The implication of this crisis is something we have yet to explore much.
 
