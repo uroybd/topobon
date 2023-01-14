@@ -1,5 +1,5 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-14T22:41:08+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-14T22:42:42+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","dgPassFrontmatter":true}
 ---
 
 > সহজ লোকের মতো কে চলিতে পারে।
@@ -17,7 +17,7 @@
 > any more anyway; Any certainty
 > who can no any more?
 
-A recurring idea in modern writings, literature or scholarly is the spiritual crisis of the modern time. The implication of this crisis is something we have yet to explore much.
+A recurring idea in modern writings, literature or scholarly, is the spiritual crisis of the modern time. The implication of this crisis is something we have yet to explore much.
 
 ## Origin
 The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern man, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. Jibananada felt it as much as Pessoa did (though they reacted differently in some important details).
