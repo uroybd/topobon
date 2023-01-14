@@ -62,7 +62,7 @@ They bring me faith wrapped up like a parcel and borne on someone else’s tray.
 </div></div>
 
 
-This *doublethink* says something about the magnitude of the problem. The faith have something to say about how to cope with #death and our temporality.
+This *doublethink* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
 
 The solutions of the crisis are numerous. Campbell was silent, Jibananada lamenting, Pessoa was confused. On the other hand, some philosophers worked their way to build new paths. Russell is one of them:
 
@@ -77,3 +77,5 @@ The solutions of the crisis are numerous. Campbell was silent, Jibananada lament
 
 
 Carl Sagan is another, and a more poetic one. He built a whole modern system of living in the [[Personal/Reading/Books/Read/Cosmos by Carl Sagan\|Cosmos]].
+
+[^1]: See [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying#^11ed14\|this]] and the [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying#^17d698\|following]] passage from [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying\|Importance of Dying]]
