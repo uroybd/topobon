@@ -1,5 +1,5 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-15T03:15:48+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-15T03:39:06+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
 ---
 
 > [!quote] জীবনানন্দ দাশ ([বোধ](https://bn.m.wikisource.org/wiki/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/%E0%A6%AC%E0%A7%8B%E0%A6%A7))
@@ -38,14 +38,11 @@ With the loss of that, we've really lost something because we don't have a compa
 Pessoa, though, told us something about how the modern thinking persons **felt** about it:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/#page-237-23-june-2022-11-09-pm" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/#9fc9fc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-### Page 237 @ 23 June 2022 11:09 PM
-**Everything we do or say, everything we think or feel, wears the same mask and the same fancy dress. However many layers of clothing we take off, we are never left naked, for nakedness is a phenomenon of the soul and has nothing to do with taking off one’s clothes. Thus, dressed in body and soul, with our multiple outfits clinging to us as sleek as feathers, we live out the brief time the gods give us to enjoy ourselves happily or unhappily (or ignorant of quite what our feelings are), like children playing earnest games.
-Someone, freer or more accursed than the rest of us, suddenly sees (though even he sees it only rarely) that everything we are is what we are not, that we deceive ourselves about what is certain and are wrong about what we judge to be right. And this individual, who, for one brief moment, sees the universe naked, creates a philosophy or dreams a religion, and the philosophy is listened to and the religion resonates, and those who believe in the philosophy wear it like an invisible garment, and those who believe in the religion put it on like a mask which they then forget they are wearing.**
-
+Bereft of illusions, we live on dreams, which are the illusions of those who cannot have illusions. Living off ourselves alone, we diminish ourselves, because the complete man is one who is unaware of himself. Without faith, we have no hope and without hope we do not really have a life. With no idea of the future, we can have no real idea of today, because, for the man of action, today is only a prologue to the future. The fighting spirit was stillborn in us, because we were born with no enthusiasm for the fight. 
 
 </div></div>
 
