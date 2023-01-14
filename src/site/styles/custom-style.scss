@@ -410,3 +410,10 @@ div.callout-cite {
     background-color: transparent !important;
     border: 1px solid rgba(158, 158, 158, .5);
 }
+
+div[class*="language-ad-"],
+div[class*="callout-"] {
+    .admonition-title::before {
+        font-family: 'Noto Emoji', sans-serif !important;
+    }
+}
