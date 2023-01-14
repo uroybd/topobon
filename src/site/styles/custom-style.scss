@@ -402,7 +402,11 @@ div.callout-example {
 div.language-ad-quote,
 div.callout-quote {
     background-color: transparent !important;
-    border: 1px solid rgba(158, 158, 158, .5);
+    border: none;
+    :not(admonition-title) {
+        margin-left: 2em;
+        margin-right: 2em;
+    }
 }
 
 div.language-ad-cite,
