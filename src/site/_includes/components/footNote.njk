@@ -18,9 +18,6 @@ function fancyFootnote(element) {
     });
     const markers = post.querySelectorAll("[id^='fnref']");
     markers.forEach(function (entry) {
-        console.log(entry);
-        console.log(entry.innerHTML);
-
       var did = "fnote-" + notenum + '-' + entry.id.split("fnref")[1];
       entry.classList.add("pointer", "fnote-marker");
       entry.addEventListener("click", function (e) {
@@ -33,7 +30,6 @@ function fancyFootnote(element) {
 }
 
 function shownote(f) {
-    console.log(f);
   document.querySelectorAll(".fnote").forEach(function(el) {
     el.classList.remove("shownote");
   });
