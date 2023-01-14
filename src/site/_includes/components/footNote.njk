@@ -7,7 +7,7 @@ function fancyFootnote(element) {
       var note = document.createElement("div");
       var did = entry.id.split("fn")[1];
       var fid = "fnote" + "-" + notenum + "-" + did;
-      entry.querySelector("a").href = "#" + fid;
+      entry.querySelector("a.footnote-backref").href = "#" + fid;
 
       var notename = "fnote" + "-" + notenum + "-" + did;
       note.id = notename;
