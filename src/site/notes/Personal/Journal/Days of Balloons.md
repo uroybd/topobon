@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"Days of Balloons","updated":"2023-01-14T14:19:56+06:00","latitude":23.79162637,"longitude":90.40629343,"altitude":-44.1528,"dg-publish":true,"tags":["life","childhood","mono-no-aware"],"created":"2021-12-22T16:09:00+06:00","permalink":"/personal/journal/days-of-balloons/","dgPassFrontmatter":true}
+{"weather":"unknown","mood":"indifferent","title":"Days of Balloons","updated":"2023-01-14T14:21:33+06:00","latitude":23.79162637,"longitude":90.40629343,"altitude":-44.1528,"dg-publish":true,"maturity":3,"tags":["life","childhood","mono-no-aware"],"created":"2021-12-22T16:09:00+06:00","permalink":"/personal/journal/days-of-balloons/","dgPassFrontmatter":true}
 ---
 
 # Days of Balloons
