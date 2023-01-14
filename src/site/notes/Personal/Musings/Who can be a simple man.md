@@ -1,5 +1,5 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-14T22:43:47+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-14T22:45:08+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","dgPassFrontmatter":true}
 ---
 
 > সহজ লোকের মতো কে চলিতে পারে।
@@ -62,7 +62,7 @@ They bring me faith wrapped up like a parcel and borne on someone else’s tray.
 </div></div>
 
 
-This *doublethink* says something about the magnitude of the problem. The faith have something to say about how to cope with #death.
+This *doublethink* says something about the magnitude of the problem. The faith have something to say about how to cope with #death and our temporality.
 
 The solutions of the crisis are numerous. Campbell was silent, Jibananada lamenting, Pessoa was confused. On the other hand, some philosophers worked their way to build new paths. Russell is one of them:
 
