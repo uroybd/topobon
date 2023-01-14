@@ -400,6 +400,28 @@ And yet, if I allow my vulgar eyes to receive the dying greeting of the bright d
 ### Page 235 @ 22 June 2022 08:02 PM
 **If a man writes well only when he is drunk, I would tell him: Drink. And if he were to tell me that his liver suffers as a consequence, I would say: And what is your liver? It is a dead thing that lives only while you live, whereas there is no “while” about the poems you write.**
 
+## 134 [1917?]
+### Page 236 @ 15 January 2022 03:35 AM
+I belong to a generation that inherited a disbelief in the Christian faith and that created within itself a disbelief in all other faiths. Our forefathers still felt an impulse to believe, which they transferred from Christianity to other forms of illusion. Some were enthusiasts for social equality, others were simply in love with beauty, others put their faith in science and its benefits, whilst others, even more Christian than ever, went off to East and West in search of other religions with which they could fill their consciousness of merely living, which seemed hollow otherwise.
+
+We lost all this and were orphaned at birth of all these consolations. Every civilization cleaves to the intimate contours of the religion that represents it: to go after other religions is to lose that first religion and ultimately to lose them all.
+
+We lost both our religion and the others too.
+
+Each of us was left abandoned to ourselves, amidst the desolation of merely knowing we were alive. A boat would seem to be an object whose one purpose is to travel, but its real purpose is not to travel but to reach harbor. We found ourselves on the high seas, with no idea which port we should be aiming for. Thus we represent a painful version of the argonauts’ bold motto: the journey is what matters, not life.
+
+Bereft of illusions, we live on dreams, which are the illusions of those who cannot have illusions. Living off ourselves alone, we diminish ourselves, because the complete man is one who is unaware of himself. Without faith, we have no hope and without hope we do not really have a life. With no idea of the future, we can have no real idea of today, because, for the man of action, today is only a prologue to the future. The fighting spirit was stillborn in us, because we were born with no enthusiasm for the fight.
+{ #9fc9fc}
+
+
+Some of us stagnated in the foolish conquest of the everyday, contemptible, vulgar beings scrabbling for our daily bread and wanting to get it without working for it, without feeling the effort involved, without the nobility of achievement.
+
+Others, of better stock, abstained from public life, wanting and desiring nothing, and trying to carry to the calvary of oblivion the cross of simply existing. A vain endeavor in men whose consciousness, unlike that of the original carrier of the Cross, lacks any spark of the divine.
+
+Others, busily engaged outside their soul, gave themselves over to the cult of confusion and noise, thinking they were alive because they could be heard, thinking they loved when they merely stumbled against love’s outer walls. Life hurt us because we knew we were alive; death held no terror for us because we had lost all normal notion of death.
+
+But others, the People of the End, the spiritual boundary of the Dead Hour, did not even have the courage to give it all up and seek asylum in themselves. They lived in negation, discontent and desolation. But we lived it all inside ourselves, making not even a single gesture, shut up for as long as we lived within the four walls of our room and within the four walls of our inability to act.
+
 ## 333 [29 Nov 1931]
 ### Page 237 @ 23 June 2022 11:09 PM
 **Everything we do or say, everything we think or feel, wears the same mask and the same fancy dress. However many layers of clothing we take off, we are never left naked, for nakedness is a phenomenon of the soul and has nothing to do with taking off one’s clothes. Thus, dressed in body and soul, with our multiple outfits clinging to us as sleek as feathers, we live out the brief time the gods give us to enjoy ourselves happily or unhappily (or ignorant of quite what our feelings are), like children playing earnest games.
