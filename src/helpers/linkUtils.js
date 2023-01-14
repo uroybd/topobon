@@ -71,7 +71,9 @@ function getBacklinks(data) {
   if (!notes) {
     return [];
   }
-  const currentFileSlug = data.page.filePathStem.replace("/notes/", "");
+  const currentFileSlug = data.page.filePathStem
+    .replace("/notes/", "")
+    .split("#")[0];
   const currentURL = data.page.url;
 
   let backlinks = [];
@@ -136,14 +138,16 @@ function getOutboundLinks(data, isHome = false) {
 
   const outboundLinks = extractLinks(currentNote.template.frontMatter.content);
   let outbound = outboundLinks
-    .map((fileslug) => {
-      var outboundNote = notes.find(
-        (x) =>
+    .map((fileSlug) => {
+      var outboundNote = notes.find((x) => {
+        fileSlug = fileslug.split("#")[0];
+        return (
           caselessCompare(
             x.data.page.filePathStem.replace("/notes/", ""),
-            fileslug
-          ) || x.data.page.url == fileslug.split("#")[0]
-      );
+            fileSlug
+          ) || x.data.page.url == fileSlug
+        );
+      });
       if (!outboundNote) {
         return null;
       }
