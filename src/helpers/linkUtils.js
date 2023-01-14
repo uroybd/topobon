@@ -140,7 +140,7 @@ function getOutboundLinks(data, isHome = false) {
   let outbound = outboundLinks
     .map((fileSlug) => {
       var outboundNote = notes.find((x) => {
-        fileSlug = fileslug.split("#")[0];
+        fileSlug = fileSlug.split("#")[0];
         return (
           caselessCompare(
             x.data.page.filePathStem.replace("/notes/", ""),
