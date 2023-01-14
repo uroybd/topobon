@@ -27,7 +27,7 @@
             x-on:resize.window="isDesktop = (window.innerWidth>=1490) ? true : false;" 
             x-data="{isDesktop: true, showFilesMobile: false}">
 
-        <div x-show.important="!isDesktop">
+        <div x-show.important="!isDesktop" style="position: fixed; top: 0; left: 0; right: 0;">
             {%include "components/filetreeNavbar.njk"%}
         </div>
         
