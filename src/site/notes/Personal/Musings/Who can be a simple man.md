@@ -14,8 +14,8 @@
 > Who can be a simple man.
 > Can navigate in this confusion
 > like a simple man; Can talk like them
-> any more anyway; Any certainty
-> who can know any more?
+> anymore anyway; Any certainty
+> who can know anymore?
 
 A recurring idea in modern writings, literature or scholarly, is the spiritual crisis of the modern time. The implication of this crisis is something we have yet to explore much.
 
