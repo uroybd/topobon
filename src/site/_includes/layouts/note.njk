@@ -1,6 +1,10 @@
 ---
 title: "/{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}/"
 permalink: "notes/{{ page.fileSlug | slugify }}/"
+tree_titles:
+  1: Seedling
+  2: Sapling
+  3: Tree
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -24,7 +28,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     <div class="content cm-s-obsidian">
       {% if settings.dgShowInlineTitle === true %}
         <h1>
+          <a title="{% if maturity %}{{tree_titles[maturity]}}{% else %}{{tree_titles[1]}}{% endif %}" href="/#maturity-levels">
           <img src="/img/tree-{% if maturity %}{{maturity}}{% else %}1{% endif %}.svg" />
+          </a>
           {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}
           </h1>
 
