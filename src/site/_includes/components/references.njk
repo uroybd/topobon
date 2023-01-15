@@ -18,7 +18,7 @@
       const url_parts = window.location.href.split("#")
       const url = url_parts[0];
       const referrence = url_parts[1];
-      document.querySelectorAll(".content > *[id]").forEach(function (el) {
+      document.querySelectorAll(".cm-s-obsidian > *[id]").forEach(function (el) {
         el.ondblclick = function(evt) {
           const ref_url = url + '#' + evt.target.id
           navigator.clipboard.writeText(ref_url);
