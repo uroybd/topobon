@@ -1,9 +1,9 @@
 ---
-{"title":"Fernando Pessoa","aliases":["Pessoa"],"type":"Person","dg-publish":true,"tags":["person","person/writer"],"created":"2023-01-15T11:36:37+06:00","updated":"2023-01-15T11:41:08+06:00","permalink":"/entities/person/fernando-pessoa/","dgPassFrontmatter":true}
+{"title":"Fernando Pessoa","aliases":["Pessoa"],"type":"Person","dg-publish":true,"maturity":2,"tags":["person","person/writer"],"created":"2023-01-15T11:36:37+06:00","updated":"2023-01-15T23:40:06+06:00","permalink":"/entities/person/fernando-pessoa/","dgPassFrontmatter":true}
 ---
 
-> Fernando António Nogueira Pessoa (Portuguese: [fɨɾˈnɐ̃du pɨˈsoɐ]; 13 June 1888 – 30 November 1935) was a Portuguese poet, writer, literary critic, translator, publisher, and philosopher, described as one of the most significant literary figures of the 20th century and one of the greatest poets in the Portuguese language. He also wrote in and translated from English and French.
->
-> Pessoa was a prolific writer, and not only under his own name, for he created approximately seventy-five others, of which three stand out, Alberto Caeiro, Álvaro de Campos, and Ricardo Reis. He did not call them pseudonyms because he felt that this did not capture their true independent intellectual life and instead called them heteronyms. These imaginary figures sometimes held unpopular or extreme views.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Fernando%20Pessoa)
+[Fernando Pessoa](https://en.wikipedia.org/wiki/Fernando%20Pessoa) has a special place in my mind, which is exactly like he wanted— an enigma, an impenetrable castle.
+
+Pessoa is mostly introspective. He brings everything from the depth of his being. Not only that, whenever he expresses anything of the real world he will distort it, absurdify it to bring an imagery unimaginable.
+
+Pessoa's patience is something I admire much. He wrote [[Personal/Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]] for over 2 decades and couldn't even finish it before his death. And what a beautifully unfinished book it is!
