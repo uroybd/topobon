@@ -1,14 +1,12 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-15T03:40:31+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-15T11:25:17+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
 ---
 
-> [!quote] জীবনানন্দ দাশ ([বোধ](https://bn.m.wikisource.org/wiki/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/%E0%A6%AC%E0%A7%8B%E0%A6%A7))
 > সহজ লোকের মতো কে চলিতে পারে।
 > কে থামিতে পারে এই আলোয় আঁধারে
 > সহজ লোকের মতো; তাদের মতন ভাষা কথা
 > কে বলিতে পারে আর; কোনো নিশ্চয়তা
-> কে জানিতে পারে আর?
-> 
+> কে জানিতে পারে আর? — জীবনানন্দ দাশ ([বোধ](https://bn.m.wikisource.org/wiki/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/%E0%A6%AC%E0%A7%8B%E0%A6%A7)) 
 > ---
 > 
 > Who can be a simple man.
@@ -61,7 +59,7 @@ They bring me faith wrapped up like a parcel and borne on someone else’s tray.
 
 This *doublethink* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
 
-The solutions of the crisis are numerous. Campbell was silent, Jibananada lamenting, Pessoa was confused. On the other hand, some philosophers worked their way to build new paths. Russell is one of them:
+The solutions of the crisis are numerous. Campbell was silent, [[Entities/Person/Jibanananda Das\|Jibananada]] lamenting, Pessoa was confused. On the other hand, some philosophers worked their way to build new paths. Russell is one of them:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/what-i-believe/#26da05" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
