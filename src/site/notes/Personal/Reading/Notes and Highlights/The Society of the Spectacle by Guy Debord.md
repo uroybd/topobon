@@ -11,12 +11,16 @@
 
 ### 19 Apr 2022 03:50 PM
 **2: The images detached from every aspect of life merge into a common stream in which the unity of that life can no longer be recovered. Fragmented views of reality regroup themselves into a new unity as a separate pseudoworld that can only be looked at. The specialization of images of the world evolves into a world of autonomized images where even the deceivers are deceived. The spectacle is a concrete inversion of life, an autonomous movement of the nonliving.**
+{ #20c0a7}
+
 
 ### 19 Apr 2022 03:51 PM
 **5:** The spectacle cannot be understood as a mere visual excess produced by mass-media technologies. It is a worldview that has actually been materialized, a view of a world that has become objective.
 
 ### 19 Apr 2022 03:52 PM
 **6:** Understood in its totality, the spectacle is both the result and the project of the dominant mode of production. It is not a mere decoration added to the real world. It is the very heart of this real society’s unreality. In all of its particular manifestations— news, propaganda, advertising, entertainment— the spectacle represents the dominant model of life. It is the omnipresent affirmation of the choices that have already been made in the sphere of production and in the consumption implied by that production. In both form and content the spectacle serves as a total justification of the conditions and goals of the existing system. The spectacle also represents the constant presence of this justification since it monopolizes the majority of the time spent outside the production process.
+{ #213149}
+
 
 ### 19 Apr 2022 03:55 PM
 **9: In a world that is really upside down, the true is a moment of the false.**
@@ -49,9 +53,13 @@ The spectacle was born from the world’s loss of unity, and the immense expansi
 
 ### 20 Apr 2022 12:23 AM
 The abundance of commodities— that is, the abundance of commodity relations— amounts to nothing more than an augmented survival.
+{ #2b36ce}
+
 
 ### 20 Apr 2022 12:25 AM
 The spectacle is the stage at which the commodity has succeeded in totally colonizing social life. Commodification is not only visible, we no longer see anything else; the world we see is the world of the commodity.
+{ #9bafe6}
+
 
 ### 20 Apr 2022 12:27 AM
 Once his workday is over, the worker is suddenly redeemed from the total contempt toward him that is so clearly implied by every aspect of the organization and surveillance of production, and finds himself seemingly treated like a grownup, with a great show of politeness, in his new role as a consumer. At this point the humanism of the commodity takes charge of the worker’s “leisure and humanity” simply because political economy now can and must dominate those spheres as political economy. The “perfected denial of man” has thus taken charge of all human existence.
@@ -67,6 +75,8 @@ The spectacle is a permanent opium war designed to force people to equate goods 
 
 ### 20 Apr 2022 12:47 AM
 **48:** _Use value was formerly understood as an implicit aspect of exchange value. Now, however, within the upside-down world of the spectacle, it must be explicitly proclaimed, both because its actual reality has been eroded by the overdeveloped commodity economy and because it serves as a necessary pseudo-justification for a counterfeit life._
+{ #108ab3}
+
 
 ### 20 Apr 2022 12:48 AM
 **50:** With the achievement of economic abundance, the concentrated result of social labor becomes visible, subjecting all reality to the appearances that are now that labor’s primary product. Capital is no longer the invisible center governing the production process; as it accumulates, it spreads to the ends of the earth in the form of tangible objects. The entire expanse of society is its portrait.
@@ -76,12 +86,16 @@ The spectacle is a permanent opium war designed to force people to equate goods 
 
 ### 20 Apr 2022 12:57 AM
 Complacent acceptance of the status quo may also coexist with purely spectacular rebelliousness— dissatisfaction itself becomes a commodity as soon as the economy of abundance develops the capacity to process that particular raw material.
+{ #8698a1}
+
 
 ### 20 Apr 2022 12:58 AM
 **60: Stars— spectacular representations of living human beings— project this general banality into images of permitted roles. As specialists of apparent life, stars serve as superficial objects that people can identify with in order to compensate for the fragmented productive specializations that they actually live. The function of these celebrities is to act out various lifestyles or sociopolitical viewpoints in a full, totally free manner. They embody the inaccessible results of social labor by dramatizing the by-products of that labor which are magically projected above it as its ultimate goals: power and vacations— the decisionmaking and consumption that are at the beginning and the end of a process that is never questioned. On one hand, a governmental power may personalize itself as a pseudostar; on the other, a star of consumption may campaign for recognition as a pseudopower over life. But the activities of these stars are not really free, and they offer no real choices.**
 
 ### 20 Apr 2022 01:01 AM
 _The admirable people who personify the system are well known for not being what they seem; they attain greatness by stooping below the reality of the most insignificant individual life, and everyone knows it._
+{ #c8ba7e}
+
 
 
 ## Chapter 4: The Proletariat as Subject and Representation
@@ -143,6 +157,8 @@ _This is based on a very obsolete interpretation of art._
 
 ### 24 Apr 2022 12:16 AM
 **193:** As culture becomes completely commodified it tends to become the star commodity of spectacular society. Clark Kerr, one of the foremost ideologues of this tendency, has calculated that the complex process of production, distribution and consumption of knowledge already accounts for 29% of the gross national product of the United States; and he predicts that in the second half of this century the “knowledge industry” will become the driving force of the American economy, as was the automobile in the first half of this century and the railroad in the last half of the previous century.
+{ #6dd9fd}
+
 
 ### 24 Apr 2022 12:34 AM
 **207:** Ideas improve. The meaning of words plays a role in that improvement. Plagiarism is necessary. Progress depends on it. It sticks close to an author’s phrasing, exploits his expressions, deletes a false idea, replaces it with the right one.
