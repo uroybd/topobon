@@ -4,7 +4,7 @@
 
 As the name suggests, this book is a synopsis of the basic personality of a hero (and the myth revolving around him) who can be identified across various cultures and mythologies with astonishing similarities. This is also a book of the idea of mythology how Joseph Campbell has seen.  
   
-Now, though [[Entities/Person/Joseph Campbell\|Entities/Person/Joseph Campbell]] himself is a believer, he can’t help but notice that the old world of gods and demons, magic and might is falling and a new era of science and technology has emerged. But as he justifiably lamented in [[Personal/Reading/Notes and Highlights/The Power of Myth#^dcccd1\|The Power of Myth]], this new age had no powerful myth to support human through the generic darkness and existential crisis that almost everyone goes through. Nevertheless, this is not an apologist book to justify religion or faith, but a scholarly and pleasing journey through the world of myth.  
+Now, though [[Entities/Person/Joseph Campbell\|Joseph Campbell]] himself is a believer, he can’t help but notice that the old world of gods and demons, magic and might is falling and a new era of science and technology has emerged. But as he justifiably lamented in [[Personal/Reading/Notes and Highlights/The Power of Myth#^dcccd1\|The Power of Myth]], this new age had no powerful myth to support human through the generic darkness and existential crisis that almost everyone goes through. Nevertheless, this is not an apologist book to justify religion or faith, but a scholarly and pleasing journey through the world of myth.  
   
 In this book, Campbell used ideas from psychoanalysis heavily to predict the possible origin of myths. The uncanny similarities between many neurotics’ dreams have compelled him to conclude that:
 
