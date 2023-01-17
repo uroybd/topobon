@@ -19,11 +19,10 @@
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle }}</h1>
       {% endif %}
+      {% include "components/forest.njk" %}
       {%- for garden in collections.gardenEntry -%}
         {{garden.templateContent | link | highlight | safe }}
       {%- endfor -%}
-      <h2>The Forest<h2>
-      {% include "components/forest.njk" %}
     </div>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
