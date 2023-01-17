@@ -30,6 +30,8 @@ Trees are grown up coherent piece of thought/essay/expression that should not ch
 ## On top of my mind…
 | Title                                                                                                                               | Updated                                                   | Created                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
+| [[Personal/Reading/Books/Read/Barabbas by Pär Lagerkvist\|Barabbas]]                                                             | <center><small>Jan 18, 2023<hr/>01:40 AM</small></center> | <center><small>Feb 24, 2021<hr/>12:00 AM</small></center> |
+| [[Personal/Reading/Notes and Highlights/Barabbas by Par Lagerkvist\|Barabbas by Par Lagerkvist]]                                 | <center><small>Jan 18, 2023<hr/>01:35 AM</small></center> | <center><small>Mar 21, 2021<hr/>02:26 PM</small></center> |
 | [[Personal/Journal/Dealing with Death\|Dealing with Death]]                                                                      | <center><small>Jan 17, 2023<hr/>04:03 PM</small></center> | <center><small>Oct 18, 2021<hr/>09:38 PM</small></center> |
 | [[Personal/Reading/Books/Read/The Society of the Spectacle by Guy Debord\|The Society of the Spectacle]]                         | <center><small>Jan 17, 2023<hr/>12:13 PM</small></center> | <center><small>Mar 30, 2022<hr/>12:00 AM</small></center> |
 | [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|The Society of the Spectacle by Guy Debord]] | <center><small>Jan 16, 2023<hr/>10:42 PM</small></center> | <center><small>Apr 25, 2022<hr/>06:58 AM</small></center> |
@@ -38,8 +40,6 @@ Trees are grown up coherent piece of thought/essay/expression that should not ch
 | [[Entities/Person/Jibanananda Das\|Jibanananda Das]]                                                                             | <center><small>Jan 15, 2023<hr/>11:41 AM</small></center> | <center><small>Jan 15, 2023<hr/>11:13 AM</small></center> |
 | [[Entities/Person/Rabindranath Tagore\|Rabindranath Tagore]]                                                                     | <center><small>Jan 15, 2023<hr/>11:13 AM</small></center> | <center><small>Jan 15, 2023<hr/>10:57 AM</small></center> |
 | [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying\|The Importance of Dying]]                          | <center><small>Jan 15, 2023<hr/>02:33 AM</small></center> | <center><small>Oct 22, 2022<hr/>10:00 PM</small></center> |
-| [[Entities/Concept/Mono no aware\|Mono no aware]]                                                                                | <center><small>Jan 14, 2023<hr/>08:19 PM</small></center> | <center><small>Dec 28, 2022<hr/>11:32 AM</small></center> |
-| [[Personal/Musings/Exploring Buddhism\|Exploring Buddhism]]                                                                      | <center><small>Jan 14, 2023<hr/>08:17 PM</small></center> | <center><small>Aug 30, 2021<hr/>08:24 PM</small></center> |
 
 ## Discussion
 Digital gardens are not about marketing/expressing opinion/prophesize etc. It is about nurturing our thoughts publicly and collectively. To discuss with me, there are two ways.
