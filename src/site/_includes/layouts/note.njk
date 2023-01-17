@@ -1,15 +1,10 @@
 ---
-title: "/{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}/"
 permalink: "notes/{{ page.fileSlug | slugify }}/"
-tree_titles:
-  1: Seedling
-  2: Sapling
-  3: Tree
 ---
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} | {{meta.siteName}}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
@@ -27,19 +22,20 @@ tree_titles:
 
     <div class="content cm-s-obsidian">
       {% if settings.dgShowInlineTitle === true %}
-        <h1>
-          <a title="{% if maturity %}{{tree_titles[maturity]}}{% else %}{{tree_titles[1]}}{% endif %}" href="/#maturity-levels">
-          <img src="/img/tree-{% if maturity %}{{maturity}}{% else %}1{% endif %}.svg" />
-          </a>
-          {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}
-          </h1>
-
+        <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
       {% endif %}
       <div class="header-meta">
-        <div class="timestamps">{% if created %}<div>Created At: <span class="human-date" data-date="{{created}}"></span></div>{% endif %}
-        {% if updated %}<div>Updated At: <span class="human-date" data-date="{{updated}}"></span></div>{% endif %}
-        </div>
-        {% if tags %}<div class="header-tags">{% for tag in tags %}<a class="tag" onclick="toggleTagSearch(this)">#{{tag}}</a>{% endfor %}</div>{% endif %}
+        {% if settings.dgShowTags === true and tags %}
+          <div class="header-tags">
+            {% for tag in tags %}
+              {% if tag != 'gardenEntry' and tag !='note' %}
+                <a class="tag" onclick="toggleTagSearch(this)">
+                  #{{tag}}
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
       </div>
       {{ content | link | highlight | safe}}
     </div>
@@ -51,10 +47,5 @@ tree_titles:
     {% if settings.dgLinkPreview === true %}
       {%include "components/linkPreview.njk"%}
     {% endif %}
-
-    {% include "components/comment.njk" %}
-    {% include "components/references.njk" %}
-    {% include "components/themeSwitcher.njk" %}
-    {% include "components/footNote.njk" %}
   </body>
 </html>
