@@ -1,5 +1,5 @@
 ---
-{"title":"The Society of the Spectacle","created":"2022-03-30T00:00:00+06:00","updated":"2023-01-17T01:38:24+06:00","read_at":["2022-04-25T00:00:00+06:00"],"read_count":1,"authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"status":"Read","rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"maturity":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"permalink":"/personal/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true}
+{"title":"The Society of the Spectacle","created":"2022-03-30T00:00:00+06:00","updated":"2023-01-17T08:54:27+06:00","read_at":["2022-04-25T00:00:00+06:00"],"read_count":1,"authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"status":"Read","rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"maturity":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"permalink":"/personal/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### Review
@@ -9,7 +9,7 @@
 
 Guy Debord was not prophesizing. Quite the contrary. He observed these phenomena in his own time. Our feeling of eerie accuracy of describing our society is due to the fact that the disease is now more acute than ever.
 
-There's no way to deny that symbolism allows us to abstraction, and abstraction allows us to build an inclusive logical system. Most of our achievements as a species owes much to that. Money, or State, even most of the Philosophies, and Ethics are mostly make-believe. **But, these are not imaginary either. These are inter-subjectivity real.**
+There's no way to deny that symbolism leads the way to abstraction, and abstraction allows us to build broader logical systems. Most of our achievements as a species owes much to that. Money, or state, even most of the philosophies, and ethics are mostly make-believe. **But, these are not imaginary either. These are inter-subjectivity real.**
 
 What Debord labelled as the **Spectacles** are not merely symbols. They are symbols, which doesn't represent the entity they symbolize. According to Debord these spectacles create a false sense of reality devoid of an underlying layer of synapses to any real interest of life:
 
@@ -37,7 +37,7 @@ It should be noted that this phenomenon is not merely psychological. It is a [[P
 
 A false sense of ownership follows, where in reality we got sold completely. In the digital world, NFTs are just that.
 
-This [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^6dd9fd\|commodification of culture]], of course, brings in the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
+This commodification and subsequent [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^6dd9fd\|commodification of culture]] where we try to conform to the dominant way of life brings in to the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#c8ba7e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
