@@ -23,6 +23,7 @@
         {{garden.templateContent | link | highlight | safe }}
       {%- endfor -%}
       <h2>The Forest<h2>
+      {% include "components/forest.njk" %}
     </div>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
@@ -33,6 +34,5 @@
       {%include "components/linkPreview.njk"%}
     {% endif %}
     {% include "components/themeSwitcher.njk" %}
-    {% include "components/forest.njk" %}
     </body>
   </html>
