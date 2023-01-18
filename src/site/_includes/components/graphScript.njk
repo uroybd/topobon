@@ -7,13 +7,15 @@
         return doc.documentElement.textContent;
     }
 
+
     const backLinks = [
 
         {%- for backlink in backlinks -%}
             {
                 id: {{backlink.id}},
                 title: "{{backlink.title | safe}}",
-                url: "{{backlink.url}}"
+                url: "{{backlink.url}}",
+                isHome: {{backlink.isHome}}
             },
         {%- endfor -%}
     ];
@@ -24,7 +26,8 @@
             {
                 id: {{out.id}},
                 title: "{{out.title | safe}}",
-                url: "{{out.url}}"
+                url: "{{out.url}}",
+                isHome: {{out.isHome}}
             },
         {%- endfor -%}
     ].map(x => {
@@ -32,7 +35,7 @@
         return x;
     });
 
-    const outboundDuplicatesRemoved = outbound.filter(x => !backLinks.find(b => b.url === x.url));
+    const outboundDuplicatesRemoved = outbound.filter(x => !x.isHome && !backLinks.find(b => b.url === x.url));
 
     const title = "{{page.fileSlug}}" || "Home"
     const currentNode = {
@@ -41,17 +44,21 @@
         url: "{{page.url}}"
     };
 
+
+    const homeRemovedBackLinks = currentNode.title == "Home" ? backLinks : backLinks.filter(x => !x.isHome);
+
     const gData = {
         nodes: [
             currentNode, 
-            ...backLinks,
+            ...homeRemovedBackLinks,
             ...outboundDuplicatesRemoved
         ],
         links: [
-            ...backLinks.map(backlink => ({source: backlink.id, target: 0})),
+            ...homeRemovedBackLinks.map(backlink => ({source: backlink.id, target: 0})),
             ...outboundDuplicatesRemoved.map(outlink => ({source: 0, target: outlink.id}))
         ]
     };
+
 
     gData
         .links
@@ -129,5 +136,5 @@
             }, 10);
     }
 
-    renderGraph(320,320);
+    renderGraph(330,300);
 </script>
