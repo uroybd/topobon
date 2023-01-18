@@ -39,7 +39,17 @@ tree_titles:
         <div class="timestamps">{% if created %}<div>Created At: <span class="human-date" data-date="{{created}}"></span></div>{% endif %}
         {% if updated %}<div>Updated At: <span class="human-date" data-date="{{updated}}"></span></div>{% endif %}
         </div>
-        {% if tags %}<div class="header-tags">{% for tag in tags %}<a class="tag" onclick="toggleTagSearch(this)">#{{tag}}</a>{% endfor %}</div>{% endif %}
+        {% if settings.dgShowTags === true and tags %}
+          <div class="header-tags">
+            {% for tag in tags %}
+              {% if tag != 'gardenEntry' and tag !='note' %}
+                <a class="tag" onclick="toggleTagSearch(this)">
+                  #{{tag}}
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
       </div>
       {{ content | link | highlight | safe}}
     </div>
