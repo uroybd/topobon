@@ -1,7 +1,6 @@
 ---
 {"title":"Zen Poetry","updated":"2023-01-12T12:31:26+06:00","maturity":3,"tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true}
 ---
-
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
 
 It can be deduced naturally that the poets of zen (often priests) walked on a thin line. Their attachment was not of the mundane kind that we know. Artists, in general, are subtly attached to reality with a kind of super-sensibility, a refined type of attachment.
