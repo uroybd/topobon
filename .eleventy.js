@@ -189,9 +189,9 @@ module.exports = function (eleventyConfig) {
     return (
       str &&
       str.replace(
-        /(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g,
-        function (match, tag) {
-          return `<a class="tag" onclick="toggleTagSearch(this)">${tag}</a>`;
+        /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g,
+        function (match, precede, tag) {
+          return `${precede}<a class="tag" onclick="toggleTagSearch(this)">${tag}</a>`;
         }
       )
     );
@@ -199,11 +199,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("searchableTags", function (str) {
     let tags;
     let match =
-      str && str.match(/(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g);
+      str &&
+      str.match(/(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g);
     if (match) {
       tags = match
         .map((m) => {
-          return `"${m.slice(1)}"`;
+          return `"${m.split("#")[1]}"`;
         })
         .join(", ");
     }
