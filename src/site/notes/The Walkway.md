@@ -1,8 +1,6 @@
 ---
 {"title":"The Walkway","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-01-19T00:17:27+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
-<a class="internal-link " href="/advanced/content-customization/#tranclusions">Content Customization#Tranclusions</a>
-
 তপোবন (Topobon) can be loosely translated to forest-hermitage. In Indian myths, there are numerous mentions of topobons.
 
 This is my Topobon, my [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/), my hermitage (or probably not).
