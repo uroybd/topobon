@@ -14,10 +14,6 @@ module.exports = function (eleventyConfig) {
   })
     .use(require("markdown-it-footnote"))
     .use(require("markdown-it-attrs"))
-    .use(require("markdown-it-hashtag"), {
-      hashtagRegExp: `[^\\s!@\\#\\$%\\^&\\*\\(\\)=\\+\\.,\\[\\{\\]\\};:'"\\?><]+`,
-      preceding: "^|(?!(\\{.*))|\\s",
-     })
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
@@ -186,6 +182,18 @@ module.exports = function (eleventyConfig) {
       str.replace(/\=\=(.*?)\=\=/g, function (match, p1) {
         return `<mark>${p1}</mark>`;
       })
+    );
+  });
+
+  eleventyConfig.addFilter("taggify", function (str) {
+    return (
+      str &&
+      str.replace(
+        /(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g,
+        function (match, tag) {
+          return `<a class="tag" onclick="toggleTagSearch(this)">${tag}</a>`;
+        }
+      )
     );
   });
 
