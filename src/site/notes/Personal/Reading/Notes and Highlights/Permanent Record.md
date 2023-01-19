@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"title":"Permanent Record","created":"2019-11-15T17:42:24+06:00","updated":"2023-01-19T13:00:00+06:00","dg-publish":true,"permalink":"/personal/reading/notes-and-highlights/permanent-record/","dgPassFrontmatter":true}
+{"tags":["reading-note"],"title":"Permanent Record","created":"2019-11-15T17:42:24+06:00","updated":"2023-01-19T14:18:19+06:00","dg-publish":true,"permalink":"/personal/reading/notes-and-highlights/permanent-record/","dgPassFrontmatter":true}
 ---
 
 # Permanent Record
@@ -7,7 +7,7 @@
 
 ## Preface 
 ### Page 9 @ November 15, 2019
-The reason you’re reading this book is that I did a dangerous thing for a man in my position: I decided to tell the truth. I co llected internal IC documents that gave evidence of the US government’s lawbreaking and turned them over to journalists, who vetted and published them to a scandalized world. This book is about what led up to that decision, the moral and ethical principles that informed it, and how they came to be—which means that it’s also about my life.
+The reason you’re reading this book is that I did a dangerous thing for a man in my position: I decided to tell the truth. I collected internal IC documents that gave evidence of the US government’s lawbreaking and turned them over to journalists, who vetted and published them to a scandalized world. This book is about what led up to that decision, the moral and ethical principles that informed it, and how they came to be—which means that it’s also about my life.
 { #7bcf56}
 
 
