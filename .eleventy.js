@@ -203,7 +203,7 @@ module.exports = function (eleventyConfig) {
     if (match) {
       tags = match
         .map((m) => {
-          return `"${m[1]}"`;
+          return `"${m.slice(1)}"`;
         })
         .join(", ");
     }
