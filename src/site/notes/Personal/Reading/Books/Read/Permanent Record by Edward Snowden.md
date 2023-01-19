@@ -15,7 +15,7 @@ Permanent Record is Snowden's autobiography. However, more than an autobiograph
 
 
 
-The reason you’re reading this book is that I did a dangerous thing for a man in my position: I decided to tell the truth. I co llected internal IC documents that gave evidence of the US government’s lawbreaking and turned them over to journalists, who vetted and published them to a scandalized world. This book is about what led up to that decision, the moral and ethical principles that informed it, and how they came to be—which means that it’s also about my life. 
+The reason you’re reading this book is that I did a dangerous thing for a man in my position: I decided to tell the truth. I collected internal IC documents that gave evidence of the US government’s lawbreaking and turned them over to journalists, who vetted and published them to a scandalized world. This book is about what led up to that decision, the moral and ethical principles that informed it, and how they came to be—which means that it’s also about my life. 
 
 </div></div>
 
