@@ -1,5 +1,5 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-15T11:42:18+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-19T11:57:54+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
 ---
 
 > সহজ লোকের মতো কে চলিতে পারে।
@@ -19,7 +19,7 @@
 A recurring idea in modern writings, literature or scholarly, is the spiritual crisis of the modern time. The implication of this crisis is something we have yet to explore much.
 
 ## Origin
-The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern man, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. [[Entities/Person/Jibanananda Das\|Jibananada]] felt it as much as [[Entities/Person/Fernando Pessoa\|Pessoa]] did (though they reacted differently in some important details).
+The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern person, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. [[Entities/Person/Jibanananda Das\|Jibananada]] felt it as much as [[Entities/Person/Fernando Pessoa\|Pessoa]] did (though they reacted differently in some important details).
 
 ## Effects
 The most obvious effect of this crisis is the disorientation, the emptiness left by the dead faiths. [[Entities/Person/Joseph Campbell\|Joseph Campbell]] has expressed the implication of this void quite succinctly in [[Personal/Reading/Books/Read/The Power of Myth by Joseph Campbell\|The Power of Myth]]: 
