@@ -196,6 +196,23 @@ module.exports = function (eleventyConfig) {
       )
     );
   });
+  eleventyConfig.addFilter("searchableTags", function (str) {
+    let tags;
+    let match =
+      str && str.match(/(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g);
+    if (match) {
+      tags = match
+        .map((m) => {
+          return `"${m[1]}"`;
+        })
+        .join(", ");
+    }
+    if (tags) {
+      return `${tags},`;
+    } else {
+      return "";
+    }
+  });
 
   eleventyConfig.addTransform("callout-block", function (str) {
     return (
