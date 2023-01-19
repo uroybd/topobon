@@ -58,7 +58,7 @@ They bring me faith wrapped up like a parcel and borne on someone else’s tray.
 </div></div>
 
 
-This *doublethink* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
+This *[[Entities/Concept/Doublethink\|doublethink]]* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
 
 The solutions of the crisis are numerous. Campbell was silent, Jibananada lamenting, Pessoa was confused. On the other hand, some philosophers worked their way to build new paths. Russell is one of them:
 
