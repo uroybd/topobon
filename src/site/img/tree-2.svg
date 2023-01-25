@@ -32,8 +32,29 @@
      inkscape:window-y="44"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
-  <defs
-     id="defs2" />
+   <defs>
+      <style>
+         @keyframes dash {
+         to {
+         stroke-dashoffset: 0;
+         }
+         }
+
+         #path1162-2-4 {
+         stroke-dasharray: 30;
+         stroke-dashoffset: 30;
+         animation: dash 0.2s linear forwards;
+         }
+
+         #path1715 {
+         stroke-dasharray: 30;
+         stroke-dashoffset: 30;
+         animation-delay: 0.2s;
+         animation: dash 0.3s linear forwards;
+         }
+
+      </style>
+   </defs>
   <g
      id="g923"
      transform="translate(0,-0.82620279)">
@@ -42,13 +63,22 @@
        id="path1252-3-5"
        cx="33.971466"
        cy="33.262589"
-       r="4.7899914" />
+       r="4.7899914">
+         <animate
+            attributeName="r"
+            values="0;4.7899914"
+            dur="0.3s" />
+       </circle>
     <circle
        style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:1.85208;stroke-dasharray:none;stroke-opacity:1"
        id="path1252-3-6-8"
        cx="5.716033"
        cy="33.262589"
-       r="4.7899914" />
+       r="4.7899914">
+       <animate
+            attributeName="r"
+            values="0;4.7899914"
+            dur="0.3s" /></circle>
     <g
        id="g882">
       <path
@@ -56,7 +86,7 @@
          d="M 6.8957821,53.742871 H 32.791694"
          id="path309-6-1" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-opacity:1"
          d="M 19.843738,53.742871 V 27.84696"
          id="path1162-2-4" />
       <circle
@@ -64,11 +94,16 @@
          id="path1252-7-7"
          cx="19.843739"
          cy="18.683258"
-         r="7.0212355" />
+         r="7.0212355">
+         <animate
+               attributeName="r"
+               values="0;7.0212355"
+               dur="0.5s" />
+         </circle>
       <path
-         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-opacity:1"
          d="M 6.8957955,40.794909 19.843749,44.031894 32.791702,40.794909"
          id="path1715" />
-    </g>
-  </g>
+      </g>
+   </g>
 </svg>

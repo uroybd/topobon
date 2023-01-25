@@ -30,8 +30,35 @@
      inkscape:window-y="44"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1452" />
-  <defs
-     id="defs2" />
+  <defs>
+     <style>
+         @keyframes dash {
+         to {
+         stroke-dashoffset: 0;
+         }
+         }
+
+         #path1162-2-9 {
+         stroke-dasharray: 10;
+         stroke-dashoffset: 10;
+         animation: dash 0.2s linear forwards;
+         }
+
+         #path1162-2-9-0 {
+         stroke-dasharray: 10;
+         stroke-dashoffset: 10;
+         animation-delay: 0.2s;
+         animation: dash 0.3s linear forwards;
+         }
+
+         #path1162-2-9-0-9 {
+         stroke-dasharray: 10;
+         stroke-dashoffset: 10;
+         animation-delay: 0.2s;
+         animation: dash 0.3s linear forwards;
+         }
+     </style>
+   </defs>
   <g
      id="g306">
     <g
@@ -45,15 +72,16 @@
          id="g1774"
          transform="translate(-0.36252357)">
         <path
-           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-opacity:1"
            d="m 89.54352,146.8726 v -6.79397"
-           id="path1162-2-9" />
+           id="path1162-2-9" >
+           </path>
         <path
-           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.33472;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.33472;stroke-opacity:1"
            d="m 88.769982,141.33728 6.627191,-8.18862"
            id="path1162-2-9-0" />
         <path
-           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.3102;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.3102;stroke-opacity:1"
            d="m 89.91936,141.46152 -5.576551,-5.83863"
            id="path1162-2-9-0-9" />
       </g>
@@ -62,13 +90,23 @@
          id="path1252-7-9"
          cx="100.94991"
          cy="126.47297"
-         r="6.9135847" />
+         r="6.9135847">
+         <animate
+               attributeName="r"
+               values="0;6.9135847"
+               dur="0.3s" />
+         </circle>
       <circle
          style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
          id="path1252-7-9-3"
          cx="79.351341"
          cy="130.3979"
-         r="5.0853558" />
+         r="5.0853558">
+         <animate
+               attributeName="r"
+               values="0;5.0853558"
+               dur="0.5s" />
+         </circle>
     </g>
   </g>
 </svg>
