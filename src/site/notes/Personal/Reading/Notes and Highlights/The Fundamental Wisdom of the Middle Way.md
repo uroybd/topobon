@@ -1,5 +1,5 @@
 ---
-{"title":"The Fundamental Wisdom of the Middle Way","updated":"2023-01-12T12:30:50+06:00","created":"2020-11-14T16:12:13+06:00","dg-publish":true,"tags":["buddhism","philosophy","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true}
+{"title":"The Fundamental Wisdom of the Middle Way","updated":"2023-01-24T17:35:17+06:00","created":"2020-11-14T16:12:13+06:00","dg-publish":true,"tags":["buddhism","philosophy","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true}
 ---
 
 # The Fundamental Wisdom of the Middle Way
@@ -10,6 +10,9 @@
 Like a city of Gandharvas, 
 So have arising, abiding, 
 And ceasing been explained.
+{ #b8a2b3}
+
+
 ### XVIII Examination of Self and Entities
 #### Time：2020-11-21 15:38
 > One who does not grasp onto “I” and “mine,” 
