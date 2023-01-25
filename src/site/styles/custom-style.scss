@@ -506,7 +506,7 @@ div.admonition {
 }
 
 div.admonition-title {
-    background-color: white;
+    background-color: var(--background-primary);
     padding: 5px 10px;
     position: absolute;
     top: -1.5rem;
