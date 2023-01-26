@@ -11,6 +11,4 @@
 Notes:: [[Personal/Reading/Notes and Highlights/Homage to Catalonia\|Homage to Catalonia]]
 
 ### About Homage to Catalonia by George Orwell
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| ![Homage to Catalonia\|150](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg)         | Homage to Catalonia is George Orwell's account of the Spanish Civil War. It was the last and most mature of Orwell's documentary books.         |
+<p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> In 1936 Orwell went to Spain to report on the Civil War and instead joined the fight against the Fascists. This famous account describes the war and Orwell' s experiences.</p>
