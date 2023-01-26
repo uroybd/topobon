@@ -1,5 +1,5 @@
 ---
-{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2023-01-12T12:23:39+06:00","read_at":["2019-01-11T00:00:00+06:00"],"read_count":1,"authors":["Ernest Becker"],"isbn10":"141659034X","status":"Read","rating":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg","tags":["death","philosophy","psychology"],"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"reviewed":true,"dg-publish":true,"maturity":2,"permalink":"/personal/reading/books/read/the-denial-of-death-by-ernest-becker/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"dgPassFrontmatter":true}
+{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2023-01-26T16:24:35+06:00","read_at":["2019-01-11T00:00:00+06:00"],"read_count":1,"authors":["Ernest Becker"],"isbn10":"141659034X","status":"Read","rating":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg","tags":["death","philosophy","psychology"],"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"reviewed":true,"dg-publish":true,"maturity":2,"permalink":"/personal/reading/books/read/the-denial-of-death-by-ernest-becker/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### Review
@@ -16,6 +16,4 @@ Thought Provoking.
 Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]]
 
 ### About The Denial of Death by Ernest Becker
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| ![The Denial of Death\|150](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg)         | Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern         |
+<p><img src="http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern</p>
