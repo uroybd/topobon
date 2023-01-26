@@ -1,5 +1,5 @@
 ---
-{"title":"The Hero With a Thousand Faces","created":"2018-08-13T00:00:00+06:00","updated":"2023-01-12T12:24:10+06:00","read_at":["2019-01-20T00:00:00+06:00"],"read_count":1,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg","authors":["Joseph Campbell"],"isbn10":691017840,"status":"Read","rating":5,"reviewed":true,"dg-publish":true,"maturity":3,"tags":["anthropology","myth","psychology"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"permalink":"/personal/reading/books/read/the-hero-with-a-thousand-faces-by-joseph-campbell/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"dgPassFrontmatter":true}
+{"title":"The Hero With a Thousand Faces","created":"2018-08-13T00:00:00+06:00","updated":"2023-01-26T16:36:27+06:00","read_at":["2019-01-20T00:00:00+06:00"],"read_count":1,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg","authors":["Joseph Campbell"],"isbn10":691017840,"status":"Read","rating":5,"reviewed":true,"dg-publish":true,"maturity":3,"tags":["anthropology","myth","psychology"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"permalink":"/personal/reading/books/read/the-hero-with-a-thousand-faces-by-joseph-campbell/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"dgPassFrontmatter":true}
 ---
 
 As the name suggests, this book is a synopsis of the basic personality of a hero (and the myth revolving around him) who can be identified across various cultures and mythologies with astonishing similarities. This is also a book of the idea of mythology how Joseph Campbell has seen.  
@@ -72,6 +72,4 @@ Now, many of the things he said may not have the same degree of truth it had onc
 Notes:: [[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces\|The Hero With a Thousand Faces]]
 
 ### About The Hero with a Thousand Faces by Joseph Campbell
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| ![The Hero with a Thousand Faces\|150](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg)         | Discusses the universal legend of the hero in world mythology, focusing on the motif of the hero's journey through adventure and transformation.         |
+<p><img src="http://books.google.com/books/content?id=I1uFuXlvFgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Discusses the universal legend of the hero in world mythology, focusing on the motif of the hero's journey through adventure and transformation.</p>
