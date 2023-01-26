@@ -1,112 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="150"
-   height="205"
-   viewBox="0 0 39.6875 54.239583"
-   version="1.1"
-   id="svg5"
-   sodipodi:docname="tree-1.svg"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview11"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="2.2616148"
-     inkscape:cx="166.03181"
-     inkscape:cy="101.91833"
-     inkscape:window-width="1800"
-     inkscape:window-height="1097"
-     inkscape:window-x="0"
-     inkscape:window-y="44"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1452" />
-  <defs>
-     <style>
-         @keyframes dash {
-         to {
-         stroke-dashoffset: 0;
-         }
-         }
-
-         #path1162-2-9 {
-         stroke-dasharray: 10;
-         stroke-dashoffset: 10;
-         animation: dash 0.2s linear forwards;
-         }
-
-         #path1162-2-9-0 {
-         stroke-dasharray: 10;
-         stroke-dashoffset: 10;
-         animation-delay: 0.2s;
-         animation: dash 0.3s linear forwards;
-         }
-
-         #path1162-2-9-0-9 {
-         stroke-dasharray: 10;
-         stroke-dashoffset: 10;
-         animation-delay: 0.2s;
-         animation: dash 0.3s linear forwards;
-         }
-     </style>
-   </defs>
-  <g
-     id="g306">
-    <g
-       id="g1452"
-       transform="translate(-69.69977,-93.955927)">
-      <path
-         style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
-         d="m 69.69977,146.8726 h 39.6875"
-         id="path309-6-3" />
-      <g
-         id="g1774"
-         transform="translate(-0.36252357)">
-        <path
-           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-opacity:1"
-           d="m 89.54352,146.8726 v -6.79397"
-           id="path1162-2-9" >
-           </path>
-        <path
-           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.33472;stroke-opacity:1"
-           d="m 88.769982,141.33728 6.627191,-8.18862"
-           id="path1162-2-9-0" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.3102;stroke-opacity:1"
-           d="m 89.91936,141.46152 -5.576551,-5.83863"
-           id="path1162-2-9-0-9" />
-      </g>
-      <circle
-         style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
-         id="path1252-7-9"
-         cx="100.94991"
-         cy="126.47297"
-         r="6.9135847">
-         <animate
-               attributeName="r"
-               values="0;6.9135847"
-               dur="0.3s" />
-         </circle>
-      <circle
-         style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
-         id="path1252-7-9-3"
-         cx="79.351341"
-         cy="130.3979"
-         r="5.0853558">
-         <animate
-               attributeName="r"
-               values="0;5.0853558"
-               dur="0.5s" />
-         </circle>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="205" version="1.1" viewBox="0 0 39.688 54.24" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-69.7 -93.956)" fill="none" stroke="#008000">
+  <path d="m69.7 146.87h39.688" stroke-width="2.6458"/>
+  <g transform="translate(-.36252)">
+   <path d="m89.544 146.87v-6.794" stroke-width="2.6458"/>
+   <path d="m88.77 141.34 6.6272-8.1886" stroke-width="2.3347"/>
+   <path d="m89.919 141.46-5.5766-5.8386" stroke-width="2.3102"/>
   </g>
+  <circle cx="100.95" cy="126.47" r="6.9136" stroke-width="2.6458"/>
+  <circle cx="79.351" cy="130.4" r="5.0854" stroke-width="2.6458"/>
+ </g>
 </svg>

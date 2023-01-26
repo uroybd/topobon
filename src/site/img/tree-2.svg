@@ -1,109 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="150"
-   height="205"
-   viewBox="0 0 39.6875 54.239583"
-   version="1.1"
-   id="svg5"
-   sodipodi:docname="tree-2.svg"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview35"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="1.1512195"
-     inkscape:cx="225.41314"
-     inkscape:cy="115.09534"
-     inkscape:window-width="1800"
-     inkscape:window-height="1097"
-     inkscape:window-x="0"
-     inkscape:window-y="44"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
-   <defs>
-      <style>
-         @keyframes dash {
-         to {
-         stroke-dashoffset: 0;
-         }
-         }
-
-         #path1162-2-4 {
-         stroke-dasharray: 30;
-         stroke-dashoffset: 30;
-         animation: dash 0.2s linear forwards;
-         }
-
-         #path1715 {
-         stroke-dasharray: 30;
-         stroke-dashoffset: 30;
-         animation-delay: 0.2s;
-         animation: dash 0.3s linear forwards;
-         }
-
-      </style>
-   </defs>
-  <g
-     id="g923"
-     transform="translate(0,-0.82620279)">
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:1.85208;stroke-dasharray:none;stroke-opacity:1"
-       id="path1252-3-5"
-       cx="33.971466"
-       cy="33.262589"
-       r="4.7899914">
-         <animate
-            attributeName="r"
-            values="0;4.7899914"
-            dur="0.3s" />
-       </circle>
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:1.85208;stroke-dasharray:none;stroke-opacity:1"
-       id="path1252-3-6-8"
-       cx="5.716033"
-       cy="33.262589"
-       r="4.7899914">
-       <animate
-            attributeName="r"
-            values="0;4.7899914"
-            dur="0.3s" /></circle>
-    <g
-       id="g882">
-      <path
-         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
-         d="M 6.8957821,53.742871 H 32.791694"
-         id="path309-6-1" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-opacity:1"
-         d="M 19.843738,53.742871 V 27.84696"
-         id="path1162-2-4" />
-      <circle
-         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-dasharray:none;stroke-opacity:1"
-         id="path1252-7-7"
-         cx="19.843739"
-         cy="18.683258"
-         r="7.0212355">
-         <animate
-               attributeName="r"
-               values="0;7.0212355"
-               dur="0.5s" />
-         </circle>
-      <path
-         style="fill:none;fill-opacity:1;stroke:#20b2aa;stroke-width:2.64583;stroke-opacity:1"
-         d="M 6.8957955,40.794909 19.843749,44.031894 32.791702,40.794909"
-         id="path1715" />
-      </g>
-   </g>
+<svg width="150" height="205" version="1.1" viewBox="0 0 39.688 54.24" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -.8262)" fill="none" stroke="#20b2aa">
+  <circle cx="33.971" cy="33.263" r="4.79" stroke-width="1.8521"/>
+  <circle cx="5.716" cy="33.263" r="4.79" stroke-width="1.8521"/>
+  <g stroke-width="2.6458">
+   <path d="m6.8958 53.743h25.896"/>
+   <path d="m19.844 53.743v-25.896"/>
+   <circle cx="19.844" cy="18.683" r="7.0212"/>
+   <path d="m6.8958 40.795 12.948 3.237 12.948-3.237"/>
+  </g>
+ </g>
 </svg>
