@@ -19,6 +19,4 @@
 Notes:: [[Personal/Reading/Notes and Highlights/History of Reading by Alberto Manguel\|History of Reading by Alberto Manguel]]
 
 ### About A History of Reading by Alberto Manguel
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| ![A History of Reading\|150](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg)         | This is an intimate study of the art and craft of reading from prehistory to the present. The author meticulously traces the history of reading from the earliest examples of the clay tablets to today's digital revolution.         |
+<p><img src="http://books.google.com/books/content?id=NEDPnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> This is an intimate study of the art and craft of reading from prehistory to the present. The author meticulously traces the history of reading from the earliest examples of the clay tablets to today's digital revolution.</p>
