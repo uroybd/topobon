@@ -1,0 +1,3 @@
+# http and https need separate rules if you don’t force_ssl!
+http://topobon.utsob.me/* https://hermitage.utsob.me/:splat 301!
+https://topobon.utsob.me/* https://hermitage.utsob.me/:splat 301!
