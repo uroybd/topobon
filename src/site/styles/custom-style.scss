@@ -493,12 +493,12 @@ div.callout-cite {
     border: 1px solid rgba(158, 158, 158, .5);
 }
 
-div[class*="language-ad-"],
-div[class*="callout-"] {
-    .admonition-title::before {
-        font-family: 'Noto Emoji', sans-serif !important;
-    }
-}
+// div[class*="language-ad-"],
+// div[class*="callout-"] {
+//     .admonition-title::before {
+//         font-family: 'Noto Emoji', sans-serif !important;
+//     }
+// }
 
 div.admonition {
     position: relative;
