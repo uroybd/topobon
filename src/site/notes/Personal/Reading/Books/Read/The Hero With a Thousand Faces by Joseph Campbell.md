@@ -69,7 +69,8 @@ And so every one of us shares the supreme ordeal—carries the cross of the rede
 
 Now, many of the things he said may not have the same degree of truth it had once. Psychology and Neurology had walked a long way after his time and many ideas he may have believed are not true. But wise men are wise because they broke through the barrier of thoughts of their time, but not for some absolute truths they’ve spoken. Nevertheless, the book is an amazing read. His storytelling and knowledge of myth are awe-striking. Enjoyed the book, totally.
 
-Notes:: [[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces\|The Hero With a Thousand Faces]]
+> [!note] Notes and Highlights from the Book
+> (Notes:: [[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces\|The Hero With a Thousand Faces]])
 
-### About The Hero with a Thousand Faces by Joseph Campbell
-<p><img src="http://books.google.com/books/content?id=I1uFuXlvFgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Discusses the universal legend of the hero in world mythology, focusing on the motif of the hero's journey through adventure and transformation.</p>
+> [!info] About The Hero with a Thousand Faces by Joseph Campbell
+> <p><img src="http://books.google.com/books/content?id=I1uFuXlvFgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Discusses the universal legend of the hero in world mythology, focusing on the motif of the hero's journey through adventure and transformation.</p>
