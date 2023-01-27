@@ -13,8 +13,7 @@ Thought Provoking.
   
 সাইকোঅ্যানালাইসিস আজ অব্দি বোধহয় শুদ্ধ বিজ্ঞান না। এর অনেকটাই মানুষের সাবজেক্টিভ রিয়্যালিটির ওপর নির্ভরশীল এবং সাবজেক্টিভ রিয়্যালিটির এই অংশগুলো যথার্থভাবে ট্রান্সফার বা প্রকাশের বিশেষ সুবিধা মানুষের নেই। কনভার্সেশনই শেষ ভরসা। অনেকটাই অন্ধের হাতি দেখার মত অবস্থা। সেসব মেনে নিলে সাইকোঅ্যালাইসিসের রথী-মহারথীরা যথার্থই জিনিয়াস। কিন্তু শুদ্ধ বিজ্ঞান হতে হয়ত অনেকটা দূর যেতে হবে।
 
-> [!note] Notes and Highlights from the Book
-> (Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]])
+Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]]
 
-> [!info] About The Denial of Death by Ernest Becker
-> <p><img src="http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern</p>
+### About The Denial of Death by Ernest Becker
+<p><img src="http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern</p>
