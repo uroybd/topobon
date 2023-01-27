@@ -45,10 +45,9 @@ But the Darwinian lesson is clear: There will be no humans elsewhere. Only here.
   
 আগেই বলেছি, বইয়ের লেখা সাবলীল ও আকর্ষণীয়। এটা হচ্ছে সেইধরণের বই যা প্রত্যেকের পড়া উচিত। প্রত্যেকের।
 
-> [!note] Notes and Highlights from the Book
-> (Notes:: [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan\|Cosmos]])
+Notes:: [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan\|Cosmos]]
 
-> [!info] About Cosmos by Carl Sagan
-> <p><img src="https://d.gr-assets.com/books/1407113244l/11509720.jpg" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> * Spacecraft missions to nearby planets * The Library of ancient Alexandria * The human brain * Egyptian hieroglyphics * The origin of life * The death of the sun * The evolution of galaxies * The origins of matter, suns and worlds The story of fifteen billion years of cosmic evolution transforming matter and life into consciousness, of how science and civilisation grew up together, and of the forces and individuals who helped shape modern science. A story told with Carl Sagan's remarkable ability to make scientific ideas both comprehensible and exciting.</p>
+### About Cosmos by Carl Sagan
+<p><img src="https://d.gr-assets.com/books/1407113244l/11509720.jpg" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> * Spacecraft missions to nearby planets * The Library of ancient Alexandria * The human brain * Egyptian hieroglyphics * The origin of life * The death of the sun * The evolution of galaxies * The origins of matter, suns and worlds The story of fifteen billion years of cosmic evolution transforming matter and life into consciousness, of how science and civilisation grew up together, and of the forces and individuals who helped shape modern science. A story told with Carl Sagan's remarkable ability to make scientific ideas both comprehensible and exciting.</p>
 
 [^1]: [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan#^e1d103\|Paraphrased from as quotes by Carl Sagan]]
