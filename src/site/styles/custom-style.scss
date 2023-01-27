@@ -502,6 +502,7 @@ div.callout-cite {
 
 div[class*="language-ad-"],
 div[class*="callout-"] {
+    
     .admonition-title::before {
         font-family: 'Noto Emoji', sans-serif !important;
     }
@@ -510,6 +511,8 @@ div[class*="callout-"] {
 div.admonition {
     position: relative;
     margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
 }
 
 div.admonition-title {
