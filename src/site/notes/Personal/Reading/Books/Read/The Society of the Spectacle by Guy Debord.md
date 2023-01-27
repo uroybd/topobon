@@ -1,5 +1,5 @@
 ---
-{"title":"The Society of the Spectacle","created":"2022-03-30T00:00:00+06:00","updated":"2023-01-27T14:09:48+06:00","read_at":["2022-04-25T00:00:00+06:00"],"read_count":1,"authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"status":"Read","rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"maturity":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"permalink":"/personal/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true}
+{"title":"The Society of the Spectacle","created":"2022-03-30T00:00:00+06:00","updated":"2023-01-27T14:15:36+06:00","read_at":["2022-04-25T00:00:00+06:00"],"read_count":1,"authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"status":"Read","rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"maturity":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"permalink":"/personal/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### Review
@@ -68,9 +68,6 @@ And when even [[Personal/Reading/Notes and Highlights/The Society of the Spectac
 
 > [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|Notes from The Society of the Spectacle by Guy Debord]])
-
-
-Notes:: [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|The Society of the Spectacle by Guy Debord]]
 
 ### About Society of the Spectacle by Guy Debord, Ken Knabb
 <p><img src="http://books.google.com/books/content?id=DaK5AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The Das Kapital of the 20th century. An essential text, and the main theoretical work of the situationists. Few works of political and cultural theory have been as enduringly provocative. From its publication amid the social upheavals of the 1960's up to the present, the volatile theses of this book have decisively transformed debates on the shape of modernity, capitalism, and everyday life in the late 20th century. This new edition is the Ken Knabb translation. Certainly it has the most "modern" design of all three editions, as well as a short new introduction from the translator.</p>
