@@ -8,7 +8,8 @@ If one loses sight of Orwell's politics (he was a Democratic Socialist), his bac
   
 This book deals with this misconception and many others. A chronicle that starts from conceiving the book to finishing it, and then, the ever-transforming socio-cultural effect it had on his time, and times after that. To make his point, Minsky did his homework well.
 
-Notes:: [[Personal/Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984\|The Ministry of Truth: The Biography of George Orwell's 1984]]
+> [!note] Notes and Highlights from the Book
+> (Notes:: [[Personal/Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984\|The Ministry of Truth: The Biography of George Orwell's 1984]])
 
-### About The Ministry of Truth by Dorian Lynskey
-<p><img src="http://books.google.com/books/content?id=rvW8ywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> In The Ministry of Truth, Dorian Lynskey charts the life of George Orwell's Nineteen Eighty-Four: one of the most influential books of the 20th Century, a perennial bestseller, and a work that remains more relevant than ever in today's tumultuous world.</p>
+> [!info] About The Ministry of Truth by Dorian Lynskey
+> <p><img src="http://books.google.com/books/content?id=rvW8ywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> In The Ministry of Truth, Dorian Lynskey charts the life of George Orwell's Nineteen Eighty-Four: one of the most influential books of the 20th Century, a perennial bestseller, and a work that remains more relevant than ever in today's tumultuous world.</p>
