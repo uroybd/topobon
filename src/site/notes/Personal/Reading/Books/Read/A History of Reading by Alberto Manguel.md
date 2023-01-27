@@ -16,8 +16,7 @@
 
 বইটার একটা ঘোরলাগা বিষয় আছে। একধরনের স্বচ্ছ লেকের ওপর হালকা বাতাসের ঢেউয়ের মত একটা টোন আছে।
 
-> [!note] Notes and Highlights from the Book
-> (Notes:: [[Personal/Reading/Notes and Highlights/History of Reading by Alberto Manguel\|History of Reading by Alberto Manguel]])
+Notes:: [[Personal/Reading/Notes and Highlights/History of Reading by Alberto Manguel\|History of Reading by Alberto Manguel]]
 
-> [!info] About A History of Reading by Alberto Manguel
-> <p><img src="http://books.google.com/books/content?id=NEDPnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> This is an intimate study of the art and craft of reading from prehistory to the present. The author meticulously traces the history of reading from the earliest examples of the clay tablets to today's digital revolution.</p>
+### About A History of Reading by Alberto Manguel
+<p><img src="http://books.google.com/books/content?id=NEDPnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> This is an intimate study of the art and craft of reading from prehistory to the present. The author meticulously traces the history of reading from the earliest examples of the clay tablets to today's digital revolution.</p>
