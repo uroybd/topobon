@@ -8,7 +8,8 @@
   
 এই বইটা না পড়লে [[Personal/Reading/Books/Read/1984 by George Orwell\|1984]] এবং [[Personal/Reading/Books/Read/Animal Farm by George Orwell\|Animal Farm]] পড়ার পর অরওয়েলকে আপনার এন্টি-কমিউনিস্ট মনে হবে। আদতে জর্জ অরওয়েল কমিউনিজমের ভুত দেখেছেন। তিনি অ্যানার্কিস্ট, এবং সোশ্যালিস্টও বটে।
 
-Notes:: [[Personal/Reading/Notes and Highlights/Homage to Catalonia\|Homage to Catalonia]]
+> [!note] Notes and Highlights from the Book
+> (Notes:: [[Personal/Reading/Notes and Highlights/Homage to Catalonia\|Homage to Catalonia]])
 
-### About Homage to Catalonia by George Orwell
-<p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> In 1936 Orwell went to Spain to report on the Civil War and instead joined the fight against the Fascists. This famous account describes the war and Orwell' s experiences.</p>
+> [!info] About Homage to Catalonia by George Orwell
+> <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> In 1936 Orwell went to Spain to report on the Civil War and instead joined the fight against the Fascists. This famous account describes the war and Orwell' s experiences.</p>
