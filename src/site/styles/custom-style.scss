@@ -249,6 +249,9 @@ div.callout-note {
     border: 1px solid rgba(68, 138, 255, .5);
     .admonition-title {
         color: rgba(68, 138, 255, .5);
+        &::before {
+            content: "✎" !important;
+        }
     }
 }
 
@@ -258,6 +261,9 @@ div.callout-seealso {
     border: 1px solid rgba(68, 138, 255, .5);
     .admonition-title {
         color: rgba(68, 138, 255, .5);
+    }
+    &::before {
+        content: "✎" !important;
     }
 }
 
@@ -393,6 +399,7 @@ div.callout-warning {
     border: 1px solid rgba(255, 145, 0, .5);
     .admonition-title {
         color: rgba(255, 145, 0, .5);
+        
     }
 }
 
@@ -493,12 +500,12 @@ div.callout-cite {
     border: 1px solid rgba(158, 158, 158, .5);
 }
 
-// div[class*="language-ad-"],
-// div[class*="callout-"] {
-//     .admonition-title::before {
-//         font-family: 'Noto Emoji', sans-serif !important;
-//     }
-// }
+div[class*="language-ad-"],
+div[class*="callout-"] {
+    .admonition-title::before {
+        font-family: 'Noto Emoji', sans-serif !important;
+    }
+}
 
 div.admonition {
     position: relative;

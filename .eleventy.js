@@ -215,6 +215,15 @@ module.exports = function (eleventyConfig) {
     }
   });
 
+  eleventyConfig.addFilter("hideDataview", function (str) {
+    return (
+      str &&
+      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) {
+        return value.trim();
+      })
+    );
+  });
+
   eleventyConfig.addTransform("callout-block", function (str) {
     return (
       str &&
