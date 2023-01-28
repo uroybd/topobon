@@ -1,5 +1,5 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-27T23:54:10+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"maturity":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-29T01:54:14+06:00","permalink":"/personal/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true}
 ---
 
 > সহজ লোকের মতো কে চলিতে পারে।
@@ -99,6 +99,6 @@ But the Darwinian lesson is clear: There will be no humans elsewhere. Only here.
 </div></div>
 
 
-The emphasis on love and knowledge is also dominant here.
+The emphasis on love and knowledge is also dominant here. Curiosity took the place of the disorienting emptiness left by the dead faith. The psychological shift is fundamental. It is not like Campbell, Pessoa, or other modern intellectuals were completely ignorant of such ideas. They were just caught between the transition. Also, the mass people are still largely faithful. So, they found themselves particularly alienated in respect to the mass.
 
 [^1]: See [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying#^11ed14\|this]] and the [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying#^17d698\|following]] passage from [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying\|Importance of Dying]]
