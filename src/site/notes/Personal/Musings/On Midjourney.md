@@ -1,5 +1,5 @@
 ---
-{"title":"On Midjourney","location":"Badda, Dhaka","tags":["midjourney","AI","art"],"created":"2022-08-03T11:00:01+06:00","updated":"2023-01-29T17:11:24+06:00","maturity":2,"dg-publish":true,"permalink":"/personal/musings/on-midjourney/","dgPassFrontmatter":true}
+{"title":"On Midjourney","location":"Badda, Dhaka","tags":["midjourney","AI","art"],"created":"2022-08-03T11:00:01+06:00","updated":"2023-01-29T19:51:11+06:00","maturity":2,"dg-publish":true,"permalink":"/personal/musings/on-midjourney/","dgPassFrontmatter":true}
 ---
 
 I've just used [Midjourney](https://midjourney.com). It generates beautiful pictures.
@@ -19,5 +19,5 @@ For the second image, I asked for “Bertrand Russell's dream”. It produced th
 **Art is in the artist's life, as much as it is in what the artist produces.[^3] I'm waiting for an artist machine yet to come. But, I doubt, with its artistic sense of freedom, will it ever take orders from us.**
 
 [^1]: Susan Sontag disagrees with the idea that art is an imitation (which probably was originally). Instead, she insists that arts should be considered on its own merit. For more, see this highlight from the essay *[[Personal/Reading/Notes and Highlights/Against Interpretation and Other Essays by Susan S#^8e3790\|On Style]]*.
-[^2]: John Searle has works on this field. He proposed the term *strong AI* for AIs capable of this kind of awareness. Unfortunately, that is not the case for any AI currently available. See more on this [Wikipedia page](https://en.wikipedia.org/wiki/Chinese_room).
+[^2]: John Searle has works in this field. He proposed the term *strong AI* for AIs capable of this kind of awareness. Unfortunately, that is not the case for any AI currently available. See more on this [Wikipedia page](https://en.wikipedia.org/wiki/Chinese_room).
 [^3]: [[Personal/Musings/The Starry Night সেকাল-একাল#^f9b8c9\|The Starry Night সেকাল-একাল]]
