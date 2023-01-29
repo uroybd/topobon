@@ -17,6 +17,8 @@ Interpretation, based on the highly dubious theory that a work of art is compose
 
 ### Time: 2021-11-13 01:47
 To treat works of art in this fashion is not wholly irrelevant. But it is, obviously, putting art to use—for such purposes as inquiring into the history of ideas, diagnosing contemporary culture, or creating social solidarity. Such a treatment has little to do with what actually happens when a person possessing some training and aesthetic sensibility looks at a work of art appropriately. A work of art encountered as a work of art is an experience, not a statement or an answer to a question. Art is not only about something; it is something. A work of art is a thing in the world, not just a text or commentary on the world.
+{ #8e3790}
+
 
 
 ### Time: 2021-11-15 22:28
