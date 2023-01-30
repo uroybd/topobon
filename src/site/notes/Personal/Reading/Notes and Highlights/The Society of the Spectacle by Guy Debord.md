@@ -1,5 +1,5 @@
 ---
-{"title":"The Society of the Spectacle by Guy Debord","updated":"2023-01-16T22:42:49+06:00","created":"2022-04-25T06:58:25+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"dg-publish":true,"maturity":3,"tags":["reading-notes","philosophy","marxist","sociology"],"permalink":"/personal/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/","dgPassFrontmatter":true}
+{"title":"Notes from The Society of the Spectacle by Guy Debord","updated":"2023-01-30T23:47:42+06:00","created":"2022-04-25T06:58:25+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"dg-publish":true,"maturity":3,"tags":["reading-notes","philosophy","marxist","sociology"],"permalink":"/personal/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/","dgPassFrontmatter":true}
 ---
 
 # The Society of the Spectacle
