@@ -48,7 +48,6 @@
             .nodeId('id')
             .nodeLabel('title')
             .linkSource('source')
-            {# .nodeAutoColorBy('group') #}
             .nodeCanvasObject((node, ctx) => {
                 const numberOfLinks = (node.outBound && node.outBound.length) || 2;
                     const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
@@ -72,8 +71,6 @@
                     window.location = node.url;
                 })
             .linkTarget('target').width(width).height(height);
-        Graph.d3Force('center', null);
-        Graph.onEngineStop(() => Graph.zoomToFit(5, 10));
         return Graph;
     }
 
@@ -86,26 +83,27 @@
 
     fetchGraphData();
 
-    let fullGraph;
+    window.fullGraph = null;
     function renderFullGraph() {
-        if (!fullGraph) {
+        if (!window.fullGraph) {
             const graphData = {
-            links: [...window.graphData.links],
-            nodes: Object.values(window.graphData.nodes)
-        }
-        
-        let g = document.createElement('div');
-        g.id = 'full-graph';
-        g.classList.add('show');
-        document.body.appendChild(g);
-        g.innerHTML = '<i class="fa fa-times" id="full-graph-close" aria-hidden="true"></i><div id="full-graph-container"></div>';
-        
-            fullGraph = renderGraph(graphData, "full-graph-container", g.offsetWidth, g.offsetHeight);
-                    document.getElementById('full-graph-close').addEventListener('click', (evt) => {
-            g.classList.remove('show');
-        });
-        } else {
-            document.getElementById('full-graph').classList.add('show');
+                links: [...window.graphData.links],
+                nodes: Object.values(window.graphData.nodes)
+            }
+            
+            let g = document.createElement('div');
+            g.id = 'full-graph';
+            g.classList.add('show');
+            document.body.appendChild(g);
+            g.innerHTML = '<i class="fa fa-times" id="full-graph-close" aria-hidden="true"></i><div id="full-graph-container"></div>';
+            
+            window.fullGraph = renderGraph(graphData, "full-graph-container", g.offsetWidth, g.offsetHeight);
+            document.getElementById('full-graph-close').addEventListener('click', (evt) => {
+                g.classList.remove('show');
+                window.fullGraph._destructor();
+                window.fullGraph = null;
+                document.getElementById('full-graph').remove()
+            });
         }
         
     }
@@ -113,8 +111,6 @@
     document.getElementById('graph-full-btn').addEventListener('click', (evt) => {
         if (!fullGraph) {
             renderFullGraph();
-        } else {
-            document.getElementById('full-graph').classList.add('show');
         }
     });
 </script>
