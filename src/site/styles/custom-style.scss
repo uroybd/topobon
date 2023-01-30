@@ -64,14 +64,16 @@ body {
     }
 
     .graph {
+
+        & div:first-child {
+            justify-content: space-between !important;
+            align-items: center;
+        }
         @media (max-width: 1490px) {
             display: block !important;
             order: 3;
 
-            & div:first-child {
-                justify-content: flex-start !important;
-                
-            }
+            
             #link-graph {
                 border-radius: 0 10px 10px 10px !important;
             }
@@ -526,15 +528,6 @@ div.admonition-title {
     letter-spacing: 1.1px;
 }
 
-#graph-full-btn {
-    position: absolute;
-    right: 10px;
-    top: 115%;
-    cursor: pointer;
-    color: var(--text-accent);
-    z-index: 9;
-}
-
 .graph-title-container {
     position: relative;
 }
@@ -563,4 +556,25 @@ div.admonition-title {
 
 #full-graph.show {
     display: block;
+}
+
+#graph-controls {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    position: absolute;
+    top: 115%;
+    cursor: pointer;
+    right: 0px;
+    left: 10px;
+    color: var(--text-accent);
+    z-index: 9;
+
+    .depth-control {
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+    }
 }

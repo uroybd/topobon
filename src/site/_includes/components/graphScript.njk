@@ -6,15 +6,16 @@
         return doc.documentElement.textContent;
     }
     window.graphData = null;
-    window.maxGraphDepth = 1;
+    window.maxGraphDepth = 2;
 
     function getNeighbours(data, node, max_depth, depth) {
-        if (depth == max_depth + 1) {
+        if (depth >= max_depth) {
             return new Set([node]);
         } else {
             let neighbors = [];
-            node.neighbors.forEach((n) => {
-                const children = getNeighbours(data, data.nodes[n], max_depth, depth + 1);
+            let newDepth = depth + 1;
+            node.outBound.forEach((n) => {
+                const children = getNeighbours(data, data.nodes[n], max_depth, newDepth);
                 neighbors.push(...children);
             });
             return new Set([node, ...neighbors]);
@@ -25,7 +26,7 @@
         let currentLink = window.location.pathname;
         let currentNode = data.nodes[currentLink] || Object.values(data.nodes).find((v) => v.home);
 
-        let nodes = getNeighbours(data, currentNode, window.maxGraphDepth, 1);
+        let nodes = getNeighbours(data, currentNode, window.maxGraphDepth, 0);
         nodes = Array.from(nodes);
         if (!currentNode.home) {
             nodes = nodes.filter(n => !n.home);
@@ -33,9 +34,8 @@
         let ids = nodes.map((n) => n.id);
         let graphData = {
             nodes,
-            links: data.links.filter((con) => ids.includes(con.target) && ids.includes(con.source)),
+            links: [...data.links.filter((con) => ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1)],
         }
-
         return graphData;
     }
 
@@ -77,18 +77,30 @@
     function fetchGraphData() {
         fetch('/graph').then(res => res.json()).then(data => {
             window.graphData = data;
-            Graph = renderGraph(filterToDepth(data), "link-graph", 330, 330);
+            Graph = renderGraph(filterToDepth(JSON.parse(JSON.stringify(data))), "link-graph", 330, 330);
         });
     }
 
     fetchGraphData();
+    window.document.getElementById('graph-depth').value = window.maxGraphDepth;
+    window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
+    window.document.getElementById('graph-depth').addEventListener('input', (evt) => {
+        
+        window.maxGraphDepth = evt.target.value;
+        window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
+        if (Graph != null) {
+            Graph._destructor();
+            Graph = null;
+        }
+        renderGraph(filterToDepth(JSON.parse(JSON.stringify(window.graphData))), "link-graph", 330, 330);
+    })
 
     window.fullGraph = null;
     function renderFullGraph() {
         if (!window.fullGraph) {
             const graphData = {
                 links: [...window.graphData.links],
-                nodes: Object.values(window.graphData.nodes)
+                nodes: [...Object.values(window.graphData.nodes)]
             }
             
             let g = document.createElement('div');

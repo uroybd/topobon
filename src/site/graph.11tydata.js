@@ -51,9 +51,13 @@ module.exports = {
         stemURLs[fpath] = v.url;
       });
       Object.values(nodes).forEach((node) => {
+        let outBound = new Set();
         node.outBound.forEach((olink) => {
           let link = (stemURLs[olink] || olink).split("#")[0];
-          console.log(link);
+          outBound.add(link);
+        });
+        node.outBound = Array.from(outBound);
+        node.outBound.forEach((link) => {
           let n = nodes[link];
           if (n) {
             n.neighbors.add(node.url);
