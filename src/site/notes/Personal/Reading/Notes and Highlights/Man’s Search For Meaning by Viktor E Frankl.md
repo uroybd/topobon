@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Man’s Search For Meaning by Viktor E Frankl","updated":"2023-01-29T22:11:51+06:00","created":"2021-04-26T04:55:27+06:00","dg-publish":true,"tags":["philosophy","psychology","WWII","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/man-s-search-for-meaning-by-viktor-e-frankl/","dgPassFrontmatter":true}
+{"title":"Notes from Man’s Search For Meaning by Viktor E Frankl","updated":"2023-01-29T22:25:11+06:00","created":"2021-04-26T04:55:27+06:00","dg-publish":true,"tags":["philosophy","psychology","WWII","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/man-s-search-for-meaning-by-viktor-e-frankl/","dgPassFrontmatter":true}
 ---
 
 # Man’s Search For Meaning
@@ -29,5 +29,7 @@ In logotherapy, love is not interpreted as a mere epiphenomenon of sexual drives
 
 #### Page 81 @ 2021-04-25 22:28
 In some way, suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.
+
+
 #### Page 92 @ 2021-04-25 23:13
 Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness. In fact, freedom is in danger of degenerating into mere arbitrariness unless it is lived in terms of responsibleness. That is why I recommend that the Statue of Liberty on the East Coast be supplemented by a Statue of Responsibility on the West Coast.
