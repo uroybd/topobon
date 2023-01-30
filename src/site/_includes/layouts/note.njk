@@ -25,7 +25,7 @@ tree_titles:
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <div class="content cm-s-obsidian">
+    <div class="content cm-s-obsidian" id="main">
       {% if settings.dgShowInlineTitle === true %}
         <h1>
           <a title="{% if maturity %}{{tree_titles[maturity]}}{% else %}{{tree_titles[1]}}{% endif %}" href="/#maturity-levels">
