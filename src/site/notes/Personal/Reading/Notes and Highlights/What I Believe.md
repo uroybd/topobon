@@ -1,5 +1,5 @@
 ---
-{"title":"What I Believe","updated":"2023-01-11T14:16:42+06:00","created":"2022-10-26T16:53:46+06:00","latitude":23.7827339,"longitude":90.4214169,"altitude":-43.8,"dg-publish":true,"tags":["philosophy","modern","western","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/what-i-believe/","dgPassFrontmatter":true}
+{"title":"Notes from What I Believe","updated":"2023-01-30T23:48:39+06:00","created":"2022-10-26T16:53:46+06:00","latitude":23.7827339,"longitude":90.4214169,"altitude":-43.8,"dg-publish":true,"tags":["philosophy","modern","western","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/what-i-believe/","dgPassFrontmatter":true}
 ---
 
 # What I Believe
