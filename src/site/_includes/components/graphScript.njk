@@ -26,7 +26,10 @@
         let currentNode = data.nodes[currentLink] || Object.values(data.nodes).find((v) => v.home);
 
         let nodes = getNeighbours(data, currentNode, window.maxGraphDepth, 1);
-        nodes = Array.from(nodes).filter(n => !n.home);
+        nodes = Array.from(nodes);
+        if (!currentNode.home) {
+            nodes = nodes.filter(n => !n.home);
+        }
         let ids = nodes.map((n) => n.id);
         let graphData = {
             nodes,
