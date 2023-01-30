@@ -37,7 +37,7 @@
 
     const outboundDuplicatesRemoved = outbound.filter(x => !x.isHome && !backLinks.find(b => b.url === x.url));
 
-    const title = "{{page.fileSlug}}" || "Home"
+    const title = "{{title | page.fileSlug}}}" || "Home"
     const currentNode = {
         title,
         id: 0,
