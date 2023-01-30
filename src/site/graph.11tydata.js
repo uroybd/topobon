@@ -33,15 +33,22 @@ module.exports = {
       let links = [];
       let stemURLs = {};
       data.collections.note.forEach((v, idx) => {
+        let fpath = v.filePathStem.replace("/notes/", "");
+        let parts = fpath.split("/");
+        let group = "none";
+        if (parts.length >= 3) {
+          group = parts[parts.length - 2];
+        }
         nodes[v.url] = {
           id: idx,
           title: v.data.title || v.fileSlug,
           url: v.url,
+          group,
           home: v.data["dg-home"] || false,
           outBound: extractLinks(v.template.frontMatter.content),
           neighbors: new Set(),
         };
-        stemURLs[v.filePathStem.replace("/notes/", "")] = v.url;
+        stemURLs[fpath] = v.url;
       });
       Object.values(nodes).forEach((node) => {
         node.outBound.forEach((olink) => {

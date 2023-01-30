@@ -48,6 +48,7 @@
             .nodeId('id')
             .nodeLabel('title')
             .linkSource('source')
+            {# .nodeAutoColorBy('group') #}
             .nodeCanvasObject((node, ctx) => {
                 const numberOfLinks = (node.outBound && node.outBound.length) || 2;
                     const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
@@ -65,6 +66,7 @@
                     ctx.textBaseline = 'top';
                     ctx.fillText(label, node.x, node.y + nodeR + 2);
                 })
+                
             .linkColor(() => getCssVar("--text-muted") || getCssVar("--text-normal"))
             .onNodeClick(node => {
                     window.location = node.url;
