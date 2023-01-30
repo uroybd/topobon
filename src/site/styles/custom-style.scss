@@ -525,3 +525,42 @@ div.admonition-title {
     text-transform: uppercase;
     letter-spacing: 1.1px;
 }
+
+#graph-full-btn {
+    position: absolute;
+    right: 10px;
+    top: 115%;
+    cursor: pointer;
+    color: var(--text-accent);
+    z-index: 9;
+}
+
+.graph-title-container {
+    position: relative;
+}
+
+#full-graph {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 60vh;
+    width: 60vw;
+    min-height: 400px;
+    min-width: 400px;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    display: none;
+    background-color: var(--background-secondary);
+
+    #full-graph-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        cursor: pointer;
+        z-index: 9;
+    }
+}
+
+#full-graph.show {
+    display: block;
+}

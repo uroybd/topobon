@@ -1,140 +1,115 @@
 <script>
-
     const getCssVar = (variable) => getComputedStyle(document.body).getPropertyValue(variable);
 
     function htmlDecode(input) {
         var doc = new DOMParser().parseFromString(input, "text/html");
         return doc.documentElement.textContent;
     }
+    window.graphData = null;
+    window.maxGraphDepth = 1;
 
-
-    const backLinks = [
-
-        {%- for backlink in backlinks -%}
-            {
-                id: {{backlink.id}},
-                title: "{{backlink.title | safe}}",
-                url: "{{backlink.url}}",
-                isHome: {{backlink.isHome}}
-            },
-        {%- endfor -%}
-    ];
-
-    const outbound = [
-
-        {%- for out in outbound -%}
-            {
-                id: {{out.id}},
-                title: "{{out.title | safe}}",
-                url: "{{out.url}}",
-                isHome: {{out.isHome}}
-            },
-        {%- endfor -%}
-    ].map(x => {
-        x.id += backLinks.length;
-        return x;
-    });
-
-    const outboundDuplicatesRemoved = outbound.filter(x => !x.isHome && !backLinks.find(b => b.url === x.url));
-
-    const title = "{{title | page.fileSlug}}}" || "Home"
-    const currentNode = {
-        title,
-        id: 0,
-        url: "{{page.url}}"
-    };
-
-
-    const homeRemovedBackLinks = currentNode.title == "Home" ? backLinks : backLinks.filter(x => !x.isHome);
-
-    const gData = {
-        nodes: [
-            currentNode, 
-            ...homeRemovedBackLinks,
-            ...outboundDuplicatesRemoved
-        ],
-        links: [
-            ...homeRemovedBackLinks.map(backlink => ({source: backlink.id, target: 0})),
-            ...outboundDuplicatesRemoved.map(outlink => ({source: 0, target: outlink.id}))
-        ]
-    };
-
-
-    gData
-        .links
-        .forEach(link => {
-            const a = gData
-                .nodes
-                .find(x => x.id === link.source);
-            const b = gData
-                .nodes
-                .find(x => x.id === link.target);
-            if (a && b) {
-
-                !a.neighbors && (a.neighbors = []);
-                !b.neighbors && (b.neighbors = []);
-                a
-                    .neighbors
-                    .push(b);
-                b
-                    .neighbors
-                    .push(a);
-
-                !a.links && (a.links = []);
-                !b.links && (b.links = []);
-                a
-                    .links
-                    .push(link);
-                b
-                    .links
-                    .push(link);
-            }
-        });
-
-    let Graph;
-    function renderGraph(width, height) {
-
-        if (Graph) {
-            Graph
-                .width(width)
-                .height(height);
-
-            Graph.zoomToFit()
-            Graph.zoom(3)
-            return;
-        }
-
-        Graph = ForceGraph()(document.getElementById('link-graph'))
-            .width(width)
-            .height(height)
-            .nodeCanvasObject((node, ctx) => {
-                const numberOfLinks = (node.links && node.links.length) || 2;
-                const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
-                const nodeR = Math.min(7, Math.max((numberOfLinks + numberOfNeighbours) / 2, 2));
-                ctx.beginPath();
-                ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
-                ctx.fillStyle = getCssVar("--text-accent");
-                ctx.fill();
-
-                const label = htmlDecode(node.title)
-                const fontSize = 3.5;
-                ctx.font = `${fontSize}px Sans-Serif`;
-
-                ctx.textAlign = 'center';
-                ctx.textBaseline = 'top';
-                ctx.fillText(label, node.x, node.y + nodeR + 2);
-            })
-            .linkColor(() => getCssVar("--text-muted") || getCssVar("--text-normal"))
-            .graphData(gData)
-            .onNodeClick(node => {
-                window.location = node.url;
+    function getNeighbours(data, node, max_depth, depth) {
+        if (depth == max_depth + 1) {
+            return new Set([node]);
+        } else {
+            let neighbors = [];
+            node.neighbors.forEach((n) => {
+                const children = getNeighbours(data, data.nodes[n], max_depth, depth + 1);
+                neighbors.push(...children);
             });
-
-            setTimeout(() => {
-                Graph.zoomToFit();
-                Graph.zoom(3);
-            }, 10);
+            return new Set([node, ...neighbors]);
+        }
     }
 
-    renderGraph(330,300);
+    function filterToDepth(data) {
+        let currentLink = window.location.pathname;
+        let currentNode = data.nodes[currentLink] || Object.values(data.nodes).find((v) => v.home);
+
+        let nodes = getNeighbours(data, currentNode, window.maxGraphDepth, 1);
+        nodes = Array.from(nodes).filter(n => !n.home);
+        let ids = nodes.map((n) => n.id);
+        let graphData = {
+            nodes,
+            links: data.links.filter((con) => ids.includes(con.target) && ids.includes(con.source)),
+        }
+
+        return graphData;
+    }
+
+    var Graph;
+
+    function renderGraph(graphData, id, width, height) {
+        let Graph = ForceGraph()
+        (document.getElementById(id))
+            .graphData(graphData)
+            .nodeId('id')
+            .nodeLabel('title')
+            .linkSource('source')
+            .nodeCanvasObject((node, ctx) => {
+                    const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
+                    const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
+                    ctx.beginPath();
+                    ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
+                    ctx.fillStyle = getCssVar("--text-accent");
+                    ctx.fill();
+
+                    const label = htmlDecode(node.title)
+                    const fontSize = 3.5;
+                    ctx.font = `${fontSize}px Sans-Serif`;
+
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'top';
+                    ctx.fillText(label, node.x, node.y + nodeR + 2);
+                })
+            .linkColor(() => getCssVar("--text-muted") || getCssVar("--text-normal"))
+            .onNodeClick(node => {
+                    window.location = node.url;
+                })
+            .linkTarget('target').width(width).height(height);
+        Graph.d3Force('center', null);
+        Graph.onEngineStop(() => Graph.zoomToFit(5, 10));
+        return Graph;
+    }
+
+    function fetchGraphData() {
+        fetch('/graph').then(res => res.json()).then(data => {
+            window.graphData = data;
+            Graph = renderGraph(filterToDepth(data), "link-graph", 330, 330);
+        });
+    }
+
+    fetchGraphData();
+
+    let fullGraph;
+    function renderFullGraph() {
+        if (!fullGraph) {
+            const graphData = {
+            links: [...window.graphData.links],
+            nodes: Object.values(window.graphData.nodes)
+        }
+        
+        let g = document.createElement('div');
+        g.id = 'full-graph';
+        g.classList.add('show');
+        document.body.appendChild(g);
+        g.innerHTML = '<i class="fa fa-times" id="full-graph-close" aria-hidden="true"></i><div id="full-graph-container"></div>';
+        
+            fullGraph = renderGraph(graphData, "full-graph-container", g.offsetWidth, g.offsetHeight);
+                    document.getElementById('full-graph-close').addEventListener('click', (evt) => {
+            g.classList.remove('show');
+        });
+        } else {
+            document.getElementById('full-graph').classList.add('show');
+        }
+        
+    }
+
+    document.getElementById('graph-full-btn').addEventListener('click', (evt) => {
+        console.log(evt);
+        if (!fullGraph) {
+            renderFullGraph();
+        } else {
+            document.getElementById('full-graph').classList.add('show');
+        }
+    });
 </script>
