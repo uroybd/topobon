@@ -1,5 +1,5 @@
 ---
-{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","created":"2023-01-31T20:53:31+06:00","updated":"2023-01-31T21:50:16+06:00","dg-publish":true,"permalink":"/entities/concept/obsidian-federated-embed/","dgPassFrontmatter":true}
+{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","created":"2023-01-31T20:53:31+06:00","updated":"2023-01-31T21:50:33+06:00","dg-publish":true,"permalink":"/entities/concept/obsidian-federated-embed/","dgPassFrontmatter":true}
 ---
 
 ## Abstract
@@ -27,7 +27,7 @@ The publisher, be it a plugin like Obsidian Digital Garden, or a dedicated one w
 }
 ```
 
-## Consumer
+### Consumer
 Consumer plugin will leverage existing callout syntax and provide auto-complete to help the user.
 
 ```md
