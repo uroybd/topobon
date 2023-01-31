@@ -8,26 +8,30 @@
     window.graphData = null;
     window.maxGraphDepth = 1;
 
-    function getNeighbours(data, node, max_depth, depth) {
-        if (depth >= max_depth) {
-            return new Set([node]);
-        } else {
-            let neighbors = [];
-            let newDepth = depth + 1;
-            node.outBound.forEach((n) => {
-                const children = getNeighbours(data, data.nodes[n], max_depth, newDepth);
-                neighbors.push(...children);
-            });
-            return new Set([node, ...neighbors]);
-        }
+    function getNextLevelNeighbours(existing, remaining) {
+        const keys = Object.values(existing).map((n) => n.neighbors).flat();
+        const n_remaining = Object.keys(remaining).reduce((acc, key) => {
+                if (keys.indexOf(key) != -1) {
+                    existing[key] = remaining[key];
+                } else {
+                    acc[key] = remaining[key];
+                }
+                return acc;
+            }, {});
+        return existing, n_remaining;
     }
 
     function filterToDepth(data) {
+        let remaining = JSON.parse(JSON.stringify(data.nodes));
         let currentLink = window.location.pathname;
-        let currentNode = data.nodes[currentLink] || Object.values(data.nodes).find((v) => v.home);
-
-        let nodes = getNeighbours(data, currentNode, window.maxGraphDepth, 0);
-        nodes = Array.from(nodes);
+        let currentNode = remaining[currentLink] || Object.values(remaining).find((v) => v.home);
+        delete remaining[currentNode.url];
+        let existing = {};
+        existing[currentNode.url] = currentNode;
+        for (let i = 0; i < window.maxGraphDepth; i++) {
+            existing, remaining = getNextLevelNeighbours(existing, remaining);
+        }
+        nodes = Object.values(existing);
         if (!currentNode.home) {
             nodes = nodes.filter(n => !n.home);
         }
@@ -48,6 +52,8 @@
             .nodeId('id')
             .nodeLabel('title')
             .linkSource('source')
+            .linkDirectionalArrowLength(2)
+            .linkDirectionalArrowRelPos(0.5)
             .nodeCanvasObject((node, ctx) => {
                 const numberOfLinks = (node.outBound && node.outBound.length) || 2;
                     const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
