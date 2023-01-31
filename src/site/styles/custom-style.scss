@@ -242,6 +242,10 @@ body {
             }
         }
     }
+
+    .toc-container li::before {
+        content: "" !important;
+    }
 }
 
 
