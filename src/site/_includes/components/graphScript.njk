@@ -42,7 +42,7 @@
         let ids = nodes.map((n) => n.id);
         let graphData = {
             nodes,
-            links: [...data.links.filter((con) => ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1)],
+            links: data.links.filter((con) => ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1),
         }
         return graphData;
     }
@@ -109,7 +109,7 @@
     function renderFullGraph() {
         if (!window.fullGraph) {
             const graphData = {
-                links: [...window.graphData.links],
+                links: JSON.parse(JSON.stringify(window.graphData.links)),
                 nodes: [...Object.values(window.graphData.nodes)]
             }
             

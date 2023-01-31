@@ -1,30 +1,4 @@
-const wikilink = /\[\[(.*?\|.*?)\]\]/g;
-const internalLinkRegex = /href="\/(.*?)"/g;
-
-function extractLinks(content) {
-  return [
-    ...(content.match(wikilink) || []).map(
-      (link) =>
-        link
-          .slice(2, -2)
-          .split("|")[0]
-          .replace(/.(md|markdown)\s?$/i, "")
-          .replace("\\", "")
-          .trim()
-          .split("#")[0]
-    ),
-    ...(content.match(internalLinkRegex) || []).map(
-      (link) =>
-        link
-          .slice(6, -1)
-          .split("|")[0]
-          .replace(/.(md|markdown)\s?$/i, "")
-          .replace("\\", "")
-          .trim()
-          .split("#")[0]
-    ),
-  ];
-}
+const { extractLinks } = require("../helpers/linkUtils");
 
 module.exports = {
   eleventyComputed: {

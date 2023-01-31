@@ -1,9 +1,5 @@
 require("dotenv").config();
-const {
-  getBacklinks,
-  getOutboundLinks,
-  forestData,
-} = require("../helpers/linkUtils");
+const { forestData } = require("../helpers/linkUtils");
 const settings = require("../helpers/constants");
 
 const markdownIt = require("markdown-it");
@@ -16,8 +12,6 @@ const allSettings = settings.ALL_NOTE_SETTINGS;
 module.exports = {
   eleventyComputed: {
     forestData: (data) => forestData(data),
-    backlinks: (data) => getBacklinks(data),
-    outbound: (data) => getOutboundLinks(data, true),
     settings: (data) => {
       const currentnote =
         data.collections.gardenEntry && data.collections.gardenEntry[0];
