@@ -1,5 +1,5 @@
 ---
-{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-01-12T12:20:33+06:00","location":"Banani, Dhaka","dg-publish":true,"maturity":2,"permalink":"/personal/musings/on-connections/","dgPassFrontmatter":true}
+{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-01-31T11:00:14+06:00","location":"Banani, Dhaka","dg-publish":true,"maturity":2,"permalink":"/personal/musings/on-connections/","dgPassFrontmatter":true}
 ---
 
 # Preamble
@@ -38,8 +38,8 @@ Connection confidence means how confident one feels about the meaningfulness of 
 ## Strategy
 
 ### Direct Link
-[[Personal/Musings/On Connections#Direct Connection\|#Direct Connection]] with high to medium confidence should get direct link.
+[[Personal/Musings/On Connections#Direct Connection\|Direct Connection]] with high to medium confidence should get direct link.
 
 ### Indirect Link
-[[Personal/Musings/On Connections#Indirect Connection\|#Indirect Connection]] should get indirect link.
-[[Personal/Musings/On Connections#Direct Connection\|#Direct Connection]] with low confidence should be placed as indirect links until the confidence grows.
+[[Personal/Musings/On Connections#Indirect Connection\|Indirect Connection]] should get indirect link.
+[[Personal/Musings/On Connections#Direct Connection\|Direct Connection]] with low confidence should be placed as indirect links until the confidence grows.
