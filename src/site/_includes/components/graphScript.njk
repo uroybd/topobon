@@ -26,6 +26,10 @@
         let currentLink = window.location.pathname;
         let currentNode = remaining[currentLink] || Object.values(remaining).find((v) => v.home);
         delete remaining[currentNode.url];
+        if (!currentNode.home) {
+            let home = Object.values(remaining).find((v) => v.home);
+            delete remaining[home.url];
+        }
         let existing = {};
         existing[currentNode.url] = currentNode;
         for (let i = 0; i < window.maxGraphDepth; i++) {
@@ -88,10 +92,10 @@
     }
 
     fetchGraphData();
-    window.document.getElementById('graph-depth').value = window.maxGraphDepth;
-    window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
-    window.document.getElementById('graph-depth').addEventListener('input', (evt) => {
-        
+        window.document.getElementById('graph-depth').value = window.maxGraphDepth;
+        window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
+        window.document.getElementById('graph-depth').addEventListener('input', (evt) => {
+            
         window.maxGraphDepth = evt.target.value;
         window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
         if (Graph != null) {

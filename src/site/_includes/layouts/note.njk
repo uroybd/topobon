@@ -25,8 +25,9 @@ tree_titles:
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <div class="content cm-s-obsidian" id="main">
-      {% if settings.dgShowInlineTitle === true %}
+    <main class="content cm-s-obsidian" id="main">
+      <header>
+        {% if settings.dgShowInlineTitle === true %}
         <h1>
           <a title="{% if maturity %}{{tree_titles[maturity]}}{% else %}{{tree_titles[1]}}{% endif %}" href="/#maturity-levels">
           <img src="/img/tree-{% if maturity %}{{maturity}}{% else %}1{% endif %}.svg" />
@@ -51,8 +52,9 @@ tree_titles:
           </div>
         {% endif %}
       </div>
+      </header>
       {{ content | hideDataview | link | taggify | highlight | safe}}
-    </div>
+    </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
       {%include "components/sidebar.njk"%}
