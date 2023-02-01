@@ -37,7 +37,7 @@ With the loss of that, we've really lost something because we don't have a compa
 Pessoa, though, told us something about how the modern thinking persons **felt** about it:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/#9fc9fc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -49,7 +49,7 @@ Bereft of illusions, we live on dreams, which are the illusions of those who can
 Pessoa chose to defend faith in [[Personal/Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]] though. But it didn't come naturally and was in stark contrast with his scepticism:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/#b0539e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
