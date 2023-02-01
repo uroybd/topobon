@@ -1,5 +1,5 @@
 ---
-{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","tags":["technical-draft"],"created":"2023-01-31T20:53:31+06:00","updated":"2023-02-01T11:12:27+06:00","dg-publish":true,"permalink":"/entities/technical-draft/obsidian-federated-embed/","dgPassFrontmatter":true}
+{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","tags":["technical-draft"],"created":"2023-01-31T20:53:31+06:00","updated":"2023-02-01T17:40:24+06:00","dg-publish":true,"permalink":"/entities/technical-draft/obsidian-federated-embed/","dgPassFrontmatter":true}
 ---
 
 ## Abstract
@@ -7,7 +7,7 @@ Digital Gardens are great for nurturing thought. And, evergreen notes expands bu
 
 ## Approach
 ### Publisher
-The publisher, be it a plugin like Obsidian Digital Garden, or a dedicated one will generate a manifest file, let's say, `obsidian-federation.json` to the root of the public URL with this format:
+The publisher, be it a plugin like Obsidian Digital Garden, or a dedicated one will generate a manifest file, let's say, `campfire.json` to the root of the public URL with this format:
 
 ```json
 {
