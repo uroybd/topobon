@@ -126,5 +126,4 @@ exports.wikiLinkRegex = wikiLinkRegex;
 exports.internalLinkRegex = internalLinkRegex;
 exports.extractLinks = extractLinks;
 exports.forestData = forestData;
-exports.getBacklinks = getBacklinks;
 exports.getGraph = getGraph;
