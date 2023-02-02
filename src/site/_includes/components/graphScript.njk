@@ -93,7 +93,7 @@
             .onNodeClick(node => {
                     window.location = node.url;
                 });
-                if (delay != null && graphData.nodes.length > 3) {
+                if (delay != null && graphData.nodes.length > 4) {
                     setTimeout(() => {
                         Graph.zoomToFit(5, 75);
                     }, delay);
