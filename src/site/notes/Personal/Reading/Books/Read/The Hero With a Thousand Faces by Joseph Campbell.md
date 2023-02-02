@@ -73,4 +73,4 @@ Now, many of the things he said may not have the same degree of truth it had onc
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces\|The Hero With a Thousand Faces]])
 
 > [!info] About The Hero with a Thousand Faces by Joseph Campbell
-><img src="http://books.google.com/books/content?id=I1uFuXlvFgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Discusses the universal legend of the hero in world mythology, focusing on the motif of the hero's journey through adventure and transformation.
+><img src="https://books.google.com/books/content?id=I1uFuXlvFgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Discusses the universal legend of the hero in world mythology, focusing on the motif of the hero's journey through adventure and transformation.
