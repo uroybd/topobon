@@ -34,6 +34,7 @@ function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
+  let homeAlias = "/";
   data.collections.note.forEach((v, idx) => {
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
@@ -52,6 +53,9 @@ function getGraph(data) {
       backLinks: new Set(),
     };
     stemURLs[fpath] = v.url;
+    if (v.data["dg-home"]) {
+      homeAlias = v.url;
+    }
   });
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
@@ -76,6 +80,7 @@ function getGraph(data) {
     nodes[k].size = nodes[k].neighbors.length;
   });
   return {
+    homeAlias,
     nodes,
     links,
   };
