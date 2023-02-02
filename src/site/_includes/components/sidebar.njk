@@ -47,13 +47,12 @@
                                     <div class="backlinks">
                                           <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
                                                 <div class="backlink-list">
-
-                                                {%- if backlinks.length === 0 -%}
-                                                      <div class="backlink-card">
-                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
-                                                      </div>
-                                                {%- endif -%}
                                                 {%- if page.url == "/" -%}
+                                                      {%- if graph.nodes[graph.homeAlias].backLinks.length === 0 -%}
+                                                            <div class="backlink-card">
+                                                                  <span class="no-backlinks-message">No other pages mentions this page</span>
+                                                            </div>
+                                                      {%- endif -%}
                                                 {%- for backlink in graph.nodes[graph.homeAlias].backLinks -%}
                                                       {%- if graph.nodes[backlink].url != graph.homeAlias -%}
                                                       <div class="backlink-card">
@@ -62,6 +61,11 @@
                                                       {%- endif -%}
                                                 {%- endfor -%}
                                                 {%- else -%}
+                                                      {%- if graph.nodes[page.url].backLinks.length === 0 -%}
+                                                            <div class="backlink-card">
+                                                                  <span class="no-backlinks-message">No other pages mentions this page</span>
+                                                            </div>
+                                                      {%- endif -%}
                                                 {%- for backlink in graph.nodes[page.url].backLinks -%}
                                                       {%- if graph.nodes[backlink].url != page.url -%}
                                                       <div class="backlink-card">
@@ -72,7 +76,7 @@
                                                 {%- endif -%}
                                                 </div>
                                     </div>
-                                    {%endif%}
+                              {%endif%}
                               </div>
                         </div>
                   </aside>
