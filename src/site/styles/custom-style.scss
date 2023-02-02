@@ -64,19 +64,9 @@ body {
     }
 
     .graph {
-
-        & div:first-child {
-            justify-content: space-between !important;
-            align-items: center;
-        }
         @media (max-width: 1490px) {
             display: block !important;
             order: 3;
-
-            
-            #link-graph {
-                border-radius: 0 10px 10px 10px !important;
-            }
         }
     }
 
@@ -534,6 +524,7 @@ div.admonition-title {
 
 .graph-title-container {
     position: relative;
+    width: 100% !important;
 }
 
 #full-graph {
@@ -570,11 +561,15 @@ div.admonition-title {
     gap: 5px;
     position: absolute;
     top: 115%;
-    cursor: pointer;
-    right: 0px;
+    
+    right: 10px;
     left: 10px;
     color: var(--text-accent);
     z-index: 9;
+
+    #graph-full-btn {
+        cursor: pointer;
+    }
 
     .depth-control {
         display: flex;
