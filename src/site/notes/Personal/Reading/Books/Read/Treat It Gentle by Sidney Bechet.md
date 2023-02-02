@@ -12,4 +12,4 @@
 > (Notes:: [[Personal/Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet\|Treat it Gentle by Sidney Bechet]])
 
 > [!info] About Treat It Gentle by Sidney Bechet
-><img src="http://books.google.com/books/content?id=DB_ymgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The most valuable and moving of all jazz biographies. -Nat Hentoff
+><img src="https://books.google.com/books/content?id=DB_ymgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The most valuable and moving of all jazz biographies. -Nat Hentoff
