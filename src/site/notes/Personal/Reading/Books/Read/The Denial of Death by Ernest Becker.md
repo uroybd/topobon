@@ -17,4 +17,4 @@ Thought Provoking.
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]])
 
 > [!info] About The Denial of Death by Ernest Becker
-><img src="http://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern
+><img src="https://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern
