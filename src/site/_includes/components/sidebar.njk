@@ -53,13 +53,11 @@
                                                             <span class="no-backlinks-message">No other pages mentions this page</span>
                                                       </div>
                                                 {%- endif -%}
-
-                                                {%- for backlink in backlinks -%}
+                                                {%- for backlink in graph.nodes[page.url].backLinks -%}
                                                       <div class="backlink-card">
-                                                            <i class="fa fa-link"></i> <a href="{{backlink.url}}">{{backlink.title}}</a>
+                                                            <i class="fa fa-link"></i> <a href="{{graph.nodes[backlink].url}}">{{graph.nodes[backlink].title}}</a>
                                                       </div>
                                                 {%- endfor -%}
-
                                                 </div>
                                     </div>
                                     {%endif%}
