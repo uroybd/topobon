@@ -1,8 +1,8 @@
 ---
-{"title":"The Encounter","updated":"2023-02-06T17:57:10+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","dgPassFrontmatter":true}
+{"title":"The Encounter","updated":"2023-02-06T18:02:23+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"dg-metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dgPassFrontmatter":true}
 ---
 
-On an ordinary day a few months back, I first met a person who is not me. That is NOT to say that it is another person— for I met many other persons throughout my life. This person who is not me could have been who I am but our temporality robbed his reality.
+On an ordinary day a few months back, I first met a person who is not me. That is NOT to say that it is another person— for I met many other persons throughout my life. This person who is not me could have been who I am, but our temporality robbed his reality.
 
 Or, that is how I thought reality stands until on an ordinary day I met a person who is not me.
 
@@ -23,5 +23,5 @@ The unlived one sat, so did I. He talked, and I listened before the utterances.
 #### In this series
 | Title                                                                                                                                                                 | Updated                                                   | Created                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Maturity Level: 2\|14](https://hermitage.utsob.me/img/tree-2.svg) [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | <center><small>Feb 06, 2023<hr/>05:57 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
-| ![Maturity Level: 2\|14](https://hermitage.utsob.me/img/tree-2.svg) [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | <center><small>Feb 06, 2023<hr/>05:58 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
+| ![Maturity Level: 2\|14](https://hermitage.utsob.me/img/tree-2.svg) [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | <center><small>Feb 06, 2023<hr/>06:02 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
+| ![Maturity Level: 2\|14](https://hermitage.utsob.me/img/tree-2.svg) [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | <center><small>Feb 06, 2023<hr/>06:02 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
