@@ -8,6 +8,10 @@ const tocPlugin = require("eleventy-plugin-toc");
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setLiquidOptions({
+    dynamicPartials: true,
+    // strictFilters: false, // renamed from `strict_filters` in Eleventy 1.0
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,

@@ -64,7 +64,8 @@ tree_titles:
       {%- endfor -%}
       {%- endif -%}
       {{ content | hideDataview | link | taggify | highlight | safe}}
-      
+
+
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
@@ -75,9 +76,13 @@ tree_titles:
       {%include "components/linkPreview.njk"%}
     {% endif %}
 
-    {% include "components/comment.njk" %}
-    {% include "components/references.njk" %}
-    {% include "components/themeSwitcher.njk" %}
-    {% include "components/footNote.njk" %}
+    {% for imp in dynamics.common.footers %}
+      {% include imp %}
+    {% endfor %}
+
+
+    {% for imp in dynamics.notes.footers %}
+      {% include imp %}
+    {% endfor %}
   </body>
 </html>
