@@ -52,6 +52,12 @@ tree_titles:
           </div>
         {% endif %}
       </div>
+      {% for imp in dynamics.common.header %}
+        {% include imp %}
+      {% endfor %}
+      {% for imp in dynamics.notes.header %}
+        {% include imp %}
+      {% endfor %}
       </header>
       {%- if tags and 'reading-notes' in tags or 'reading-note' in tags -%}
       {%- for note in collections.note -%}
@@ -64,10 +70,13 @@ tree_titles:
       {%- endfor -%}
       {%- endif -%}
       {{ content | hideDataview | link | taggify | highlight | safe}}
-
-
+      {% for imp in dynamics.common.afterContent %}
+        {% include imp %}
+      {% endfor %}
+      {% for imp in dynamics.notes.afterContent %}
+        {% include imp %}
+      {% endfor %}
     </main>
-
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
       {%include "components/sidebar.njk"%}
     {% endif %}
@@ -76,12 +85,10 @@ tree_titles:
       {%include "components/linkPreview.njk"%}
     {% endif %}
 
-    {% for imp in dynamics.common.footers %}
+    {% for imp in dynamics.common.footer %}
       {% include imp %}
     {% endfor %}
-
-
-    {% for imp in dynamics.notes.footers %}
+    {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
   </body>
