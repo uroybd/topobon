@@ -1,17 +1,14 @@
 require("dotenv").config();
-const { forestData } = require("../helpers/linkUtils");
 const settings = require("../helpers/constants");
 
 const markdownIt = require("markdown-it");
 const md = markdownIt({
   html: true,
 }).use(require("../helpers/utils").namedHeadingsFilter);
-
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
 module.exports = {
   eleventyComputed: {
-    forestData: (data) => forestData(data),
     settings: (data) => {
       const currentnote =
         data.collections.gardenEntry && data.collections.gardenEntry[0];
@@ -36,6 +33,14 @@ module.exports = {
         return currentnote.data.title || currentnote.data.page.fileSlug;
       }
       return "";
+    },
+    tags: (data) => {
+      const currentnote =
+        data.collections.gardenEntry && data.collections.gardenEntry[0];
+      if (currentnote && currentnote.data) {
+        return currentnote.data.tags;
+      }
+      return [];
     },
     content: (data) => {
       const currentnote =
