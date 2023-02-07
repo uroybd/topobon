@@ -10,6 +10,8 @@
 
 ### Time: 2021-11-12 21:51
 Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories.
+{ #afc88f}
+
 
 
 ## On style
