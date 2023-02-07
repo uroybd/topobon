@@ -1,15 +1,10 @@
 ---
-title: "/{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}/"
 permalink: "notes/{{ page.fileSlug | slugify }}/"
-tree_titles:
-  1: Seedling
-  2: Sapling
-  3: Tree
 ---
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} | {{meta.siteName}}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
@@ -25,33 +20,24 @@ tree_titles:
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <main class="content cm-s-obsidian" id="main">
+    <main class="content cm-s-obsidian">
       <header>
         {% if settings.dgShowInlineTitle === true %}
-        <h1>
-          <a title="{% if maturity %}{{tree_titles[maturity]}}{% else %}{{tree_titles[1]}}{% endif %}" href="/#maturity-levels">
-          <img src="/img/tree-{% if maturity %}{{maturity}}{% else %}1{% endif %}.svg" />
-          </a>
-          {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}
-          </h1>
-
-      {% endif %}
-      <div class="header-meta">
-        <div class="timestamps">{% if created %}<div>Created At: <span class="human-date" data-date="{{created}}"></span></div>{% endif %}
-        {% if updated %}<div>Updated At: <span class="human-date" data-date="{{updated}}"></span></div>{% endif %}
-        </div>
-        {% if settings.dgShowTags === true and tags %}
-          <div class="header-tags">
-            {% for tag in tags %}
-              {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{tag}}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
+          <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
-      </div>
+        <div class="header-meta">
+          {% if settings.dgShowTags === true and tags %}
+            <div class="header-tags">
+              {% for tag in tags %}
+                {% if tag != 'gardenEntry' and tag !='note' %}
+                  <a class="tag" onclick="toggleTagSearch(this)">
+                    #{{tag}}
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
       {% for imp in dynamics.common.header %}
         {% include imp %}
       {% endfor %}
@@ -59,16 +45,6 @@ tree_titles:
         {% include imp %}
       {% endfor %}
       </header>
-      {%- if tags and 'reading-notes' in tags or 'reading-note' in tags -%}
-      {%- for note in collections.note -%}
-      {%- if note.data.tags and 'reading-convention' in note.data.tags -%}
-      <div class="callout-info admonition admonition-example admonition-plugin">
-          <div class="admonition-title">{{ note.data.title or note.fileSlug }}<br></div>
-          {{ note.templateContent | hideDataview | link | taggify | highlight | safe}}
-      </div>
-      {%- endif -%}
-      {%- endfor -%}
-      {%- endif -%}
       {{ content | hideDataview | link | taggify | highlight | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
@@ -77,6 +53,7 @@ tree_titles:
         {% include imp %}
       {% endfor %}
     </main>
+
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
       {%include "components/sidebar.njk"%}
     {% endif %}
@@ -84,7 +61,7 @@ tree_titles:
     {% if settings.dgLinkPreview === true %}
       {%include "components/linkPreview.njk"%}
     {% endif %}
-
+    {% include "components/references.njk" %}
     {% for imp in dynamics.common.footer %}
       {% include imp %}
     {% endfor %}
