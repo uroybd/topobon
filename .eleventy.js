@@ -4,20 +4,21 @@ const fs = require("fs");
 const matter = require("gray-matter");
 const faviconPlugin = require("eleventy-favicon");
 const tocPlugin = require("eleventy-plugin-toc");
+const { parse } = require("node-html-parser");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+
+const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
-    // strictFilters: false, // renamed from `strict_filters` in Eleventy 1.0
   });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
   })
     .use(require("markdown-it-footnote"))
-    .use(require("markdown-it-attrs"))
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
@@ -31,6 +32,7 @@ module.exports = function (eleventyConfig) {
         skipHtmlTags: { "[-]": ["pre"] },
       },
     })
+    .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
       disabled: true,
       divWrap: false,
@@ -66,23 +68,27 @@ module.exports = function (eleventyConfig) {
           if (code && code.toLowerCase().startsWith("title:")) {
             const title = code.substring(6, code.indexOf("\n"));
             const titleDiv = title
-              ? `<div class="admonition-title">${title}</div>`
+              ? `<div class="callout-title"><div class="callout-title-inner">${title}</div></div>`
               : "";
-            return `<div class="language-${
+
+            return `<div class="callout" data-callout="${
               token.info
-            } admonition admonition-example admonition-plugin">${titleDiv}${md.render(
+            }">${titleDiv}\n<div class="callout-content">${md.render(
               code.slice(code.indexOf("\n"))
-            )}</div>`;
+            )}</div></div>`;
           }
 
-          const title = `<div class="admonition-title">${token.info
+          const title = `<div class="callout-title"><div class="callout-title-inner">${token.info
             .charAt(3)
-            .toUpperCase()}${token.info.substring(4).toLowerCase()}</div>`;
-          return `<div class="language-${
+            .toUpperCase()}${token.info
+            .substring(4)
+            .toLowerCase()}</div></div>`;
+
+          return `<div class="callout" data-callout="${
             token.info
-          } admonition admonition-example admonition-plugin">${title}${md.render(
+          }">${title}\n<div class="callout-content">${md.render(
             code
-          )}</div>`;
+          )}</div></div>`;
         }
 
         // Other languages
@@ -147,7 +153,7 @@ module.exports = function (eleventyConfig) {
         }
         const [fileLink, linkTitle] = p1.split("|");
 
-        let fileName = fileLink;
+        let fileName = fileLink.replaceAll("&amp;", "&");
         let header = "";
         let headerLinkPath = "";
         if (fileLink.includes("#")) {
@@ -192,19 +198,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("taggify", function (str) {
     return (
       str &&
-      str.replace(
-        /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g,
-        function (match, precede, tag) {
-          return `${precede}<a class="tag" onclick="toggleTagSearch(this)">${tag}</a>`;
-        }
-      )
+      str.replace(tagRegex, function (match, precede, tag) {
+        return `${precede}<a class="tag" onclick="toggleTagSearch(this)">${tag}</a>`;
+      })
     );
   });
+
   eleventyConfig.addFilter("searchableTags", function (str) {
     let tags;
-    let match =
-      str &&
-      str.match(/(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g);
+    let match = str && str.match(tagRegex);
     if (match) {
       tags = match
         .map((m) => {
@@ -229,49 +231,77 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addTransform("callout-block", function (str) {
-    return (
-      str &&
-      str.replace(
-        /<blockquote>((.|\n)*?)<\/blockquote>/g,
-        function (match, content) {
-          let titleDiv = "";
-          let calloutType = "";
-          const calloutMeta = /\[!(\w*)\](\s?.*)/g;
-          if (!content.match(calloutMeta)) {
-            return match;
-          }
+    const parsed = parse(str);
 
-          content = content.replace(
-            calloutMeta,
-            function (metaInfoMatch, callout, title) {
-              calloutType = callout;
-              titleDiv = title.replace("<br>", "")
-                ? `<div class="admonition-title">${title}</div>`
-                : `<div class="admonition-title">${callout
-                    .charAt(0)
-                    .toUpperCase()}${callout.substring(1).toLowerCase()}</div>`;
-              return "";
-            }
-          );
+    const transformCalloutBlocks = (
+      blockquotes = parsed.querySelectorAll("blockquote")
+    ) => {
+      for (const blockquote of blockquotes) {
+        transformCalloutBlocks(blockquote.querySelectorAll("blockquote"));
 
-          return `<div class="callout-${calloutType?.toLowerCase()} admonition admonition-example admonition-plugin">
-                ${titleDiv}
-                ${content}
-            </div>`;
+        let content = blockquote.innerHTML;
+
+        let titleDiv = "";
+        let calloutType = "";
+        let isCollapsable;
+        let isCollapsed;
+        const calloutMeta = /\[!(\w*)\](\+|\-){0,1}(\s?.*)/;
+        if (!content.match(calloutMeta)) {
+          continue;
         }
-      )
-    );
+
+        content = content.replace(
+          calloutMeta,
+          function (metaInfoMatch, callout, collapse, title) {
+            isCollapsable = Boolean(collapse);
+            isCollapsed = collapse === "-";
+            const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
+              ? title
+              : `${callout.charAt(0).toUpperCase()}${callout
+                  .substring(1)
+                  .toLowerCase()}`;
+            const fold = isCollapsable
+              ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
+              : ``;
+
+            calloutType = callout;
+            titleDiv = `<div class="callout-title"><div class="callout-title-inner">${titleText}</div>${fold}</div>`;
+            return "";
+          }
+        );
+
+        blockquote.tagName = "div";
+        blockquote.classList.add("callout");
+        blockquote.classList.add(isCollapsable ? "is-collapsible" : "");
+        blockquote.classList.add(isCollapsed ? "is-collapsed" : "");
+        blockquote.setAttribute("data-callout", calloutType.toLowerCase());
+        blockquote.innerHTML = `${titleDiv}\n<div class="callout-content">${content}</div>`;
+      }
+    };
+
+    transformCalloutBlocks();
+
+    return str && parsed.innerHTML;
   });
 
   eleventyConfig.addPassthroughCopy("src/site/img");
-  eleventyConfig.addPassthroughCopy("src/site/_redirects");
+  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPlugin(faviconPlugin, { destination: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
   eleventyConfig.addFilter("jsonify", function (variable) {
-    return JSON.stringify(variable);
+    return JSON.stringify(variable) || '""';
+  });
+
+  eleventyConfig.addFilter("validJson", function (variable) {
+    if (Array.isArray(variable)) {
+      return variable.map((x) => x.replaceAll("\\", "\\\\")).join(",");
+    } else if (typeof variable === "string") {
+      return variable.replaceAll("\\", "\\\\");
+    }
+    return variable;
   });
 
   return {
