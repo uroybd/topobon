@@ -44,6 +44,7 @@
                         {%endif%}
 
                               {%if settings.dgShowBacklinks === true %}
+                                    {%if settings.dgShowBacklinks === true %}
                                     <div class="backlinks">
                                           <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
                                                 <div class="backlink-list">
@@ -75,7 +76,8 @@
                                                 {%- endfor -%}
                                                 {%- endif -%}
                                                 </div>
-                                    </div>
+                                          </div>
+                                    {%endif%}
                               {%endif%}
                               </div>
                         </div>
