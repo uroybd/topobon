@@ -64,6 +64,7 @@ body {
     }
 
     .graph {
+        flex: unset;
         @media (max-width: 1490px) {
             display: block !important;
             order: 3;

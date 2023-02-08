@@ -1,0 +1,5 @@
+    <script>
+      document.querySelectorAll('.human-date').forEach(function (el) {
+        el.innerHTML = dayjs(el.getAttribute('data-date') || el.innerText).format('MMM D, YYYY h:mm A');
+      });
+    </script>

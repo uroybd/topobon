@@ -43,9 +43,10 @@ const sortTree = (unsorted) => {
     return orderedTree;
 }
 
-function getPermalinkAndName(path, key) {
+function getPermalink(path, key) {
     let permalink = "/"
     let name = key.replace(".md", "");
+    let maturity = 1;
     try {
         const file = fs.readFileSync(`${path}`, 'utf8');
         const frontMatter = matter(file);
@@ -55,11 +56,14 @@ function getPermalinkAndName(path, key) {
         if (frontMatter.data.title) {
             name = frontMatter.data.title
         }
+        if (frontMatter.data.maturity) {
+            maturity = frontMatter.data.maturity;
+        }
     } catch {
         //ignore
     }
 
-    return { permalink, name };
+    return { permalink, name, maturity };
 }
 
 function populateWithPermalink(tree) {
@@ -68,9 +72,10 @@ function populateWithPermalink(tree) {
             const isNote = tree[key].path.endsWith(".md");
             tree[key].isNote = isNote;
             if (isNote) {
-                let { permalink, name } = getPermalinkAndName(tree[key].path, key);
-                tree[key].permalink = permalink
-                tree[key].name = name
+                let { permalink, name, maturity } = getPermalink(tree[key].path, key);
+                tree[key].permalink = permalink;
+                tree[key].name = name;
+                tree[key].maturity = maturity;
             }
         } else {
             tree[key].isFolder = true;

@@ -4,7 +4,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} | {{meta.siteName}}</title>
     {%include "components/pageheader.njk"%}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
@@ -20,24 +20,29 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <main class="content cm-s-obsidian">
+    <main class="content cm-s-obsidian" id="main">
       <header>
         {% if settings.dgShowInlineTitle === true %}
-          <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+          <h1>
+          <a title="{% if maturity %}{{tree_titles[maturity]}}{% else %}{{tree_titles[1]}}{% endif %}" href="/#maturity-levels">
+          <img src="/img/tree-{% if maturity %}{{maturity}}{% else %}1{% endif %}.svg" />
+          </a>
+          {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}
+          </h1>
+      {% endif %}
+      <div class="header-meta">
+        {% if settings.dgShowTags === true and tags %}
+          <div class="header-tags">
+            {% for tag in tags %}
+              {% if tag != 'gardenEntry' and tag !='note' %}
+                <a class="tag" onclick="toggleTagSearch(this)">
+                  #{{tag}}
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
         {% endif %}
-        <div class="header-meta">
-          {% if settings.dgShowTags === true and tags %}
-            <div class="header-tags">
-              {% for tag in tags %}
-                {% if tag != 'gardenEntry' and tag !='note' %}
-                  <a class="tag" onclick="toggleTagSearch(this)">
-                    #{{tag}}
-                  </a>
-                {% endif %}
-              {% endfor %}
-            </div>
-          {% endif %}
-        </div>
+      </div>
       {% for imp in dynamics.common.header %}
         {% include imp %}
       {% endfor %}
@@ -45,6 +50,16 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       </header>
+      {%- if tags and 'reading-notes' in tags or 'reading-note' in tags -%}
+      {%- for note in collections.note -%}
+      {%- if note.data.tags and 'reading-convention' in note.data.tags -%}
+      <div class="callout-info admonition admonition-example admonition-plugin">
+          <div class="admonition-title">{{ note.data.title or note.fileSlug }}<br></div>
+          {{ note.templateContent | hideDataview | link | taggify | highlight | safe}}
+      </div>
+      {%- endif -%}
+      {%- endfor -%}
+      {%- endif -%}
       {{ content | hideDataview | link | taggify | highlight | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
