@@ -338,3 +338,24 @@ body {
         padding-right: 5px;
     }
 }
+
+.internal-link[data-maturity]::before {
+    content: " ";
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.internal-link[data-maturity="1"]::before {
+    background-image: url(/img/tree-1.svg);
+}
+
+.internal-link[data-maturity="2"]::before {
+    background-image: url(/img/tree-2.svg);
+}
+
+.internal-link[data-maturity="3"]::before {
+    background-image: url(/img/tree-3.svg);
+}
