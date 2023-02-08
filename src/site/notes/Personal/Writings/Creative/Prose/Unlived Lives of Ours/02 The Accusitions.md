@@ -1,5 +1,5 @@
 ---
-{"title":"The Accusitions","updated":"2023-02-06T18:02:36+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"dg-metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/02-the-accusitions/","metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"dgPassFrontmatter":true}
+{"title":"The Accusitions","updated":"2023-02-08T13:47:11+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"dg-metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/02-the-accusitions/","metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"dgPassFrontmatter":true}
 ---
 
 "Recall the point of division— from when you started to live and I became the unlived one," said he.
@@ -19,5 +19,5 @@ There is no single point. Is there?"
 | Title                                                                                             | Updated                                                   | Created                                                    |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
 | [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | <center><small>Feb 08, 2023<hr/>01:46 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
-| [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | <center><small>Feb 06, 2023<hr/>06:02 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
+| [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | <center><small>Feb 08, 2023<hr/>01:47 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
 
