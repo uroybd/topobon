@@ -5,7 +5,7 @@
     <meta name="google-site-verification" content="yaG9aMIkyWztf-xMSpBoNH-6GdUYIstE-PUpHhZFR2U" />
     {%include "components/pageheader.njk"%}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section enable-title-maturity enable-link-maturity enable-filetree-maturity">
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}

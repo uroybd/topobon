@@ -7,7 +7,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} | {{meta.siteName}}</title>
     {%include "components/pageheader.njk"%}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section enable-title-maturity enable-link-maturity enable-filetree-maturity">
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
@@ -23,10 +23,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     <main class="content cm-s-obsidian" id="main">
       <header>
         {% if settings.dgShowInlineTitle === true %}
-          <h1>
-          <a title="{% if maturity %}{{tree_titles[maturity]}}{% else %}{{tree_titles[1]}}{% endif %}" href="/#maturity-levels">
-          <img src="/img/tree-{% if maturity %}{{maturity}}{% else %}1{% endif %}.svg" />
-          </a>
+          <h1 data-maturity="{% if maturity %}{{maturity}}{% else %}1{% endif %}">
           {% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}
           </h1>
       {% endif %}

@@ -3,6 +3,9 @@
 }
 
 body {
+    --maturity-icon-1: url(/img/tree-1.svg);
+    --maturity-icon-2: url(/img/tree-2.svg);
+    --maturity-icon-3: url(/img/tree-3.svg);
 
     .timestamps {
         display: flex;
@@ -41,20 +44,21 @@ body {
     }
 
     h5 {
-        font-size: .83em !important;
+        font-size: 0.83em !important;
         font-weight: bolder !important;
     }
 
     h6 {
-        font-size: .67em !important;
-        font-weight: bolder !important; 
+        font-size: 0.67em !important;
+        font-weight: bolder !important;
     }
 
     table {
         width: 100% !important;
         border: 1px solid lightgray !important;
 
-        td, th {
+        td,
+        th {
             padding: 5px 10px !important;
 
             hr {
@@ -114,7 +118,7 @@ body {
     .header-meta {
         margin-bottom: 1.8em;
     }
-    
+
     .cm-s-obsidian > *[id] {
         position: relative;
         cursor: pointer;
@@ -136,16 +140,15 @@ body {
             font-variant: initial;
             letter-spacing: 0.24px;
             line-height: 14px;
-            
         }
     }
 
     .referred {
         border: 1px dashed;
         border-color: var(--text-accent);
-        padding: 10px;  
+        padding: 10px;
         margin-left: -10px;
-        margin-right: -10px; 
+        margin-right: -10px;
     }
 
     #emailme {
@@ -200,7 +203,6 @@ body {
                 align-items: flex-end;
 
                 .tree {
-                    
                     width: 25px;
                     height: 25px;
                     cursor: pointer;
@@ -278,7 +280,7 @@ body {
     gap: 5px;
     position: absolute;
     top: 115%;
-    
+
     right: 10px;
     left: 10px;
     color: var(--text-accent);
@@ -293,7 +295,7 @@ body {
         flex-direction: row;
         align-items: flex-start;
         gap: 7px;
-        
+
         .slider {
             datalist {
                 display: flex;
@@ -340,7 +342,9 @@ body {
     }
 }
 
-.internal-link[data-maturity]::before {
+body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity]::before,
+body.enable-filetree-maturity .filename[data-maturity]::before,
+body.enable-link-maturity .internal-link[data-maturity]::before {
     content: " ";
     display: inline-block;
     width: 1em;
@@ -349,14 +353,20 @@ body {
     background-repeat: no-repeat;
 }
 
-.internal-link[data-maturity="1"]::before {
-    background-image: url(/img/tree-1.svg);
+body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="1"]::before,
+body.enable-filetree-maturity .filename[data-maturity="1"]::before,
+body.enable-link-maturity .internal-link[data-maturity="1"]::before {
+    background-image: var(--maturity-icon-1);
 }
 
-.internal-link[data-maturity="2"]::before {
-    background-image: url(/img/tree-2.svg);
+body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="2"]::before,
+body.enable-filetree-maturity .filename[data-maturity="2"]::before,
+body.enable-link-maturity .internal-link[data-maturity="2"]::before {
+    background-image: var(--maturity-icon-2);
 }
 
-.internal-link[data-maturity="3"]::before {
-    background-image: url(/img/tree-3.svg);
+body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="3"]::before,
+body.enable-filetree-maturity .filename[data-maturity="3"]::before,
+body.enable-link-maturity .internal-link[data-maturity="3"]::before {
+    background-image: var(--maturity-icon-3);
 }

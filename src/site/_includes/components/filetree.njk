@@ -3,8 +3,7 @@
         <div x-show="isOpen" style="display:none" class="{{'filelist' if step>0}}">
             {%if fileOrFolder.isNote %}
                 <div @click.stop class="notelink {{ 'active-note' if fileOrFolder.permalink === permalink}}">
-                    <img src="/img/tree-{{fileOrFolder.maturity}}.svg" />
-                    <a style="text-decoration: none;" class="filename" href="{{fileOrFolder.permalink}}">{{fileOrFolder.name}} </a>
+                    <a data-maturity="{{fileOrFolder.maturity}}" style="text-decoration: none;" class="filename" href="{{fileOrFolder.permalink}}">{{fileOrFolder.name}} </a>
                 </div>
             {% elif fileOrFolder.isFolder%}
                 <div class="folder inner-folder"  x-data="{isOpen: $persist(false).as('{{currentPath}}')}" @click.stop="isOpen=!isOpen">
