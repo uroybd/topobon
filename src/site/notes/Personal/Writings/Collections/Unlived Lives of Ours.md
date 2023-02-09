@@ -1,8 +1,0 @@
----
-{"title":"Unlived Lives of Ours","handle":"unlived","created":"2023-02-09T09:23:19+06:00","updated":"2023-02-09T11:31:04+06:00","total_books":"2","dg-publish":true,"permalink":"/personal/writings/collections/unlived-lives-of-ours/","dgPassFrontmatter":true}
----
-
-| SL  | Title                                                                                             | Location     |
-| --- | ------------------------------------------------------------------------------------------------- | ------------ |
-| #⁣1 | [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | বাড্ডা, ঢাকা |
-| #⁣2 | [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | বাড্ডা, ঢাকা |
