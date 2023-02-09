@@ -1,5 +1,5 @@
 ---
-{"title":"The Accusitions","updated":"2023-02-09T09:22:34+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"collections":{"unlived":2},"dg-metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/02-the-accusitions/","metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"dgPassFrontmatter":true}
+{"title":"The Accusitions","updated":"2023-02-09T09:22:34+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"series":{"unlived":2},"dg-metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/02-the-accusitions/","metatags":{"og:title":"The Accusitions | Unlived Lives of Ours"},"dgPassFrontmatter":true}
 ---
 
 "Recall the point of division— from when you started to live and I became the unlived one," said he.
