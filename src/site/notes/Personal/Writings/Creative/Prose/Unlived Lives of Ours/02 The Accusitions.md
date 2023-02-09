@@ -14,10 +14,3 @@ There is no single point. Is there?"
 "Isn't that normal?", I asked.
 
 "Normal it is, surely. But can life be reduced to the norms alone? What is normal about life, statistically speaking?", retorted the unlived one back. "It is normal to drown, life is in the swimming. The norms are limiting."
-
-#### In this series
-| Title                                                                                             | Updated                                                   | Created                                                    |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
-| [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | <center><small>Feb 08, 2023<hr/>01:46 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
-| [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | <center><small>Feb 09, 2023<hr/>09:22 am</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
-
