@@ -1,5 +1,5 @@
 ---
-{"title":"The Encounter","updated":"2023-02-08T13:46:53+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"collections":{"unlived":1},"dg-metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dgPassFrontmatter":true}
+{"title":"The Encounter","updated":"2023-02-09T11:31:14+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"বাড্ডা, ঢাকা","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"collections":{"unlived":1},"dg-metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dgPassFrontmatter":true}
 ---
 
 On an ordinary day a few months back, I first met a person who is not me. That is NOT to say that it is another person— for I met many other persons throughout my life. This person who is not me could have been who I am, but our temporality robbed his reality.
@@ -19,9 +19,3 @@ It is not possible to shake hands with the unlived one once you meet him, no. It
 And so I measured him. He is thin to the point of being malnourished. And energetic like a fiend for his existence (or the lack of it to be more precise) does not put any weight to slow him down. He is not the one who cares. Contempt is all he is accustomed to. He is not the one who fights. For him, the duel is a dance.
 
 The unlived one sat, so did I. He talked, and I listened before the utterances.
-
-#### In this series
-| Title                                                                                             | Updated                                                   | Created                                                    |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
-| [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | <center><small>Feb 08, 2023<hr/>01:46 pm</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
-| [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | <center><small>Feb 09, 2023<hr/>09:22 am</small></center> | <center><small>Sept 25, 2021<hr/>06:45 pm</small></center> |
