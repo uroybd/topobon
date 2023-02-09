@@ -1,5 +1,5 @@
 ---
-{"title":"The Walkway","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-08T12:35:40+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"The Walkway","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-09T11:13:26+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-walkway/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 তপোবন (Topobon) can be loosely translated to forest-hermitage. In Indian myths, there are numerous mentions of topobons.
@@ -13,14 +13,14 @@ If you have any query, please feel free to contact me at [connect@utsob.me](mail
 ## Maturity Levels
 Maturity level for each note is being represented by plant icons of various growth.
 
-### Seedling ![Maturity Level: 1|20](https://hermitage.utsob.me/img/tree-1.svg)
-Seedlings are thoughts barely started. Maybe Jotted down on haste or simply showing only the brief amount of what I thought about it by far.
+### Seedling
+Seedlings (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) are thoughts barely started. Maybe Jotted down on haste or simply showing only the brief amount of what I thought about it by far.
 
-### Sapling ![Maturity Level: 2|20](https://hermitage.utsob.me/img/tree-2.svg)
-Saplings have a substantial amount of content, but much work to be done. Coherence and patterns are just emerging in it.
+### Sapling
+Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) have a substantial amount of content, but much work to be done. Coherence and patterns are just emerging in it.
 
-### Tree ![Maturity Level: 3|20](https://hermitage.utsob.me/img/tree-3.svg)
-Trees are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
+### Tree
+Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
 
 > [!Warning] 
 > Maturity Levels are subjective. It might only means that I'm a very immature person.
