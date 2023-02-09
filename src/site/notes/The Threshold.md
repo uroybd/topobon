@@ -1,8 +1,10 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-09T13:00:26+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-09T13:02:17+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-> **“The unexamined life is not worth living.”** — Socrates
+
+> [!quote] Socrates (from Plato's Apology)
+> The unexamined life is not worth living.
 
 With such noise and bustle around us, one cannot help but build a hermitage[^1] in one's mind for contemplation and peace.
 
