@@ -10,11 +10,11 @@ Art requires a certain awareness of things. You can consider art as an imitation
 
 That is where any AI based on machine learning of our time fails.[^2] With my prompt to imagine “death most banal”, the bot generated the first image. It neither understands what death is (no one does fully, but it does not at all), nor what is banal. A death of ultimate banality is a concept we cannot expect it to understand.
 
-![Media/297473891_6177667065593349_2454509656965629391_n.jpg](/img/assets/Media/297473891_6177667065593349_2454509656965629391_n.jpg) 
+![Media/297473891_6177667065593349_2454509656965629391_n.jpg](/img/user/Media/297473891_6177667065593349_2454509656965629391_n.jpg) 
 
 For the second image, I asked for “Bertrand Russell's dream”. It produced three portraits and the 2nd image here. Without the knowledge of who Russell is, one cannot expect anything more than this.
 
-![Media/296777379_6177667138926675_6039422591421053210_n.jpg](/img/assets/Media/296777379_6177667138926675_6039422591421053210_n.jpg)
+![Media/296777379_6177667138926675_6039422591421053210_n.jpg](/img/user/Media/296777379_6177667138926675_6039422591421053210_n.jpg)
 
 **Art is in the artist's life, as much as it is in what the artist produces.[^3] I'm waiting for an artist machine yet to come. But, I doubt, with its artistic sense of freedom, will it ever take orders from us.**
 
