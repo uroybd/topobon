@@ -171,9 +171,10 @@ body {
 
     .fnote {
         display: none;
-        background-color: var(--background-secondary);
+        background-color: var(--background-primary);
+        border: 1px solid var(--text-accent);
         position: fixed;
-        bottom: 0;
+        bottom: 10px;
         left: 0;
         right: 0;
         padding: 10px;

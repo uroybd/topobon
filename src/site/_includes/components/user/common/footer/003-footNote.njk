@@ -11,7 +11,7 @@ function fancyFootnote(element) {
 
       var notename = "fnote" + "-" + notenum + "-" + did;
       note.id = notename;
-      note.className = "fnote";
+      note.className = "content fnote";
       note.innerHTML =
         '<div class="note-wrapper">' + entry.innerHTML + "</div>";
       document.body.append(note);
