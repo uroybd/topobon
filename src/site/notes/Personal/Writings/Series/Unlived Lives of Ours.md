@@ -1,5 +1,5 @@
 ---
-{"title":"Unlived Lives of Ours","handle":"unlived","created":"2023-02-09T09:23:19+06:00","updated":"2023-02-09T11:58:47+06:00","total_books":"2","dg-publish":true,"permalink":"/personal/writings/series/unlived-lives-of-ours/","dgPassFrontmatter":true}
+{"title":"Unlived Lives of Ours","handle":"unlived","created":"2023-02-09T09:23:19+06:00","updated":"2023-02-09T11:58:47+06:00","total_books":"2","dg-publish":true,"permalink":"/personal/writings/series/unlived-lives-of-ours/","dgPassFrontmatter":true,"maturity":"1"}
 ---
 
 | SL  | Title                                                                                             | Location     |
