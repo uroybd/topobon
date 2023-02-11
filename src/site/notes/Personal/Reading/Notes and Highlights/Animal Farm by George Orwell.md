@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"dg-publish":true,"title":"Notes from Animal Farm by George Orwell","created":"2017-08-27T18:23:37+06:00","updated":"2023-01-30T23:41:17+06:00","permalink":"/personal/reading/notes-and-highlights/animal-farm-by-george-orwell/","dgPassFrontmatter":true}
+{"tags":["reading-note"],"dg-publish":true,"title":"Notes from Animal Farm by George Orwell","created":"2017-08-27T18:23:37+06:00","updated":"2023-01-30T23:41:17+06:00","permalink":"/personal/reading/notes-and-highlights/animal-farm-by-george-orwell/","dgPassFrontmatter":true,"maturity":"1"}
 ---
 
 
