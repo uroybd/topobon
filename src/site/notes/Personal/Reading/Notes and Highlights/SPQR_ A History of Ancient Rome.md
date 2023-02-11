@@ -1,5 +1,5 @@
 ---
-{"title":"SPQR: A History of Ancient Rome","created":"2023-02-09T15:35:00+06:00","updated":"2023-02-09T15:40:03+06:00","tags":["reading-notes"],"dg-publish":true,"permalink":"/personal/reading/notes-and-highlights/spqr-a-history-of-ancient-rome/","dgPassFrontmatter":true}
+{"title":"SPQR: A History of Ancient Rome","created":"2023-02-09T15:35:00+06:00","updated":"2023-02-09T15:40:03+06:00","tags":["reading-notes"],"dg-publish":true,"permalink":"/personal/reading/notes-and-highlights/spqr-a-history-of-ancient-rome/","dgPassFrontmatter":true,"maturity":"1"}
 ---
 
 ### 9
