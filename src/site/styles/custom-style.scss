@@ -347,7 +347,7 @@ body.enable-filetree-maturity .filename[data-maturity]::before,
 body.enable-link-maturity .internal-link[data-maturity]::before {
     content: " ";
     display: inline-block;
-    width: 1em;
+    width: 0.9em;
     height: 1em;
     background-size: contain;
     background-repeat: no-repeat;
