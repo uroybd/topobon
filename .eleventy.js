@@ -177,7 +177,7 @@ module.exports = function (eleventyConfig) {
             permalink = frontMatter.data.permalink;
           }
           if (frontMatter.data.maturity) {
-            maturity = frontMatter.data.maturity
+            maturity = frontMatter.data.maturity;
           }
         } catch {
           deadLink = true;
@@ -185,9 +185,7 @@ module.exports = function (eleventyConfig) {
 
         return `<a class="internal-link ${
           deadLink ? "is-unresolved" : ""
-        }" ${
-          deadLink ? "" : 'data-maturity="' + maturity + '"' 
-        } href="${permalink}${headerLinkPath}">${title}</a>`;
+        }" ${deadLink ? "" : 'data-maturity="' + maturity + '"'} href="${permalink}${headerLinkPath}">${title}</a>`;
       })
     );
   });
