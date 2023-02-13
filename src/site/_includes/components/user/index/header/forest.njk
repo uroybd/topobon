@@ -3,7 +3,7 @@
         {% for row in forestData %}
         <div class="forest-row">
             {% for tree in row %}
-            <a class="tree {% if tree[0] == 0 %}plane{% endif %}" {% if tree[0] > 0 %}href="{{tree[1]}}" title="{{tree[2]}}"{% endif %}>
+            <a class="tree {% if tree[0] == 0 %}plane{% endif %}" {% if tree[0] != 0 %}href="{{tree[1]}}" title="{{tree[2]}}"{% endif %}>
                 {% if tree[0] == 0 %}
                 <span></span>
                 {% else %}
