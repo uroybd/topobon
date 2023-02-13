@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes"],"created":"2018-03-01T18:20:36+06:00","updated":"2023-01-11T14:16:10+06:00","dg-publish":true,"maturity":"reading-note","title":"Notes from The Power of Myth","permalink":"/personal/reading/notes-and-highlights/the-power-of-myth/","dgPassFrontmatter":true,"noteIcon":"reading-note"}
+{"tags":["reading-notes"],"created":"2018-03-01T18:20:36+06:00","updated":"2023-01-11T14:16:10+06:00","dg-publish":true,"dg-note-icon":"stone","title":"Notes from The Power of Myth","permalink":"/personal/reading/notes-and-highlights/the-power-of-myth/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
