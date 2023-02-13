@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Man’s Search For Meaning by Viktor E Frankl","updated":"2023-01-29T22:25:11+06:00","created":"2021-04-26T04:55:27+06:00","dg-publish":true,"tags":["philosophy","psychology","WWII","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/man-s-search-for-meaning-by-viktor-e-frankl/","dgPassFrontmatter":true,"maturity":"1"}
+{"title":"Notes from Man’s Search For Meaning by Viktor E Frankl","updated":"2023-01-29T22:25:11+06:00","created":"2021-04-26T04:55:27+06:00","dg-publish":true,"maturity":"reading-note","tags":["philosophy","psychology","WWII","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/man-s-search-for-meaning-by-viktor-e-frankl/","dgPassFrontmatter":true}
 ---
 
 # Man’s Search For Meaning
