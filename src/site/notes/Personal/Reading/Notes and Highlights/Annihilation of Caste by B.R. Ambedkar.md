@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes"],"title":"Notes from Annihilation of Caste by B.R. Ambedkar","created":"2018-04-04T12:00:00+06:00","updated":"2023-01-30T23:41:31+06:00","dg-publish":true,"maturity":"reading-note","permalink":"/personal/reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/","dgPassFrontmatter":true}
+{"tags":["reading-notes"],"title":"Notes from Annihilation of Caste by B.R. Ambedkar","created":"2018-04-04T12:00:00+06:00","updated":"2023-01-30T23:41:31+06:00","dg-publish":true,"maturity":"reading-note","permalink":"/personal/reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/","dgPassFrontmatter":true,"noteIcon":"reading-note"}
 ---
 
 ##### by B.R. Ambedkar, Arundhati Roy, S. Anand
