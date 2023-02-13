@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-09T13:02:17+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"maturity":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-13T12:58:11+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 > [!quote] Socrates (from Plato's Apology)
@@ -24,6 +24,9 @@ Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) ha
 
 ### Tree
 Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
+
+### Stone
+Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlight and notes). Growth is irrelevant for these notes.
 
 > [!Warning] 
 > Maturity Levels are subjective. It might only means that I'm a very immature person.
