@@ -1,5 +1,5 @@
 ---
-{"title":"The Noble Eightfold Path: Way to the End of Suffering","created":"2021-06-30T00:00:00+06:00","updated":"2023-01-26T16:37:12+06:00","read_at":["2021-08-30T00:00:00+06:00"],"read_count":1,"authors":["Bhikkhu Bodhi"],"isbn10":"192870607X","status":"Read","rating":5,"dg-publish":true,"cover":"https://books.google.com/books/content?id=--vzVMVPHJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["buddhism","religion"],"permalink":"/personal/reading/books/read/the-noble-eightfold-path-by-bhikkhu-bodhi/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"The Noble Eightfold Path: Way to the End of Suffering","created":"2021-06-30T00:00:00+06:00","updated":"2023-01-26T16:37:12+06:00","read_at":["2021-08-30T00:00:00+06:00"],"read_count":1,"authors":["Bhikkhu Bodhi"],"isbn10":"192870607X","status":"Read","rating":5,"dg-publish":true,"cover":"https://books.google.com/books/content?id=--vzVMVPHJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["buddhism","religion"],"permalink":"/personal/reading/books/read/the-noble-eightfold-path-by-bhikkhu-bodhi/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
