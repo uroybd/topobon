@@ -128,13 +128,14 @@ function getPositions(trees) {
 function forestData(data) {
   const canvasTrees = data.collections.note.map((n) => {
     let v = parseInt(n.data.noteIcon);
-    console.log(typeof v);
+    let height = 2;
     if (!v) {
       v = "stone";
     } else {
+      height = v;
       v = `tree-${v}`;
     }
-    return [v, n.url, n.data.title || n.fileSlug];
+    return [v, n.url, n.data.title || n.fileSlug, height];
   });
   return getPositions(canvasTrees);
 }
