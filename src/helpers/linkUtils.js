@@ -35,7 +35,7 @@ function getGraph(data) {
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
-  (data.collections.note||[]).forEach((v, idx) => {
+  (data.collections.note || []).forEach((v, idx) => {
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
@@ -47,13 +47,19 @@ function getGraph(data) {
       title: v.data.title || v.fileSlug,
       url: v.url,
       group,
-      home: v.data["dg-home"] || (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)|| false,
+      home:
+        v.data["dg-home"] ||
+        (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
+        false,
       outBound: extractLinks(v.template.frontMatter.content),
       neighbors: new Set(),
       backLinks: new Set(),
     };
     stemURLs[fpath] = v.url;
-    if (v.data["dg-home"] || (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)) {
+    if (
+      v.data["dg-home"] ||
+      (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
+    ) {
       homeAlias = v.url;
     }
   });
@@ -121,7 +127,13 @@ function getPositions(trees) {
 
 function forestData(data) {
   const canvasTrees = data.collections.note.map((n) => {
-    return [n.data.maturity || 1, n.url, n.data.title || n.fileSlug];
+    let v = n.data.maturity;
+    if (typeof v != "number") {
+      v = "stone";
+    } else {
+      v = `tree-${v}`;
+    }
+    return [v, n.url, n.data.title || n.fileSlug];
   });
   return getPositions(canvasTrees);
 }

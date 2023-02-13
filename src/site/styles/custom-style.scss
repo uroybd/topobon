@@ -381,6 +381,7 @@ body.enable-link-maturity .internal-link[data-maturity]::before {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
+    background-image: url(/img/stone.svg);
 }
 
 body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="1"]::before,
@@ -401,8 +402,8 @@ body.enable-link-maturity .internal-link[data-maturity="3"]::before {
     background-image: var(--maturity-icon-3);
 }
 
-body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="reading-note"]::before,
-body.enable-filetree-maturity .filename[data-maturity="reading-note"]::before,
-body.enable-link-maturity .internal-link[data-maturity="reading-note"]::before {
-    background-image: url(/img/note.svg);
-}
+// body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="reading-note"]::before,
+// body.enable-filetree-maturity .filename[data-maturity="reading-note"]::before,
+// body.enable-link-maturity .internal-link[data-maturity="reading-note"]::before {
+//     background-image: url(/img/note.svg);
+// }
