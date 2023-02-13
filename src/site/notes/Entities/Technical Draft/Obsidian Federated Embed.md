@@ -1,5 +1,5 @@
 ---
-{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","tags":["technical-draft"],"created":"2023-01-31T20:53:31+06:00","updated":"2023-02-01T17:40:24+06:00","dg-publish":true,"permalink":"/entities/technical-draft/obsidian-federated-embed/","dgPassFrontmatter":true,"maturity":"1"}
+{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","tags":["technical-draft"],"created":"2023-01-31T20:53:31+06:00","updated":"2023-02-01T17:40:24+06:00","dg-publish":true,"permalink":"/entities/technical-draft/obsidian-federated-embed/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 ## Abstract
