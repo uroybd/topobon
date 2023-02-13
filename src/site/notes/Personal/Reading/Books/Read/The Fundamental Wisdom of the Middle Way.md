@@ -1,5 +1,5 @@
 ---
-{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","created":"2020-11-10T00:00:00+06:00","updated":"2023-01-26T16:34:32+06:00","read_at":["2020-11-22T00:00:00+06:00"],"read_count":1,"authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"status":"Read","reviewed":true,"rating":5,"maturity":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","philosophy","buddhism","bestreads"],"permalink":"/personal/reading/books/read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","created":"2020-11-10T00:00:00+06:00","updated":"2023-01-26T16:34:32+06:00","read_at":["2020-11-22T00:00:00+06:00"],"read_count":1,"authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"status":"Read","reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","philosophy","buddhism","bestreads"],"permalink":"/personal/reading/books/read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ### Review
