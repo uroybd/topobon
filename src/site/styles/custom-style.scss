@@ -366,3 +366,9 @@ body {
         padding-right: 5px;
     }
 }
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="stone"]::before,
+body.filetree-note-icon .filename[data-note-icon="stone"]::before,
+body.links-note-icon .internal-link[data-note-icon="stone"]::before {
+    background-image: url(/img/stone.svg);
+}
