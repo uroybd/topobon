@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2023-01-19T15:15:08+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"created":"2022-08-22T18:25:53+06:00","location":"Badda, Dhaka","permalink":"/personal/journal/the-supposed-last-year-of-my-life/on-career/","dgPassFrontmatter":true,"noteIcon":2}
+{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2023-01-19T15:15:08+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"created":"2022-08-22T18:25:53+06:00","location":"Badda, Dhaka","permalink":"/personal/journal/the-supposed-last-year-of-my-life/on-career/","dgPassFrontmatter":true,"maturity":"1"}
 ---
 
 An introspection of my life cannot be possibly done without a retrospection, a walk down the aisles between desks.
