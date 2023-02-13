@@ -1,5 +1,5 @@
 ---
-{"title":"Exploring Buddhism","updated":"2023-01-14T20:17:48+06:00","tags":["buddhism","philosophy"],"created":"2021-08-30T20:24:08+06:00","dg-publish":true,"maturity":2,"permalink":"/personal/musings/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Exploring Buddhism","updated":"2023-01-14T20:17:48+06:00","tags":["buddhism","philosophy"],"created":"2021-08-30T20:24:08+06:00","dg-publish":true,"maturity":2,"permalink":"/personal/musings/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 For quite some time, I'm exploring Buddhism. I've started with ’**What Buddha Taught**’, have learned some more from a book on the history and development of Buddhism, and lastly from *Bhikkhu Bodhi's* [[Personal/Reading/Books/Read/The Noble Eightfold Path by Bhikkhu Bodhi\|The Noble Eightfold Path by Bhikkhu Bodhi]]. I enjoyed *Nagarjuna's* [[Personal/Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|dialectics]] a lot.
