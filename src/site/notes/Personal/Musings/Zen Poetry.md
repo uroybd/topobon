@@ -1,5 +1,5 @@
 ---
-{"title":"Zen Poetry","updated":"2023-01-26T17:52:57+06:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Zen Poetry","updated":"2023-01-26T17:52:57+06:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"permalink":"/personal/musings/zen-poetry/","dgPassFrontmatter":true,"maturity":"1"}
 ---
 
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
