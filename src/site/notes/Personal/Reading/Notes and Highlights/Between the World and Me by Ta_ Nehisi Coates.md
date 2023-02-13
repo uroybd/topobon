@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Between the World and Me by Ta-Nehisi Coates","tags":["reading-notes"],"created":"2019-08-10T00:00:00+06:00","updated":"2023-02-10T10:53:11+06:00","dg-publish":true,"maturity":"reading-note","permalink":"/personal/reading/notes-and-highlights/between-the-world-and-me-by-ta-nehisi-coates/","dgPassFrontmatter":true}
+{"title":"Notes from Between the World and Me by Ta-Nehisi Coates","tags":["reading-notes"],"created":"2019-08-10T00:00:00+06:00","updated":"2023-02-10T10:53:11+06:00","dg-publish":true,"maturity":"reading-note","permalink":"/personal/reading/notes-and-highlights/between-the-world-and-me-by-ta-nehisi-coates/","dgPassFrontmatter":true,"noteIcon":"reading-note"}
 ---
 
 # Between the World and Me
