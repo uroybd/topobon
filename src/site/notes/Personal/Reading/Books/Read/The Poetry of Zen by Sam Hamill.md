@@ -1,5 +1,5 @@
 ---
-{"title":"The Poetry of Zen","created":"2021-06-27T00:00:00+06:00","updated":"2023-01-26T16:37:46+06:00","read_at":["2021-06-29T00:00:00+06:00"],"read_count":1,"authors":["Sam Hamill","J.P. Seaton"],"isbn10":"159030425X","status":"Read","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=JvRSUOMYLeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["buddhism","japanese","medieval","poetry"],"dg-publish":true,"permalink":"/personal/reading/books/read/the-poetry-of-zen-by-sam-hamill/","dgPassFrontmatter":true,"maturity":"1"}
+{"title":"The Poetry of Zen","created":"2021-06-27T00:00:00+06:00","updated":"2023-01-26T16:37:46+06:00","read_at":["2021-06-29T00:00:00+06:00"],"read_count":1,"authors":["Sam Hamill","J.P. Seaton"],"isbn10":"159030425X","status":"Read","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=JvRSUOMYLeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["buddhism","japanese","medieval","poetry"],"dg-publish":true,"permalink":"/personal/reading/books/read/the-poetry-of-zen-by-sam-hamill/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### Review
