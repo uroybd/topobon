@@ -1,5 +1,5 @@
 ---
-{"title":"The Power of Myth","created":"2018-02-28T00:00:00+06:00","updated":"2023-01-26T16:38:05+06:00","read_at":["2018-03-17T00:00:00+06:00"],"read_count":1,"authors":["Joseph Campbell","Bill Moyers"],"isbn10":385418868,"status":"Read","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api","tags":["bestreads"],"dg-publish":true,"maturity":3,"permalink":"/personal/reading/books/read/the-power-of-myth-by-joseph-campbell/","dgPassFrontmatter":true}
+{"title":"The Power of Myth","created":"2018-02-28T00:00:00+06:00","updated":"2023-01-26T16:38:05+06:00","read_at":["2018-03-17T00:00:00+06:00"],"read_count":1,"authors":["Joseph Campbell","Bill Moyers"],"isbn10":385418868,"status":"Read","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api","tags":["bestreads"],"dg-publish":true,"maturity":3,"permalink":"/personal/reading/books/read/the-power-of-myth-by-joseph-campbell/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 ### Review
