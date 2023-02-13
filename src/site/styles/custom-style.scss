@@ -380,6 +380,7 @@ body.enable-link-maturity .internal-link[data-maturity]::before {
     height: 1em;
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="1"]::before,
