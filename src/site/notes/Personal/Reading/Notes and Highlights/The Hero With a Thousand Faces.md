@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes"],"title":"Notes from The Hero With a Thousand Faces","created":"2018-08-14T17:54:47+06:00","updated":"2023-01-11T14:15:39+06:00","dg-publish":true,"permalink":"/personal/reading/notes-and-highlights/the-hero-with-a-thousand-faces/","dgPassFrontmatter":true,"maturity":"1"}
+{"tags":["reading-notes"],"title":"Notes from The Hero With a Thousand Faces","created":"2018-08-14T17:54:47+06:00","updated":"2023-01-11T14:15:39+06:00","dg-publish":true,"maturity":"reading-note","permalink":"/personal/reading/notes-and-highlights/the-hero-with-a-thousand-faces/","dgPassFrontmatter":true}
 ---
 
 # The Hero With a Thousand Faces
