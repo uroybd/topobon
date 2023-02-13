@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2023-01-19T15:15:21+06:00","tags":["passion","philosophy","programming"],"created":"2018-10-04T07:41:24+06:00","dg-publish":true,"maturity":2,"permalink":"/personal/journal/about-programming/","dgPassFrontmatter":true}
+{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2023-01-19T15:15:21+06:00","tags":["passion","philosophy","programming"],"created":"2018-10-04T07:41:24+06:00","dg-publish":true,"maturity":2,"permalink":"/personal/journal/about-programming/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 # About Programming
