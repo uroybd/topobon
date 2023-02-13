@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes"],"title":"Notes from The Denial of Death","created":"2018-12-08T17:55:19+06:00","updated":"2023-01-30T23:45:57+06:00","dg-publish":true,"maturity":"reading-note","permalink":"/personal/reading/notes-and-highlights/the-denial-of-death/","dgPassFrontmatter":true,"noteIcon":"reading-note"}
+{"tags":["reading-notes"],"title":"Notes from The Denial of Death","created":"2018-12-08T17:55:19+06:00","updated":"2023-01-30T23:45:57+06:00","dg-publish":true,"dg-note-icon":"stone","permalink":"/personal/reading/notes-and-highlights/the-denial-of-death/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 # The Denial of Death
