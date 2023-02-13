@@ -127,7 +127,7 @@ function getPositions(trees) {
 
 function forestData(data) {
   const canvasTrees = data.collections.note.map((n) => {
-    let v = n.data.maturity;
+    let v = n.data.noteIcon;
     if (typeof v != "number") {
       v = "stone";
     } else {

@@ -3,10 +3,6 @@
 }
 
 body {
-    --maturity-icon-1: url(/img/tree-1.svg);
-    --maturity-icon-2: url(/img/tree-2.svg);
-    --maturity-icon-3: url(/img/tree-3.svg);
-
     .timestamps {
         display: flex;
         flex-direction: row;
@@ -370,40 +366,3 @@ body {
         padding-right: 5px;
     }
 }
-
-body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity]::before,
-body.enable-filetree-maturity .filename[data-maturity]::before,
-body.enable-link-maturity .internal-link[data-maturity]::before {
-    content: " ";
-    display: inline-block;
-    width: 0.9em;
-    height: 1em;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-image: url(/img/stone.svg);
-}
-
-body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="1"]::before,
-body.enable-filetree-maturity .filename[data-maturity="1"]::before,
-body.enable-link-maturity .internal-link[data-maturity="1"]::before {
-    background-image: var(--maturity-icon-1);
-}
-
-body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="2"]::before,
-body.enable-filetree-maturity .filename[data-maturity="2"]::before,
-body.enable-link-maturity .internal-link[data-maturity="2"]::before {
-    background-image: var(--maturity-icon-2);
-}
-
-body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="3"]::before,
-body.enable-filetree-maturity .filename[data-maturity="3"]::before,
-body.enable-link-maturity .internal-link[data-maturity="3"]::before {
-    background-image: var(--maturity-icon-3);
-}
-
-// body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="reading-note"]::before,
-// body.enable-filetree-maturity .filename[data-maturity="reading-note"]::before,
-// body.enable-link-maturity .internal-link[data-maturity="reading-note"]::before {
-//     background-image: url(/img/note.svg);
-// }
