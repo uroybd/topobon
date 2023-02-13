@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"dg-publish":true,"title":"Notes from Homage to Catalonia","created":"2029-03-22T17:48:41+06:00","updated":"2023-01-30T23:42:18+06:00","permalink":"/personal/reading/notes-and-highlights/homage-to-catalonia/","dgPassFrontmatter":true,"maturity":"1"}
+{"tags":["reading-note"],"dg-publish":true,"maturity":"reading-note","title":"Notes from Homage to Catalonia","created":"2029-03-22T17:48:41+06:00","updated":"2023-01-30T23:42:18+06:00","permalink":"/personal/reading/notes-and-highlights/homage-to-catalonia/","dgPassFrontmatter":true}
 ---
 
 # Homage to Catalonia
