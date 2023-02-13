@@ -1,5 +1,5 @@
 ---
-{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art"],"created":"2023-02-07T10:56:05+06:00","updated":"2023-02-07T11:34:05+06:00","dg-publish":true,"maturity":2,"permalink":"/personal/musings/on-cyber-enso/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art"],"created":"2023-02-07T10:56:05+06:00","updated":"2023-02-07T11:34:05+06:00","dg-publish":true,"dg-note-icon":2,"permalink":"/personal/musings/on-cyber-enso/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 A few years back, I have an encounter with _[Ensō](https://en.wikipedia.org/wiki/Ens%C5%8D)_ a distinctive form of art found amongst the Zen practitioners. To create one, one have to free his body from mind and draw a circle in ideally one stroke (or two sometimes). It can be either an open or a close circle, and they mean different things. While this art form is not exactly contemporary, but it is modern in the sense that it negates the interpretative aspect of art criticism.[^1] Meditation plays far much greater role here than the technics of producing the art.
