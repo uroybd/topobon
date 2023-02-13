@@ -1,5 +1,5 @@
 ---
-{"title":"Mono no aware","aliases":["pathos of things"],"type":"Concept","maturity":2,"tags":["concept","concept/aesthetics","concept/literature","concept/art"],"created":"2022-12-28T11:32:51+06:00","updated":"2023-01-20T11:07:23+06:00","dg-publish":true,"permalink":"/entities/concept/mono-no-aware/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Mono no aware","aliases":["pathos of things"],"type":"Concept","maturity":2,"tags":["concept","concept/aesthetics","concept/literature","concept/art"],"created":"2022-12-28T11:32:51+06:00","updated":"2023-01-20T11:07:23+06:00","dg-publish":true,"permalink":"/entities/concept/mono-no-aware/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 **[Mono no aware](https://en.wikipedia.org/wiki/Mono%20no%20aware)** or the *pathos of things* is probably one of the timeless concepts of the aesthetics that pervades most if not all the forms of art and literatures of every culture.
