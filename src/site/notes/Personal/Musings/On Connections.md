@@ -1,5 +1,5 @@
 ---
-{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-01-31T11:00:14+06:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"permalink":"/personal/musings/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-01-31T11:00:14+06:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"permalink":"/personal/musings/on-connections/","dgPassFrontmatter":true,"maturity":"1"}
 ---
 
 # Preamble
