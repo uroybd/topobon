@@ -1,5 +1,5 @@
 ---
-{"title":"The Encounter","updated":"2023-02-09T12:11:59+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"Badda, Dhaka","dg-publish":true,"tags":["creative","prose","short-story"],"maturity":2,"series":{"unlived":1},"dg-metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"The Encounter","updated":"2023-02-09T12:11:59+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"Badda, Dhaka","dg-publish":true,"tags":["creative","prose","short-story"],"dg-note-icon":2,"series":{"unlived":1},"dg-metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"permalink":"/personal/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 On an ordinary day a few months back, I first met a person who is not me. That is NOT to say that it is another person— for I met many other persons throughout my life. This person who is not me could have been who I am, but our temporality robbed his reality.
