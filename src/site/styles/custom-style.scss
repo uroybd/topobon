@@ -240,6 +240,35 @@ body {
     .toc-container li::before {
         content: "" !important;
     }
+
+    nav.navbar {
+        .navbar-inner {
+            h1::before {
+                content: " ";
+                display: inline-block;
+                width: 1em;
+                height: 1.2em;
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-image: url(/img/logo.svg);
+                margin-right: 5px;
+                background-position: bottom;
+            }
+        }
+    }
+    .filetree-sidebar {
+        h1::before {
+            content: " ";
+            display: block;
+            width: 100%;
+            height: 3em;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-image: url(/img/logo.svg);
+            margin-right: 5px;
+            background-position: center;
+        }
+    }
 }
 
 .graph-title-container {
