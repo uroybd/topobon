@@ -1,8 +1,8 @@
 ---
-{"title":"Silence","created":"2021-07-03T00:00:00+06:00","updated":"2023-02-13T17:58:26+06:00","read_at":["2022-04-06T00:00:00+06:00"],"read_count":1,"authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"status":"Read","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":2,"tags":["christianity","japanese","novel"],"permalink":"/personal/reading/books/read/silence-by-shusaku-endo/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Silence","created":"2021-07-03T00:00:00+06:00","updated":"2023-02-13T18:03:38+06:00","read_at":["2022-04-06T00:00:00+06:00"],"read_count":1,"authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"status":"Read","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":2,"tags":["christianity","japanese","novel"],"permalink":"/personal/reading/books/read/silence-by-shusaku-endo/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
-Except for *Barabbas* this is the only *Christian novel* I've read. And it's a Christian novel from another side of the globe from *[[Personal/Reading/Books/Read/Barabbas by Pär Lagerkvist\|Barabbas]]*.
+Except for *[[Personal/Reading/Books/Read/Barabbas by Pär Lagerkvist\|Barabbas]]* this is the only *Christian novel* I've read. And it's a Christian novel from another side of the globe from *Barabbas*.
 
 While this novel has been labelled as a novel about the atrocious persecution of Christians in Japan, to my understanding that is a backdrop, a very important backdrop, but backdrop still. It's also very complex. Official view about Christianity and elaborate tortures, the metamorphosis of the faith in the Japanese soil, the people, places, and nature… It's not a black and white story of oppression. 
 
@@ -35,11 +35,11 @@ What I liked about this book is, how the priest was officially apostatized. He h
 </div></div>
 
 
-This was the end of his dark night of the soul. The new dawn was not a dawn devoid of faith. Quite the contrary. It was a dawn bringing a faith deeper than anything he have ever learned.
+This was the end of his dark night of the soul. The new dawn was not a dawn devoid of faith. Quite the contrary. It was a dawn bringing a faith deeper than anything he had ever learned.
 
 Since I have not read it in Japanese, I can't really talk about Endō's writing quality with much confidence. However, I think readers will agree with me on his ability to create symbolic archetypal characters whose importance lies in their manifestation of one quality, or vice, or a crisis. Over and over again throughout the book, they play the same role of a coward, kind, or heroic person. The book contains some very powerful characters of this type.
 
-His intellectual honesty is particularly praiseworthy. He understood the problem of a foreign religion such as Christianity must face in a culture that is in many cases diametrically opposite to Europe. Brutality and suppression are only side-effects. The problem is deeper and Endō faced it with much sincerity.
+His intellectual honesty is particularly praiseworthy. He understood the problem of a foreign religion such as Christianity must face in a culture that is in many cases diametrically opposite to Europe. Brutality and suppression are only side effects. The problem is deeper, and Endō faced it with much sincerity.
 
 > [!note] Notes and Highlights from the Book
 > (Notes:: [[Personal/Reading/Notes and Highlights/Silence by Shūsaku Endō\|Silence by Shūsaku Endō]])
