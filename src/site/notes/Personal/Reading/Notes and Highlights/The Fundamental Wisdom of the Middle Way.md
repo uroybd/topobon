@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Fundamental Wisdom of the Middle Way","updated":"2023-01-30T23:46:22+06:00","created":"2020-11-14T16:12:13+06:00","dg-publish":true,"maturity":"reading-note","tags":["buddhism","philosophy","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true}
+{"title":"Notes from The Fundamental Wisdom of the Middle Way","updated":"2023-01-30T23:46:22+06:00","created":"2020-11-14T16:12:13+06:00","dg-publish":true,"maturity":"reading-note","tags":["buddhism","philosophy","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":"reading-note"}
 ---
 
 # The Fundamental Wisdom of the Middle Way
