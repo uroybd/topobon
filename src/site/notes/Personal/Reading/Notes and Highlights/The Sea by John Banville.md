@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Sea by John Banville","updated":"2023-01-30T23:47:21+06:00","created":"2022-10-08T18:02:38+06:00","latitude":21.308759,"longitude":92.0427777,"altitude":-47,"dg-publish":true,"dg-note-icon":"stone","tags":["novel","modern","classic","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/the-sea-by-john-banville/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"Notes from The Sea by John Banville","updated":"2023-01-30T23:47:21+06:00","created":"2022-10-08T18:02:38+06:00","latitude":21.308759,"longitude":92.0427777,"altitude":-47,"dg-publish":true,"dg-note-icon":"stone","tags":["novel","modern","classic","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/the-sea-by-john-banville/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # The Sea
