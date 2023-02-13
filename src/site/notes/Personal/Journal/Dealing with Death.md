@@ -1,5 +1,5 @@
 ---
-{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2023-01-17T16:03:42+06:00","created":"2021-10-18T21:38:35+06:00","dg-note-icon":2,"tags":["death"],"dg-publish":true,"permalink":"/personal/journal/dealing-with-death/","dgPassFrontmatter":true,"maturity":"1"}
+{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2023-01-17T16:03:42+06:00","created":"2021-10-18T21:38:35+06:00","dg-note-icon":2,"tags":["death"],"dg-publish":true,"permalink":"/personal/journal/dealing-with-death/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 Making peace with my temporality, I think I've already done that.[^1] I am in peace with the unavoidable fatality.[^2] Thus, I can do away with all the [[Personal/Reading/Books/Read/The Denial of Death by Ernest Becker\|Denial of Death]] things by Ernest Becker. I believe that is the case also for any sufficiently mature person. However, I can't yet deal with the deaths of others.
