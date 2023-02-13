@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"title":"Notes from Permanent Record","created":"2019-11-15T17:42:24+06:00","updated":"2023-01-30T23:45:06+06:00","dg-publish":true,"dg-note-icon":"stone","permalink":"/personal/reading/notes-and-highlights/permanent-record/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"tags":["reading-note"],"title":"Notes from Permanent Record","created":"2019-11-15T17:42:24+06:00","updated":"2023-01-30T23:45:06+06:00","dg-publish":true,"dg-note-icon":"stone","permalink":"/personal/reading/notes-and-highlights/permanent-record/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Permanent Record
