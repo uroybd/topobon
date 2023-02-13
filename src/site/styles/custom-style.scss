@@ -400,3 +400,9 @@ body.enable-filetree-maturity .filename[data-maturity="3"]::before,
 body.enable-link-maturity .internal-link[data-maturity="3"]::before {
     background-image: var(--maturity-icon-3);
 }
+
+body.enable-title-maturity .cm-s-obsidian > header > h1[data-maturity="note"]::before,
+body.enable-filetree-maturity .filename[data-maturity="note"]::before,
+body.enable-link-maturity .internal-link[data-maturity="note"]::before {
+    background-image: url(/img/note.svg);
+}
