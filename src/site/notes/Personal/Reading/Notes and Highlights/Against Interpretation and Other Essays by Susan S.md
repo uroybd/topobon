@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Against Interpretation and Other Essays by Susan Sontag","updated":"2023-02-13T11:53:46+06:00","created":"2021-12-08T16:36:10+06:00","latitude":23.78274261,"longitude":90.42131504,"altitude":-30.0918,"dg-publish":true,"maturity":"reading-note","tags":["art","literature","criticism","language","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/against-interpretation-and-other-essays-by-susan-s/","dgPassFrontmatter":true}
+{"title":"Notes from Against Interpretation and Other Essays by Susan Sontag","updated":"2023-02-13T11:53:46+06:00","created":"2021-12-08T16:36:10+06:00","latitude":23.78274261,"longitude":90.42131504,"altitude":-30.0918,"dg-publish":true,"maturity":"reading-note","tags":["art","literature","criticism","language","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/against-interpretation-and-other-essays-by-susan-s/","dgPassFrontmatter":true,"noteIcon":"reading-note"}
 ---
 
 # Against Interpretation and Other Essays
