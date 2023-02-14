@@ -51,14 +51,16 @@
     var Graph;
 
     function renderGraph(graphData, id, width, height, delay) {
-
+        const el = document.getElementById(id);
+        width = el.offsetWidth;
+        height = el.offsetHeight;
         const highlightNodes = new Set();
         let hoverNode = null;
         const color = getCssVar("--text-accent");
         const mutedColor = getCssVar("--text-faint");
 
         let Graph = ForceGraph()
-        (document.getElementById(id))
+        (el)
             .graphData(graphData)
             .nodeId('id')
             .nodeLabel('title')
@@ -180,8 +182,20 @@
         
     }
 
-    document.getElementById('graph-full-btn').addEventListener('click', (evt) => {
-        if (!fullGraph) {
+    document.getElementById('graph-fs-btn').addEventListener('click', (evt) => {
+        const el = document.querySelector('.graph');
+        if (el.classList.contains('graph-fs')) {
+            el.classList.remove('graph-fs');
+            Graph.width(el.offsetWidth).height(el.offsetHeight);
+        } else {
+            el.classList.add('graph-fs');
+            Graph.width(el.offsetWidth).height(el.offsetHeight);
+        }
+        
+    });
+
+    document.getElementById('global-graph-btn').addEventListener('click', (evt) => {
+        if (!window.fullGraph) {
             renderFullGraph();
         }
     });
