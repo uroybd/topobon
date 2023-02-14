@@ -411,5 +411,10 @@ body {
                 display: none;
             }
         }
+        @media (max-width: 1400px) {
+            .graph-fs {
+                transform: translate(-50%, -50%);
+            }
+        }
     }
 }
