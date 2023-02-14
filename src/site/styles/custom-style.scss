@@ -397,7 +397,7 @@ body {
             width: calc(100vmin - 100px);
             min-height: 350px;
             min-width: 350px;
-            transform: translate(-112%, -58%);
+            transform: translate(-50%, -50%);
             z-index: 9999;
             display: block;
             background-color: var(--background-secondary);
@@ -409,11 +409,6 @@ body {
 
             .graph-title {
                 display: none;
-            }
-        }
-        @media (max-width: 1400px) {
-            .graph-fs {
-                transform: translate(-50%, -50%);
             }
         }
     }

@@ -57,8 +57,7 @@ ul.task-list {
 
 .sidebar {
     position: fixed;
-    top: 50%;
-    transform: translateY(calc(-50% + 75px));
+    top: 75px;
     right: 0;
     height: 100%;
     min-width: 25px;
