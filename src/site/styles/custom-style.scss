@@ -377,39 +377,3 @@ body.filetree-note-icon .filename[data-note-icon="stone"]::before,
 body.links-note-icon .internal-link[data-note-icon="stone"]::before {
     background-image: url(/img/stone.svg);
 }
-
-body {
-    .sidebar {
-        .graph {
-            width: 320px;
-            min-height: 320px;
-
-            #link-graph {
-                width: 320px;
-                height: 320px;
-            }
-        }
-        .graph-fs {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            height: calc(100vmin - 100px);
-            width: calc(100vmin - 100px);
-            min-height: 350px;
-            min-width: 350px;
-            transform: translate(-50%, -50%);
-            z-index: 9999;
-            display: block;
-            background-color: var(--background-secondary);
-
-            #link-graph {
-                width: 100%;
-                height: 100%;
-            }
-
-            .graph-title {
-                display: none;
-            }
-        }
-    }
-}

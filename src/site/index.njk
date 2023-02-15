@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{{ noteTitle }}</title>
+    <title>{{ noteTitle }} | {{meta.siteName}}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
