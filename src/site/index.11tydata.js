@@ -6,11 +6,9 @@ const md = markdownIt({
   html: true,
 }).use(require("../helpers/utils").namedHeadingsFilter);
 const allSettings = settings.ALL_NOTE_SETTINGS;
-const { forestData } = require("../helpers/linkUtils");
 
 module.exports = {
   eleventyComputed: {
-    forestData: (data) => forestData(data),
     settings: (data) => {
       const currentnote =
         data.collections.gardenEntry && data.collections.gardenEntry[0];
