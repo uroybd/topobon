@@ -64,6 +64,49 @@ ul.task-list {
     display: flex;
     z-index: 3;
     max-width: 350px;
+
+    .graph {
+        width: 320px;
+        min-height: 320px;
+
+        #link-graph {
+            width: 320px;
+            height: 320px;
+        }
+
+        #graph-fs-btn {
+            margin-right: 10px;
+        }
+    }
+    .graph-fs {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        height: calc(100vmin - 100px);
+        width: calc(100vmin - 100px);
+        min-height: 350px;
+        min-width: 350px;
+        transform: translate(-50%, -50%);
+        z-index: 9999;
+        display: block;
+        background-color: var(--background-secondary);
+        border: 1px solid var(--text-accent);
+        border-radius: 5px;
+        padding-top: 5px;
+
+        #link-graph {
+            width: 100%;
+            height: 100%;
+        }
+
+        #graph-controls {
+            margin-top: 10px;
+        }
+
+        .graph-title {
+            display: none;
+        }
+    }
 }
 
 .expand-line {
@@ -175,7 +218,7 @@ ul.task-list {
     .graph-title-container {
         display: flex;
         justify-content: flex-end;
-        width: 320px;
+        width: 100%;
     }
 
     .graph-title {
@@ -339,7 +382,8 @@ ul.task-list {
     padding: 3px 0 3px 10px;
 }
 
-.filelist {
+.filename {
+    margin-left: 5px;
 }
 
 .notelink.active-note {
@@ -530,14 +574,21 @@ ul.task-list {
     position: fixed;
     top: 50%;
     left: 50%;
-    height: 60vh;
-    width: 60vw;
-    min-height: 400px;
-    min-width: 400px;
+    height: calc(100vmin - 100px);
+    width: calc(100vmin - 100px);
+    min-height: 350px;
+    min-width: 350px;
     transform: translate(-50%, -50%);
     z-index: 9999;
     display: none;
     background-color: var(--background-secondary);
+    border: 1px solid var(--text-accent);
+    border-radius: 5px;
+
+    #full-graph-container {
+        width: 100%;
+        height: 100%;
+    }
 
     #full-graph-close {
         position: absolute;
@@ -570,6 +621,11 @@ ul.task-list {
     color: var(--text-accent);
     z-index: 9;
 
+    i {
+        cursor: pointer;
+        padding-right: 10px;
+    }
+
     .depth-control {
         display: flex;
         flex-direction: row;
@@ -594,8 +650,8 @@ ul.task-list {
         #depth-display {
             background-color: var(--text-accent);
             color: white;
-            width: 1rem;
-            height: 1rem;
+            width: 1.3rem;
+            height: 1.3rem;
             font-size: 0.8rem;
             display: flex;
             justify-content: center;
