@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-13T12:58:11+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-15T15:42:18+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 > [!quote] Socrates (from Plato's Apology)
@@ -27,6 +27,9 @@ Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are g
 
 ### Stone
 Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlight and notes). Growth is irrelevant for these notes.
+
+### Signpost
+Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) are notes that allows us to navigate easily (e.g. Collection of books or writings).
 
 > [!Warning] 
 > Maturity Levels are subjective. It might only means that I'm a very immature person.
