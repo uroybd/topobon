@@ -1,0 +1,22 @@
+{% if metatags %}
+    {% for name, content in metatags %}
+        <meta name="{{ name }}" content="{{ content }}">
+    {% endfor %}
+    {% if not metatags["og:image"] %}
+        {% if tags and "gardenEntry" in tags %}
+            <meta name="og:image" content="{{meta.siteBaseUrl}}/img/cover.jpg">
+        {% elif noteIcon in [1, 2, 3]%}
+            <meta name="og:image" content="{{meta.siteBaseUrl}}/img/tree-{{noteIcon}}-cover.jpg">
+        {% else %}
+            <meta name="og:image" content="{{meta.siteBaseUrl}}/img/cover.jpg">
+        {% endif %}
+    {% endif %}
+{% else %}
+    {% if tags and "gardenEntry" in tags %}
+            <meta name="og:image" content="{{meta.siteBaseUrl}}/img/cover.jpg">
+    {% elif noteIcon in [1, 2, 3] %}
+        <meta name="og:image" content="{{meta.siteBaseUrl}}/img/tree-{{noteIcon}}-cover.jpg">
+    {% else %}
+        <meta name="og:image" content="{{meta.siteBaseUrl}}/img/cover.jpg">
+    {% endif %}
+{% endif %}
