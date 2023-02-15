@@ -36,7 +36,7 @@ function forestData(data) {
     let v = parseInt(n.data.noteIcon);
     let height = 2;
     if (!v) {
-      v = "stone";
+      v = n.data.noteIcon;
     } else {
       height = v;
       v = `tree-${v}`;
