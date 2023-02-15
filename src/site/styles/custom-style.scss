@@ -8,8 +8,15 @@ body {
         flex-direction: row;
         font-size: 0.8em;
         color: var(--text-muted);
-        gap: 5px;
-        margin-top: 10px;
+        gap: 10px;
+        margin-top: 20px;
+
+        div {
+            display: flex;
+            flex-direction: row;
+            gap: 3px;
+            align-items: center;
+        }
     }
 
     .notelink {
