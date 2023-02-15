@@ -1,0 +1,99 @@
+From f62f7c744eb4e51090310b64ae14e11fc8b65c55 Mon Sep 17 00:00:00 2001
+From: Utsob Roy <roy@utsob.me>
+Date: Wed, 15 Feb 2023 14:15:54 +0600
+Subject: [PATCH] mandatory patches
+
+---
+ src/site/404.njk                             | 2 +-
+ src/site/_data/eleventyComputed.js           | 6 ++++--
+ src/site/_includes/layouts/note.njk          | 2 +-
+ src/site/_includes/layouts/versionednote.njk | 2 +-
+ src/site/index.njk                           | 2 +-
+ vercel.json                                  | 5 ++++-
+ 6 files changed, 12 insertions(+), 7 deletions(-)
+
+diff --git a/src/site/404.njk b/src/site/404.njk
+index 3cf553f..af93aba 100644
+--- a/src/site/404.njk
++++ b/src/site/404.njk
+@@ -2,7 +2,7 @@
+ <!DOCTYPE html>
+ <html lang="en">
+     <head>
+-        <title>Nothing here</title>
++        <title>Nothing here | {{meta.siteName}}</title>
+         <link href="/styles/digital-garden-base.css" rel="stylesheet">
+         {%-if meta.themeStyle%}
+             <link href="/styles/obsidian-base.css" rel="stylesheet">
+diff --git a/src/site/_data/eleventyComputed.js b/src/site/_data/eleventyComputed.js
+index d19e5e1..bff8db0 100644
+--- a/src/site/_data/eleventyComputed.js
++++ b/src/site/_data/eleventyComputed.js
+@@ -1,5 +1,7 @@
+ const { getGraph } = require("../../helpers/linkUtils");
++const { forestData } = require("../../helpers/userUtils");
+ 
+ module.exports = {
+-    graph: (data) => getGraph(data),
+-}
+\ No newline at end of file
++  graph: (data) => getGraph(data),
++  forestData: (data) => forestData(data),
++};
+diff --git a/src/site/_includes/layouts/note.njk b/src/site/_includes/layouts/note.njk
+index 7e06a59..6773ff9 100644
+--- a/src/site/_includes/layouts/note.njk
++++ b/src/site/_includes/layouts/note.njk
+@@ -4,7 +4,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
+ <!DOCTYPE html>
+ <html lang="en">
+   <head>
+-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
++    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} | {{meta.siteName}}</title>
+     {%include "components/pageheader.njk"%}
+     {% for imp in dynamics.common.head %}
+       {% include imp %}
+diff --git a/src/site/_includes/layouts/versionednote.njk b/src/site/_includes/layouts/versionednote.njk
+index a27ffdc..ee00d64 100644
+--- a/src/site/_includes/layouts/versionednote.njk
++++ b/src/site/_includes/layouts/versionednote.njk
+@@ -1,7 +1,7 @@
+ <!DOCTYPE html>
+ <html lang="en">
+   <head>
+-    <title>{{ item.title }}</title>
++    <title>{{ item.title }} | {{meta.siteName}}</title>
+     {%include "components/pageheader.njk"%}
+   </head>
+   <body>
+diff --git a/src/site/index.njk b/src/site/index.njk
+index 4ea54e3..1d9b931 100644
+--- a/src/site/index.njk
++++ b/src/site/index.njk
+@@ -1,7 +1,7 @@
+ <!DOCTYPE html>
+ <html lang="en">
+   <head>
+-    <title>{{ noteTitle }}</title>
++    <title>{{ noteTitle }} | {{meta.siteName}}</title>
+     {%include "components/pageheader.njk"%}
+     {% for imp in dynamics.common.head %}
+       {% include imp %}
+diff --git a/vercel.json b/vercel.json
+index 10e191a..9af4473 100644
+--- a/vercel.json
++++ b/vercel.json
+@@ -6,5 +6,8 @@
+     "routes": [
+         { "handle": "filesystem" },
+         { "src": "/(.*)", "status": 404, "dest": "/404" }
+-      ]
++      ],
++      "github": {
++        "silent": true
++      }
+ }
+\ No newline at end of file
+-- 
+2.37.1 (Apple Git-137.1)
+
