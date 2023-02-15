@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Against Interpretation and Other Essays by Susan Sontag","updated":"2023-02-13T11:53:46+06:00","created":"2021-12-08T16:36:10+06:00","latitude":23.78274261,"longitude":90.42131504,"altitude":-30.0918,"dg-publish":true,"dg-note-icon":"stone","tags":["art","literature","criticism","language","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/against-interpretation-and-other-essays-by-susan-s/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Against Interpretation and Other Essays by Susan Sontag","updated":"2023-02-14T20:33:25+06:00","created":"2021-12-08T16:36:10+06:00","latitude":23.78274261,"longitude":90.42131504,"altitude":-30.0918,"dg-publish":true,"dg-note-icon":"stone","tags":["art","literature","criticism","language","reading-notes"],"permalink":"/personal/reading/notes-and-highlights/against-interpretation-and-other-essays-by-susan-s/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Against Interpretation and Other Essays
@@ -38,7 +38,7 @@ It is the author naked which the modern audience demands, as ages of religious f
 
 
 ### Time: 2021-11-18 21:36
-Why do we read a writer’s journal? Because it illuminates his books? Often it does not.More likely, simply because of the rawness of the journal form, even when it is written with an eye to future publication. Here we read the writer in the first person; we encounter the ego behind the masks of ego in an author’s works. No degree of intimacy in a novel can supply this, even when the author writes in the first person or uses a third person which transparently points to himself.
+Why do we read a writer’s journal? Because it illuminates his books? Often it does not. More likely, simply because of the rawness of the journal form, even when it is written with an eye to future publication. Here we read the writer in the first person; we encounter the ego behind the masks of ego in an author’s works. No degree of intimacy in a novel can supply this, even when the author writes in the first person or uses a third person which transparently points to himself.
 
 
 ### Time: 2021-11-19 13:56
@@ -54,7 +54,7 @@ The unity of Pavese’s diaries is to be found in his reflections on, how to use
 
 
 ### Time: 2021-11-19 13:59
-Thus we have the following remarkable sequence of thought, in a diary entry of 1938.Pavese writes: “Literature is a defense against the attacks of life. It says to life: ‘You can’t deceive me. I know your habits, foresee and enjoy watching your reactions, and steal your secrets by involving you in cunning obstructions that halt your normal flow.’… The other defense against things in general is silence as we muster strength for a fresh leap forward.But we must impose that silence on ourselves, not have it imposed on us, not even by death.To choose a hardship for ourselves is our only defense against that hardship … Those who by their very nature can suffer completely, utterly, have an advantage. This is how we can disarm the power of suffering, make it our own creation, our own choice; submit to it. A justification for suicide.”
+Thus we have the following remarkable sequence of thought, in a diary entry of 1938. Pavese writes: “Literature is a defense against the attacks of life. It says to life: ‘You can’t deceive me. I know your habits, foresee and enjoy watching your reactions, and steal your secrets by involving you in cunning obstructions that halt your normal flow.’… The other defense against things in general is silence as we muster strength for a fresh leap forward.But we must impose that silence on ourselves, not have it imposed on us, not even by death.To choose a hardship for ourselves is our only defense against that hardship … Those who by their very nature can suffer completely, utterly, have an advantage. This is how we can disarm the power of suffering, make it our own creation, our own choice; submit to it. A justification for suicide.”
 
 
 ### Time: 2021-11-19 14:50
