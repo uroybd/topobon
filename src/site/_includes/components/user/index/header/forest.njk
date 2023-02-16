@@ -1,6 +1,6 @@
 <div id="forest-graph">
     <div class="forest-body">
-        {% for row in forestData %}
+        {% for row in userComputed.forest %}
         <div class="forest-row">
             {% for tree in row %}
             <a class="tree {% if tree[0] == 0 %}plane{% endif %}" {% if tree[0] != 0 %}href="{{tree[1]}}" title="{{tree[2]}}"{% endif %}>

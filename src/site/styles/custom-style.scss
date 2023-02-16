@@ -3,6 +3,9 @@
 }
 
 body {
+    --graph-main: var(--text-accent);
+    --graph-muted: rgba(126, 126, 126, 0.5);
+
     .timestamps {
         display: flex;
         flex-direction: row;

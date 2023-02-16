@@ -46,4 +46,10 @@ function forestData(data) {
   return getPositions(canvasTrees);
 }
 
-exports.forestData = forestData;
+function userComputed(data) {
+  return {
+    forest: forestData(data),
+  };
+}
+
+exports.userComputed = userComputed;
