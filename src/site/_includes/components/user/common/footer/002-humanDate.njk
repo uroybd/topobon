@@ -1,5 +1,5 @@
     <script>
       document.querySelectorAll('.human-date').forEach(function (el) {
-        el.innerHTML = dayjs(el.getAttribute('data-date') || el.innerText).format('MMM D, YYYY h:mm A');
+        el.innerHTML = luxon.DateTime.fromISO(el.getAttribute('data-date') || el.innerText).toFormat('MMM dd, yyyy h:mm a');
       });
     </script>
