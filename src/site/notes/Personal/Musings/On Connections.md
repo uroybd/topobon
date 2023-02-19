@@ -1,5 +1,5 @@
 ---
-{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-01-31T11:00:14+06:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"permalink":"/personal/musings/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-02-19T14:10:37+06:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"permalink":"/personal/musings/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 # Preamble
@@ -23,8 +23,8 @@ Entities are quite self-explanatory. In the Obsidian jargon we can consider any 
 
 ### Direct Connection
 A direct connection between two entities can be defined by one of the following relations:
-1. **Accord:** When one entity agree with or compliment another.
-2. **Discord**: When one entity disagree with or refute another.
+1. **Accord:** When one entity agrees with or compliments another.
+2. **Discord**: When one entity disagrees with or refutes another.
 
 ### Indirect Connection
 An indirect connection can be defined by the following signs:
@@ -34,7 +34,6 @@ An indirect connection can be defined by the following signs:
 
 ### Connection Confidence
 Connection confidence means how confident one feels about the meaningfulness of the connection between entities.
-
 ## Strategy
 
 ### Direct Link
