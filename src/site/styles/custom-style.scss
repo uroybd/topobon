@@ -106,6 +106,19 @@ body {
         }
     }
 
+    nav.toc {
+        ol {
+            list-style: none;
+            padding-left: 10px;
+            border-left: 2px solid var(--background-secondary);
+        }
+
+        & > ol {
+            padding-left: 0;
+            border-left: none;
+        }
+    }
+
     .transclusion {
         position: relative;
         .markdown-embed-link {
