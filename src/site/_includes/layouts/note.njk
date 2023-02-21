@@ -1,5 +1,5 @@
 ---
-permalink: "notes/{{ page.fileSlug | slugify }}/"
+permalink: "{%- if 'gardenEntry' in tags -%}/{%- else -%}notes/{{ page.fileSlug | slugify }}/{%- endif -%}"
 ---
 <!DOCTYPE html>
 <html lang="en">
