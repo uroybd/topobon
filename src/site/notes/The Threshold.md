@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":3,"created":"2023-01-02T21:30:15+06:00","updated":"2023-02-21T22:18:02+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","created":"2023-01-02T21:30:15+06:00","updated":"2023-02-21T22:59:44+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 > [!quote] Socrates (from Plato's Apology)
