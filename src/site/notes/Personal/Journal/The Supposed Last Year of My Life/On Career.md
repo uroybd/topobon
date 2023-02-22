@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2023-01-19T15:15:08+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"created":"2022-08-22T18:25:53+06:00","location":"Badda, Dhaka","permalink":"/personal/journal/the-supposed-last-year-of-my-life/on-career/","dgPassFrontmatter":true,"noteIcon":2}
+{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2023-02-22T22:45:06+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"created":"2022-08-22T18:25:53+06:00","location":"Badda, Dhaka","permalink":"/personal/journal/the-supposed-last-year-of-my-life/on-career/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 An introspection of my life cannot be possibly done without a retrospection, a walk down the aisles between desks.
@@ -12,5 +12,5 @@ However, I like to organize my thoughts. I want to make connections about everyt
 
 Programming, along with programming languages, can be considered an applied branch of logic. A dream comes true situation for Bertrand Russell. Probably, Alan Turing was well aware of works of Russell's domain.
 
-Passion for programming remains strong after all these years. However, I no longer think it as powerful as I thought [[Personal/Journal/About Programming\|before]]. In fact, I believe, it shouldn't be granted that much power over our life. [[Personal/Reading/Notes and Highlights/What I Believe#^433c21\|Rules embedded in the system is not a sufficient answer to the moral problems]].
+Passion for programming remains strong after all these years. However, I no longer think it as powerful as I thought [[Personal/Journal/About Programming#^868fa6\|Personal/Journal/About Programming#^868fa6]]. In fact, I believe, it shouldn't be granted that much power over our life. [[Personal/Reading/Notes and Highlights/What I Believe#^433c21\|Rules embedded in the system is not a sufficient answer to the moral problems]].
 { #a97315}
