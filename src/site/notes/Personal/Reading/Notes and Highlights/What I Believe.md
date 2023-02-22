@@ -27,6 +27,8 @@ Metaphysicians have advanced innumerable arguments to prove that the soul must b
 
 ### Page 16 @ 25 October 2022 10:05 PM
 **The philosophy of nature is one thing, the philosophy of value is quite another. Nothing but harm can come of confusing them. What we think good, what we should like, has no bearing whatever upon what is, which is the question for the philosophy of nature. On the other hand, we cannot be forbidden to value this or that on the ground that the non-human world does not value it, nor can we be compelled to admire anything because it is a law of nature’.**
+{ #433c21}
+
 
 ### Page 16 @ 25 October 2022 10:06 PM
 The philosophy of nature must not be unduly terrestrial; for it, the earth is merely one of the smaller planets of one of the smaller stars of the Milky Way. It would be ridiculous to warp the philosophy of nature in order to bring out results that are pleasing to the tiny parasites of this insignificant planet. Vitalism as a philosophy, and evolutionism, show, in this respect, a lack of sense of proportion and logical relevance. They regard the facts of life, which are personally interesting to us, as having a cosmic significance, not a significance confined to the earth’s surface. Optimism and pessimism, as cosmic philosophies, show the same naive humanism; the great world, so far as we know it from the philosophy of nature, is neither good nor bad, and is not concerned to make us happy or unhappy. All such philosophies spring from self-importance, and are best corrected by a little astronomy.
