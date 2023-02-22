@@ -7,7 +7,6 @@ module.exports = {
   eleventyComputed: {
     layout: (data) => {
       if (data.tags.indexOf("gardenEntry") != -1) {
-        console.log(data);
         return "layouts/index.njk";
       }
       return "layouts/note.njk";

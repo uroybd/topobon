@@ -19,6 +19,7 @@ function fancyFootnote(element) {
     });
     const markers = post.querySelectorAll("[id^='fnref']");
     markers.forEach(function (entry) {
+      entry.innerText = entry.innerText.substring(1, entry.innerText.length - 1);
       var did = "fnote-" + notenum + '-' + entry.id.split("fnref")[1];
       entry.classList.add("pointer", "fnote-marker");
       entry.addEventListener("click", function (e) {
