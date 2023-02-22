@@ -424,3 +424,9 @@ body.filetree-note-icon .filename[data-note-icon="signpost"]::before,
 body.links-note-icon .internal-link[data-note-icon="signpost"]::before {
     background-image: url(/img/signpost.svg);
 }
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="withered"]::before,
+body.filetree-note-icon .filename[data-note-icon="withered"]::before,
+body.links-note-icon .internal-link[data-note-icon="withered"]::before {
+    background-image: url(/img/withered.svg);
+}
