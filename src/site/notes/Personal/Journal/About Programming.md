@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2023-02-22T17:03:44+06:00","tags":["passion","philosophy","programming"],"created":"2018-10-04T07:41:24+06:00","dg-publish":true,"dg-note-icon":"withered","permalink":"/personal/journal/about-programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
+{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2023-02-22T17:05:49+06:00","tags":["passion","philosophy","programming"],"created":"2018-10-04T07:41:24+06:00","dg-publish":true,"dg-note-icon":"withered","permalink":"/personal/journal/about-programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
 ---
 
 Among the two passions I have, programming is the one I'm less passionate about. But, it's a passion still and, since it is the work that bring me money, I spend a considerable amount of time with it. After all, we seldom can create a job out of our passion in this unforgiving, ever-expecting monster of a society.
@@ -9,7 +9,7 @@ When I started, it was purely a passion. Never thought that it will be a profess
 Another thing I would like to point out that a passion is a spiritual journey to me. It requires one's utmost attention and intelligence. You'll indeed find a philosophical vibe around programming (Read **[[Personal/Reading/Books/To Read/Structure and Interpretation of Computer Programs by Harold Abelson\|Structure and Interpretation of Computer Programs]]**), which is only too natural. You'll find this in design and manuals of UNIX and friends, in programming paradigms and software architecture and also in individual's codes where they try to write code in the best possible way. It manipulated data in so many ways and yet exploring many more that it is now possible to establish a new religion on it, Data Religion.
 
 
-> [!fail] 
+> [!fail] Outdated
 > The following section contains an outdated view. My opinion regarding this has been expressed [[Personal/Journal/The Supposed Last Year of My Life/On Career#^a97315\|here]].
 
 
