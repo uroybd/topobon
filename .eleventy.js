@@ -6,7 +6,7 @@ const faviconPlugin = require("eleventy-favicon");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 
-const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const { headerToId } = require("./src/helpers/utils");
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
@@ -18,6 +18,9 @@ module.exports = function (eleventyConfig) {
     breaks: true,
     html: true,
   })
+    .use(require("markdown-it-anchor"), {
+      slugify: headerToId,
+    })
     .use(require("markdown-it-footnote"))
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
@@ -45,7 +48,7 @@ module.exports = function (eleventyConfig) {
       openMarker: "```plantuml",
       closeMarker: "```",
     })
-    .use(namedHeadingsFilter)
+
     .use(function (md) {
       //https://github.com/DCsunset/markdown-it-mermaid-plugin
       const origFenceRule =
