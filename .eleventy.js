@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
     breaks: true,
     html: true,
   })
+    .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
@@ -139,6 +140,22 @@ module.exports = function (eleventyConfig) {
 
         return defaultLinkRule(tokens, idx, options, env, self);
       };
+      // Footnote heading fix (till the upstream releases the fix)
+      md.renderer.rules.render_footnote_anchor_name = (
+        tokens,
+        idx,
+        options,
+        env
+      ) => {
+        var n = Number(tokens[idx].meta.id + 1).toString();
+        var prefix = "";
+
+        if (env && typeof env.docId === "string") {
+          prefix = "-" + env.docId + "-";
+        }
+
+        return prefix + n;
+      };
     });
 
   eleventyConfig.setLibrary("md", markdownLib);
@@ -176,9 +193,6 @@ module.exports = function (eleventyConfig) {
           if (frontMatter.data.permalink) {
             permalink = frontMatter.data.permalink;
           }
-          if (frontMatter.data.tags.indexOf("gardenEntry") != -1) {
-            permalink = "/";
-          }
           if (frontMatter.data.noteIcon) {
             noteIcon = frontMatter.data.noteIcon;
           }
@@ -189,15 +203,6 @@ module.exports = function (eleventyConfig) {
         return `<a class="internal-link ${
           deadLink ? "is-unresolved" : ""
         }" ${deadLink ? "" : 'data-note-icon="' + noteIcon + '"'} href="${permalink}${headerLinkPath}">${title}</a>`;
-      })
-    );
-  });
-
-  eleventyConfig.addFilter("highlight", function (str) {
-    return (
-      str &&
-      str.replace(/\=\=(.*?)\=\=/g, function (match, p1) {
-        return `<mark>${p1}</mark>`;
       })
     );
   });
