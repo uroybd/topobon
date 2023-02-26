@@ -5,6 +5,7 @@ const matter = require("gray-matter");
 const faviconPlugin = require("eleventy-favicon");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
+const htmlMinifier = require("html-minifier");
 
 const { headerToId } = require("./src/helpers/utils");
 
@@ -292,6 +293,18 @@ module.exports = function (eleventyConfig) {
     transformCalloutBlocks();
 
     return str && parsed.innerHTML;
+  });
+  eleventyConfig.addTransform("htmlMinifier", (content) => {
+    if (process.env.NODE_ENV === "production") {
+      return htmlMinifier.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+        minifyCSS: true,
+        minifyJS: true,
+      });
+    }
+    return content;
   });
 
   eleventyConfig.addPassthroughCopy("src/site/img");
