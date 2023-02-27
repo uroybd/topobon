@@ -14,7 +14,7 @@ So, I read the last book I've mentioned in the vein of knowing more about what B
 My primary curiosity about Buddhism has been sparked by Buddha's alleged philosophical nature, **emphasis on discourse instead of dogma** and eerie accuracy in many matters. By far, I agree with Buddha in:
   1. Four Noble Truths
   2. [Impermanence](https://en.wikipedia.org/wiki/Impermanence)
-  3. [[Entities/Concept/Anatman\|Anattā]]
+  3. [[Entities/Concept/Buddhism/Anatman\|Anattā]]
   4. [Dependant Origination](https://en.wikipedia.org/wiki/Pratītyasamutpāda)
 I agree with his idea of mental training to acquire a state of tranquillity to live a life devoid of suffering.
 
