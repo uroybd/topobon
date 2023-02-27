@@ -31,7 +31,22 @@ function getPositions(trees) {
   return levels;
 }
 
+const noteLabels = {
+  "tree-1": { label: "Seedling", count: 0, icon: "tree-1" },
+  "tree-2": { label: "Sapling", count: 0, icon: "tree-2" },
+  "tree-3": { label: "Tree", count: 0, icon: "tree-3" },
+  withered: {
+    label: "Withered",
+    plural: "Withered",
+    count: 0,
+    icon: "withered",
+  },
+  signpost: { label: "Signpost", count: 0, icon: "signpost" },
+  stone: { label: "Stone", count: 0, icon: "stone" },
+};
+
 function forestData(data) {
+  const treeCounts = JSON.parse(JSON.stringify(noteLabels));
   const canvasTrees = data.collections.note.map((n) => {
     let v = parseInt(n.data.noteIcon);
     let height = 2;
@@ -41,9 +56,17 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
+    treeCounts[v].count++;
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
-  return getPositions(canvasTrees);
+
+  let legends = Object.values(treeCounts).filter((c) => c.count > 0);
+  legends.sort((a, b) => b.count - a.count);
+  console.log(legends);
+  return {
+    trees: getPositions(canvasTrees),
+    legends,
+  };
 }
 
 function userComputed(data) {

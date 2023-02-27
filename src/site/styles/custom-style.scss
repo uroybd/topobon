@@ -228,6 +228,7 @@ body {
         justify-content: center;
         align-items: center;
         padding-bottom: 20px;
+        flex-direction: column;
         .forest-body {
             display: inline-flex;
             flex-direction: column;
@@ -240,7 +241,7 @@ body {
                 flex-direction: row;
                 align-items: flex-end;
 
-                .tree {
+                a {
                     width: 25px;
                     height: 25px;
                     cursor: pointer;
@@ -258,18 +259,24 @@ body {
                 .plane {
                     cursor: inherit;
                 }
+            }
+        }
 
-                .tree-1 {
-                    color: lightblue;
-                }
+        .forest-legends {
+            margin-top: 10px;
+            display: flex;
+            gap: 10px;
+            width: 100%;
+            justify-content: center;
+            flex-wrap: wrap;
 
-                .tree-2 {
-                    color: lightgreen;
-                }
+            font-size: 0.8em;
+            color: var(--text-muted);
 
-                .tree-3 {
-                    color: lightseagreen;
-                }
+            img {
+                height: 1.5em;
+                width: auto;
+                margin-right: 5px;
             }
         }
     }

@@ -1,17 +1,24 @@
 <div id="forest-graph">
     <div class="forest-body">
-        {% for row in userComputed.forest %}
+        {% for row in userComputed.forest.trees %}
         <div class="forest-row">
             {% for tree in row %}
-            <a class="tree {% if tree[0] == 0 %}plane{% endif %}" {% if tree[0] != 0 %}href="{{tree[1]}}" title="{{tree[2]}}"{% endif %}>
-                {% if tree[0] == 0 %}
+            {% if tree[0] == 0 %}
+            <span class="tree plane}">
                 <span></span>
-                {% else %}
+            </span>
+            {% else %}
+            <a class="tree" href="{{tree[1]}}" title="{{tree[2]}}">
                 <img src="/img/{{tree[0]}}.svg" alt="" style="width: auto;height: {{5 + (10 * tree[3])}}px;" />
-                {% endif %}
             </a>
+            {% endif %}
             {% endfor %}
         </div>
+        {% endfor %}
+    </div>
+    <div class="forest-legends">
+        {% for count in userComputed.forest.legends %}
+        <div class="stat"><img src="/img/{{count.icon}}.svg" alt="{{count.label}}" />{{count.count}} {% if count.count > 1 %}{% if count.plural %}{{count.plural}}{% else %}{{count.label}}s{% endif %}{% else %}{{count.label}}{% endif %}</div>
         {% endfor %}
     </div>
 </div>
