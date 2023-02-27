@@ -1,5 +1,5 @@
 ---
-{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","aliases":["Mūlamadhyamakakārikā"],"created":"2020-11-10T01:03:50+06:00","updated":"2023-02-27T11:13:20+06:00","read_at":["2020-11-22T00:00:00+06:00"],"read_count":1,"authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"status":"Read","reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","philosophy","buddhism","bestreads"],"permalink":"/personal/reading/books/read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","aliases":["Mūlamadhyamakakārikā"],"created":"2020-11-10T01:03:50+06:00","updated":"2023-02-27T12:12:31+06:00","read_at":["2020-11-22T00:00:00+06:00"],"read_count":1,"authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"status":"Read","reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","philosophy","buddhism","bestreads"],"permalink":"/personal/reading/books/read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 The charm and the fault[^1] of Buddhism lies in its philosophical bend. This aspect makes it almost inaccessible to an untrained person.
@@ -14,7 +14,7 @@ This is a treaty against such essentialist interpretation. Case by case, he trie
 
 One strategy was to start the argument from *[[Entities/Concept/Buddhism/Pratītyasamutpāda\|dependant origination]]*, which can be considered an axiom in this context since everyone agrees on it. Then he sought to show the emptiness of the phenomena like self, dhamma, nirvana, and virtually everything. Some schools of Buddhist philosophy considered these (except for self) to be essential.
 
-Another strategy worked by how essentialism directly in discord with natural world, dependant origination, and doctrine of impermanence:
+Another strategy worked by how essentialism directly in discord with natural world, dependant origination, and doctrine of [[Entities/Concept/Buddhism/Anitya\|impermanence]]:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/#b90422" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
