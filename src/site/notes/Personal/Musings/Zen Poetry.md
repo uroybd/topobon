@@ -40,7 +40,7 @@ of breezes drifting through pine.
 </div></div>
 
 
-He is writing about Zen. These [Tanka](https://en.wikipedia.org/wiki/Tanka) poems are not only poems, but [koans](https://en.wikipedia.org/wiki/Koan) too. A central idea of Buddhism is [[Entities/Concept/Anatman\|Anattā]], which is the denial of the existence of self or soul as an indivisible and indestructible unit. Instead, the self we know is a continuous process working through our senses. It is very much material and the self is considered as an illusion.
+He is writing about Zen. These [Tanka](https://en.wikipedia.org/wiki/Tanka) poems are not only poems, but [koans](https://en.wikipedia.org/wiki/Koan) too. A central idea of Buddhism is [[Entities/Concept/Buddhism/Anatman\|Anattā]], which is the denial of the existence of self or soul as an indivisible and indestructible unit. Instead, the self we know is a continuous process working through our senses. It is very much material and the self is considered as an illusion.
 
 Therefore, the self, understood through Zen, is superbly temporal like a drop of dew or a flash of lightning. It is as elusive as sound painted in ink.
 
@@ -74,7 +74,7 @@ chrysanthemums.
 </div></div>
 
 
-Poetry like this requires a certain emotional quality known as '[[Entities/Concept/Mono no aware\|Mono no aware]]' which is often translated as 'Love for Impermanence' or 'Pathos of Things'. Impermanence is a core idea of Buddhism. This supplied Zen poets with a framework to hone their Mono no aware.
+Poetry like this requires a certain emotional quality known as '[[Entities/Concept/Aesthetics/Mono no aware\|Mono no aware]]' which is often translated as 'Love for Impermanence' or 'Pathos of Things'. Impermanence is a core idea of Buddhism. This supplied Zen poets with a framework to hone their Mono no aware.
 
 Then comes the anguish. Even with a solid understanding of Zen philosophy, poets often faced situations that caused them pain beyond reason. For Bashō, it was when his older brother presented him a lock of white hair of their late mother:
 
