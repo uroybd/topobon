@@ -30,7 +30,6 @@ async function getTheme() {
     } catch {}
     let skippedFirstComment = false;
     const data = res.data.replace(themeCommentRegex, (match) => {
-      console.log(match);
       if (skippedFirstComment) {
         return "";
       } else {
@@ -41,7 +40,6 @@ async function getTheme() {
     const hashSum = crypto.createHash("sha256");
     hashSum.update(data);
     const hex = hashSum.digest("hex");
-    console.log(`src/site/styles/_theme.${hex.substring(0, 8)}.css`);
     fs.writeFileSync(`src/site/styles/_theme.${hex.substring(0, 8)}.css`, data);
   }
 }
