@@ -1,5 +1,5 @@
 ---
-{"title":"Exploring Buddhism","updated":"2023-02-22T14:05:11+06:00","tags":["buddhism","philosophy"],"created":"2021-08-30T20:24:08+06:00","dg-publish":true,"dg-note-icon":2,"permalink":"/personal/musings/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Exploring Buddhism","updated":"2023-02-27T12:09:00+06:00","tags":["buddhism","philosophy"],"created":"2021-08-30T20:24:08+06:00","dg-publish":true,"dg-note-icon":2,"permalink":"/personal/musings/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 For quite some time, I'm exploring Buddhism. I've started with ’**What Buddha Taught**’, have learned some more from a book on the history and development of Buddhism, and lastly from *Bhikkhu Bodhi's* [[Personal/Reading/Books/Read/The Noble Eightfold Path by Bhikkhu Bodhi\|The Noble Eightfold Path by Bhikkhu Bodhi]]. I enjoyed *Nagarjuna's* [[Personal/Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|dialectics]] a lot.
@@ -13,9 +13,10 @@ So, I read the last book I've mentioned in the vein of knowing more about what B
 ## Agreements
 My primary curiosity about Buddhism has been sparked by Buddha's alleged philosophical nature, **emphasis on discourse instead of dogma** and eerie accuracy in many matters. By far, I agree with Buddha in:
   1. Four Noble Truths
-  2. [Impermanence](https://en.wikipedia.org/wiki/Impermanence)
+  2. [[Entities/Concept/Buddhism/Anitya\|Anitya]]
   3. [[Entities/Concept/Buddhism/Anatman\|Anattā]]
-  4. [Dependant Origination](https://en.wikipedia.org/wiki/Pratītyasamutpāda)
+  4. [[Entities/Concept/Buddhism/Pratītyasamutpāda\|Pratītyasamutpāda]]
+
 I agree with his idea of mental training to acquire a state of tranquillity to live a life devoid of suffering.
 
 These are all of his original teachings.
