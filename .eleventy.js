@@ -294,8 +294,12 @@ module.exports = function (eleventyConfig) {
 
     return str && parsed.innerHTML;
   });
-  eleventyConfig.addTransform("htmlMinifier", (content) => {
-    if (process.env.NODE_ENV === "production") {
+  eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
+    if (
+      process.env.NODE_ENV === "production" &&
+      outputPath &&
+      outputPath.endsWith(".html")
+    ) {
       return htmlMinifier.minify(content, {
         useShortDoctype: true,
         removeComments: true,
@@ -308,6 +312,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("src/site/img");
+  eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPlugin(faviconPlugin, { destination: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
