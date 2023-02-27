@@ -1,18 +1,18 @@
 ---
-{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","created":"2020-11-10T00:00:00+06:00","updated":"2023-02-27T01:03:50+06:00","read_at":["2020-11-22T00:00:00+06:00"],"read_count":1,"authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"status":"Read","reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","philosophy","buddhism","bestreads"],"permalink":"/personal/reading/books/read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","aliases":["Mūlamadhyamakakārikā"],"created":"2020-11-10T01:03:50+06:00","updated":"2023-02-27T11:13:20+06:00","read_at":["2020-11-22T00:00:00+06:00"],"read_count":1,"authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"status":"Read","reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","philosophy","buddhism","bestreads"],"permalink":"/personal/reading/books/read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 The charm and the fault[^1] of Buddhism lies in its philosophical bend. This aspect makes it almost inaccessible to an untrained person.
 
 This is probably the most important Buddhist-philosophical work ever produced. The logical rigour it shows makes it a formidable standard that is very hard to meet.
 
-The structure is quite different from western philosophical texts. It was written in verse. Understanding this is not really easy. However, Garfield's extensive commentary made it much more digestible. He used *Reductio ad absurdum* extensively. In fact, he elevated it to state of the art.
+The structure is quite different from western philosophical texts. It was written in verse. Understanding this is not really easy. However, Garfield's extensive commentary made it much more digestible. 
 
 Most of the religions we know, and were prevalent in Nāgārjuna's time, are essentialist. The concept of soul, all-transcending God, directed to some essence, some reality more real than the one we perceive. The lure was strong. So strong that many Buddhist ideas got interpreted in the essentialist light.
 
-This is a treaty against such essentialist interpretation. Case by case, he tried to destroy the essentialist arguments.
+This is a treaty against such essentialist interpretation. Case by case, he tried to destroy the essentialist arguments by using *Reductio ad absurdum*. In fact, he elevated it to state of the art.
 
-One strategy was to start the argument from *dependant origination,* which can be considered an axiom in this context since everyone agrees on it. Then he sought to show the emptiness of the phenomena like self, dhamma, nirvana, and virtually everything. Some schools of Buddhist philosophy considered these (except for self) to be essential.
+One strategy was to start the argument from *[[Entities/Concept/Buddhism/Pratītyasamutpāda\|dependant origination]]*, which can be considered an axiom in this context since everyone agrees on it. Then he sought to show the emptiness of the phenomena like self, dhamma, nirvana, and virtually everything. Some schools of Buddhist philosophy considered these (except for self) to be essential.
 
 Another strategy worked by how essentialism directly in discord with natural world, dependant origination, and doctrine of impermanence:
 
@@ -29,7 +29,7 @@ Would be immutable.
 </div></div>
 
 
-In the process of refuting essentialism, slowly, he churned out a system of metaphysics deduced from core Buddhist philosophy.
+In the process of refuting essentialism, slowly, he churned a much clearer form of metaphysics deduced from core Buddhist metaphysics known then.
 
 > [!note] Notes and Highlights from the Book
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way\|The Fundamental Wisdom of the Middle Way]])
