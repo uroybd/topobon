@@ -171,22 +171,54 @@ body {
         margin-right: -10px;
     }
 
-    #emailme {
+    #floating-control {
         position: fixed;
-        bottom: 1vmax;
-        right: calc(1vmax + 34px);
-        font-size: 24px;
-        z-index: 999999;
-        cursor: pointer;
-    }
-
-    #theme-switch {
-        position: fixed;
+        color: var(--link-color);
         bottom: 1vmax;
         right: 1vmax;
         font-size: 24px;
         z-index: 999999;
-        cursor: pointer;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        gap: 10px;
+
+        .svg-icon,
+        i {
+            cursor: pointer;
+        }
+
+        #theme-switch {
+            .light {
+                display: none;
+            }
+
+            .dark {
+                display: none;
+            }
+
+            .auto {
+                display: none;
+            }
+        }
+
+        #theme-switch.light {
+            .light {
+                display: inline;
+            }
+        }
+
+        #theme-switch.dark {
+            .dark {
+                display: inline;
+            }
+        }
+
+        #theme-switch.auto {
+            .auto {
+                display: inline;
+            }
+        }
     }
 
     .fnote {
