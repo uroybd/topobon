@@ -7,7 +7,11 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 
-const { headerToId } = require("./src/helpers/utils");
+const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const {
+  userMarkdownSetup,
+  userEleventySetup,
+} = require("./src/helpers/userSetup");
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
@@ -22,6 +26,7 @@ module.exports = function (eleventyConfig) {
     .use(require("markdown-it-anchor"), {
       slugify: headerToId,
     })
+    .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
@@ -49,7 +54,7 @@ module.exports = function (eleventyConfig) {
       openMarker: "```plantuml",
       closeMarker: "```",
     })
-
+    .use(namedHeadingsFilter)
     .use(function (md) {
       //https://github.com/DCsunset/markdown-it-mermaid-plugin
       const origFenceRule =
@@ -143,7 +148,8 @@ module.exports = function (eleventyConfig) {
 
         return defaultLinkRule(tokens, idx, options, env, self);
       };
-    });
+    })
+    .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);
 
@@ -197,20 +203,11 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  eleventyConfig.addFilter("highlight", function (str) {
-    return (
-      str &&
-      str.replace(/\=\=(.*?)\=\=/g, function (match, p1) {
-        return `<mark>${p1}</mark>`;
-      })
-    );
-  });
-
   eleventyConfig.addFilter("taggify", function (str) {
     return (
       str &&
       str.replace(tagRegex, function (match, precede, tag) {
-        return `${precede}<a class="tag" onclick="toggleTagSearch(this)">${tag}</a>`;
+        return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
       })
     );
   });
@@ -294,6 +291,7 @@ module.exports = function (eleventyConfig) {
 
     return str && parsed.innerHTML;
   });
+
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
     if (
       process.env.NODE_ENV === "production" &&
@@ -331,6 +329,8 @@ module.exports = function (eleventyConfig) {
     }
     return variable;
   });
+
+  userEleventySetup(eleventyConfig);
 
   return {
     dir: {
