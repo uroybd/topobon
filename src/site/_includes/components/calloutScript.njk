@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/lucide@0"></script>
+<script src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
 <script>
     // Create callout icons
     window.addEventListener("load", () => {
@@ -29,7 +29,7 @@
 
         // Collapse callouts
         Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((elem) => {
-            elem.addEventListener("click", (event) => {
+            elem.querySelector('.callout-title').addEventListener("click", (event) => {
                 if (elem.classList.contains("is-collapsed")) {
                     elem.classList.remove("is-collapsed");
                 } else {
