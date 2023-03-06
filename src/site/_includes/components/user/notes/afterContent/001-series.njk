@@ -4,7 +4,7 @@
 {%- if note.data.handle and note.data.handle == handle -%}
 <div class="callout" data-callout="info">
     <div class="callout-title">{{ note.data.title or note.fileSlug }}</div>
-    {{ note.templateContent | hideDataview | link | taggify | highlight | safe}}
+    {{ note.templateContent | hideDataview | link | taggify | safe}}
 </div>
 {%- endif -%}
 {%- endfor -%}
