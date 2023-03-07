@@ -606,9 +606,10 @@ body {
       --highlight-mix-blend-mode: darken;
     }
   }
-   
+
   body {
-    --font-default: ui-sans-serif,system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-default: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    ;
     --font-monospace-default: Menlo, SFMono-Regular, Consolas, "Roboto Mono", 'Source Code Pro', monospace;
     --font-interface-override: '??';
     --font-interface-theme: '??';
@@ -720,10 +721,6 @@ body {
   }
   .app-container.no-transition * {
     transition: none !important;
-  }
-  .app-container.is-text-garbled * {
-    font-family: 'Flow Circular', sans-serif !important;
-    line-height: 1.45em !important;
   }
   .horizontal-main-container {
     width: 100%;
