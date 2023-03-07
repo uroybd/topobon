@@ -62,7 +62,6 @@ function forestData(data) {
 
   let legends = Object.values(treeCounts).filter((c) => c.count > 0);
   legends.sort((a, b) => b.count - a.count);
-  console.log(legends);
   return {
     trees: getPositions(canvasTrees),
     legends,
