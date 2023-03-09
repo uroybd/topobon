@@ -1,0 +1,5 @@
+{%- if aliases -%}
+<div class="aliases">
+    <div class="heading">Also known as:</div> {%- for alias in aliases %}{%- if alias.toLowerCase() != title.toLowerCase() -%}<div class="alias pill">{{alias}}</div>{%- endif -%}{%- endfor -%}
+</div>
+{%- endif -%}
