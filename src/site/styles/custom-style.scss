@@ -139,6 +139,10 @@ body {
         margin-bottom: 1.8em;
     }
 
+    .cm-s-obsidian {
+        overflow-x: scroll;
+    }
+
     .cm-s-obsidian > *[id] {
         position: relative;
         cursor: pointer;
