@@ -1,10 +1,10 @@
 {%- if mood or weather -%}
 <div class="journal-icons">
 {%- if mood -%}
-<i icon-name="{{userComputed.journal_icons.mood[mood]}}" title="{{mood}}" alt="{{mood}}"></i>
+<span  title="{{mood}}"><i icon-name="{{userComputed.journal_icons.mood[mood]}}"></i></span>
 {%- endif -%}
 {%- if weather -%}
-<i icon-name="{{userComputed.journal_icons.weather[weather]}}" title="{{weather}}" alt="{{weather}}"></i>
+<span  title="{{weather}}"><i icon-name="{{userComputed.journal_icons.weather[weather]}}"></i></span>
 {%- endif -%}
 </div>
 {%- endif -%}
