@@ -71,25 +71,6 @@ function forestData(data) {
 function userComputed(data) {
   return {
     forest: forestData(data),
-    journal_icons: {
-      weather: {
-        sunny: "sun",
-        cloudy: "cloudy",
-        rainy: "cloud-rain",
-        thunderstorm: "cloud-lightning",
-        cold: "snowflake",
-        night: "moon",
-      },
-      mood: {
-        good: "smile",
-        angry: "angry",
-        confident: "thumbs-up",
-        sad: "frown",
-        amused: "laugh",
-        moody: "circle",
-        indifferent: "meh",
-      },
-    },
   };
 }
 
