@@ -1,16 +1,18 @@
 ---
-{"title":"Narrow Road to the Interior: And Other Writings","created":"2021-06-25T00:00:00+06:00","updated":"2023-02-27T12:22:31+06:00","read_at":["2021-06-26T00:00:00+06:00"],"read_count":1,"authors":["Matsuo Bashō","Sam Hamill"],"isbn10":1570627169,"status":"Read","rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["history","japanese","travel","poetry","medieval","bestreads"],"permalink":"/personal/reading/books/read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Narrow Road to the Interior: And Other Writings","created":"2021-06-25T00:00:00+06:00","updated":"2023-03-15T23:15:20+06:00","read_at":["2021-06-26T00:00:00+06:00"],"read_count":1,"authors":["Matsuo Bashō","Sam Hamill"],"isbn10":1570627169,"status":"Read","rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["history","japanese","travel","poetry","medieval","bestreads"],"permalink":"/personal/reading/books/read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
-Art is, to me, the most authentic self-expression. Beauty is secondary. Art thrives on our individuality, on our differences. This also implies that art is a mode of living. And how Bashō lived art!  
-  
-Being a writer myself, I envy Bashō and his time. Yes, it was war-torn medieval Japan. But, people in general are so sincere. Even prostitutes used to utter Haikus. More than that people used to remember poems with their context and history which is, in this age only done by experts. They cherished art and artists. Without so much distractions of our era, a person can live on very little and a poet could have been a hermit.  
-{ #9ffd6b}
+This is one of those books that added a layer to my being. My admiration to [[Entities/Person/Matsuo Bashō\|Matsuo Bashō]] starts here.
 
-  
-Bashō lived art in that time. He practiced Zen. He immersed himself in writings of his predecessors. He preached his way of poetry and lived by his rules with absolute honesty. He taught himself to be one with the nature and when he wrote about nature, he wrote about himself.  
-  
-And, what did he achieved? To me, Bashō is synonymous with excellence.
+Firstly, I think Sam Hamill is an excellent translator. Not only he translated the book, he provided a splendid preface to put things into perspective.
+
+This collection contains two of Bashō's travelogues, and some of his Haikus.
+
+Bashō lived in a war-torn feudal Japan. Travel, naturally, came with quite some danger in the path. His advanced age was not in his favour also. But neither the danger nor the fatigue dissuade Bashō. Instead, soldier's grave brought some haikus and there were Pine forests and Full-moons to wash away his fatigue.
+
+Apart from Bashō exquisite inner-life, another important aspect that shined through the description is how culturally aware the people of Japan were regardless of their class. People used to memorize poems with their context, i.e. who, how, and in what situation wrote it. Prostitutes would find solace in poetry when no one is listening to them. I genuinely regret for not being born in that time and place.
+{ #aa2b0c}
+
 
 > [!note] Notes and Highlights from the Book
 > (Notes:: [[Personal/Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings\|Narrow Road to the Interior and Other Writings]])
