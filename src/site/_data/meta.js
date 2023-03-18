@@ -2,14 +2,14 @@ require("dotenv").config();
 const axios = require("axios");
 const fs = require("fs");
 const crypto = require("crypto");
-const glob = require("glob");
+const { globSync } = require("glob");
 
 module.exports = async () => {
   let baseUrl = process.env.SITE_BASE_URL || "";
   if (baseUrl && !baseUrl.startsWith("http")) {
     baseUrl = "https://" + baseUrl;
   }
-  let themeStyle = glob.sync("src/site/styles/_theme.*.css")[0] || "";
+  let themeStyle = globSync("src/site/styles/_theme.*.css")[0] || "";
   if (themeStyle) {
     themeStyle = themeStyle.split("site")[1];
   }
@@ -20,6 +20,9 @@ module.exports = async () => {
     title: false,
     default: process.env.NOTE_ICON_DEFAULT,
   };
+
+  const styleSettingsCss = process.env.STYLE_SETTINGS_CSS || "";
+
   if (process.env.NOTE_ICON_TITLE && process.env.NOTE_ICON_TITLE == "true") {
     bodyClasses.push("title-note-icon");
     noteIconsSettings.title = true;
@@ -45,6 +48,10 @@ module.exports = async () => {
     bodyClasses.push("backlinks-note-icon");
     noteIconsSettings.backlinks = true;
   }
+  if(styleSettingsCss){
+    bodyClasses.push("css-settings-manager");
+  }
+
   let timestampSettings = {
     timestampFormat: process.env.TIMESTAMP_FORMAT || "MMM dd, yyyy h:mm a",
     showCreated: process.env.SHOW_CREATED_TIMESTAMP == "true",
@@ -60,6 +67,7 @@ module.exports = async () => {
     baseTheme: process.env.BASE_THEME || "dark",
     siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
     siteBaseUrl: baseUrl,
+    styleSettingsCss
   };
 
   return meta;
