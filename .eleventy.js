@@ -6,6 +6,7 @@ const faviconPlugin = require("eleventy-favicon");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
@@ -253,7 +254,7 @@ module.exports = function (eleventyConfig) {
         let calloutType = "";
         let isCollapsable;
         let isCollapsed;
-        const calloutMeta = /\[!(\w*)\](\+|\-){0,1}(\s?.*)/;
+        const calloutMeta = /\[!([\w-]*)\](\+|\-){0,1}(\s?.*)/;;
         if (!content.match(calloutMeta)) {
           continue;
         }
@@ -304,6 +305,7 @@ module.exports = function (eleventyConfig) {
         collapseWhitespace: true,
         minifyCSS: true,
         minifyJS: true,
+        keepClosingSlash: true,
       });
     }
     return content;
@@ -316,6 +318,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
+  });
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "slash",
+      singleTags: ["link"]
+    }  
+  });
+
+  eleventyConfig.addFilter("dateToZulu", function(date){
+    if(!date) return "";
+    return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
   });
   eleventyConfig.addFilter("jsonify", function (variable) {
     return JSON.stringify(variable) || '""';
