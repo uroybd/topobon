@@ -12,5 +12,5 @@ However, I like to organize my thoughts. I want to make connections about everyt
 
 Programming, along with programming languages, can be considered an applied branch of logic. A dream comes true situation for Bertrand Russell. Probably, Alan Turing was well aware of works of Russell's domain.
 
-Passion for programming remains strong after all these years. However, I no longer think it as powerful as I thought [[Journal/About Programming#^868fa6\|before]]. In fact, I believe, it shouldn't be granted that much power over our life. [[Personal/Reading/Notes and Highlights/What I Believe#^433c21\|Rules embedded in the system is not a sufficient answer to the moral problems]].
+Passion for programming remains strong after all these years. However, I no longer think it as powerful as I thought [[Journal/About Programming#^868fa6\|before]]. In fact, I believe, it shouldn't be granted that much power over our life. [[Reading/Notes and Highlights/What I Believe#^433c21\|Rules embedded in the system is not a sufficient answer to the moral problems]].
 { #a97315}
