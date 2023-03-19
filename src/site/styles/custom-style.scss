@@ -258,6 +258,10 @@ body {
             margin: 60px;
             align-items: flex-end;
 
+            @media (max-width: 575.99px) {
+                transform: rotate(45deg) scale(0.9);
+            }
+
             .forest-row {
                 display: flex;
                 flex-direction: row;
