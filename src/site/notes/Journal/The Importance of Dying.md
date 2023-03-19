@@ -18,4 +18,4 @@ The flaw lies in the fact that they sought or depended on something greater than
 
 Understand this, you will die whether you want or not. But choosing to die knowing what it really signifies and where it stands in harmony with your living is a thing I dare you to try.
 
-[^1]: [[Personal/Musings/সময়ের সাথে সংগ্রাম#^df0672\|সময়ের সাথে সংগ্রাম]]
+[^1]: [[Musings/সময়ের সাথে সংগ্রাম#^df0672\|সময়ের সাথে সংগ্রাম]]
