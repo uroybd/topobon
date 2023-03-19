@@ -20,7 +20,7 @@ Matsushima ya
 { #83dc7c}
 
 
-This is the sort of poem that can be done once, and once only. But it is quintessentially Bashō, both playful and inspired, yet with a hint of [[Entities/Concept/Aesthetics/Mono no aware\|mono no aware]], a trace of the pathos of beautiful mortality. A literal translation: “PineIslands, ah! / Oh, Pine Islands, ah! / Pine Islands, ah!” Simple as it is, the poem implies co-dependent origination, physical landscape, and a breathless—almost speechless—reverence.
+This is the sort of poem that can be done once, and once only. But it is quintessentially Bashō, both playful and inspired, yet with a hint of [[Entities/Concepts/Aesthetics/Mono no aware\|mono no aware]], a trace of the pathos of beautiful mortality. A literal translation: “PineIslands, ah! / Oh, Pine Islands, ah! / Pine Islands, ah!” Simple as it is, the poem implies co-dependent origination, physical landscape, and a breathless—almost speechless—reverence.
 
 *Page Number:14*
 #### Time：2021-06-26 00:33
