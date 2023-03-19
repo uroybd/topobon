@@ -6,4 +6,4 @@
 
 Pessoa is mostly introspective. He brings everything from the depth of his being. Not only that, whenever he expresses anything of the real world he will distort it, absurdify it to bring an imagery unimaginable.
 
-Pessoa's patience is something I admire much. He wrote [[Personal/Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]] for over 2 decades and couldn't even finish it before his death. And what a beautifully unfinished book it is!
+Pessoa's patience is something I admire much. He wrote [[Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]] for over 2 decades and couldn't even finish it before his death. And what a beautifully unfinished book it is!
