@@ -6,4 +6,4 @@
 
 Jibanananda's strong suite though is an acute [[Entities/Concepts/Aesthetics/Mono no aware\|mono no aware]], wielded masterfully like none before him. It is so strong that even when expressing human expressions, this pathos of things will be the dominant feeling.
 
-Through and through, Jibananada is a modern man with modern crisis. So much so that his writings has uncanny similarities with coeval western writer [[Entities/People/Fernando Pessoa\|Fernando Pessoa]]'s [[Personal/Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|Book of Disquiet]], written over the same time yet published much later. Surely, Jibanananda couldn't have read those.
+Through and through, Jibananada is a modern man with modern crisis. So much so that his writings has uncanny similarities with coeval western writer [[Entities/People/Fernando Pessoa\|Fernando Pessoa]]'s [[Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|Book of Disquiet]], written over the same time yet published much later. Surely, Jibanananda couldn't have read those.
