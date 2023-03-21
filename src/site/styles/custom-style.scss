@@ -101,6 +101,25 @@ body {
     }
 
     nav.filetree-sidebar {
+        top: 75px;
+        left: 20px;
+        position: fixed;
+        height: calc(100% - 150px);
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+        overflow-x: hidden;
+
+        & > .folder {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+
+        .notelink.active-note {
+            transform: unset;
+        }
+
         .fa-sticky-note {
             display: none !important;
         }
@@ -312,6 +331,12 @@ body {
     }
 
     nav.navbar {
+        top: 10px;
+        right: 10px;
+        left: 10px;
+        width: calc(100% - 20px);
+        border-radius: 10px;
+        z-index: 99999;
         .navbar-inner {
             h1::before {
                 content: " ";
@@ -417,4 +442,8 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
 .header-tags {
     gap: 5px;
     display: flex;
+}
+
+.fullpage-overlay {
+    position: fixed;
 }
