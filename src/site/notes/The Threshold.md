@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","created":"2023-01-02T21:30:15+06:00","updated":"2023-02-22T17:08:51+06:00","dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","created":"2023-01-02T21:30:15+06:00","updated":"2023-03-21T14:13:47+06:00","pinned":true,"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 > [!quote] Socrates (from Plato's Apology)
@@ -38,7 +38,7 @@ Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpos
 > Maturity Levels are subjective. It might only means that I'm a very immature person.
 
 
-## On top of my mind…
+## On Top of My mind…
 | Title                                                                                                                                                                  | Tags                                                             | Updated                                                   | Created                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
 | [[Reading/Books/Read/A History of Reading by Alberto Manguel\|A History of Reading]]                                                                       | #bestreads #history                                              | <center><small>Mar 17, 2023<hr/>02:58 pm</small></center> | <center><small>Dec 30, 2020<hr/>12:00 am</small></center>  |
