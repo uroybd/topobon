@@ -154,7 +154,9 @@ body {
     }
 
     .cm-s-obsidian {
-        overflow-x: scroll;
+        .table-wrapper {
+            overflow-x: scroll;
+        }
     }
 
     .cm-s-obsidian > *[id] {
