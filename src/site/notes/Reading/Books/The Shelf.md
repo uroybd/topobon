@@ -1,5 +1,5 @@
 ---
-{"title":"The Shelf","aliases":["The Shelf"],"created":"2023-03-21T14:29:43+06:00","updated":"2023-03-21T14:54:33+06:00","dg-note-icon":"signpost","dg-publish":true,"pinned":true,"garden-index":true,"hide-in-graph":true,"permalink":"/reading/books/the-shelf/","dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"The Shelf","aliases":["The Shelf"],"created":"2023-03-21T14:29:43+06:00","updated":"2023-03-21T14:57:12+06:00","dg-note-icon":"signpost","dg-publish":true,"pinned":true,"garden-index":true,"hideInGraph":true,"permalink":"/reading/books/the-shelf/","dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 | Cover                                                                                                                              | Title                                                                                                                                                                                                                          | Status  | Notes                                                                                                                                                                   | Tags                                                                    | Updated                                                   |
