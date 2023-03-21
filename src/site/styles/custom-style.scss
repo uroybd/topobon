@@ -101,10 +101,10 @@ body {
     }
 
     nav.filetree-sidebar {
-        top: 75px;
+        top: 85px;
         left: 20px;
         position: fixed;
-        height: calc(100% - 150px);
+        height: calc(100% - 160px);
         display: flex;
         flex-direction: column;
         border-radius: 10px;
@@ -122,6 +122,17 @@ body {
 
         .fa-sticky-note {
             display: none !important;
+        }
+
+        h1::before {
+            content: " ";
+            display: block;
+            width: 100%;
+            height: 3em;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-image: url(/img/logo.svg);
+            background-position: center;
         }
     }
 
@@ -349,18 +360,6 @@ body {
                 margin-right: 5px;
                 background-position: bottom;
             }
-        }
-    }
-    .filetree-sidebar {
-        h1::before {
-            content: " ";
-            display: block;
-            width: 100%;
-            height: 3em;
-            background-size: contain;
-            background-repeat: no-repeat;
-            background-image: url(/img/logo.svg);
-            background-position: center;
         }
     }
 }
