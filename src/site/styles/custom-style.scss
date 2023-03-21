@@ -110,6 +110,12 @@ body {
         border-radius: 10px;
         overflow-x: hidden;
 
+        .search-button {
+            margin-right: 10px;
+            min-width: 160px;
+            margin-bottom: 20px;
+        }
+
         & > .folder {
             flex: 1;
             overflow-y: auto;
@@ -117,6 +123,11 @@ body {
         }
         .notelink {
             border-radius: 10px;
+            padding: 5px 0 5px 8px;
+
+            a::before {
+                margin-right: 2px;
+            }
         }
 
         .notelink.active-note {
@@ -340,6 +351,10 @@ body {
                 margin-right: 5px;
             }
         }
+    }
+
+    .search-button {
+        border-radius: 10px;
     }
 
     .toc-container li::before {
