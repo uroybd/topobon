@@ -115,6 +115,9 @@ body {
             overflow-y: auto;
             overflow-x: hidden;
         }
+        .notelink {
+            border-radius: 10px;
+        }
 
         .notelink.active-note {
             transform: unset;
