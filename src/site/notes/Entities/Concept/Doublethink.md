@@ -1,0 +1,5 @@
+---
+{"title":"Doublethink","aliases":["Doublethink"],"type":"concept","created":"2023-01-19T16:02:55+06:00","updated":"2023-01-19T16:35:31+06:00","dg-publish":true,"dg-note-icon":2,"tags":["concept","concept/psychology","concept/orwellian"],"dg-path":"Entities/Concepts/Doublethink.md","permalink":"/entities/concepts/doublethink/","dgPassFrontmatter":true,"noteIcon":2}
+---
+
+**Doublethink** is an Orwellian (coined in [[Reading/Books/Read/1984 by George Orwell\|1984]]) term denoting the process of actively forgetting the logical contradiction of two concepts. It is very similar to hypocrisy, but not completely. In both form, the actor ignores the contradiction. However, a hypocrite understands quite well what the contradiction is. On the other hand, a doublethinker try to forget the contradiction, and then try to forget the forgetting ad infinitum. For many, it is a way to fight against cognitive dissonance. 
