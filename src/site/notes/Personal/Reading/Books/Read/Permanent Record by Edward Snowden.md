@@ -1,0 +1,30 @@
+---
+{"title":"Permanent Record","created":"2019-11-04T00:00:00+06:00","updated":"2023-01-26T16:19:31+06:00","read_count":1,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dg-note-icon":2,"authors":["Edward Snowden"],"isbn10":1250237238,"status":"Read","rating":5,"reviewed":true,"tags":["bestreads","autobiography"],"log":[{"status":"Read","timestamp":"2019-11-16T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-04T00:00:00+06:00"}],"dg-path":"Reading/Books/Read/Permanent Record by Edward Snowden.md","permalink":"/reading/books/read/permanent-record-by-edward-snowden/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+---
+
+Consider, for a moment, living in the feudal age. Your respect and power would've been derived from the amount of land you have. Or, in a capitalist system, it is the money or credibility. Now, consider our time. It is still capitalism. However, a capitalism which is ever-increasingly depending on technologies, most importantly information technology. This is the actual currency for this age. The amount of information you can and have massed and crunched gives you power and wealth according. And, unless you are part of the top-tier of the governments or leading tech industries, you are the mine or the factory of data. All our virtual assistants, IoT devices, smart devices, websites we visit, digital services we buy are sending our data without our consent to the vendors, and often to the government.
+
+Do you find this unethical? Well… if you do, then meet Edward Snowden (you may probably already have), a martyr of the information age.
+
+Yes, he is alive. He's a martyr in the sense that for his ethical action, a cruel punishment awaits in his country, and the country has tried to disenfranchise and defame in every possible way. To a patriot to the marrow of his bone, a person who found his allegiance to the people of his country opposed to the ever-eavesdropping government, this exile is maybe more than being murdered in many ways.
+
+Permanent Record is Snowden's autobiography. However, more than an autobiography, this book is about the things that define him. In his own word:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/permanent-record/#7bcf56" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+The reason you’re reading this book is that I did a dangerous thing for a man in my position: I decided to tell the truth. I collected internal IC documents that gave evidence of the US government’s lawbreaking and turned them over to journalists, who vetted and published them to a scandalized world. This book is about what led up to that decision, the moral and ethical principles that informed it, and how they came to be—which means that it’s also about my life. 
+
+</div></div>
+
+  
+His prose is mature, concise, to the point yet emotional. So much so that, apart from the content, it has a very high level of literary value. The clarity of his thought, the amount of conviction he holds, I think, is the most important aspect of this book. He can actually make you see things from his position, feel what he felt, his moment of truth, his anxieties and fears, his courage and sacrifice - willing yet shaking his very core.  
+Content-wise, this book is invaluable. It allows readers a peek into the large mechanism, through which big brother is watching you. Apart from the technicalities, you may find Snowden's views on personal freedom, privacy, democracy, authority and human rights very accurate and logical.
+
+> [!note] Notes and Highlights from the Book
+> (Notes:: [[Reading/Notes and Highlights/Permanent Record\|Permanent Record]])
+
+> [!info] About Permanent Record by Edward Snowden
+><img src="https://books.google.com/books/content?id=h2OZzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> NEW YORK TIMES BESTSELLER Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down. In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it. Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, Permanent Record is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, Permanent Record is a crucial memoir of our digital age and destined to be a classic.
