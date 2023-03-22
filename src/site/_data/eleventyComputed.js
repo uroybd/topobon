@@ -4,6 +4,6 @@ const { userComputed } = require("../../helpers/userUtils");
 
 module.exports = {
   graph: (data) => getGraph(data),
-  fileTree: (data) => getFileTree(data),
+  filetree: (data) => getFileTree(data),
   userComputed: (data) => userComputed(data),
 };

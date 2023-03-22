@@ -1,8 +1,17 @@
 const sortTree = (unsorted) => {
   //Sort by folder before file, then by name
-  console.log(unsorted);
-  const orderedTree = Object.keys(unsorted.children)
+  const orderedTree = Object.keys(unsorted)
     .sort((a, b) => {
+      let a_pinned = unsorted[a].pinned || false;
+      let b_pinned = unsorted[b].pinned || false;
+      if (a_pinned != b_pinned) {
+        if (a_pinned) {
+          return -1;
+        } else {
+          return 1;
+        }
+      }
+
       const a_is_note = a.indexOf(".md") > -1;
       const b_is_note = b.indexOf(".md") > -1;
 
@@ -12,18 +21,6 @@ const sortTree = (unsorted) => {
 
       if (!a_is_note && b_is_note) {
         return -1;
-      }
-
-      if (a_is_note && b_is_note) {
-        let a_pinned = unsorted[a].pinned || false;
-        let b_pinned = unsorted[b].pinned || false;
-        if (a_pinned != b_pinned) {
-          if (a_pinned) {
-            return -1;
-          } else {
-            return 1;
-          }
-        }
       }
 
       if (a.toLowerCase() > b.toLowerCase()) {
@@ -38,8 +35,8 @@ const sortTree = (unsorted) => {
       return obj;
     }, {});
 
-  for (const key of Object.keys(orderedTree.children)) {
-    if (!orderedTree[key].path) {
+  for (const key of Object.keys(orderedTree)) {
+    if (orderedTree[key].isFolder) {
       orderedTree[key] = sortTree(orderedTree[key]);
     }
   }
@@ -101,22 +98,23 @@ function assignNested(obj, keyPath, value) {
   lastKeyIndex = keyPath.length - 1;
   for (var i = 0; i < lastKeyIndex; ++i) {
     key = keyPath[i];
-    if (!(key in obj.children)) {
-      obj.children[key] = { isFolder: true, children: {} };
+    if (!(key in obj)) {
+      obj[key] = { isFolder: true };
     }
-    obj = obj.children[key];
+    obj = obj[key];
   }
-  obj.children[keyPath[lastKeyIndex]] = value;
+  obj[keyPath[lastKeyIndex]] = value;
 }
 
 function getFileTree(data) {
-  const tree = { children: {} };
+  const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
     assignNested(tree, folders, { isNote: true, ...meta });
   });
-  // return tree;
-  return sortTree(tree);
+  const fileTree = sortTree(tree);
+  console.log(fileTree);
+  return fileTree;
 }
 
 exports.getFileTree = getFileTree;

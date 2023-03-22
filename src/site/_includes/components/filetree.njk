@@ -19,8 +19,8 @@
                 </div>
             {% endif %}
         </div>
-        {%endif%}
-    {% endmacro %}
+    {%endif%}
+{% endmacro %}
     
     <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
             x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
