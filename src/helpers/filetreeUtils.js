@@ -113,7 +113,6 @@ function getFileTree(data) {
     assignNested(tree, folders, { isNote: true, ...meta });
   });
   const fileTree = sortTree(tree);
-  console.log(fileTree);
   return fileTree;
 }
 
