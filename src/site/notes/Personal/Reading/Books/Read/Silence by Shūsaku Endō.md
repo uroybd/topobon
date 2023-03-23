@@ -2,7 +2,7 @@
 {"title":"Silence","created":"2021-07-03T00:00:00+06:00","updated":"2023-02-14T08:55:45+06:00","read_count":1,"authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"status":"Read","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":3,"tags":["Christianity","Japanese","novel"],"log":[{"status":"Read","timestamp":"2022-04-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-03T00:00:00+06:00"}],"dg-path":"Reading/Books/Read/Silence by Shūsaku Endō.md","permalink":"/reading/books/read/silence-by-shusaku-endo/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
-Except for *[[Reading/Books/Read/Barabbas by Pär Lagerkvist\|Barabbas]]* this is the only *~~Christian novel~~ theologico-historical novel[^1]* I read. And it's from another side of the globe from *Barabbas*.
+Except for *[[Personal/Reading/Books/Read/Barabbas by Pär Lagerkvist\|Barabbas]]* this is the only *~~Christian novel~~ theologico-historical novel[^1]* I read. And it's from another side of the globe from *Barabbas*.
 
 While this novel has been labeled as a novel about the atrocious persecution of Christians in Japan, to my understanding that is a backdrop, a very important backdrop, but backdrop still. It's also very complex. Official view about Christianity and elaborate tortures, the metamorphosis of the faith in the Japanese soil, the people, places, and nature… It's not a black-and-white story of oppression. 
 
@@ -42,7 +42,7 @@ Since I have not read it in Japanese, I can't talk about Endō's writing quality
 His intellectual honesty is particularly praiseworthy. He understood the problem of a foreign religion such as Christianity must face in a culture that is in many cases diametrically opposite to its European counterpart. Japanese empire was as oppressive as any of that time. Buddhism in their hand is just another justification to oppress and no solace to the poot. On the other hand,  European seafarers are not very bright example of Christianity. However, the love of Christ have some appeal to the unloved ones. Brutality and suppression are just side effects. The problem is deeper, and Endō faced it with much sincerity.
 
 > [!note] Notes and Highlights from the Book
-> (Notes:: [[Reading/Notes and Highlights/Silence by Shūsaku Endō\|Silence by Shūsaku Endō]])
+> (Notes:: [[Personal/Reading/Notes and Highlights/Silence by Shūsaku Endō\|Silence by Shūsaku Endō]])
 
 > [!info] About Silence by Shūsaku Endō
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg" style=" float: left; width: 150px; height: auto; margin-right: 1em;" /> Silence is a 1966 novel of theological and historical fiction by Japanese author Shūsaku Endō. It tells the story of a Jesuit missionary sent to 17th century Japan, who endures persecution in the time of Kakure Kirishitan that followed the defeat of the Shimabara Rebellion.
