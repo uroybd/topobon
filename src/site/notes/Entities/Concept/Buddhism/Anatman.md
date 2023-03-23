@@ -6,12 +6,12 @@ The Buddhist concept of **Anattā** categorically denies the existence of a tran
 
 ## Significance
 ### In Religion
-With this concept, Buddhism diverged from virtually every other major religion. However, this doesn't deny the existence of the reincarnation, heaven, and hell. While, the self will perish, it will not perish in any near future (In most religions, souls will find a resting place for eternity at the end). Harmonizing the concept of self as a aggregate of bodily functions with a process that transcends body, namely rebirth, has been done through a complex theory of quasi-materialistic process based on [[Entities/Concepts/Buddhism/Pratītyasamutpāda\|dependant origination]].
+With this concept, Buddhism diverged from virtually every other major religion. However, this doesn't deny the existence of the reincarnation, heaven, and hell. While, the self will perish, it will not perish in any near future (In most religions, souls will find a resting place for eternity at the end). Harmonizing the concept of self as a aggregate of bodily functions with a process that transcends body, namely rebirth, has been done through a complex theory of quasi-materialistic process based on [[Entities/Concept/Buddhism/Pratītyasamutpāda\|dependant origination]].
 ### In Psychology
 With the understanding of Anattā, comes a radically different set of axioms to live the life by. However, understanding this concept both intellectually and emotionally is not an easy feat.
 ### Philosophy
-Many philosophers like [Nāgārjuna](https://en.wikipedia.org/wiki/N%C4%81g%C4%81rjuna "Nāgārjuna") did [[Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|impressive work]] on this concept, [[Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way#XVIII Examination of Self and Entities\|expounding thoroughly]] and building a system of theological understanding.
+Many philosophers like [Nāgārjuna](https://en.wikipedia.org/wiki/N%C4%81g%C4%81rjuna "Nāgārjuna") did [[Personal/Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|impressive work]] on this concept, [[Personal/Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way#XVIII Examination of Self and Entities\|expounding thoroughly]] and building a system of theological understanding.
 ### Art
-Various branches of Zen art and literature depends on this concept not only as a subject,[^1] but as a core philosophy that shape the aesthetic choices. This, and the concept of dependant-origination, provides the basic framework for [[Entities/Concepts/Aesthetics/Mono no aware\|mono no aware]].
+Various branches of Zen art and literature depends on this concept not only as a subject,[^1] but as a core philosophy that shape the aesthetic choices. This, and the concept of dependant-origination, provides the basic framework for [[Entities/Concept/Aesthetics/Mono no aware\|mono no aware]].
 
-[^1]: Ikkyū Sōjun has some such [[Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton#Ikkyū Sōjun\|impressive poems]].
+[^1]: Ikkyū Sōjun has some such [[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton#Ikkyū Sōjun\|impressive poems]].
