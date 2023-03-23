@@ -29,7 +29,7 @@ but this would be self-indulgent and foolish. We must surrender our skepticism o
 
 
 > [!note] Notes and Highlights from the Book
-> (Notes:: [[Reading/Notes and Highlights/Pale Blue Dot\|Notes from Pale Blue Dot]])
+> (Notes:: [[Personal/Reading/Notes and Highlights/Pale Blue Dot\|Notes from Pale Blue Dot]])
 
 > [!info] About Pale Blue Dot by Carl Sagan
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;"/> Examines humankind's changing awareness of its place in the universe and the rich potential of human ventures into the world beyond Earth.
