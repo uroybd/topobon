@@ -82,7 +82,7 @@ function getPermalinkMeta(note, key) {
     if (note.data["dg-path"]) {
       folders = note.data["dg-path"].split("/");
     } else {
-      folders = note.filePathStem.split
+      folders = note.filePathStem
         .split("notes/")[1]
         .split("/")
         .map(toTitleCase);
