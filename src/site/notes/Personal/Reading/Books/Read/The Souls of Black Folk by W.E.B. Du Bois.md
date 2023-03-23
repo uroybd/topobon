@@ -33,9 +33,9 @@ So wofully unorganized is sociological knowledge that the meaning of progress, t
 এবং, এই বইটা জাস্ট আরেকটা র‍্যান্টিং না। ওভারহেলমিং ইমোশলাল স্টেটমেন্ট না, বরং, খুবই স্কলারলি, প্রায় মেদহীন একটা বই।
 
 > [!note] Notes and Highlights from the Book
-> (Notes:: [[Reading/Notes and Highlights/The Souls of Black Folk by W. E. B. Du Bois\|Notes from The Souls of Black Folk by W. E. B. Du Bois]])
+> (Notes:: [[Personal/Reading/Notes and Highlights/The Souls of Black Folk by W. E. B. Du Bois\|Notes from The Souls of Black Folk by W. E. B. Du Bois]])
 
 > [!info] About The Souls of Black Folk by W. E. B. Du Bois
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The Souls of Black Folk is a classic work of American literature by W. E. B. Du Bois. It is a seminal work in the history of sociology, and a cornerstone of African-American literary history. To develop this groundbreaking work, Du Bois drew from his own experiences as an African-American in the American society. Outside of its notable relevance in African-American history, The Souls of Black Folk also holds an important place in social science as one of the early works in the field of sociology.
 
-[^1]: সমসাময়িক আফ্রিকান-আমেরিকানদের ক্রাইসিসের বেশ ভালো একটা ধারণা পাওয়া যায় [[Reading/Books/Read/Between the World and Me by Ta-Nehisi Coates\|Between the World and Me]] বইতে।
+[^1]: সমসাময়িক আফ্রিকান-আমেরিকানদের ক্রাইসিসের বেশ ভালো একটা ধারণা পাওয়া যায় [[Personal/Reading/Books/Read/Between the World and Me by Ta-Nehisi Coates\|Between the World and Me]] বইতে।
