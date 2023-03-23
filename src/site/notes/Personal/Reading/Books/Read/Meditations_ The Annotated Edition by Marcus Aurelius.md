@@ -33,7 +33,7 @@
 আজকের দুনিয়ায় দাঁড়িয়ে স্টোয়িসিজমকে তার সকল অ্যাজাম্পশান ও আধা-ধর্মীয় চরিত্রসমেত মেনে নেওয়া কষ্টকর হবে। কিন্তু, মার্কাসের এই অধিকতর ভালো মানুষ হওয়ার চেষ্টাটা নাড়া দেয়।
 
 > [!note] Notes and Highlights from the Book
-> (Notes:: [[Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel\|Notes from Meditations: The Annotated Edition]])
+> (Notes:: [[Personal/Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel\|Notes from Meditations: The Annotated Edition]])
 
 > [!info] About Meditations by Marcus Aurelius
 > <img src="http://books.google.com/books/content?id=Zpm_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The definitive annotated translation of Marcus Aurelius's Meditations Marcus Aurelius Antoninus (121-180 CE) was the sixteenth emperor of Rome -- and by far the most powerful man in the world. Yet he was also an intensely private person, with a rich interior life and one of the wisest minds of his generation. He collected his thoughts in notebooks, gems that have come to be called his Meditations. Never intended for publication, the work has proved an inexhaustible source of wisdom and one of the most important Stoic texts of all time. In often passionate language, the entries range from one-line aphorisms to essays, from profundity to bitterness. This annotated edition offers the definitive translation of this classic and much beloved text, with copious notes from world-renowned classics expert Robin Waterfield. It illuminates one of the greatest works of popular philosophy for new readers and enriches the understanding of even the most devoted Stoic.
