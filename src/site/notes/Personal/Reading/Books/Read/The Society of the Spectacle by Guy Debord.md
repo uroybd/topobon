@@ -25,7 +25,7 @@ What Debord labelled as the **Spectacles** are not merely symbols. They are symb
 </div></div>
 
 
-It should be noted that this phenomenon is not merely psychological. It is a [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^9bafe6\|socio-psycho-economic condition]] with several feedback loops at work. It creates a tendency to acquire things for status or conformity instead of their [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^108ab3\|intended usability or with complete misunderstanding of what the product really is]].
+It should be noted that this phenomenon is not merely psychological. It is a [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^9bafe6\|socio-psycho-economic condition]] with several feedback loops at work. It creates a tendency to acquire things for status or conformity instead of their [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^108ab3\|intended usability or with complete misunderstanding of what the product really is]].
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#213149" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -39,7 +39,7 @@ It should be noted that this phenomenon is not merely psychological. It is a [[R
 
 A false sense of ownership follows, where in reality we got sold completely. In the digital world, NFTs are just that.
 
-This commodification and subsequent [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^6dd9fd\|commodification of culture]] where we try to conform to the dominant way of life brings in to the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
+This commodification and subsequent [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^6dd9fd\|commodification of culture]] where we try to conform to the dominant way of life brings in to the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#c8ba7e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -65,10 +65,10 @@ The abundance of commodities— that is, the abundance of commodity relations—
 </div></div>
 
 
-And when even [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^8698a1\|the rebellion is yet another way to conform]], we can consider the future pretty bleak.
+And when even [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^8698a1\|the rebellion is yet another way to conform]], we can consider the future pretty bleak.
 
 > [!note] Notes and Highlights from the Book
-> (Notes:: [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|Notes from The Society of the Spectacle by Guy Debord]])
+> (Notes:: [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|Notes from The Society of the Spectacle by Guy Debord]])
 
 > [!info] About Society of the Spectacle by Guy Debord, Ken Knabb
 ><img src="https://books.google.com/books/content?id=DaK5AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The Das Kapital of the 20th century. An essential text, and the main theoretical work of the situationists. Few works of political and cultural theory have been as enduringly provocative. From its publication amid the social upheavals of the 1960's up to the present, the volatile theses of this book have decisively transformed debates on the shape of modernity, capitalism, and everyday life in the late 20th century. This new edition is the Ken Knabb translation. Certainly it has the most "modern" design of all three editions, as well as a short new introduction from the translator.
