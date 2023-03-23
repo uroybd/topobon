@@ -2,7 +2,7 @@
 {"title":"Exploring Buddhism","updated":"2023-02-27T12:09:00+06:00","tags":["buddhism","philosophy"],"created":"2021-08-30T20:24:08+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/Exploring Buddhism.md","permalink":"/musings/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
-For quite some time, I'm exploring Buddhism. I've started with ’**What Buddha Taught**’, have learned some more from a book on the history and development of Buddhism, and lastly from *Bhikkhu Bodhi's* [[Reading/Books/Read/The Noble Eightfold Path by Bhikkhu Bodhi\|The Noble Eightfold Path by Bhikkhu Bodhi]]. I enjoyed *Nagarjuna's* [[Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|dialectics]] a lot.
+For quite some time, I'm exploring Buddhism. I've started with ’**What Buddha Taught**’, have learned some more from a book on the history and development of Buddhism, and lastly from *Bhikkhu Bodhi's* [[Personal/Reading/Books/Read/The Noble Eightfold Path by Bhikkhu Bodhi\|The Noble Eightfold Path by Bhikkhu Bodhi]]. I enjoyed *Nagarjuna's* [[Personal/Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|dialectics]] a lot.
 
 In the meantime, in a post on Reddit, I said reincarnation is a minor detail[^1] and Buddhism is a philosophy. Naturally, but of course to my amazement then, it triggered quite a few people. 😅
 
@@ -13,9 +13,9 @@ So, I read the last book I've mentioned in the vein of knowing more about what B
 ## Agreements
 My primary curiosity about Buddhism has been sparked by Buddha's alleged philosophical nature, **emphasis on discourse instead of dogma** and eerie accuracy in many matters. By far, I agree with Buddha in:
   1. Four Noble Truths
-  2. [[Entities/Concepts/Buddhism/Anitya\|Anitya]]
-  3. [[Entities/Concepts/Buddhism/Anatman\|Anattā]]
-  4. [[Entities/Concepts/Buddhism/Pratītyasamutpāda\|Pratītyasamutpāda]]
+  2. [[Entities/Concept/Buddhism/Anitya\|Anitya]]
+  3. [[Entities/Concept/Buddhism/Anatman\|Anattā]]
+  4. [[Entities/Concept/Buddhism/Pratītyasamutpāda\|Pratītyasamutpāda]]
 
 I agree with his idea of mental training to acquire a state of tranquillity to live a life devoid of suffering.
 
