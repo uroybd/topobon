@@ -36,7 +36,9 @@ function getGraph(data) {
   let stemURLs = {};
   let homeAlias = "/";
   (data.collections.note || []).forEach((v, idx) => {
-    let fpath = v.filePathStem.replace("/notes/", "");
+    let fpath = v.data["dg-path"]
+      ? v.data["dg-path"].split(".md")[0]
+      : v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
     if (parts.length >= 3) {
@@ -65,6 +67,7 @@ function getGraph(data) {
       homeAlias = v.url;
     }
   });
+  // console.log(stemURLs);
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
