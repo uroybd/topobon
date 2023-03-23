@@ -8,4 +8,4 @@ This should not be confused with our natural sense of joy or bliss amongst the n
 
 **To nurture *mono no aware*, it is important to understand the transiency of things.**
 
-In Japanese culture, the necessary philosophical backbone for such an idea has been mostly supplied by [[Entities/Concepts/Buddhism/Anitya\|the Buddhist idea of Impermanence]]. The simplest things— a cherry blossom, a cry of cicada, or mountain dew can be of a very different import, can put itself in a loftier place if seen through the lens of the mono no aware. That is very different from what we feel facing the nature at the first blush.
+In Japanese culture, the necessary philosophical backbone for such an idea has been mostly supplied by [[Entities/Concept/Buddhism/Anitya\|the Buddhist idea of Impermanence]]. The simplest things— a cherry blossom, a cry of cicada, or mountain dew can be of a very different import, can put itself in a loftier place if seen through the lens of the mono no aware. That is very different from what we feel facing the nature at the first blush.
