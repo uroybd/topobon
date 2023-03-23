@@ -1,5 +1,5 @@
 ---
-{"title":"The Society of the Spectacle","created":"2022-03-30T00:00:00+06:00","updated":"2023-01-27T15:26:02+06:00","read_count":1,"authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"status":"Read","rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"log":[{"status":"Read","timestamp":"2022-04-25T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-03-30T00:00:00+06:00"}],"dg-path":"Reading/Books/Read/The Society of the Spectacle by Guy Debord.md","permalink":"/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Society of the Spectacle","created":"2022-03-30T00:00:00+06:00","updated":"2023-03-23T01:35:28+06:00","read_count":1,"authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"status":"Read","rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"log":[{"status":"Read","timestamp":"2022-04-25T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-03-30T00:00:00+06:00"}],"dg-path":"Reading/Books/Read/The Society of the Spectacle by Guy Debord.md","permalink":"/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ### Review
@@ -9,7 +9,7 @@
 
 Guy Debord was not prophesizing. Quite the contrary. He observed these phenomena in his own time. Our feeling of eerie accuracy of describing our society is due to the fact that the disease is now more acute than ever.
 
-There's no way to deny that symbolism leads the way to abstraction, and abstraction allows us to build broader logical systems. Most of our achievements as a species owes much to that. Money, or state, even most of the philosophies, and ethics are mostly make-believe. **But, these are not imaginary either. These are inter-subjectivity real.**
+There's no way to deny that symbolism leads the way to abstraction, and abstraction allows us to build broader logical systems. Most of our achievements as a species owes much to that. Money, or state, even most of the philosophies, and ethics are mostly make-believe. **But, these are not imaginary either. These are inter-subjectively real.**
 
 What Debord labelled as the **Spectacles** are not merely symbols. They are symbols, which doesn't represent the entity they symbolize. According to Debord these spectacles create a false sense of reality devoid of an underlying layer of synapses to any real interest of life:
 { #78f1a3}
@@ -65,7 +65,7 @@ The abundance of commodities— that is, the abundance of commodity relations—
 </div></div>
 
 
-And when even [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^8698a1\|the rebellion is yet anothet way to conform]], we can consider the future pretty bleak.
+And when even [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^8698a1\|the rebellion is yet another way to conform]], we can consider the future pretty bleak.
 
 > [!note] Notes and Highlights from the Book
 > (Notes:: [[Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|Notes from The Society of the Spectacle by Guy Debord]])
