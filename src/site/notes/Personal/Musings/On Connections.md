@@ -37,8 +37,8 @@ Connection confidence means how confident one feels about the meaningfulness of 
 ## Strategy
 
 ### Direct Link
-[[Musings/On Connections#Direct Connection\|Direct Connection]] with high to medium confidence should get direct link.
+[[Personal/Musings/On Connections#Direct Connection\|Direct Connection]] with high to medium confidence should get direct link.
 
 ### Indirect Link
-[[Musings/On Connections#Indirect Connection\|Indirect Connection]] should get indirect link.
-[[Musings/On Connections#Direct Connection\|Direct Connection]] with low confidence should be placed as indirect links until the confidence grows.
+[[Personal/Musings/On Connections#Indirect Connection\|Indirect Connection]] should get indirect link.
+[[Personal/Musings/On Connections#Direct Connection\|Direct Connection]] with low confidence should be placed as indirect links until the confidence grows.
