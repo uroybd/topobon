@@ -9,7 +9,7 @@
 বইটায় বেশ কিছু মেডিটেশন আমায় মুগ্ধ করেছে। শিল্প ও শিল্পীর সাইকোলজি, রেসিয়াল অ্যাওয়ারনেস, কমার্শিয়ালাইজেশনের বিষয়ে স্কেপটিজম… সব মিলিয়ে একটা পড়ার মত বই!
 
 > [!note] Notes and Highlights from the Book
-> (Notes:: [[Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet\|Treat it Gentle by Sidney Bechet]])
+> (Notes:: [[Personal/Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet\|Treat it Gentle by Sidney Bechet]])
 
 > [!info] About Treat It Gentle by Sidney Bechet
 ><img src="https://books.google.com/books/content?id=DB_ymgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The most valuable and moving of all jazz biographies. -Nat Hentoff
