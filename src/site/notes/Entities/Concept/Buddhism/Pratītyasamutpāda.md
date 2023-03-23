@@ -5,4 +5,4 @@
 Pratītyasamutpāda (dependant origination) is a Buddhist doctrine that claims that all phenomena arises from another and makes way for other phenomena to happen.
 
 ## Significance
-Most other concepts like [[Entities/Concepts/Buddhism/Anatman\|Anattā]], [[Entities/Concepts/Buddhism/Anitya\|impermanence]], [[Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way#Time：2020-11-21 15:28\|karma]] etc can be derived from this as shown by Nāgārjuna in his [[Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|Mūlamadhyamakakārikā]].
+Most other concepts like [[Entities/Concept/Buddhism/Anatman\|Anattā]], [[Entities/Concept/Buddhism/Anitya\|impermanence]], [[Personal/Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way#Time：2020-11-21 15:28\|karma]] etc can be derived from this as shown by Nāgārjuna in his [[Personal/Reading/Books/Read/The Fundamental Wisdom of the Middle Way\|Mūlamadhyamakakārikā]].
