@@ -11,7 +11,7 @@ However, I can't agree with him regarding meaning. Now, there can be meaning, se
 Still, Logotherapy has a virtue. Unlike other schools, it doesn't treat people as machines with libido, repressions etc but take a real interest in one's current status and environment.
 
 > [!note] Notes and Highlights from the Book
-> (Notes:: [[Reading/Notes and Highlights/Man’s Search For Meaning by Viktor E Frankl\|Notes from Man’s Search For Meaning by Viktor E Frankl]])
+> (Notes:: [[Personal/Reading/Notes and Highlights/Man’s Search For Meaning by Viktor E Frankl\|Notes from Man’s Search For Meaning by Viktor E Frankl]])
 
 
 > [!info] About Man's Search For Meaning by Viktor E Frankl
