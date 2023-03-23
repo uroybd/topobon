@@ -7,4 +7,4 @@ Anitya (impermanence) is a Buddhist doctrine[^1] that claims everything, without
 It is very important to understand this, both philosophically and emotionally, to walk in the path of detachment that leads to Nirvana.
 
 
-[^1]: And a logical deduction from [[Entities/Concepts/Buddhism/Pratītyasamutpāda\|dependant origination]].
+[^1]: And a logical deduction from [[Entities/Concept/Buddhism/Pratītyasamutpāda\|dependant origination]].
