@@ -4,5 +4,5 @@
 
 | SL  | Title                                                                                             | Location     |
 | --- | ------------------------------------------------------------------------------------------------- | ------------ |
-| #⁣1 | [[Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | Badda, Dhaka |
-| #⁣2 | [[Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | Badda, Dhaka |
+| #⁣1 | [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter\|The Encounter]]     | Badda, Dhaka |
+| #⁣2 | [[Personal/Writings/Creative/Prose/Unlived Lives of Ours/02 The Accusitions\|The Accusitions]] | Badda, Dhaka |
