@@ -19,10 +19,10 @@
 A recurring idea in modern writings, literature or scholarly, is the spiritual crisis of the modern time. The implication of this crisis is something we have yet to explore much.
 
 ## Origin
-The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern person, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. [[Entities/People/Jibanananda Das\|Jibananada]] felt it as much as [[Entities/People/Fernando Pessoa\|Pessoa]] did (though they reacted differently in some important details).
+The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern person, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. [[Entities/Person/Jibanananda Das\|Jibananada]] felt it as much as [[Entities/Person/Fernando Pessoa\|Pessoa]] did (though they reacted differently in some important details).
 
 ## Effects
-The most obvious effect of this crisis is the disorientation, the emptiness left by the dead faiths. [[Entities/People/Joseph Campbell\|Joseph Campbell]] has expressed the implication of this void quite succinctly in [[Reading/Books/Read/The Power of Myth by Joseph Campbell\|The Power of Myth]]: 
+The most obvious effect of this crisis is the disorientation, the emptiness left by the dead faiths. [[Entities/Person/Joseph Campbell\|Joseph Campbell]] has expressed the implication of this void quite succinctly in [[Personal/Reading/Books/Read/The Power of Myth by Joseph Campbell\|The Power of Myth]]: 
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-power-of-myth/#dcccd1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -46,7 +46,7 @@ Bereft of illusions, we live on dreams, which are the illusions of those who can
 </div></div>
 
 
-Pessoa chose to defend faith in [[Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]] though. But it didn't come naturally and was in stark contrast with his scepticism:
+Pessoa chose to defend faith in [[Personal/Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]] though. But it didn't come naturally and was in stark contrast with his scepticism:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/#b0539e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -58,7 +58,7 @@ They bring me faith wrapped up like a parcel and borne on someone else’s tray.
 </div></div>
 
 
-This *[[Entities/Concepts/Doublethink\|doublethink]]* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
+This *[[Entities/Concept/Doublethink\|doublethink]]* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
 
 ## Attempted Solutions
 Campbell was silent, Jibananada lamenting, Pessoa was confused.
@@ -77,7 +77,7 @@ Russell was one of them. His deep passion for logic, and the ability to invoke t
 </div></div>
 
 
-Carl Sagan is another, and a more poetic one. He built a whole modern system of living in the [[Reading/Books/Read/Cosmos by Carl Sagan\|Cosmos]], [[Reading/Books/Read/Pale Blue Dot by Carl Sagan\|Pale Blue Dot]], and other writings. Where Russell insists on a progressive system of moral, Sagan gives us a live example of how we can work on such a system practically:
+Carl Sagan is another, and a more poetic one. He built a whole modern system of living in the [[Personal/Reading/Books/Read/Cosmos by Carl Sagan\|Cosmos]], [[Personal/Reading/Books/Read/Pale Blue Dot by Carl Sagan\|Pale Blue Dot]], and other writings. Where Russell insists on a progressive system of moral, Sagan gives us a live example of how we can work on such a system practically:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#6adcdb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -101,4 +101,4 @@ But the Darwinian lesson is clear: There will be no humans elsewhere. Only here.
 
 The emphasis on love and knowledge is also dominant here. Curiosity took the place of the disorienting emptiness left by the dead faith. The psychological shift is fundamental. It is not like Campbell, Pessoa, or other modern intellectuals were completely ignorant of such ideas. They were just caught between the transition. Also, the mass people are still largely faithful. So, they found themselves particularly alienated in respect to the mass.
 
-[^1]: See [[Journal/The Importance of Dying#^11ed14\|this]] and the [[Journal/The Importance of Dying#^17d698\|following]] passage from [[Journal/The Importance of Dying\|Importance of Dying]]
+[^1]: See [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying#^11ed14\|this]] and the [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying#^17d698\|following]] passage from [[Personal/Journal/The Supposed Last Year of My Life/The Importance of Dying\|Importance of Dying]]
