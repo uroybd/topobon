@@ -97,6 +97,8 @@ A mad dream in that alien silence!**
 ## 39 [1913]
 ### Page 40 @ 14 May 2022 06:29 PM
 Become an absurd sphinx in the eyes of others. Shut yourself up in your ivory tower, but without slamming the door, for your ivory tower is you.
+{ #7b171b}
+
 
 ## 40 [1913?]
 ### Page 40 @ 14 May 2022 06:30 PM
