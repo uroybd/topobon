@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-03-25T22:34:50+06:00","permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-03-25T22:34:50+06:00","permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 > [!quote] Socrates (from Plato's Apology)
