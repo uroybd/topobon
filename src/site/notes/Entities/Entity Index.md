@@ -1,5 +1,5 @@
 ---
-{"title":"Entity Index","aliases":["Entity Index"],"dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"tags":["entities"],"created":"2023-03-25T22:35:25+06:00","updated":"2023-03-25T22:38:55+06:00","permalink":"/entities/entity-index/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"Intex","aliases":["Entity Index"],"dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"tags":["entities"],"created":"2023-03-25T22:35:25+06:00","updated":"2023-03-25T22:40:01+06:00","permalink":"/entities/entity-index/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 | Title                                                                              | Aliases                                                           | Type            | Tags                                                             |
