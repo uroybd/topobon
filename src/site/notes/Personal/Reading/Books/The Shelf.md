@@ -1,5 +1,5 @@
 ---
-{"title":"The Shelf","aliases":["The Shelf"],"created":"2023-03-21T14:29:43+06:00","updated":"2023-03-23T20:13:39+06:00","dg-note-icon":"signpost","dg-publish":true,"pinned":true,"garden-index":true,"hideInGraph":true,"tags":["bookshelf"],"dg-path":"Reading/Books/The Shelf.md","permalink":"/reading/books/the-shelf/","dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"The Shelf","aliases":["The Shelf"],"created":"2023-03-21T14:29:43+06:00","updated":"2023-03-25T22:05:36+06:00","dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"tags":["bookshelf"],"dg-path":"Reading/Books/The Shelf.md","permalink":"/reading/books/the-shelf/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 These are all the books (and notes) I've been mentioning in this garden.
