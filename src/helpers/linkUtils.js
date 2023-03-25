@@ -67,7 +67,6 @@ function getGraph(data) {
       homeAlias = v.url;
     }
   });
-  // console.log(stemURLs);
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
