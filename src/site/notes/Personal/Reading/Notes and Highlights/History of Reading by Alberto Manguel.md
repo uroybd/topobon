@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from History of Reading by Alberto Manguel","updated":"2023-01-30T23:42:03+06:00","created":"2021-09-08T17:40:56+06:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"dg-note-icon":"stone","tags":["history","books","reading-notes"],"dg-path":"Reading/Notes and Highlights/History of Reading by Alberto Manguel.md","permalink":"/reading/notes-and-highlights/history-of-reading-by-alberto-manguel/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from History of Reading by Alberto Manguel","updated":"2023-03-26T20:09:13+06:00","created":"2021-09-08T17:40:56+06:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"dg-note-icon":"stone","tags":["history","books","reading-notes"],"aliases":["A History of Reading-Penguin Books (2014)"],"linter-yaml-title-alias":"A History of Reading-Penguin Books (2014)","dg-path":"Reading/Notes and Highlights/History of Reading by Alberto Manguel.md","permalink":"/reading/notes-and-highlights/history-of-reading-by-alberto-manguel/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # A History of Reading-Penguin Books (2014)
@@ -163,8 +163,10 @@ Doc Daniel Dowdy recalled that “the first time you was caught trying to read o
 
 
 ### Time: 2021-09-08 22:28
-This reading has an image. A photograph taken in 1940, during the bombing of London in the Second World War, shows the remains of a caved-in library. Through the torn roof can be seen ghostly buildings outside, and in the centre of the store is a heap of beams and crippled furniture. But the shelves on the walls have held fast, and the books lined up along them seem unharmed. Three men are standing amidst the rubble: one, as if hesitant about which book to choose, is apparently reading the titles on the spines; another, wearing glasses, is reaching for a volume; the third is reading, holding an open book in his hands.They are not turning their backs on the war, or ignoring the destruction. They are not choosing the books over life outside. They are trying to persist against the obvious odds;they are asserting a common right to ask; they are attempting to find once again — among the ruins, in the astonished recognition that reading sometimes grants — an understanding.
+This reading has an image. A photograph taken in 1940, during the bombing of London in the Second World War, shows the remains of a caved-in library. Through the torn roof can be seen ghostly buildings outside, and in the centre of the store is a heap of beams and crippled furniture. But the shelves on the walls have held fast, and the books lined up along them seem unharmed. Three men are standing amidst the rubble: one, as if hesitant about which book to choose, is apparently reading the titles on the spines; another, wearing glasses, is reaching for a volume; the third is reading, holding an open book in his hands. They are not turning their backs on the war, or ignoring the destruction. They are not choosing the books over life outside. They are trying to persist against the obvious odds; they are asserting a common right to ask; they are attempting to find once again — among the ruins, in the astonished recognition that reading sometimes grants — an understanding.
+{ #2dfc30}
 
 
-![FB_IMG_1636990859745.jpg](/img/user/Media/FB_IMG_1636990859745.jpg)
+
+![Media/Library At WWII.jpg](/img/user/Media/Library%20At%20WWII.jpg)
 
