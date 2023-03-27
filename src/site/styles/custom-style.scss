@@ -171,6 +171,16 @@ body {
         .table-wrapper {
             overflow-x: scroll;
         }
+
+        picture {
+            max-width: 100%;
+            height: auto;
+
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+        }
     }
 
     .cm-s-obsidian > *[id] {
