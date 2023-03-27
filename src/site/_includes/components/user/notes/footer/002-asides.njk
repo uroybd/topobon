@@ -1,7 +1,10 @@
 {%- if authors -%}
 <script>
     const graph = document.querySelector('aside > .sidebar > .sidebar-container > .graph');
-    let cl = [...document.querySelectorAll('.cm-s-obsidian > .callout')].slice(-2)[0];
-     graph.parentNode.insertBefore(cl.cloneNode(true), graph.nextSibling);
+    let callouts =  [...document.querySelectorAll('.cm-s-obsidian > .callout')].slice(-2);
+    if (callouts.length == 2){
+        let cl = callouts[0];
+        graph.parentNode.insertBefore(cl.cloneNode(true), graph.nextSibling);
+    }
 </script>
 {%- endif -%}
