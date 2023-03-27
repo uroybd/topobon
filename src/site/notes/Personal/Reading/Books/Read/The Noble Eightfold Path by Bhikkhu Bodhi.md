@@ -3,7 +3,7 @@
 ---
 
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Noble Eightfold Path by Bhikkhu Bodhi\|The Noble Eightfold Path by Bhikkhu Bodhi]])
 
 > [!info] About The Noble Eightfold Path by Bhikkhu Bodhi
