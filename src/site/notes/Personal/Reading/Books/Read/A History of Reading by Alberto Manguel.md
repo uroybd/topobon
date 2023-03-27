@@ -30,7 +30,7 @@ This reading has an image. A photograph taken in 1940, during the bombing of Lon
 
 ![Media/Library At WWII.jpg](/img/user/Media/Library%20At%20WWII.jpg)
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/History of Reading by Alberto Manguel\|History of Reading by Alberto Manguel]])
 
 > [!info] About A History of Reading by Alberto Manguel
