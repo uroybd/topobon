@@ -15,7 +15,7 @@ Even if these journals are right in some of their criticism, the central argumen
     3. Dogmatic.
     4. Have enough contenders with similar prediction but better interpretative scheme.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/What is Real by Adam Becker\|What is Real by Adam Becker]])
 
 > [!info] About What Is Real? by Adam Becker
