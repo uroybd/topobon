@@ -12,7 +12,7 @@
 
 মোটের ওপর আমার যা মনে হয়েছে, স্পিনোজা যেভাবে গডকে দেখে তাতে গড ছাড়াই দিব্যি একটা এথিকস্ দাঁড় করানো যেত। এই অতিরিক্ত কম্প্লিকেশন তার ব্যক্তিগত বিশ্বাসের জন্য হতে পারে।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Spinoza_s Ethics by George Elliot\|Spinoza's Ethics]])
 
 > [!info] About Spinoza's Ethics by Benedictus de Spinoza
