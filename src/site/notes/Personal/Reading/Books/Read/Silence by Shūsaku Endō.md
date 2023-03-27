@@ -41,7 +41,7 @@ Since I have not read it in Japanese, I can't talk about Endō's writing quality
 
 His intellectual honesty is particularly praiseworthy. He understood the problem of a foreign religion such as Christianity must face in a culture that is in many cases diametrically opposite to its European counterpart. Japanese empire was as oppressive as any of that time. Buddhism in their hand is just another justification to oppress and no solace to the poot. On the other hand,  European seafarers are not very bright example of Christianity. However, the love of Christ have some appeal to the unloved ones. Brutality and suppression are just side effects. The problem is deeper, and Endō faced it with much sincerity.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Silence by Shūsaku Endō\|Silence by Shūsaku Endō]])
 
 > [!info] About Silence by Shūsaku Endō
