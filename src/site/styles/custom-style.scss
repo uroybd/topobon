@@ -89,12 +89,14 @@ body {
     }
 
     .sidebar-container {
-        flex-wrap: wrap;
-        & > div {
-            min-width: 300px;
+        & > div:not(.graph) {
+            width: 320px;
+            max-height: 365px;
+            overflow-y: auto;
         }
 
         @media (max-width: 1490px) {
+            flex-wrap: wrap;
             flex-direction: row;
             justify-content: space-between;
         }
