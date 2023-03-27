@@ -28,7 +28,7 @@ but this would be self-indulgent and foolish. We must surrender our skepticism o
 </div></div>
 
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Pale Blue Dot\|Notes from Pale Blue Dot]])
 
 > [!info] About Pale Blue Dot by Carl Sagan
