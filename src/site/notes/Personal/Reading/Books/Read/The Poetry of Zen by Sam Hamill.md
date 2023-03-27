@@ -4,7 +4,7 @@
 
 Sam Hamill is a great translator. He has the necessary insight to translate from asian languages. I noticed that in his [[Personal/Reading/Books/Read/Narrow Road to the Interior_ And Other Writings by Matsuo Bashō\|anthology]] of [[Entities/Person/Matsuo Bashō\|Bashō]]'s works. In this book, I found Seaton excellent. Really enjoyed the translations.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton\|The Poetry of Zen]])
 
 > [!info] About The Poetry of Zen by Sam Hamill & J.P. Seaton
