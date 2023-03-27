@@ -8,7 +8,7 @@
   
 আজকালকার ছোট ছোট রাষ্ট্রযন্ত্রও রোমান সাম্রাজ্যের তুলনায় অনেক কম্প্লিকেটেড। রোমান রাজনীতি এখনো রিলেভেন্ট এই কারণে যে ওলিগার্কি, অ্যারিস্টোক্রেসি, অটোক্রেসির সবযুগেই বেসিক ফর্মটা একই। সেটাকে বেশ নিরাভরণ দেখা যায় রোমান রাজনীতিতে।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/SPQR_ A History of Ancient Rome\|Notes from SPQR: A History of Ancient Rome]])
 
 > [!info] About SPQR by Mary Beard
