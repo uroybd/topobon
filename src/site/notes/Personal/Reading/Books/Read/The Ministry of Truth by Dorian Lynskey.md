@@ -8,7 +8,7 @@ If one loses sight of Orwell's politics (he was a Democratic Socialist), his bac
   
 This book deals with this misconception and many others. A chronicle that starts from conceiving the book to finishing it, and then, the ever-transforming socio-cultural effect it had on his time, and times after that. To make his point, Minsky did his homework well.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984\|The Ministry of Truth: The Biography of George Orwell's 1984]])
 
 > [!info] About The Ministry of Truth by Dorian Lynskey
