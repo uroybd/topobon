@@ -10,7 +10,7 @@
 
 শুরুতেই বলেছি, বইটা পপ-ঘরানার। পপ-ঘরানার বই সাধারণত তাত্ত্বিকভাবে সহজপাচ্য হয়। এই বইটাও তাই। এই বইটার গুরুত্ব হচ্ছে অ্যান্থ্রপলজিকাল অ্যাটিচিউডের সাথে পাঠক-কে পরিচিত করা। সেই কাজটা স্ট্রাউস বইটায় খুব ভালোভাবে করতে পেরেছেন।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Tristes Tropiques by Claude Lévi-Strauss\|Tristes Tropiques by Claude Lévi-Strauss]])
 
 > [!info] About Tristes Tropiques by Claude Lévi-Strauss
