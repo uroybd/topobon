@@ -18,7 +18,7 @@ Lagerkvist portrayed Barabbas as a very dynamic character. Rational yet with a d
 
 Lagerkvist explored Barabbas, along with some other fantastic character and that's also in only a very few pages, in a concise novel which moves, both emotionally and intellectually.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Barabbas by Par Lagerkvist\|Barabbas by Par Lagerkvist]])
 
 > [!info] About Barabbas by Pär Lagerkvist
