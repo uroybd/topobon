@@ -67,7 +67,7 @@ The abundance of commodities— that is, the abundance of commodity relations—
 
 And when even [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^8698a1\|the rebellion is yet another way to conform]], we can consider the future pretty bleak.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|Notes from The Society of the Spectacle by Guy Debord]])
 
 > [!info] About Society of the Spectacle by Guy Debord, Ken Knabb
