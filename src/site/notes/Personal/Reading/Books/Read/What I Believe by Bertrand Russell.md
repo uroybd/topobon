@@ -3,7 +3,7 @@
 ---
 
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/What I Believe\|What I Believe]])
 
 > [!info] About What I Believe by Bertrand Russell
