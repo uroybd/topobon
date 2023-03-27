@@ -45,7 +45,7 @@ Its brand name is now owned by two brothers from Kerala who use it to sell ‘co
 
 সব মিলিয়ে ভালো লেগেছে।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Anarchy\|The Anarchy]])
 
 > [!info] About The Anarchy by William Dalrymple
