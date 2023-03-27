@@ -13,7 +13,7 @@ Thought Provoking.
   
 সাইকোঅ্যানালাইসিস আজ অব্দি বোধহয় শুদ্ধ বিজ্ঞান না। এর অনেকটাই মানুষের সাবজেক্টিভ রিয়্যালিটির ওপর নির্ভরশীল এবং সাবজেক্টিভ রিয়্যালিটির এই অংশগুলো যথার্থভাবে ট্রান্সফার বা প্রকাশের বিশেষ সুবিধা মানুষের নেই। কনভার্সেশনই শেষ ভরসা। অনেকটাই অন্ধের হাতি দেখার মত অবস্থা। সেসব মেনে নিলে সাইকোঅ্যালাইসিসের রথী-মহারথীরা যথার্থই জিনিয়াস। কিন্তু শুদ্ধ বিজ্ঞান হতে হয়ত অনেকটা দূর যেতে হবে।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]])
 
 > [!info] About The Denial of Death by Ernest Becker
