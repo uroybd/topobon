@@ -4,7 +4,7 @@
 
 A first-hand account of what it means to be an African-American in our time. Profound, penetrating, moving yet tranquil in tone.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Between the World and Me by Ta_ Nehisi Coates\|Notes from Between the World and Me by Ta-Nehisi Coates]])
 
 > [!info] About Between the World and Me by Ta-Nehisi Coates
