@@ -10,7 +10,7 @@ Without events, but not without thoughts or feelings. Pessoa is a man of both th
 
 Most of the entries are introspective. Only a handful of them deals with the exterior and even in those entries exterior is only a backdrop. All of them are monologues, are streams of consciousness flowing naturally, beautifully. And it is disquieting. Disquieting to the point where you might question the life you lived by far, the reality as we know it, and all the values handed down to us.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Book of Disquiet by Fernando Pessoa\|Notes from The Book of Disquiet by Fernando Pessoa]])
 
 > [!info] About The Book of Disquiet by Fernando Pessoa
