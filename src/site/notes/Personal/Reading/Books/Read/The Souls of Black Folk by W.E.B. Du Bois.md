@@ -32,7 +32,7 @@ So wofully unorganized is sociological knowledge that the meaning of progress, t
 
 এবং, এই বইটা জাস্ট আরেকটা র‍্যান্টিং না। ওভারহেলমিং ইমোশলাল স্টেটমেন্ট না, বরং, খুবই স্কলারলি, প্রায় মেদহীন একটা বই।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Souls of Black Folk by W. E. B. Du Bois\|Notes from The Souls of Black Folk by W. E. B. Du Bois]])
 
 > [!info] About The Souls of Black Folk by W. E. B. Du Bois
