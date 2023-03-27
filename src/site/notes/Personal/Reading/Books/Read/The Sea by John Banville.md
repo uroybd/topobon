@@ -7,7 +7,7 @@ Every book doesn't impress on the same place although we take it for granted tha
 
 Since it is a novel, the first question you may ask is, "What is the story?" Well, it doesn't matter. Stories happen all the time and every story is as old as time. Who, and most importantly, how the story is being told is what modern literature is concerned about. When Max, the story-teller here, a self-made man, often vain, mostly sensitive, an intellectual born and brought up in the lower segments of the society tells his story candidly, yet always trying to justify his actions, losses and laughs re-interpreted with the hindsight of a well-aged man, but not entirely coherent— that is not a story anymore. That is life. And life in its most raw form cannot be judged but only be accepted. This acceptance comes with a deep complex sensation, not love, not pity, not hope definitely, but like you're drowning, in the sea.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Sea by John Banville\|The Sea by John Banville]])
 
 > [!info] About The Sea by John Banville
