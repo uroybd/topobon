@@ -19,7 +19,7 @@ The same goes for the Dasein. Dasein, the conscious being is modelled after only
 
 Both of these two issues, of course, stems from the tendency of not bothering with proof common amongst philosophers.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Being and Time by Martin Heidegger\|Notes from Being and Time by Martin Heidegger]])
 
 > [!info] About Being and Time by Martin Heidegger
