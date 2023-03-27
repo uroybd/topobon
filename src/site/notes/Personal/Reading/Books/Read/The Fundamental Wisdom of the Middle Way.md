@@ -31,7 +31,7 @@ Would be immutable.
 
 In the process of refuting essentialism, slowly, he churned a much clearer form of metaphysics deduced from the core Buddhist metaphysics known then.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way\|The Fundamental Wisdom of the Middle Way]])
 
 > [!info] About The Fundamental Wisdom of the Middle Way: Nagarjuna's Mulamadhyamakakarika by Nagarjuna
