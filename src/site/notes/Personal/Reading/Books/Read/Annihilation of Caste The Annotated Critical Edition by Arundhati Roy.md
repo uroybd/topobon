@@ -78,7 +78,7 @@ But the world owes much to rebels who would dare to argue in the face of the pon
 </div></div>
 
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar\|Annihilation of Caste by B.R. Ambedkar]])
 
 > [!info] About Annihilation of Caste by B.R. Ambedkar
