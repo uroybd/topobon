@@ -45,7 +45,7 @@ But the Darwinian lesson is clear: There will be no humans elsewhere. Only here.
   
 আগেই বলেছি, বইয়ের লেখা সাবলীল ও আকর্ষণীয়। এটা হচ্ছে সেইধরণের বই যা প্রত্যেকের পড়া উচিত। প্রত্যেকের।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan\|Notes from Cosmos]])
 
 > [!info] About Cosmos by Carl Sagan
