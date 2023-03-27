@@ -8,7 +8,7 @@
   
 এই বইটা না পড়লে [[Personal/Reading/Books/Read/1984 by George Orwell\|1984]] এবং [[Personal/Reading/Books/Read/Animal Farm by George Orwell\|Animal Farm]] পড়ার পর অরওয়েলকে আপনার এন্টি-কমিউনিস্ট মনে হবে। আদতে জর্জ অরওয়েল কমিউনিজমের ভুত দেখেছেন। তিনি অ্যানার্কিস্ট, এবং সোশ্যালিস্টও বটে।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Homage to Catalonia\|Homage to Catalonia]])
 
 > [!info] About Homage to Catalonia by George Orwell
