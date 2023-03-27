@@ -23,7 +23,7 @@ The reason you’re reading this book is that I did a dangerous thing for a man 
 His prose is mature, concise, to the point yet emotional. So much so that, apart from the content, it has a very high level of literary value. The clarity of his thought, the amount of conviction he holds, I think, is the most important aspect of this book. He can actually make you see things from his position, feel what he felt, his moment of truth, his anxieties and fears, his courage and sacrifice - willing yet shaking his very core.  
 Content-wise, this book is invaluable. It allows readers a peek into the large mechanism, through which big brother is watching you. Apart from the technicalities, you may find Snowden's views on personal freedom, privacy, democracy, authority and human rights very accurate and logical.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Permanent Record\|Permanent Record]])
 
 > [!info] About Permanent Record by Edward Snowden
