@@ -5,7 +5,7 @@
 ### Review
 লোকটা অনেক গালাগালি খায় কেননা মানুষ বিশ্বাসের সাথে বাস্তবতা মেলাতে না পারলে বাস্তবতাকে গালাগালি করে। তা বাদে, আমার চোখে খুব ধৈর্যশীল এবং সিমপ্যাথেটিক মানুষ বলে মনে হয়েছে ডকিন্সকে। বইটা চমৎকার, অনেককিছু জানতাম, অনেককিছুই জানতাম না। হয়ত লেখার গাঁথুনিতে একটু দুর্বল ডকিন্স, অন্ততঃ সেগানের মত শক্তিশালী নন। কিন্তু বৈজ্ঞানিক সত্য তো সত্যই। এর কাব্যিক না হলেও চলে। কাব্যিকতা উপরি পাওনা।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/The God Delusion\|The God Delusion]])
 
 > [!info] About The God Delusion by Richard Dawkins
