@@ -32,7 +32,7 @@
 
 আজকের দুনিয়ায় দাঁড়িয়ে স্টোয়িসিজমকে তার সকল অ্যাজাম্পশান ও আধা-ধর্মীয় চরিত্রসমেত মেনে নেওয়া কষ্টকর হবে। কিন্তু, মার্কাসের এই অধিকতর ভালো মানুষ হওয়ার চেষ্টাটা নাড়া দেয়।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel\|Notes from Meditations: The Annotated Edition]])
 
 > [!info] About Meditations by Marcus Aurelius
