@@ -8,7 +8,7 @@
 
 > The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Animal Farm by George Orwell\|Animal Farm by George Orwell]])
 
 > [!info] About Animal Farm by George Orwell
