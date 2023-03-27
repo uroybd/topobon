@@ -11,15 +11,6 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
 
   // generate images, while this is async we don’t wait
   Image(src, options);
-
-  let imageAttributes = {
-    class: cls,
-    alt,
-    sizes,
-    loading: "lazy",
-    decoding: "async",
-  };
-  // get metadata even if the images are not fully generated yet
   let metadata = Image.statsSync(src, options);
   return metadata;
 }
