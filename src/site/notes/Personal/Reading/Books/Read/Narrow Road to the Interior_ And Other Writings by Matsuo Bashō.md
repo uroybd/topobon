@@ -14,7 +14,7 @@ Apart from Bashō exquisite inner-life, another important aspect that shined thr
 { #aa2b0c}
 
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings\|Narrow Road to the Interior and Other Writings]])
 
 > [!info] About Narrow Road to the Interior by Matsuo Basho
