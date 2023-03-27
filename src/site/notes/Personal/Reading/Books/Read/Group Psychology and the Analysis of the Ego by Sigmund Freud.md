@@ -4,7 +4,7 @@
 
 ওয়েল… পুরোটা একইরকম কনভিন্সিং লাগে নাই। স্পেশালি প্রিহিস্ট্রিক্যাল জায়গাগুলো। সব মিলিয়ে মন্দ না।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Group Psychology and The Analysis of The Ego\|Group Psychology and the Analysis of the Ego by Sigmund Freud]])
 
 > [!info] About Group Psychology and the Analysis of the Ego by Sigmund Freud
