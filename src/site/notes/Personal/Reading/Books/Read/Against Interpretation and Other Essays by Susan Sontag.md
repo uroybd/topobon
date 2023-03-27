@@ -4,7 +4,7 @@
 
 একজন ভালো আর্ট/লিটারেচার ক্রিটিকের প্রথম যোগ্যতা হচ্ছে আমাদের সেন্সিবিলিটিকে ধাক্কা দেওয়া। সিক্সটিজে লেখা এস্যেগুলো আজকেও যখন ধাক্কা দেয়, বিশেষত, অধিকাংশ আলোচ্যগুলির সাথে আপনি ইতমধ্যেই পরিচিত তখন বলা যায় তিনি একজন প্রথম শ্রেণীর ক্রিটিক।
 
-> [!note] Notes and Highlights from the Book
+> [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/Against Interpretation and Other Essays by Susan S\|Against Interpretation and Other Essays]])
 
 > [!info] About Against Interpretation and Other Essays by Susan Sontag
