@@ -1,65 +1,79 @@
+<script src="https://cdn.jsdelivr.net/npm/petite-vue@0.4.1/dist/petite-vue.iife.min.js"></script>
 <script>
-    const getCssVar = (variable) => getComputedStyle(document.body).getPropertyValue(variable);
+    PetiteVue.createApp({
+    $delimiters: ["${", "}"],
+    graphData: null,
+    depth: 1,
+    graph: null,
+    fullGraph: null,
+    showFullGraph: false,
+    fullScreen: false,
 
-    function htmlDecode(input) {
+    toggleFullScreen() {
+        this.fullScreen = !this.fullScreen;
+        this.$nextTick(() => {
+            const el = document.querySelector('.graph');
+            this.graph.width(el.offsetWidth).height(el.offsetWidth);
+            setTimeout(() => {
+                this.graph.zoomToFit(5, 75);
+            }, 1);
+        })
+    },
+
+    getCssVar(variable) {return getComputedStyle(document.body).getPropertyValue(variable)},
+
+    htmlDecode(input) {
         var doc = new DOMParser().parseFromString(input, "text/html");
         return doc.documentElement.textContent;
-    }
-    window.graphData = null;
-    window.maxGraphDepth = 1;
+    },
 
-    function getNextLevelNeighbours(existing, remaining) {
-        const keys = Object.values(existing).map((n) => n.neighbors).flat();
-        const n_remaining = Object.keys(remaining).reduce((acc, key) => {
-                if (keys.indexOf(key) != -1) {
-                    if (!remaining[key].hide) {
-                        existing[key] = remaining[key];
-                    }
-                } else {
-                    acc[key] = remaining[key];
-                }
-                return acc;
-            }, {});
-        return existing, n_remaining;
-    }
-
-    function filterToDepth(data) {
-        let remaining = JSON.parse(JSON.stringify(data.nodes));
-        let currentLink = decodeURI(window.location.pathname);
-        let currentNode = remaining[currentLink] || Object.values(remaining).find((v) => v.home);
-        delete remaining[currentNode.url];
-        if (!currentNode.home) {
-            let home = Object.values(remaining).find((v) => v.home);
-            delete remaining[home.url];
+    get fullGraphData() {
+        if (this.graphData == null) {
+            return null;
         }
-        currentNode.current = true;
-        let existing = {};
-        existing[currentNode.url] = currentNode;
-        for (let i = 0; i < window.maxGraphDepth; i++) {
-            existing, remaining = getNextLevelNeighbours(existing, remaining);
-        }
-        nodes = Object.values(existing);
-        if (!currentNode.home) {
-            nodes = nodes.filter(n => !n.home);
-        }
-        let ids = nodes.map((n) => n.id);
-        let graphData = {
-            nodes,
-            links: data.links.filter((con) => ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1),
+        const hiddens = Object.values(this.graphData.nodes).filter((n) => n.hide).map((n) => n.id);
+        const graphData = {
+            links: JSON.parse(JSON.stringify(this.graphData.links)).filter((l) => hiddens.indexOf(l.source) == -1 && hiddens.indexOf(l.target) == -1),
+            nodes: [...Object.values(this.graphData.nodes).filter((n) => !n.hide)]
         }
         return graphData;
-    }
+    },
 
-    var Graph;
+    renderFullGraph(toggle) {
+        this.showFullGraph = true;
+        this.$nextTick(() => {
+            lucide.createIcons({
+                attrs: {
+                    class: ["svg-icon"]
+                }
+            });
+            this.fullGraph = this.renderGraph(this.fullGraphData, "full-graph-container", 200);
+        })
+    },
 
-    function renderGraph(graphData, id, delay) {
+    renderLocalGraph(data) {
+        this.graph = this.renderGraph(data, 'link-graph');
+    },
+
+    closefullGraph() {
+        if (this.fullGraph) {
+            this.fullGraph._destructor();
+        }
+        this.fullGraph = null;
+        this.showFullGraph = false;
+    },
+
+    renderGraph(graphData, id, delay) {
+        if (graphData == null) {
+            return;
+        }
         const el = document.getElementById(id);
         width = el.offsetWidth;
         height = el.offsetHeight;
         const highlightNodes = new Set();
         let hoverNode = null;
-        const color = getCssVar("--graph-main");
-        const mutedColor = getCssVar("--graph-muted");
+        const color = this.getCssVar("--graph-main");
+        const mutedColor = this.getCssVar("--graph-muted");
 
         let Graph = ForceGraph()
         (el)
@@ -111,7 +125,7 @@
                     ctx.stroke();
                 }
 
-                const label = htmlDecode(node.title)
+                const label = this.htmlDecode(node.title)
                 const fontSize = 3.5;
                 ctx.font = `${fontSize}px Sans-Serif`;
 
@@ -137,80 +151,58 @@
                 }, delay);
             }
         return Graph;
-    }
+    },
 
-    function fetchGraphData() {
+    fetchGraphData() {
         fetch('/graph.json').then(res => res.json()).then(data => {
-            window.graphData = data;
-            Graph = renderGraph(filterToDepth(JSON.parse(JSON.stringify(data))), "link-graph", 1);
+            this.graphData = data;
         });
-    }
-
-    fetchGraphData();
-    window.document.getElementById('graph-depth').value = window.maxGraphDepth;
-    window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
-    window.document.getElementById('graph-depth').addEventListener('input', (evt) => {
-        
-    window.maxGraphDepth = evt.target.value;
-    window.document.getElementById('depth-display').innerText = window.maxGraphDepth;
-        if (Graph != null) {
-            Graph._destructor();
-            Graph = null;
-        }
-        Graph = renderGraph(filterToDepth(JSON.parse(JSON.stringify(window.graphData))), "link-graph", 1);
-        setTimeout(() => {
-            Graph.zoomToFit(5, 75);
-        }, 1);
-    });
-
-    window.fullGraph = null;
-    function renderFullGraph() {
-        if (!window.fullGraph) {
-            const hiddens = Object.values(window.graphData.nodes).filter((n) => n.hide).map((n) => n.id);
-            const graphData = {
-                links: JSON.parse(JSON.stringify(window.graphData.links)).filter((l) => hiddens.indexOf(l.source) == -1 && hiddens.indexOf(l.target) == -1),
-                nodes: [...Object.values(window.graphData.nodes).filter((n) => !n.hide)]
-            }
-            
-            let g = document.createElement('div');
-            g.id = 'full-graph';
-            g.classList.add('show');
-            document.body.appendChild(g);
-            g.innerHTML = '<span id="full-graph-close"><i icon-name="x"  aria-hidden="true"></i></span><div id="full-graph-container"></div>';
-            lucide.createIcons({
-                attrs: {
-                    class: ["svg-icon"]
+    },
+    getNextLevelNeighbours(existing, remaining) {
+        const keys = Object.values(existing).map((n) => n.neighbors).flat();
+        const n_remaining = Object.keys(remaining).reduce((acc, key) => {
+                if (keys.indexOf(key) != -1) {
+                    if (!remaining[key].hide) {
+                        existing[key] = remaining[key];
+                    }
+                } else {
+                    acc[key] = remaining[key];
                 }
-            });
-            window.fullGraph = renderGraph(graphData, "full-graph-container", 200);
-            document.getElementById('full-graph-close').addEventListener('click', (evt) => {
-                g.classList.remove('show');
-                window.fullGraph._destructor();
-                window.fullGraph = null;
-                document.getElementById('full-graph').remove()
-            });
+                return acc;
+            }, {});
+        return existing, n_remaining;
+    },
+    get localGraphData() {
+        if (this.graphData == null) {
+            return null;
         }
-        
-    }
-
-    document.getElementById('graph-fs-btn').addEventListener('click', (evt) => {
-        const el = document.querySelector('.graph');
-        if (el.classList.contains('graph-fs')) {
-            el.classList.remove('graph-fs');
-            Graph.width(el.offsetWidth).height(el.offsetWidth);
-        } else {
-            el.classList.add('graph-fs');
-            Graph.width(el.offsetWidth).height(el.offsetWidth);
+        let remaining = JSON.parse(JSON.stringify(this.graphData.nodes));
+        let links = JSON.parse(JSON.stringify(this.graphData.links));
+        let currentLink = decodeURI(window.location.pathname);
+        let currentNode = remaining[currentLink] || Object.values(remaining).find((v) => v.home);
+        delete remaining[currentNode.url];
+        if (!currentNode.home) {
+            let home = Object.values(remaining).find((v) => v.home);
+            delete remaining[home.url];
         }
-        setTimeout(() => {
-            Graph.zoomToFit(5, 75);
-        }, 1);
-        
-    });
-
-    document.getElementById('global-graph-btn').addEventListener('click', (evt) => {
-        if (!window.fullGraph) {
-            renderFullGraph();
+        currentNode.current = true;
+        let existing = {};
+        existing[currentNode.url] = currentNode;
+        for (let i = 0; i < this.depth; i++) {
+            existing, remaining = this.getNextLevelNeighbours(existing, remaining);
         }
-    });
+        nodes = Object.values(existing);
+        if (!currentNode.home) {
+            nodes = nodes.filter(n => !n.home);
+        }
+        let ids = nodes.map((n) => n.id);
+        let graphData = {
+            nodes,
+            links: links.filter(function (con) {
+                return ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1;
+            }),
+        }
+        return graphData;
+    },
+  }).mount();
 </script>
