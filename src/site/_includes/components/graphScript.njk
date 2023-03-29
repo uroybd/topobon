@@ -52,6 +52,9 @@
     },
 
     renderLocalGraph(data) {
+        if (this.graph) {
+            this.graph._destructor();
+        }
         this.graph = this.renderGraph(data, 'link-graph');
     },
 
@@ -145,10 +148,10 @@
                 hoverNode = node || null;
                 
             });
-            if (delay != null && graphData.nodes.length > 4) {
+            if (this.fullScreen || (delay != null && graphData.nodes.length > 4)) {
                 setTimeout(() => {
                     Graph.zoomToFit(5, 75);
-                }, delay);
+                }, delay || 200);
             }
         return Graph;
     },
