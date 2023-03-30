@@ -15,6 +15,8 @@ The flaw lies in the fact that they sought or depended on something greater than
 
 
 **I propose you die, you die with a complete psychological image of what death really is, what it means to be dead. Die in every exhalation, like you live while you breathe in. Die slowly while nature cushions your footprints with grasses and daisies. Die a thousand times when you perform eulogies with sincerity. Die while the present passes away to the past and live in the future that just came to be present. Stretch the inevitable 'full stop at the end' to a tapestry of fireflies. Die till you die completely and there is no more death, there is no 'no', and no 'more' for you.**
+{ #2bfa47}
+
 
 Understand this, you will die whether you want or not. But choosing to die knowing what it really signifies and where it stands in harmony with your living is a thing I dare you to try.
 
