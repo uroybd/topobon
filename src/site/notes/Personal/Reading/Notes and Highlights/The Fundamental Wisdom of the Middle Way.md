@@ -14,6 +14,9 @@ And ceasing been explained.
 
 
 ### XVIII Examination of Self and Entities
+{ #9b698c}
+
+
 #### Time：2020-11-21 15:38
 One who does not grasp onto “I” and “mine,” 
 That one does not exist. 
