@@ -9,4 +9,4 @@ This is the convention being followed for all reading notes exported after Janua
 | Lighten/Normal     | Yellow               | Quotables, concepts, and general ideas.                            |
 | <u>Underline</u>   | Orange   | Farther thought is required on this for clarity.                   |
 | Highlighted/**Bold** | Blue           | Something strikingly novel/Deeply moving/Highly thought provoking. |
-| ~~Strikeout~~   | Red | In discord with this opinion.                                      |
+| ~~Strikeout~~   | Pink | In discord with this opinion.                                      |
