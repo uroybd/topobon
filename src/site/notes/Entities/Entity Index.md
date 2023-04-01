@@ -16,3 +16,4 @@
 | [[Entities/Technical Draft/Obsidian Federated Embed\|Obsidian Federated Embed]] | <ul><li>OFE</li></ul>                                             | Technical Draft | #technical-draft                                                 |
 | [[Entities/Concept/Buddhism/Pratītyasamutpāda\|Pratītyasamutpāda]]              | <ul><li>dependant origination</li><li>dependant arising</li></ul> | Concept         | #concept #concept/buddhism #concept/theology #concept/philosophy |
 | [[Entities/Person/Rabindranath Tagore\|Rabindranath Tagore]]                    | <ul><li>রবীন্দ্রনাথ ঠাকুর</li></ul>                               | Person          | #person #person/polymath #person/activist #person/writer         |
+| [[Entities/Concept/Subject/Thanatology\|Thanatology]]                           | <ul><li>Thanatology</li></ul>                                     | Concept         | #subject                                                         |
