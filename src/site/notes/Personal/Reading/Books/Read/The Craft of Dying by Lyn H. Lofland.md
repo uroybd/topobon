@@ -1,8 +1,9 @@
 ---
-{"title":"The Craft of Dying","created":"2019-01-11T00:00:00+06:00","log":[{"status":"Read","timestamp":"2023-03-30T15:34:28+06:00"},{"status":"In Progress","timestamp":"2023-03-27T15:34:28+06:00"},{"status":"To Read","timestamp":"2019-01-11T00:00:00+06:00"}],"updated":"2023-04-01T11:37:31+06:00","read_count":1,"authors":["Lyn H. Lofland"],"isbn10":803910991,"status":"Read","rating":4,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"reviewed":true,"dg-path":"Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/reading/books/read/the-craft-of-dying-by-lyn-h-lofland/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Craft of Dying","created":"2019-01-11T00:00:00+06:00","log":[{"status":"Read","timestamp":"2023-03-30T15:34:28+06:00"},{"status":"In Progress","timestamp":"2023-03-27T15:34:28+06:00"},{"status":"To Read","timestamp":"2019-01-11T00:00:00+06:00"}],"updated":"2023-04-01T14:05:32+06:00","read_count":1,"authors":["Lyn H. Lofland"],"isbn10":803910991,"status":"Read","rating":4,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"reviewed":true,"dg-path":"Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/reading/books/read/the-craft-of-dying-by-lyn-h-lofland/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ## What is the Book is About?
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-craft-of-dying/#00a29a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -15,17 +16,17 @@ Like the prolonged helplessness of its young, like bisexual reproduction, the in
 
 That is basically the justification of Thanatology, the subject of this book. The writer covered a lot of her contemporary ground— briefly, but with some interesting insights.
 
-The first of this insight, expounded well in the Part I, is about the change of modes and methods in the modern, technologically advanced Western societies, and how it led us to a prolonged *dying* phase.
+The first of these insights, expounded well in Part I, is about the change of modes and methods of *death and dying* in modern, technologically advanced Western societies, and how it led us to a prolonged *dying* phase.
 
-This change obviously leads to changes regarding how a dying person and people related can choose (and the limitations on such choices by socio-economic conditions) to die, or live for the remaining of the days.
+This change leads to changes regarding how a dying person (and people related) can choose (and the limitations on such choices by socio-economic conditions) to die, or live for the remaining of the days.
 
-In the Part III, she gave an overview of the then-contemporary movement to help people to die happily.
+In Part III, she gave an overview of the then-contemporary movement to help people to die happily.
 ## My Takeaway
 The writing is very much descriptive in nature. She tried her best to cast an impartial gaze on the situation. The subject, however, is a cross-school one. This adds some complexity.
 
 Her exploration of modern craft of dying in Part I & Part II were sharp and to the point. It's a must-read, along with [[Personal/Reading/Books/Read/The Denial of Death by Ernest Becker\|The Denial of Death by Earnest Becker]], to understand the modern ideas about the death.
 
-However, her portrayal of the *happy death movement* in the Part III shows the dismal state of affair in that front. No modern person in their right mind can take Kübler-Ross's “Research” seriously:
+However, her portrayal of the *happy death movement* in the Part III shows the dismal state of affairs on that front. No modern person in their right mind can take Kübler-Ross's “Research” seriously:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-craft-of-dying/#1ce17b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -37,9 +38,9 @@ Befitting a movement largely composed of presumably secular upper-middle-class p
 </div></div>
 
 
-This is a dealbreaker for me. Of course, Lofland is mostly a chronicler here, and she had her doubts too.
+This is a deal-breaker for me. Of course, Lofland is mostly a chronicler here, and she had her doubts too.
 
-**If I follow advises of one such movement, I'll have a very unhappy death for sure.** Instead, I would like to assume a dying role for me which is based on knowledge and emotional understanding of what it means to be dead:
+**If I follow the advice of one such movement, I'll have a very unhappy death for sure.** Instead, I would like to assume a dying role for me which is based on knowledge and emotional understanding of what it means to be dead:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/journal/the-importance-of-dying/#2bfa47" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
