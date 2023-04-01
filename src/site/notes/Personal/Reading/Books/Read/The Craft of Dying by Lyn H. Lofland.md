@@ -1,5 +1,5 @@
 ---
-{"title":"The Craft of Dying","created":"2019-01-11T00:00:00+06:00","log":[{"status":"Read","timestamp":"2023-03-30T15:34:28+06:00"},{"status":"In Progress","timestamp":"2023-03-27T15:34:28+06:00"},{"status":"To Read","timestamp":"2019-01-11T00:00:00+06:00"}],"updated":"2023-04-01T14:05:32+06:00","read_count":1,"authors":["Lyn H. Lofland"],"isbn10":803910991,"status":"Read","rating":4,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"reviewed":true,"dg-path":"Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/reading/books/read/the-craft-of-dying-by-lyn-h-lofland/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Craft of Dying","created":"2019-01-11T00:00:00+06:00","log":[{"status":"Read","timestamp":"2023-03-30T15:34:28+06:00"},{"status":"In Progress","timestamp":"2023-03-27T15:34:28+06:00"},{"status":"To Read","timestamp":"2019-01-11T00:00:00+06:00"}],"updated":"2023-04-01T14:40:51+06:00","read_count":1,"authors":["Lyn H. Lofland"],"isbn10":803910991,"status":"Read","rating":4,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"reviewed":true,"dg-path":"Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/reading/books/read/the-craft-of-dying-by-lyn-h-lofland/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ## What is the Book is About?
@@ -14,7 +14,7 @@ Like the prolonged helplessness of its young, like bisexual reproduction, the in
 </div></div>
 
 
-That is basically the justification of Thanatology, the subject of this book. The writer covered a lot of her contemporary ground— briefly, but with some interesting insights.
+That is basically the justification of [[Entities/Concept/Subject/Thanatology\|Thanatology]], the subject of this book. The writer covered a lot of her contemporary ground— briefly, but with some interesting insights.
 
 The first of these insights, expounded well in Part I, is about the change of modes and methods of *death and dying* in modern, technologically advanced Western societies, and how it led us to a prolonged *dying* phase.
 
