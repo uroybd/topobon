@@ -39,8 +39,7 @@ Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpos
 
 
 ## On Top of My mind…
-<div class="block-language-dataview">
-                | Title                                                                                                                                                   | Tags                                             | Updated                                                   | Created                                                    |
+| Title                                                                                                                                                   | Tags                                             | Updated                                                   | Created                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------------- |
 | [[Entities/Concept/Subject/Thanatology\|Thanatology]]                                                                                                | #subject                                         | <center><small>Apr 01, 2023<hr/>02:41 pm</small></center> | <center><small>Apr 01, 2023<hr/>02:28 pm</small></center>  |
 | [[Personal/Reading/Books/Read/The Craft of Dying by Lyn H. Lofland\|The Craft of Dying]]                                                             | #book #thanatology #sociology                    | <center><small>Apr 01, 2023<hr/>02:40 pm</small></center> | <center><small>Jan 11, 2019<hr/>12:00 am</small></center>  |
@@ -53,7 +52,7 @@ Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpos
 | [[Entities/Concept/Doublethink\|Doublethink]]                                                                                                        | #concept #concept/psychology #concept/orwellian  | <center><small>Mar 25, 2023<hr/>10:37 pm</small></center> | <center><small>Jan 19, 2023<hr/>04:02 pm</small></center>  |
 | [[Personal/Reading/Books/Read/1984 by George Orwell\|1984]]                                                                                          |                                                  | <center><small>Mar 17, 2023<hr/>02:44 pm</small></center> | <center><small>Nov 29, 2015<hr/>12:00 am</small></center>  |
 
-                </div>
+{ .block-language-dataview"}
 ## Discussion
 Digital gardens are not about marketing/expressing opinion/prophesize etc. It is about nurturing our thoughts publicly and collectively. To discuss with me, there are two ways.
 
