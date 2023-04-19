@@ -60,19 +60,19 @@ body {
         font-weight: bolder !important;
     }
 
-    table {
-        width: 100% !important;
-        border: 1px solid lightgray !important;
+    // table {
+    //     width: 100% !important;
+    //     border: 1px solid lightgray !important;
 
-        td,
-        th {
-            padding: 5px 10px !important;
+    //     td,
+    //     th {
+    //         padding: 5px 10px !important;
 
-            hr {
-                margin: 5px !important;
-            }
-        }
-    }
+    //         hr {
+    //             margin: 5px !important;
+    //         }
+    //     }
+    // }
 
     .graph {
         flex: unset !important;
@@ -393,6 +393,23 @@ body {
                 margin-right: 5px;
                 background-position: bottom;
             }
+        }
+    }
+
+    .cards {
+        th,
+        td {
+            border: none !important;
+            flex-wrap: wrap;
+            gap: 5px;
+
+            a.tag {
+                padding: 3px !important;
+            }
+        }
+
+        .table-view-thead::before {
+            display: none;
         }
     }
 }
