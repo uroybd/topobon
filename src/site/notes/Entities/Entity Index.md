@@ -2,8 +2,7 @@
 {"title":"Index","aliases":["Entity Index"],"dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"tags":["entities"],"created":"2023-03-25T22:35:25+06:00","updated":"2023-03-25T22:51:51+06:00","permalink":"/entities/entity-index/","hideInGraph":true,"pinned":true,"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
-<div class="block-language-dataview">
-                | Title                                                                              | Aliases                                                           | Type            | Tags                                                             |
+| Title                                                                              | Aliases                                                           | Type            | Tags                                                             |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------- | ---------------------------------------------------------------- |
 | [[Entities/Concept/Buddhism/Anatman\|Anattā]]                                   | <ul><li>anātman</li><li>Anattā</li></ul>                          | Concept         | #concept #concept/buddhism #concept/theology #concept/philosophy |
 | [[Entities/Concept/Buddhism/Anitya\|Anitya]]                                    | <ul><li>anitya</li><li>impermanence</li></ul>                     | Concept         | #concept #concept/buddhism #concept/theology #concept/philosophy |
@@ -19,4 +18,4 @@
 | [[Entities/Person/Rabindranath Tagore\|Rabindranath Tagore]]                    | <ul><li>রবীন্দ্রনাথ ঠাকুর</li></ul>                               | Person          | #person #person/polymath #person/activist #person/writer         |
 | [[Entities/Concept/Subject/Thanatology\|Thanatology]]                           | <ul><li>Thanatology</li></ul>                                     | Concept         | #subject                                                         |
 
-                </div>
+{ .block-language-dataview"}
