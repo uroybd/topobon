@@ -18,4 +18,4 @@
 | [[Entities/Person/Rabindranath Tagore\|Rabindranath Tagore]]                    | <ul><li>রবীন্দ্রনাথ ঠাকুর</li></ul>                               | Person          | #person #person/polymath #person/activist #person/writer         |
 | [[Entities/Concept/Subject/Thanatology\|Thanatology]]                           | <ul><li>Thanatology</li></ul>                                     | Concept         | #subject                                                         |
 
-{ .block-language-dataview"}
+{ .block-language-dataview}
