@@ -1,10 +1,10 @@
 ---
-{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-04-25T10:02:02+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-04-25T10:03:59+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
-CBZ (and derivatives) are being used as ebook format form comic book for quite a long time. While they work well in larger screen, It is very hard to use them in smaller handheld devices.
+CBZ (and derivatives) are being used as e-book format for comic books for quite a long time. While they work well in larger screen, It is very hard to use them in smaller handheld devices.
 
-Many ebook-reader apps solve this problem differently. Some uses features like **panel zoom** and **bubble zoom**. They work, but not perfectly.
+Many e-book reader apps solve this problem differently. Some use feature like **panel zoom** and **bubble zoom**. They work, but not perfectly.
 
 This proposed second iteration of Comic Book Archive is an attempt to solve some, if possible most, of these problems.
 
@@ -54,7 +54,7 @@ This section define all the panels in order. `href` points to the file from whic
 Bubbles get defined here almost exactly like panels. Optionally, they can also have the content in them to allow the screen readers to read the comics, and with a `parent` key, a parent panel can be defined.
 
 ## Usage
-Using the structure defined above, EBook-reader applications can develop following features:
+Using the structure defined above, e-book reader applications can develop following features:
 
 ### Panel Navigation
 Apps can get panels from images by using the data from `content.xml` and allow users to navigate panel by panel. This allows the users to read comics more easily in hand-held devices.
