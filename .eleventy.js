@@ -413,12 +413,7 @@ module.exports = function (eleventyConfig) {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
-  eleventyConfig.addPlugin(pluginRss, {
-    posthtmlRenderOptions: {
-      closingSingleTag: "slash",
-      singleTags: ["link"],
-    },
-  });
+ 
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
     if (!date) return "";
@@ -435,6 +430,13 @@ module.exports = function (eleventyConfig) {
       return variable.replaceAll("\\", "\\\\");
     }
     return variable;
+  });
+
+ eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "slash",
+      singleTags: ["link"],
+    },
   });
 
   userEleventySetup(eleventyConfig);
