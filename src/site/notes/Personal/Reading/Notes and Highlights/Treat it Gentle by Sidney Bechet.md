@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Treat it Gentle by Sidney Bechet","updated":"2023-04-30T14:43:29+06:00","created":"2021-08-28T06:01:35+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["history","autobiography","jazz","music","american","reading-note"],"dg-path":"Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet.md","permalink":"/reading/notes-and-highlights/treat-it-gentle-by-sidney-bechet/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Treat it Gentle by Sidney Bechet","updated":"2023-04-30T14:46:24+06:00","created":"2021-08-28T06:01:35+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["history","autobiography","jazz","music","american","reading-note"],"dg-path":"Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet.md","permalink":"/reading/notes-and-highlights/treat-it-gentle-by-sidney-bechet/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Treat it Gentle
@@ -43,6 +43,4 @@ And it was while I was in jail there that I played the first blues I ever played
 ### Time: 2021-08-27 22:53
 I got a feeling inside me, a kind of memory that wants to sing itself… I can give you that. I can send it out to where it can be taken, maybe, if you want it. I can try to give it to you. But if all I've got is a contract, I've got nothing to give. How'm I going to give you a contract?
 
-
-### Time: 2021-08-27 22:53
 And maybe there's another thing why so many of these musicianers ended up so bad. Maybe they didn't know how to keep up with all this commercializing that was happening to ragtime. If it could have stayed where it started and not had to take account of the business it was becoming—all that making contracts and signing options and buying and selling rights — maybe without that it might have been different. If you start taking what's pure in a man and you start putting it on a bill of sale, somehow you can't help destroying it. In a way, all that business makes it so a man don't have anything left to give.
