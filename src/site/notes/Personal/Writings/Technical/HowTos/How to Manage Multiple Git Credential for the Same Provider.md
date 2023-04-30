@@ -1,7 +1,6 @@
 ---
-{"title":"How to Manage Multiple Git Credential for the Same Provider","aliases":["How to Manage Multiple Git Credential for the Same Provider"],"created":"2023-04-26T14:10:34+06:00","updated":"2023-04-30T13:34:37+06:00","dg-publish":true,"dg-note-icon":3,"tags":["technical","how-to"],"dg-path":"Writings/Technical/HowTos/How to Manage Multiple Git Credential for the Same Provider.md","permalink":"/writings/technical/how-tos/how-to-manage-multiple-git-credential-for-the-same-provider/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"How to Manage Multiple Git Credential for the Same Provider","aliases":["How to Manage Multiple Git Credential for the Same Provider"],"created":"2023-04-26T14:10:34+06:00","updated":"2023-04-30T14:37:32+06:00","dg-publish":true,"dg-note-icon":3,"tags":["technical","how-to"],"dg-path":"Writings/Technical/HowTos/How to Manage Multiple Git Credential for the Same Provider.md","permalink":"/writings/technical/how-tos/how-to-manage-multiple-git-credential-for-the-same-provider/","dgPassFrontmatter":true,"noteIcon":3}
 ---
-
 
 > [!tip] A much better way!
 > **Thanks to [Sarim Khan](https://github.com/sarim), here's a much better way:**
