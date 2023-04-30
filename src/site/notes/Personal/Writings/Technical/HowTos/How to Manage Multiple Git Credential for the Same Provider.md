@@ -1,6 +1,26 @@
 ---
-{"title":"How to Manage Multiple Git Credential for the Same Provider","aliases":["How to Manage Multiple Git Credential for the Same Provider"],"created":"2023-04-26T14:10:34+06:00","updated":"2023-04-26T19:32:23+06:00","dg-publish":true,"dg-note-icon":3,"tags":["technical","how-to"],"dg-path":"Writings/Technical/HowTos/How to Manage Multiple Git Credential for the Same Provider.md","permalink":"/writings/technical/how-tos/how-to-manage-multiple-git-credential-for-the-same-provider/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"How to Manage Multiple Git Credential for the Same Provider","aliases":["How to Manage Multiple Git Credential for the Same Provider"],"created":"2023-04-26T14:10:34+06:00","updated":"2023-04-30T13:34:37+06:00","dg-publish":true,"dg-note-icon":3,"tags":["technical","how-to"],"dg-path":"Writings/Technical/HowTos/How to Manage Multiple Git Credential for the Same Provider.md","permalink":"/writings/technical/how-tos/how-to-manage-multiple-git-credential-for-the-same-provider/","dgPassFrontmatter":true,"noteIcon":3}
 ---
+
+
+> [!tip] A much better way!
+> **Thanks to [Sarim Khan](https://github.com/sarim), here's a much better way:**
+> 
+> > Thats a nice hack. Great to see people still writing bash script in 2023 (i'm not the only bash user left in the universe yay :D). Though git itself has better solution for this.
+> > 
+> > For example I have this in my ~/.gitconfig
+> > 
+> > ```gitconfig
+> > [include]
+> > path = .gitconfig-personal      
+> > 
+> > [includeIf "gitdir:~/macromanhq/**/.git"]
+> > path = .gitconfig-mcm
+> > ```
+> > 
+> > So personal and company(can be multiple) have dedicated gitconfig. In those config you can set different name, email, gpg signing key, sshCommand and whatever else you need :)
+> > 
+> > Also If you use this, no need to manually fix your IDE to different git path :)
 
 We often use multiple accounts from the same git provider (e.g. GitHub or GitLab). I myself, use different accounts for personal and official works in GitLab. Naturally, I set up ssh keys for both. It is much more convenient than typing a password on every interaction. Problem is  I can't use one ssh key for all my accounts! There are solutions to this problem based on ssh config [like this](https://gist.github.com/oanhnn/80a89405ab9023894df7). One have to be careful while cloning. Also, submodules may need extra work.
 
