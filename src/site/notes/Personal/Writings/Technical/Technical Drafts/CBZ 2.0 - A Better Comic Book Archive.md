@@ -1,5 +1,5 @@
 ---
-{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-04-25T10:03:59+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Writings/Technical/Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/writings/technical/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-04-25T10:03:59+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 CBZ (and derivatives) are being used as e-book format for comic books for quite a long time. While they work well in larger screen, It is very hard to use them in smaller handheld devices.
