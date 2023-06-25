@@ -32,7 +32,7 @@ Withered (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered
 Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlight and notes). Growth is irrelevant for these notes.
 
 ### Signpost
-Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) are notes that allows us to navigate easily (e.g. Collection of books or writings).
+Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
 
 > [!Warning] 
 > Maturity Levels are subjective. It might only means that I'm a very immature person.
