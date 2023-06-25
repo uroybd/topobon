@@ -408,9 +408,14 @@ body {
                 padding: 3px !important;
             }
         }
+        table.dataview.table-view-table {
+            thead.table-view-thead {
+                display: none;
 
-        .table-view-thead::before {
-            display: none;
+                &::before {
+                    display: none;
+                }
+            }
         }
     }
 
