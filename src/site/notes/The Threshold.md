@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-03-25T22:34:50+06:00","permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T15:56:08+06:00","permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 > [!quote] Socrates (from Plato's Apology)
@@ -39,20 +39,7 @@ Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpos
 
 
 ## On Top of My mind…
-| Title                                                                                                                                                              | Tags                                                         | Updated                                                   | Created                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
-| [[Personal/Journal/The Supposed Last Year of My Life/Eternal Sunshine\|Eternal Sunshine]]                                                                       | #life #memory #eppiphany                                     | <center><small>Jun 13, 2023<hr/>09:58 pm</small></center> | <center><small>May 17, 2023<hr/>02:47 am</small></center> |
-| [[Personal/Writings/Technical/HowTos/How to Manage Multiple Git Credential for the Same Provider\|How to Manage Multiple Git Credential for the Same Provider]] | #technical #how-to                                           | <center><small>Jun 11, 2023<hr/>09:23 am</small></center> | <center><small>Apr 26, 2023<hr/>02:10 pm</small></center> |
-| [[Personal/Reading/Books/Read/The Remains of the Day by Kazuo Ishiguro\|The Remains of the Day]]                                                                | #book #Fiction                                               | <center><small>Jun 08, 2023<hr/>02:41 pm</small></center> | <center><small>Dec 30, 2022<hr/>06:24 pm</small></center> |
-| [[Personal/Musings/AI gen Content and Marketing\|How AI-generated Contents May Affect Marketing?]]                                                              | #AI #Marketing                                               | <center><small>Jun 07, 2023<hr/>06:22 pm</small></center> | <center><small>Mar 24, 2023<hr/>11:03 am</small></center> |
-| [[Personal/Writings/Technical/Technical Drafts/CBZ 2.0 - A Better Comic Book Archive\|CBZ 2.0 - A Better Comic Book Format]]                                    | #techincal-draft #ebook #comic-book                          | <center><small>May 09, 2023<hr/>04:33 pm</small></center> | <center><small>Apr 25, 2023<hr/>09:32 am</small></center> |
-| [[Personal/Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet\|Notes from Treat it Gentle by Sidney Bechet]]                                         | #history #autobiography #jazz #music #american #reading-note | <center><small>Apr 30, 2023<hr/>02:46 pm</small></center> | <center><small>Aug 28, 2021<hr/>06:01 am</small></center> |
-| [[Entities/Concept/Subject/Thanatology\|Thanatology]]                                                                                                           | #subject                                                     | <center><small>Apr 01, 2023<hr/>02:41 pm</small></center> | <center><small>Apr 01, 2023<hr/>02:28 pm</small></center> |
-| [[Personal/Reading/Books/Read/The Craft of Dying by Lyn H. Lofland\|The Craft of Dying]]                                                                        | #book #thanatology #sociology                                | <center><small>Apr 01, 2023<hr/>02:40 pm</small></center> | <center><small>Jan 11, 2019<hr/>12:00 am</small></center> |
-| [[Personal/Reading/Notes and Highlights/The Craft of Dying\|Notes from The Craft of Dying, 40th Anniversary Edition]]                                           | #reading-notes                                               | <center><small>Mar 30, 2023<hr/>08:53 pm</small></center> | <center><small>Mar 30, 2023<hr/>03:31 pm</small></center> |
-| [[Personal/Reading/Books/Read/The Society of the Spectacle by Guy Debord\|The Society of the Spectacle]]                                                        | #sociology #economics #marxism                               | <center><small>Mar 27, 2023<hr/>10:12 pm</small></center> | <center><small>Mar 30, 2022<hr/>12:00 am</small></center> |
-
-{ .block-language-dataview}
+<pre class="dataview dataview-error">Loading...</pre>
 ## Discussion
 Digital gardens are not about marketing/expressing opinion/prophesize etc. It is about nurturing our thoughts publicly and collectively. To discuss with me, there are two ways.
 
