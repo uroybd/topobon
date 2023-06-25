@@ -413,6 +413,31 @@ body {
             display: none;
         }
     }
+
+    .cards-cover-no-border {
+        table.dataview.table-view-table {
+            tbody {
+                tr {
+                    td:first-child {
+                        width: 100%;
+                        img {
+                            padding: 0;
+                        }
+                    }
+                    td:nth-child(2) {
+                        min-height: 70px;
+                    }
+
+                    td {
+                        svg {
+                            width: 14px;
+                            height: auto;
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 .callout {
