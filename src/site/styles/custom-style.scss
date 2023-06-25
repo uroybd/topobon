@@ -438,6 +438,21 @@ body {
             }
         }
     }
+
+    .cards-title-hide-icons {
+        table.dataview.table-view-table {
+            tbody {
+                tr {
+                    td:nth-child(2),
+                    td:first-child {
+                        a::before {
+                            display: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 .callout {
