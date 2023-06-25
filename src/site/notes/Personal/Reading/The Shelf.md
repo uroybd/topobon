@@ -1,5 +1,5 @@
 ---
-{"title":"The Shelf","aliases":["The Shelf"],"created":"2023-03-21T14:29:43+06:00","updated":"2023-04-19T11:35:53+06:00","dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover"],"tags":["bookshelf"],"dg-path":"Reading/The Shelf.md","permalink":"/reading/the-shelf/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover","dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"The Shelf","aliases":["The Shelf"],"created":"2023-03-21T14:29:43+06:00","updated":"2023-06-25T16:56:30+06:00","dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border"],"tags":["bookshelf"],"dg-path":"Reading/The Shelf.md","permalink":"/reading/the-shelf/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border","dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 These are all the books (and notes) I've been mentioning in this garden.
