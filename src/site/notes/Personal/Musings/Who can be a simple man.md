@@ -19,10 +19,10 @@
 A recurring idea in modern writings, literature or scholarly, is the spiritual crisis of the modern time. The implication of this crisis is something we have yet to explore much.
 
 ## Origin
-The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern person, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. [[Entities/Person/Jibanananda Das\|Jibananada]] felt it as much as [[Entities/Person/Fernando Pessoa\|Pessoa]] did (though they reacted differently in some important details).
+The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern person, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. [[Entities/Jibanananda Das\|Jibananada]] felt it as much as [[Entities/Fernando Pessoa\|Pessoa]] did (though they reacted differently in some important details).
 
 ## Effects
-The most obvious effect of this crisis is the disorientation, the emptiness left by the dead faiths. [[Entities/Person/Joseph Campbell\|Joseph Campbell]] has expressed the implication of this void quite succinctly in [[Personal/Reading/Books/Read/The Power of Myth by Joseph Campbell\|The Power of Myth]]: 
+The most obvious effect of this crisis is the disorientation, the emptiness left by the dead faiths. [[Entities/Joseph Campbell\|Joseph Campbell]] has expressed the implication of this void quite succinctly in [[Personal/Reading/Books/Read/The Power of Myth by Joseph Campbell\|The Power of Myth]]: 
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-power-of-myth/#dcccd1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -58,7 +58,7 @@ They bring me faith wrapped up like a parcel and borne on someone else’s tray.
 </div></div>
 
 
-This *[[Entities/Concept/Doublethink\|doublethink]]* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
+This *[[Entities/Doublethink\|doublethink]]* says something about the magnitude of the problem. The faith have something to say about how to cope with death and our temporality.[^1]
 
 ## Attempted Solutions
 Campbell was silent, Jibananada lamenting, Pessoa was confused.
