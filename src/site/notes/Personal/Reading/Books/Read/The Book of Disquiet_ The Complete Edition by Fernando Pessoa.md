@@ -4,7 +4,7 @@
 
 I held the belief that one perfect work is enough to give an artist the taste of immortality, after death, if not while alive. The Book of Disquiet made me rethink my stance. Even an unfinished book, a jumble of notes rather, can do full justice to its name and can place the author among the best of the best.
 
-So, what kind of book is it? It is NOT an autobiography. At least not in the sense we use this term. It is an autobiography of a Heteronym[^1] of [[Entities/Person/Fernando Pessoa\|Pessoa]]. Then also, it is not an autobiography as we know. It is, as aptly put in the preface, a biography without events.
+So, what kind of book is it? It is NOT an autobiography. At least not in the sense we use this term. It is an autobiography of a Heteronym[^1] of [[Entities/Fernando Pessoa\|Pessoa]]. Then also, it is not an autobiography as we know. It is, as aptly put in the preface, a biography without events.
 
 Without events, but not without thoughts or feelings. Pessoa is a man of both the 19th and 20th centuries. Myths are just stories, gods are long dead. A modern man, thinking man, could not believe in God any more. Yet, nothing is there to replace God with. Morality, ethics, everything was in dire need of redefinition. This void, along with long-standing unanswered questions in philosophy, blended into a disquieting lament. Anguish, profound anguish, but not for happiness but freedom from even the need for happiness.
 
