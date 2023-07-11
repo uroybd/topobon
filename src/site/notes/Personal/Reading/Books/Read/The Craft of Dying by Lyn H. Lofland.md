@@ -14,7 +14,7 @@ Like the prolonged helplessness of its young, like bisexual reproduction, the in
 </div></div>
 
 
-That is basically the justification of [[Entities/Thanatology\|Thanatology]], the subject of this book. The writer covered a lot of her contemporary ground— briefly, but with some interesting insights.
+That is basically the justification of [[Entities/Concept/Subject/Thanatology\|Thanatology]], the subject of this book. The writer covered a lot of her contemporary ground— briefly, but with some interesting insights.
 
 The first of these insights, expounded well in Part I, is about the change of modes and methods of *death and dying* in modern, technologically advanced Western societies, and how it led us to a prolonged *dying* phase.
 
