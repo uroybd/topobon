@@ -2,7 +2,7 @@
 {"title":"Narrow Road to the Interior: And Other Writings","created":"2021-06-25T00:00:00+06:00","updated":"2023-03-15T23:47:22+06:00","read_count":1,"authors":["Matsuo Bashō","Sam Hamill"],"isbn10":1570627169,"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":3,"cover":"https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["history","japanese","travel","poetry","medieval","bestreads"],"log":[{"status":"Read","timestamp":"2021-06-26T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-06-25T00:00:00+06:00"}],"status":"Read","dg-path":"Reading/Books/Read/Narrow Road to the Interior_ And Other Writings by Matsuo Bashō.md","permalink":"/reading/books/read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
-This is one of those books that added a layer to my being. My admiration to [[Entities/Matsuo Bashō\|Matsuo Bashō]] starts here.
+This is one of those books that added a layer to my being. My admiration to [[Entities/Person/Matsuo Bashō\|Matsuo Bashō]] starts here.
 
 Firstly, I think Sam Hamill is an excellent translator. Not only he translated the book, he provided a splendid preface to put things into perspective.
 
