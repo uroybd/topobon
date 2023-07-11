@@ -13,9 +13,9 @@ So, I read the last book I've mentioned in the vein of knowing more about what B
 ## Agreements
 My primary curiosity about Buddhism has been sparked by Buddha's alleged philosophical nature, **emphasis on discourse instead of dogma** and eerie accuracy in many matters. By far, I agree with Buddha in:
   1. Four Noble Truths
-  2. [[Entities/Anitya\|Anitya]]
-  3. [[Entities/Anatman\|Anattā]]
-  4. [[Entities/Pratītyasamutpāda\|Pratītyasamutpāda]]
+  2. [[Entities/Concept/Buddhism/Anitya\|Anitya]]
+  3. [[Entities/Concept/Buddhism/Anatman\|Anattā]]
+  4. [[Entities/Concept/Buddhism/Pratītyasamutpāda\|Pratītyasamutpāda]]
 
 I agree with his idea of mental training to acquire a state of tranquillity to live a life devoid of suffering.
 
