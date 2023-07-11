@@ -6,7 +6,7 @@
 > The review below was written 3 years back and requires a re-reading of the book.
 
 If I say, I understood everything Wittgenstein said in this book then that will be lying. I might re-read this book again. Then I'll be able to review this review again and see where my thoughts differ.  
-  
+
 This book is about philosophy, and logic in particular (anyone can deduce that from the name, meh!). However, I think philosophers haven't agreed upon what is a part of philosophy and what is not. Therefore, we'll be sticking to what Wittgenstein thinks philosophy is: 
 
 
