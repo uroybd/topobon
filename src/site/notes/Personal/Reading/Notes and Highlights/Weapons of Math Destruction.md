@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes"],"title":"Notes from Weapons of Math Destruction","aliases":["Notes from Weapons of Math Destruction"],"created":"2019-11-09T17:43:56+06:00","updated":"2023-07-11T15:12:34+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Weapons of Math Destruction.md","permalink":"/reading/notes-and-highlights/weapons-of-math-destruction/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes"],"title":"Notes from Weapons of Math Destruction","aliases":["Notes from Weapons of Math Destruction"],"created":"2019-11-09T17:43:56+06:00","updated":"2023-07-11T15:24:14+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Weapons of Math Destruction.md","permalink":"/reading/notes-and-highlights/weapons-of-math-destruction/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Weapons of Math Destruction
@@ -22,4 +22,9 @@ So fairness isn’t calculated into WMDs. And the result is massive, industrial 
 
 ## Conclusion
 ### Page 210 @ November 12, 2019
-Like doctors, data scientists should pledge a Hippocratic Oath, one that focuses on the possible misuses and misinterpretations of their models. Following the market crash of 2008, two financial engineers, Emanuel Derman and Paul Wilmott, drew up such an oath. It reads: ~ I will remember that I didn’t make the world, and it doesn’t satisfy my equations. ~ Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. ~ I will never sacrifice reality for elegance without explaining why I have done so. ~ Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights. ~ I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
+Like doctors, data scientists should pledge a Hippocratic Oath, one that focuses on the possible misuses and misinterpretations of their models. Following the market crash of 2008, two financial engineers, Emanuel Derman and Paul Wilmott, drew up such an oath. It reads:
+- I will remember that I didn’t make the world, and it doesn’t satisfy my equations.
+- Though I will use models boldly to estimate value, I will not be overly impressed by mathematics.
+- I will never sacrifice reality for elegance without explaining why I have done so.
+- Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.
+- I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
