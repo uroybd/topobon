@@ -1,9 +1,9 @@
 ---
-{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","tags":["technical-draft"],"updated":"2023-02-01T17:40:24+06:00","dg-publish":true,"created":"2023-01-31T20:53:31+06:00","dg-path":"Entities/Technical Drafts/Obsidian Federated Embed.md","permalink":"/entities/technical-drafts/obsidian-federated-embed/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"Obsidian Federated Embed","aliases":["OFE"],"type":"Technical Draft","tags":["technical-draft"],"updated":"2023-07-12T09:26:01+06:00","dg-publish":true,"created":"2023-01-31T20:53:31+06:00","dg-path":"Entities/Technical Drafts/Obsidian Federated Embed.md","permalink":"/entities/technical-drafts/obsidian-federated-embed/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 ## Abstract
-Digital Gardens are great for nurturing thought. And, evergreen notes expands but seldom scraped altogether. Therefore, Ideally, to build **campfire** of multiple gardener, cross-embedding between vaults/gardens.
+Digital Gardens are great for nurturing thought. And, evergreen notes expand but are seldom scraped altogether. Therefore, Ideally, to build a **campfire** of multiple gardeners, cross-embedding between vaults/gardens.
 
 ## Approach
 ### Publisher
@@ -37,11 +37,11 @@ Consumer plugin will leverage existing callout syntax and provide auto-complete 
 > updated_at: <timestamp>
 ```
 
-The plugin will get the manifest file based on the `URL`, then load the contents and suggest based on title, alias, and content URL then append the text as quote.
+The plugin will get the manifest file based on the `URL`, then load the contents and suggest based on title, alias, and content URL then append the text as a quote.
 
-For partial embed, it will support block and header embed like existing syntax. There are also two new syntax for partial embed:
+For partial embedding, it will support block and header embedding like existing syntax. There are also two new syntaxes for partial embedding:
 
 ```
-URL/path#:1-3 for line based embed
+URL/path#:1-3 for line-based embed
 URL/path#>p:3 for tag-based embed, paragraph 3 in this case.
 ```
