@@ -27,4 +27,4 @@ Upon further inspection, it feels like faith has some obvious biological depende
 </div></div>
 
 
-For the 3rd level onwards, it allows us to have religious faith. But, faiths by themselves are memes having their courses through generations by non-biological means. Although **knowledge illusion** and **group psychology** explain why someone will believe in a specific dogma in the first place, **the belief that knowledge illusion invokes is different from the faith that religious experience brings in.** Faith is more akin to schizophrenia than communal belief.
+From the 3rd level onwards, it allows us to have religious faith. But, faiths by themselves are memes having their courses through generations by non-biological means. Although **knowledge illusion** and **group psychology** explain why someone will believe in a specific dogma in the first place, **the belief that knowledge illusion invokes is different from the faith that religious experience brings in.** Faith is more akin to schizophrenia than communal belief.
