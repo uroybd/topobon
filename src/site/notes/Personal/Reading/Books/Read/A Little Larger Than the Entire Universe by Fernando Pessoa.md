@@ -1,5 +1,5 @@
 ---
-{"title":"A Little Larger Than the Entire Universe","aliases":["A Little Larger Than the Entire Universe"],"authors":["Fernando Pessoa"],"publisher":"National Geographic Books","publish":"2006-04-04","pages":0,"isbn10":"0143039555","isbn13":"9780143039556","rating":3.5,"reviewed":false,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg","read_count":2,"tags":["book","Poetry"],"log":[{"status":"Read","timestamp":"2023-07-08T20:04:29+06:00"},{"status":"In Progress","timestamp":"2023-07-01T22:47:03+06:00"}],"created":"2023-06-30T22:46:11+06:00","updated":"2023-07-12T17:15:45+06:00","status":"Read","dg-metatags":{"og:img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/A Little Larger Than the Entire Universe by Fernando Pessoa.md","permalink":"/reading/books/read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","metatags":{"og:img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Little Larger Than the Entire Universe","aliases":["A Little Larger Than the Entire Universe"],"authors":["Fernando Pessoa"],"publisher":"National Geographic Books","publish":"2006-04-04","pages":0,"isbn10":"0143039555","isbn13":"9780143039556","rating":3.5,"reviewed":false,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg","read_count":2,"tags":["book","Poetry"],"log":[{"status":"Read","timestamp":"2023-07-08T20:04:29+06:00"},{"status":"In Progress","timestamp":"2023-07-01T22:47:03+06:00"}],"created":"2023-06-30T22:46:11+06:00","updated":"2023-07-12T17:17:50+06:00","status":"Read","dg-metatags":{"og:img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/A Little Larger Than the Entire Universe by Fernando Pessoa.md","permalink":"/reading/books/read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","metatags":{"og:img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 There were some good poems in this collection. However, nothing compared to [[Personal/Reading/Books/Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]].
@@ -11,11 +11,6 @@ Pessoa's use of heteronyms is fascinating, to say the least. They have their dis
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/a-little-larger-than-the-entire-universe/#page-29-28-june-2023-01-30-04-am" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
-
-# A Little Larger Than the Entire Universe
-
-</div>
 
 
 
