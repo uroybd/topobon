@@ -398,6 +398,9 @@ body {
     }
 
     .cards {
+        table.dataview {
+            width: var(--table-width);
+        }
         th,
         td {
             border: none !important;
