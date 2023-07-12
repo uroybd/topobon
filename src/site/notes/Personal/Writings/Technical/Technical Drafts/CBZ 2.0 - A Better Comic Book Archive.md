@@ -1,5 +1,5 @@
 ---
-{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-05-09T16:33:17+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-07-12T09:26:54+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 CBZ (and derivatives) have been used as an e-book format for comic books for quite a long time. While they work well on larger screens, using them on smaller handheld devices is very hard.
@@ -9,7 +9,7 @@ Many e-book reader apps solve this problem differently. Some use features like *
 This proposed second iteration of Comic Book Archive is an attempt to solve some, if possibly most, of these problems.
 
 ## Structure
-In structure, this format is similar to CBZ except for an additional `content.xml` file in the archive root. This allows these files to be **backwards compatible**.
+In structure, this format is similar to CBZ except for an additional `content.xml` file in the archive root. This allows these files to be **backward compatible**.
 
 ### Content.xml
 The `content.xml` file will contain several sections. A rudimentary example here:
