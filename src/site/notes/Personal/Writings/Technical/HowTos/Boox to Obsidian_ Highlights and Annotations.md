@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-01T14:59:00+06:00","dg-publish":true,"dg-note-icon":2,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-01T15:03:43+06:00","dg-publish":true,"dg-note-icon":2,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ## Problem
@@ -19,7 +19,7 @@ Only these symbols at the beginning will be treated differently.
 
 With this setup and practices in place, we can create a template like this:
 
-```
+```js
 <%* 
 function getTitleAndAuthor(l) {
   l = l.replace("Reading Notes | <<", "").split(">>");
@@ -143,7 +143,7 @@ Man is the only creature that consumes without producing
 ```
 
 #### After
-```
+```markdown
 # George Orwell - Animal Farm   (2011, Houghton Mifflin Harcourt)
 ##### George Orwell
 
