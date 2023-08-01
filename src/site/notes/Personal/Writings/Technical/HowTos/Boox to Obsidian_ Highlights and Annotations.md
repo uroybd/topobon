@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-01T14:07:25+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-01T14:08:06+06:00","dg-publish":true,"dg-note-icon":2,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ## Problem
