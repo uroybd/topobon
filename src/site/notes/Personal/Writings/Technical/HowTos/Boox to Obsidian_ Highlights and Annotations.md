@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-01T16:57:00+06:00","dg-publish":true,"dg-note-icon":2,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-01T17:36:25+06:00","dg-publish":true,"dg-note-icon":2,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ## Problem
@@ -21,6 +21,41 @@ With this setup and practices in place, we can create a template like this:
 
 ```js
 <%* 
+const NOTE_STYLES = {
+  "*": {
+    type: "important",
+    title: "Striking/Intense",
+  },
+  "#": {
+    type: "danger",
+    title: "In Discord",
+  },
+  "~": {
+    type: "question",
+    title: "Thought Provoking",
+  },
+}
+
+const NOTE_STYLE_KEYS = Object.keys(NOTE_STYLES);
+
+const DEFAULT_NOTE_STYLE = {
+  type: "quote",
+  title: "Quotable/Concept/General Idea"
+}
+
+function parseNoteFormat(note) {
+  let data = {...DEFAULT_NOTE_STYLE, note};
+  console.log("parsed note", data);
+  for (let i = 0; i < NOTE_STYLE_KEYS.length; i++) {
+    let key = NOTE_STYLE_KEYS[i];
+    if (note.startsWith(key)) {
+      data = {...NOTE_STYLES[key], note: note.substr(key.length + 1)};
+      break;
+    }
+  }
+  return data
+}
+
 function getTitleAndAuthor(l) {
   l = l.replace("Reading Notes | <<", "").split(">>");
   return {
@@ -42,7 +77,7 @@ function parseNote(note) {
   for (let i = 0; i < lines.length; i++) {
     let l = lines[i];
     if (l.includes("【Note】")) {
-      content.note = l.replace('【Note】', "");
+      content.note = parseNoteFormat(l.replace('【Note】', ""));
     } else if (l.includes("  |  Page No.: ")) {
       let meta = l.split("  |  Page No.: ");
       content.timestamp = meta[0]
@@ -53,35 +88,10 @@ function parseNote(note) {
       content.highlight = l;
     }
   }
+  if (!content.note) {
+    content.note = {...DEFAULT_NOTE_STYLE, note: ""}
+  }
   return content
-}
-
-function formatNote(note) {
-  let sym = note.charAt(0);
-  let type = "quote"
-  let title = "Quotable/Concept/General Idea";
-  switch(sym) {
-    case "*":
-      note = note.substr(2);
-      type = "important";
-      title = "Striking/Intense"
-      break;
-    case "#":
-      note = note.substr(2);
-      type = "danger";
-      title = "In Discord"
-      break;
-    case "~":
-      note = note.substr(2);
-      type = "question";
-      title = "Though Provoking"
-      break;
-  }
-  let output = "> [!" + type + "] " + title;
-  if (note) {
-    output += "\n" + note + "\n"
-  }
-  return output
 }
 
 let file = app.workspace.getActiveFile()
@@ -91,18 +101,22 @@ let titleAndAuthor = getTitleAndAuthor(lines.shift())
 lines = lines.join("\n")
 notes = lines.split("-------------------\n")
 
-let output = ["# " + titleAndAuthor.title, "##### " + titleAndAuthor.authors].join("\n") + "\n\n";
+let output = `# ${titleAndAuthor.title}\n##### ${titleAndAuthor.authors}\n\n`;
 let currentSection = null;
 for (let i = 0;  i < notes.length; i++) {
   if (notes[i]) {
     let noteData = parseNote(notes[i])
+    console.log(noteData);
     if (noteData.section && (currentSection != noteData.section)) {
-      output += "## " + noteData.section + "\n";
+      output += `## ${noteData.section}\n`;
       currentSection = noteData.section;
     }
-    output += ["### " + noteData.timestamp + " @ Page: " + noteData.page, noteData.highlight].join("\n") + "\n";
-    output += "\n" + formatNote(noteData.note) + "\n"
-    output += "\n"
+    output += `### ${noteData.timestamp} @ Page: ${noteData.page}\n${noteData.highlight}\n\n`;
+    output += `> [!${noteData.note.type}] ${noteData.note.title}`;
+    if (noteData.note.note) {
+      output += `\n> ${noteData.note.note}\n`
+    }
+    output += "\n\n"
   }
 }
 
@@ -151,7 +165,7 @@ Man is the only creature that consumes without producing
 Mr Jones, of the Manor Farm, had locked the hen-houses for the night,
 
 > [!quote] Quotable/Concept/General Idea
-descriptive begining
+> descriptive begining
 
 
 ### 2023-07-31 22:16 @ Page: 24
@@ -163,21 +177,21 @@ Man is the only creature that consumes without producing
 Mr Jones, of the Manor Farm, had locked the hen-houses for the night,
 
 > [!important] Striking/Intense
-Another one, Striking
+> Another one, Striking
 
 
 ### 2023-07-31 22:16 @ Page: 24
 Man is the only creature that consumes without producing
 
 > [!danger] In Discord
-Another one, In discord
+> Another one, In discord
 
 
 ### 2023-07-31 22:16 @ Page: 24
 Man is the only creature that consumes without producing
 
-> [!question] Though Provoking
-Another one, Thought Provoking
+> [!question] Thought Provoking
+> Another one, Thought Provoking
 ```
 
 [^1]: The default reading app for Onyx Boox Devices.
