@@ -476,24 +476,29 @@ body {
             }
         }
     }
-}
 
-.callout {
-    background-color: transparent !important;
-    border: 1px solid rgba(var(--callout-color), 1) !important;
-    position: relative;
-    overflow: visible;
-    margin-top: calc(1em + 10px);
-
-    .callout-title {
-        display: inline-flex;
-        position: absolute;
-        top: -10px;
-        background-color: var(--background-primary);
-        padding-left: 5px;
-        padding-right: 5px;
+    code[class*="language-"],
+    pre[class*="language-"] {
+        text-shadow: unset;
     }
 }
+
+// .callout {
+//     background-color: transparent !important;
+//     border: 1px solid rgba(var(--callout-color), 1) !important;
+//     position: relative;
+//     overflow: visible;
+//     margin-top: calc(1em + 10px);
+
+//     .callout-title {
+//         display: inline-flex;
+//         position: absolute;
+//         top: -10px;
+//         background-color: var(--background-primary);
+//         padding-left: 5px;
+//         padding-right: 5px;
+//     }
+// }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="stone"]::before,
 body.filetree-note-icon .filename[data-note-icon="stone"]::before,
