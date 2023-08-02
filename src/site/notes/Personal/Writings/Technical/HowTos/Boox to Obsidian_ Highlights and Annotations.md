@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-01T17:36:25+06:00","dg-publish":true,"dg-note-icon":2,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-02T09:31:05+06:00","dg-publish":true,"dg-note-icon":3,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 ## Problem
@@ -13,7 +13,7 @@ Here's a workflow (basically a [Templater](https://silentvoid13.github.io/Templa
 2. Except for normal quotes, I'm starting my notes with the following symbols for added context:
     -  `*` for important notes.
     - `#` for disagreement.
-    - `~` for thought-provoking things.
+    - `?` for thought-provoking things.
 
 Only these symbols at the beginning will be treated differently.
 
@@ -21,6 +21,11 @@ With this setup and practices in place, we can create a template like this:
 
 ```js
 <%* 
+// Note style prefixes we will map to callouts.
+// It will suffice to put just this character to change the callout style.
+// If additional notes are required, we will use a space after the prefix,
+// and then continue to our usual note.
+// Customize this as you see fit. With types from: https://help.obsidian.md/Editing+and+formatting/Callouts#Supported+types
 const NOTE_STYLES = {
   "*": {
     type: "important",
@@ -30,7 +35,7 @@ const NOTE_STYLES = {
     type: "danger",
     title: "In Discord",
   },
-  "~": {
+  "?": {
     type: "question",
     title: "Thought Provoking",
   },
@@ -38,6 +43,7 @@ const NOTE_STYLES = {
 
 const NOTE_STYLE_KEYS = Object.keys(NOTE_STYLES);
 
+// Default note style, if any prefix is not present.
 const DEFAULT_NOTE_STYLE = {
   type: "quote",
   title: "Quotable/Concept/General Idea"
@@ -98,11 +104,11 @@ let file = app.workspace.getActiveFile()
 let content = await app.vault.read(file)
 let lines = content.split("\n");
 let titleAndAuthor = getTitleAndAuthor(lines.shift())
-lines = lines.join("\n")
-notes = lines.split("-------------------\n")
+notes = lines.join("\n").split("-------------------\n")
 
 let output = `# ${titleAndAuthor.title}\n##### ${titleAndAuthor.authors}\n\n`;
 let currentSection = null;
+let prevNoteHeader = null;
 for (let i = 0;  i < notes.length; i++) {
   if (notes[i]) {
     let noteData = parseNote(notes[i])
@@ -111,7 +117,12 @@ for (let i = 0;  i < notes.length; i++) {
       output += `## ${noteData.section}\n`;
       currentSection = noteData.section;
     }
-    output += `### ${noteData.timestamp} @ Page: ${noteData.page}\n${noteData.highlight}\n\n`;
+    let noteHeader = `${noteData.timestamp} @ Page: ${noteData.page}`
+    if (prevNoteHeader && prevNoteHeader.split(" / ")[0] == noteHeader) {
+      noteHeader += " / " + ((parseInt(prevNoteHeader.split(" /")[1]) || 1) + 1) 
+    }
+    prevNoteHeader = noteHeader
+    output += `### ${noteHeader}\n${noteData.highlight}\n\n`;
     output += `> [!${noteData.note.type}] ${noteData.note.title}`;
     if (noteData.note.note) {
       output += `\n> ${noteData.note.note}\n`
@@ -134,64 +145,109 @@ It will replace the existing content with formatted content.
 
 #### Before
 ```
-Reading Notes | <<George Orwell - Animal Farm   (2011, Houghton Mifflin Harcourt)>>George Orwell
-2023-07-15 01:16  |  Page No.: 18
-Mr Jones, of the Manor Farm, had locked the hen-houses for the night,
-【Note】descriptive begining
+Reading Notes | <<Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018)>>Judea Pearl
+CHAPTER 1 The Ladder of Causation
+2023-08-01 23:01  |  Page No.: 49
+very early in our evolution, we humans realized that the world is not made up only of dry facts (what we might call data today
 -------------------
-2023-07-31 22:16  |  Page No.: 24
-Man is the only creature that consumes without producing
+CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
+2023-08-01 23:03  |  Page No.: 115
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+【Note】his view was inaccurate
 -------------------
-2023-07-15 01:16  |  Page No.: 18
-Mr Jones, of the Manor Farm, had locked the hen-houses for the night,
-【Note】* Another one, Striking
+CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
+2023-08-01 23:03  |  Page No.: 115
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+【Note】* his view was inaccurate
 -------------------
-2023-07-31 22:16  |  Page No.: 24
-Man is the only creature that consumes without producing
-【Note】# Another one, In discord
+CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
+2023-08-01 23:03  |  Page No.: 115
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+【Note】# his view was inaccurate
 -------------------
-2023-07-31 22:16  |  Page No.: 24
-Man is the only creature that consumes without producing
-【Note】~ Another one, Thought Provoking
+CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
+2023-08-01 23:03  |  Page No.: 115
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+【Note】? his view was inaccurate
 -------------------
 ```
 
 #### After
+
+> [!success] Output
+> # Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018)
+> ##### Judea Pearl
+> 
+> ## CHAPTER 1 The Ladder of Causation
+> ### 2023-08-01 23:01 @ Page: 49
+> very early in our evolution, we humans realized that the world is not made up only of dry facts (what we might call data today
+> 
+> > [!quote] Quotable/Concept/General Idea
+> 
+> ## CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
+> ### 2023-08-01 23:03 @ Page: 115
+> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+>
+> > [!quote] Quotable/Concept/General Idea
+> > his view was inaccurate
+> 
+> ### 2023-08-01 23:03 @ Page: 115 / 2
+> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+> 
+> > [!important] Striking/Intense
+> > his view was inaccurate
+> 
+> ### 2023-08-01 23:03 @ Page: 115 / 3
+> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+> 
+> > [!danger] In Discord
+> > his view was inaccurate
+> 
+> ### 2023-08-01 23:03 @ Page: 115 / 4
+> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+> 
+> > [!question] Thought Provoking
+> > his view was inaccurate
+
+##### Raw
+
 ```markdown
-# George Orwell - Animal Farm   (2011, Houghton Mifflin Harcourt)
-##### George Orwell
+# Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018)
+##### Judea Pearl
 
-### 2023-07-15 01:16 @ Page: 18
-Mr Jones, of the Manor Farm, had locked the hen-houses for the night,
-
-> [!quote] Quotable/Concept/General Idea
-> descriptive begining
-
-
-### 2023-07-31 22:16 @ Page: 24
-Man is the only creature that consumes without producing
+## CHAPTER 1 The Ladder of Causation
+### 2023-08-01 23:01 @ Page: 49
+very early in our evolution, we humans realized that the world is not made up only of dry facts (what we might call data today
 
 > [!quote] Quotable/Concept/General Idea
 
-### 2023-07-15 01:16 @ Page: 18
-Mr Jones, of the Manor Farm, had locked the hen-houses for the night,
+## CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
+### 2023-08-01 23:03 @ Page: 115
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+
+> [!quote] Quotable/Concept/General Idea
+> his view was inaccurate
+
+
+### 2023-08-01 23:03 @ Page: 115 / 2
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
 
 > [!important] Striking/Intense
-> Another one, Striking
+> his view was inaccurate
 
 
-### 2023-07-31 22:16 @ Page: 24
-Man is the only creature that consumes without producing
+### 2023-08-01 23:03 @ Page: 115 / 3
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
 
 > [!danger] In Discord
-> Another one, In discord
+> his view was inaccurate
 
 
-### 2023-07-31 22:16 @ Page: 24
-Man is the only creature that consumes without producing
+### 2023-08-01 23:03 @ Page: 115 / 4
+In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
 
 > [!question] Thought Provoking
-> Another one, Thought Provoking
+> his view was inaccurate
 ```
 
 [^1]: The default reading app for Onyx Boox Devices.
