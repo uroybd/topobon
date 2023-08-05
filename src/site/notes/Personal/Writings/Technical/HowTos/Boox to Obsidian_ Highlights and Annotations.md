@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-02T09:31:05+06:00","dg-publish":true,"dg-note-icon":3,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-05T21:05:57+06:00","dg-publish":true,"dg-note-icon":3,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 ## Problem
@@ -51,7 +51,6 @@ const DEFAULT_NOTE_STYLE = {
 
 function parseNoteFormat(note) {
   let data = {...DEFAULT_NOTE_STYLE, note};
-  console.log("parsed note", data);
   for (let i = 0; i < NOTE_STYLE_KEYS.length; i++) {
     let key = NOTE_STYLE_KEYS[i];
     if (note.startsWith(key)) {
@@ -91,7 +90,7 @@ function parseNote(note) {
     } else if (i == lines.length - 1) {
       content.section = l;
     } else {
-      content.highlight = l;
+      content.highlight = content.highlight ? `${l}\n${content.highlight}` : l;
     }
   }
   if (!content.note) {
@@ -104,15 +103,14 @@ let file = app.workspace.getActiveFile()
 let content = await app.vault.read(file)
 let lines = content.split("\n");
 let titleAndAuthor = getTitleAndAuthor(lines.shift())
-notes = lines.join("\n").split("-------------------\n")
+notes = (lines.join("\n") + "\n").split("-------------------\n")
 
 let output = `# ${titleAndAuthor.title}\n##### ${titleAndAuthor.authors}\n\n`;
 let currentSection = null;
 let prevNoteHeader = null;
 for (let i = 0;  i < notes.length; i++) {
-  if (notes[i]) {
+  if (notes[i] && notes[i].trim("\n").length) {
     let noteData = parseNote(notes[i])
-    console.log(noteData);
     if (noteData.section && (currentSection != noteData.section)) {
       output += `## ${noteData.section}\n`;
       currentSection = noteData.section;
