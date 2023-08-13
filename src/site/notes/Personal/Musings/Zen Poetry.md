@@ -3,6 +3,8 @@
 ---
 
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics, they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
+{ #859d9d}
+
 
 It can be deduced naturally that the poets of Zen (often priests) walked on a thin line. Their attachment was not of the mundane kind that we know. Artists, in general, are subtly attached to reality with a kind of super-sensibility, a refined type of attachment.
 
