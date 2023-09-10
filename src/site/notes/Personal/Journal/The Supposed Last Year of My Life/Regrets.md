@@ -1,5 +1,5 @@
 ---
-{"title":"Regrets","mood":"moody","weather":"night","location":"Badda, Dhaka","created":"2023-03-09T22:42:24+06:00","updated":"2023-03-15T23:10:27+06:00","dg-note-icon":2,"dg-publish":true,"tags":["life","regrets"],"dg-path":"Journal/Regrets.md","permalink":"/journal/regrets/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Regrets","mood":"moody","weather":"night","location":"Badda, Dhaka","updated":"2023-03-15T23:10:27+06:00","dg-note-icon":2,"dg-publish":true,"tags":["life","regrets"],"created":"2023-03-09T22:42:24+06:00","dg-path":"Journal/Regrets.md","permalink":"/journal/regrets/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 The raaga is named **Darbari Kanada**. A raaga that is sombre, depressingly beautiful, a raaga of midnight. The name suggests that it is a raaga of *darbar*, a court of some king or emperor of the East.[^1]
