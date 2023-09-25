@@ -10,14 +10,14 @@ Through and through, Jibananada is a modern man with modern crisis. So much so t
 
 ## Publications
 
-| Cover                | Title                                                                                                              | Notes                                                                                                           | Tags  |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ----- |
-| ![coverimg\|100](\-) | [[Personal/Reading/Books/To Read/জলপাইহাটি by Jibanananda Das\|জলপাইহাটি]]                                      | \-                                                                                                              | #book |
-| ![coverimg\|100](\-) | [[Personal/Reading/Books/Read/জীবনানন্দ দাশের শ্রেষ্ঠ কবিতা by Jibanananda Das\|জীবনানন্দ দাশের শ্রেষ্ঠ কবিতা]] | \-                                                                                                              |       |
-| ![coverimg\|100](\-) | [[Personal/Reading/Books/Read/ধূসর পাণ্ডুলিপি by Jibanananda Das\|ধূসর পাণ্ডুলিপি]]                             | [[Personal/Reading/Notes and Highlights/ধূসর পাণ্ডুলিপি by জীবনানন্দ দাশ\|ধূসর পান্ডুলিপি by জীবনানন্দ দাশ]] |       |
-| ![coverimg\|100](\-) | [[Personal/Reading/Books/Read/বনলতা সেন by Jibanananda Das\|বনলতা সেন]]                                         | \-                                                                                                              |       |
-| ![coverimg\|100](\-) | [[Personal/Reading/Books/Read/মহাপৃথিবী by Jibanananda Das\|মহাপৃথিবী]]                                         | \-                                                                                                              |       |
-| ![coverimg\|100](\-) | [[Personal/Reading/Books/Read/শ্রেষ্ঠ কবিতা by Jibanananda Das\|শ্রেষ্ঠ কবিতা]]                                 | \-                                                                                                              |       |
-| ![coverimg\|100](\-) | [[Personal/Reading/Books/Read/সাতটি তারার তিমির by Jibanananda Das\|সাতটি তারার তিমির]]                         | \-                                                                                                              |       |
+| Title                                                                                                              | Notes                                                                                                           | Tags  |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Personal/Reading/Books/To Read/জলপাইহাটি by Jibanananda Das\|জলপাইহাটি]]                                      | \-                                                                                                              | #book |
+| [[Personal/Reading/Books/Read/জীবনানন্দ দাশের শ্রেষ্ঠ কবিতা by Jibanananda Das\|জীবনানন্দ দাশের শ্রেষ্ঠ কবিতা]] | \-                                                                                                              |       |
+| [[Personal/Reading/Books/Read/ধূসর পাণ্ডুলিপি by Jibanananda Das\|ধূসর পাণ্ডুলিপি]]                             | [[Personal/Reading/Notes and Highlights/ধূসর পাণ্ডুলিপি by জীবনানন্দ দাশ\|ধূসর পান্ডুলিপি by জীবনানন্দ দাশ]] |       |
+| [[Personal/Reading/Books/Read/বনলতা সেন by Jibanananda Das\|বনলতা সেন]]                                         | \-                                                                                                              |       |
+| [[Personal/Reading/Books/Read/মহাপৃথিবী by Jibanananda Das\|মহাপৃথিবী]]                                         | \-                                                                                                              |       |
+| [[Personal/Reading/Books/Read/শ্রেষ্ঠ কবিতা by Jibanananda Das\|শ্রেষ্ঠ কবিতা]]                                 | \-                                                                                                              |       |
+| [[Personal/Reading/Books/Read/সাতটি তারার তিমির by Jibanananda Das\|সাতটি তারার তিমির]]                         | \-                                                                                                              |       |
 
 { .block-language-dataview}
