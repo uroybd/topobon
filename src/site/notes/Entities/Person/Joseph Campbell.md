@@ -1,5 +1,5 @@
 ---
-{"title":"Joseph Campbell","aliases":["ক্যাম্পবেল"],"type":"Person","dg-note-icon":2,"updated":"2023-09-25T11:18:52+06:00","dg-publish":true,"tags":["person","person/scholar"],"created":"2022-12-28T17:37:56+06:00","dg-path":"Entities/People/Joseph Campbell.md","permalink":"/entities/people/joseph-campbell/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Joseph Campbell","aliases":["ক্যাম্পবেল"],"type":"Person","dg-note-icon":2,"updated":"2023-09-25T11:24:18+06:00","dg-publish":true,"tags":["person","person/scholar"],"created":"2022-12-28T17:37:56+06:00","dg-path":"Entities/People/Joseph Campbell.md","permalink":"/entities/people/joseph-campbell/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ক্যাম্পবেল যুক্তিবাদী। তবে ঈশ্বরে তাঁর বিশ্বাস আছে। তিনি বড় হয়েছেন ক্যাথলিক হিসেবে। তার পড়াশোনার বিষয়বস্তু তুলনামূলক পুরাণতত্ব (Comparative Mythology)। যেসব পুরাণ আজ পর্যন্ত টিকে আছে তার সামান্যই মৌলিক। তাই বিভিন্ন পুরাণের তুলনামূলক বিচারের সাথে সাথে পুরাণকে আক্ষরিক অর্থে নেওয়ার বদলে প্রতিকী অর্থে নেওয়া ক্যাম্পবেলের একটা অভ্যাসে দাঁড়িয়ে যায়। ফলত, তাঁর ঈশ্বর ঠিক ধর্মগ্রন্থের ঈশ্বর নয় এবং বিজ্ঞানের সাথেও সাংঘর্ষিক নয়। একথা মনে রাখা প্রয়োজন, বিজ্ঞানের জগতটা অনেকটা এগিয়েছে, তাঁর সময়ে তিনি অনেককিছু জানতেন না বা অন্যভাবে জানতেন। বস্তুত, তিনি অবিশ্বাস ও বিশ্বাসের সীমানায় বিশ্বাসের পাশে দাঁড়ানো খানিকটা বিশ্বাসী, খানিকটা প্রকৃতিবাদী একজন মানুষ।
@@ -12,4 +12,9 @@
 
 ## Publications
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">2</span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr></tbody></table></div>
+| Cover                                                                                                                    | Title                                                                                                                | Notes                                                                                                       | Tags                            |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| ![coverimg\|100](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg)   | [[Personal/Reading/Books/Read/The Hero With a Thousand Faces by Joseph Campbell\|The Hero With a Thousand Faces]] | [[Personal/Reading/Notes and Highlights/The Hero With a Thousand Faces\|The Hero With a Thousand Faces]] | #anthropology #myth #psychology |
+| ![coverimg\|100](https://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api) | [[Personal/Reading/Books/Read/The Power of Myth by Joseph Campbell\|The Power of Myth]]                           | [[Personal/Reading/Notes and Highlights/The Power of Myth\|The Power of Myth]]                           | #bestreads                      |
+
+{ .block-language-dataview}
