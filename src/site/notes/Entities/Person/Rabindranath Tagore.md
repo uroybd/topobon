@@ -17,6 +17,6 @@ Tagore was anti-nationalist, but very much nation-aware. This is consistent with
 
 He wrote numerous essays of virtually every problem India faced while he is alive. Caste system, fanaticism, oppression, dogmatism, everything.
 
-%% 
+
 
 [^1]: It's a shame that west knows him mostly by some of his mediocre works.
