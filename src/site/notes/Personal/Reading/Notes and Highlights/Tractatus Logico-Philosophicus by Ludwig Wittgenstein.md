@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Tractatus Logico-Philosophicus by Ludwig Wittgenstein","aliases":["Notes from Tractatus Logico-Philosophicus by Ludwig Wittgenstein"],"created":"2023-07-11T11:02:53+06:00","updated":"2023-07-11T11:17:21+06:00","tags":["reading-notes"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Tractatus Logico-Philosophicus by Ludwig Wittgenstein","aliases":["Notes from Tractatus Logico-Philosophicus by Ludwig Wittgenstein"],"created":"2023-07-11T11:02:53+06:00","updated":"2023-07-11T11:17:21+06:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 ### Page 13
