@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes"],"title":"Notes from In the World","aliases":["Notes from In the World"],"created":"2016-03-25T18:51:31+06:00","updated":"2023-07-10T15:25:33+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/In the World.md","permalink":"/reading/notes-and-highlights/in-the-world/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"Notes from In the World","aliases":["Notes from In the World"],"created":"2016-03-25T18:51:31+06:00","updated":"2023-07-10T15:25:33+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/In the World.md","permalink":"/reading/notes-and-highlights/in-the-world/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
