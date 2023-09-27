@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Tristes Tropiques by Claude Lévi-Strauss","updated":"2023-01-30T23:48:28+06:00","created":"2022-01-19T18:28:27+06:00","latitude":23.7827752,"longitude":90.4213274,"altitude":-26.6429,"dg-publish":true,"dg-note-icon":"stone","tags":["anthropology","american","reading-notes"],"dg-path":"Reading/Notes and Highlights/Tristes Tropiques by Claude Lévi-Strauss.md","permalink":"/reading/notes-and-highlights/tristes-tropiques-by-claude-levi-strauss/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Tristes Tropiques by Claude Lévi-Strauss","updated":"2023-01-30T23:48:28+06:00","created":"2022-01-19T18:28:27+06:00","latitude":23.7827752,"longitude":90.4213274,"altitude":-26.6429,"dg-publish":true,"dg-note-icon":"stone","tags":["anthropology","american","reading-notes-old"],"dg-path":"Reading/Notes and Highlights/Tristes Tropiques by Claude Lévi-Strauss.md","permalink":"/reading/notes-and-highlights/tristes-tropiques-by-claude-levi-strauss/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Tristes Tropiques
