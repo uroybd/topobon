@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Craft of Dying, 40th Anniversary Edition"],"created":"2023-03-30T15:31:13+06:00","updated":"2023-03-30T20:53:55+06:00","title":"Notes from The Craft of Dying, 40th Anniversary Edition","linter-yaml-title-alias":"The Craft of Dying, 40th Anniversary Edition","tags":["reading-notes"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Craft of Dying.md","permalink":"/reading/notes-and-highlights/the-craft-of-dying/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"aliases":["The Craft of Dying, 40th Anniversary Edition"],"created":"2023-03-30T15:31:13+06:00","updated":"2023-03-30T20:53:55+06:00","title":"Notes from The Craft of Dying, 40th Anniversary Edition","linter-yaml-title-alias":"The Craft of Dying, 40th Anniversary Edition","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Craft of Dying.md","permalink":"/reading/notes-and-highlights/the-craft-of-dying/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # The Craft of Dying, 40th Anniversary Edition
