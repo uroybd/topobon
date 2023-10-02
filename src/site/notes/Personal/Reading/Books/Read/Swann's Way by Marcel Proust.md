@@ -1,0 +1,20 @@
+---
+{"title":"Swann's Way","aliases":["Swann's Way"],"authors":["Marcel Proust"],"publisher":"National Geographic Books","publish":"2004-11-30","pages":615,"isbn10":"0142437964","isbn13":"9780142437964","rating":"5","reviewed":true,"cover":"http://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","read_count":"1","series":{"remembrance":1},"tags":["book","Fiction"],"log":[{"status":"Read","timestamp":"2023-10-01T17:51:24+06:00"},{"status":"In Progress","timestamp":"2023-07-02T18:02:55+06:00"}],"created":"2023-07-01T17:49:40+06:00","updated":"2023-10-02T14:51:05+06:00","status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"Reading/Books/Read/Swann's Way by Marcel Proust.md","permalink":"/reading/books/read/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":1}
+---
+
+> [!warning] Reconsideration needed
+> I have just read this first book of the *Remembrance of Things Past*. Therefore, this review can be riddled with misunderstanding.
+
+No point mentioning the obvious. Is he a good writer? He is great. Does he have deep understanding of the clockwork of human heart? He does. There can't be a great writer without this understanding and wit.
+
+What I liked about this book is (which maybe is a fault as translators of this series have noted) It switch between *lyrical, poetic moving text* and *prosaic, matter of fact but strong  in plot* styles.
+
+The successful usage of **Involuntary Memory**. Their is, of course, the classic *'Madeleine Incident'* which invoked a nostalgia for things happend decades ago. But I think the most powerful usage of involuntary memories can be found in the [[Personal/Reading/Notes and Highlights/Swann_s Way by Marcel Proust#PART II - Swann in Love\|PART ]]. The *Vinteuil Sonata*[^1] [[Personal/Reading/Notes and Highlights/Swann_s Way by Marcel Proust#^739162\| invoked love in Swann, helped it to flourish]], and at the end induced the epiphany that lead to a clearer understanding of his place in his relationship with Odette.
+
+> [!note] Notes and Highlights
+> (Notes:: [[Personal/Reading/Notes and Highlights/Swann_s Way by Marcel Proust\|Notes from Swann's Way by Marcel Proust]])
+
+> [!info] About Swann's Way by Marcel Proust
+> <img src="http://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The first volume of one of the greatest novels of the twentieth century, in Lydia Davis's award-winning translation Marcel Proust’s In Search of Lost Time is one of the most entertaining reading experiences in any language and arguably the finest novel of the twentieth century. But since its original prewar translation there has been no completely new version in English. Now, Penguin Classics brings Proust’s masterpiece to new audiences throughout the world, beginning with Lydia Davis’s internationally acclaimed translation of the first volume, Swann’s Way. Swann's Way is one of the preeminent novels of childhood: a sensitive boy's impressions of his family and neighbors, all brought dazzlingly back to life years later by the taste of a madeleine. It also enfolds the short novel "Swann in Love," an incomparable study of sexual jealousy that becomes a crucial part of the vast, unfolding structure of In Search of Lost Time. The first volume of the work that established Proust as one of the finest voices of the modern age—satirical, skeptical, confiding, and endlessly varied in his response to the human condition—Swann's Way also stands on its own as a perfect rendering of a life in art, of the past recreated through memory.
+
+[^1]: Fictitious. Probably based on [**Sonata in A major for Violin and Piano** by César Franck](https://en.wikipedia.org/wiki/Violin_Sonata_(Franck))
