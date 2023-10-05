@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-08-05T21:05:57+06:00","dg-publish":true,"dg-note-icon":3,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2023-10-05T09:21:12+06:00","dg-publish":true,"dg-note-icon":3,"tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 ## Problem
@@ -11,127 +11,16 @@ One can easily export highlights and annotations from NeoReader[^1] as txt file.
 Here's a workflow (basically a [Templater](https://silentvoid13.github.io/Templater/) template) that made my life a little easier. It assumes some practices and setup on my part:
 1. Obsidian, and Templater plugins installed.
 2. Except for normal quotes, I'm starting my notes with the following symbols for added context:
-    -  `*` for important notes.
-    - `#` for disagreement.
+    -  `!` for important notes.
+    - `@` for disagreement.
     - `?` for thought-provoking things.
+    - `>` for continued highlight. NeoReader doesn't allow to spill the highlight to another page. This will allow you to merge consecutive notes into one.
 
 Only these symbols at the beginning will be treated differently.
 
 With this setup and practices in place, we can create a template like this:
 
-```js
-<%* 
-// Note style prefixes we will map to callouts.
-// It will suffice to put just this character to change the callout style.
-// If additional notes are required, we will use a space after the prefix,
-// and then continue to our usual note.
-// Customize this as you see fit. With types from: https://help.obsidian.md/Editing+and+formatting/Callouts#Supported+types
-const NOTE_STYLES = {
-  "*": {
-    type: "important",
-    title: "Striking/Intense",
-  },
-  "#": {
-    type: "danger",
-    title: "In Discord",
-  },
-  "?": {
-    type: "question",
-    title: "Thought Provoking",
-  },
-}
-
-const NOTE_STYLE_KEYS = Object.keys(NOTE_STYLES);
-
-// Default note style, if any prefix is not present.
-const DEFAULT_NOTE_STYLE = {
-  type: "quote",
-  title: "Quotable/Concept/General Idea"
-}
-
-function parseNoteFormat(note) {
-  let data = {...DEFAULT_NOTE_STYLE, note};
-  for (let i = 0; i < NOTE_STYLE_KEYS.length; i++) {
-    let key = NOTE_STYLE_KEYS[i];
-    if (note.startsWith(key)) {
-      data = {...NOTE_STYLES[key], note: note.substr(key.length + 1)};
-      break;
-    }
-  }
-  return data
-}
-
-function getTitleAndAuthor(l) {
-  l = l.replace("Reading Notes | <<", "").split(">>");
-  return {
-    title: l[0],
-    authors: l[1]
-  }
-}
-
-function parseNote(note) {
-  let lines = note.split("\n");
-  lines.reverse();
-  let content = {
-    section: "",
-    timestamp: "",
-    page: "",
-    highlight: "",
-    note: ""
-  }
-  for (let i = 0; i < lines.length; i++) {
-    let l = lines[i];
-    if (l.includes("【Note】")) {
-      content.note = parseNoteFormat(l.replace('【Note】', ""));
-    } else if (l.includes("  |  Page No.: ")) {
-      let meta = l.split("  |  Page No.: ");
-      content.timestamp = meta[0]
-      content.page = meta[1]
-    } else if (i == lines.length - 1) {
-      content.section = l;
-    } else {
-      content.highlight = content.highlight ? `${l}\n${content.highlight}` : l;
-    }
-  }
-  if (!content.note) {
-    content.note = {...DEFAULT_NOTE_STYLE, note: ""}
-  }
-  return content
-}
-
-let file = app.workspace.getActiveFile()
-let content = await app.vault.read(file)
-let lines = content.split("\n");
-let titleAndAuthor = getTitleAndAuthor(lines.shift())
-notes = (lines.join("\n") + "\n").split("-------------------\n")
-
-let output = `# ${titleAndAuthor.title}\n##### ${titleAndAuthor.authors}\n\n`;
-let currentSection = null;
-let prevNoteHeader = null;
-for (let i = 0;  i < notes.length; i++) {
-  if (notes[i] && notes[i].trim("\n").length) {
-    let noteData = parseNote(notes[i])
-    if (noteData.section && (currentSection != noteData.section)) {
-      output += `## ${noteData.section}\n`;
-      currentSection = noteData.section;
-    }
-    let noteHeader = `${noteData.timestamp} @ Page: ${noteData.page}`
-    if (prevNoteHeader && prevNoteHeader.split(" / ")[0] == noteHeader) {
-      noteHeader += " / " + ((parseInt(prevNoteHeader.split(" /")[1]) || 1) + 1) 
-    }
-    prevNoteHeader = noteHeader
-    output += `### ${noteHeader}\n${noteData.highlight}\n\n`;
-    output += `> [!${noteData.note.type}] ${noteData.note.title}`;
-    if (noteData.note.note) {
-      output += `\n> ${noteData.note.note}\n`
-    }
-    output += "\n\n"
-  }
-}
-
-app.vault.modify(file, output)
-%>
-```
+<script src="https://gist.github.com/uroybd/cbfce7135b8efa61964f89234e52f39d.js"></script>
 
 To use this, all one has to do is:
 1. Copy the text file's content in a note in obsidian.
@@ -143,109 +32,113 @@ It will replace the existing content with formatted content.
 
 #### Before
 ```
-Reading Notes | <<Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018)>>Judea Pearl
-CHAPTER 1 The Ladder of Causation
-2023-08-01 23:01  |  Page No.: 49
-very early in our evolution, we humans realized that the world is not made up only of dry facts (what we might call data today
+Reading Notes | <<Proust, Marcel - Swann's Way>>Marcel Proust
+PART II - Swann in Love
+2023-09-28 13:11  |  Page No.: 166
+It even seemed, for a moment, that this love for a phrase of music would have to open in Swann the possibility of a sort of rejuvenation. He had for so long given up directing his life toward an ideal goal and limited it to the pursuit of everyday satisfactions that he believed, without ever saying so formally to himself, that this would not change as long as he lived; much worse, since his mind no longer entertained any lofty ideas, he had ceased to believe in their reality, though without being able to deny it altogether.
+【Note】? a common pitfall.
 -------------------
-CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
-2023-08-01 23:03  |  Page No.: 115
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
-【Note】his view was inaccurate
+2023-10-02 12:09  |  Page No.: 173
+fix you up,” and with the conceited little laugh she would have given at some invention of her own, had settled behind Swann’s head, and under his feet, cushions of Japanese silk which she kneaded as if she were lavish with these riches and careless of their value. But when the valet came bringing one after another the many lamps which, nearly all enclosed in large Chinese vases, burned singly or in pairs, all on different pieces of furniture as though on altars, and which hadsummoned back to the already almost nocturnal
 -------------------
-CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
-2023-08-01 23:03  |  Page No.: 115
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
-【Note】* his view was inaccurate
+2023-10-02 12:09  |  Page No.: 175
+again in her, nevertheless that resemblance conferred a certain beauty on her too, made her more precious. Swann reproached himself for having misunderstood the value of a creature who would have appeared captivating to the great Sandro, and he felt happy that his pleasure in seeing Odette could be justified by his own aesthetic culture. He told himself
+【Note】>
 -------------------
-CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
-2023-08-01 23:03  |  Page No.: 115
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
-【Note】# his view was inaccurate
+PART III - Place-Names: The Name
+2023-10-02 12:09  |  Page No.: 288
+AMONG THE BEDROOMS whose images I summoned up most often in my nights of insomnia, none resembled less the rooms at Combray, dusted with an atmosphere that was grainy, pollinated, edible, and devout, than the room at the Grand-Hôtel de la Plage, at Balbec, whose enamel-painted walls contained, like the polished sides of a swimming pool which tints the water blue, a pure azure salt sea air. The Bavarian decorator commissioned to furnish the hotel had varied the design schemes of the rooms and on three sides, along the walls, in the one I was occupying, had placed low bookcases, with glass panes, in which, depending on the spot they occupied, and by an effect he had not foreseen, one part or another of the changing picture of the sea was reflected, unfurling a frieze
 -------------------
-CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
-2023-08-01 23:03  |  Page No.: 115
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
-【Note】? his view was inaccurate
+2023-10-02 12:10  |  Page No.: 289
+geology—and just as completely outside human history as the Ocean itself or the Great Bear,4 with those wild fishermen for whom no more than for the whales had there been any Middle Ages—it had been a great delight for me to see it suddenly take its place in the sequence of the centuries, now that it had experienced theRomanesque period, and to know that the Gothic trefoil had come at the proper time topattern those wild rocks too, like the frail but hardy plants which, when spring comes, spangle here and there the polar snow
+【Note】* a note of importance
+-------------------
+2023-10-02 12:11  |  Page No.: 290
+perfumes, colors seemed to me of any value; forthis alternation of images had brought about a change of direction in my desire, and—as abrupt as those that occur now and then in music—a complete change of tone in my sensibility. Thus it came about that a simple variation in the atmosphere was enough toprovoke this modulation in me without any need to wait for the return of a season. Foroften, in one season, we find a day that has strayed from another and that immediatelyevokes its particular pleasures, lets us experience
+【Note】! another one!
 -------------------
 ```
 
 #### After
 
 > [!success] Output
-> # Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018)
-> ##### Judea Pearl
+> # Proust, Marcel - Swann's Way
+> ##### Marcel Proust
 > 
-> ## CHAPTER 1 The Ladder of Causation
-> ### 2023-08-01 23:01 @ Page: 49
-> very early in our evolution, we humans realized that the world is not made up only of dry facts (what we might call data today
+> ## PART II - Swann in Love
+> ### Page: 166 (48.26%) @ 28 Sep 2023 01:11:00 PM
+> 
+> It even seemed, for a moment, that this love for a phrase of music would have to open in Swann the possibility of a sort of rejuvenation. He had for so long given up directing his life toward an ideal goal and limited it to the pursuit of everyday satisfactions that he believed, without ever saying so formally to himself, that this would not change as long as he lived; much worse, since his mind no longer entertained any lofty ideas, he had ceased to believe in their reality, though without being able to deny it altogether.
+> 
+> > [!question] Thought Provoking: a common pitfall.
+> 
+> 
+> ### Page: 173 (50.29%) @ 02 Oct 2023 12:09:00 PM
+> 
+> fix you up,” and with the conceited little laugh she would have given at some invention of her own, had settled behind Swann’s head, and under his feet, cushions of Japanese silk which she kneaded as if she were lavish with these riches and careless of their value. But when the valet came bringing one after another the many lamps which, nearly all enclosed in large Chinese vases, burned singly or in pairs, all on different pieces of furniture as though on altars, and which hadsummoned back to the already almost nocturnal again in her, nevertheless that resemblance conferred a certain beauty on her too, made her more precious. Swann reproached himself for having misunderstood the value of a creature who would have appeared captivating to the great Sandro, and he felt happy that his pleasure in seeing Odette could be justified by his own aesthetic culture. He told himself
 > 
 > > [!quote] Quotable/Concept/General Idea
 > 
-> ## CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
-> ### 2023-08-01 23:03 @ Page: 115
-> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
->
+> ## PART III - Place-Names: The Name
+> ### Page: 288 (83.72%) @ 02 Oct 2023 12:09:00 PM
+> 
+> AMONG THE BEDROOMS whose images I summoned up most often in my nights of insomnia, none resembled less the rooms at Combray, dusted with an atmosphere that was grainy, pollinated, edible, and devout, than the room at the Grand-Hôtel de la Plage, at Balbec, whose enamel-painted walls contained, like the polished sides of a swimming pool which tints the water blue, a pure azure salt sea air. The Bavarian decorator commissioned to furnish the hotel had varied the design schemes of the rooms and on three sides, along the walls, in the one I was occupying, had placed low bookcases, with glass panes, in which, depending on the spot they occupied, and by an effect he had not foreseen, one part or another of the changing picture of the sea was reflected, unfurling a frieze
+> 
 > > [!quote] Quotable/Concept/General Idea
-> > his view was inaccurate
 > 
-> ### 2023-08-01 23:03 @ Page: 115 / 2
-> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+> ### Page: 289 (84.01%) @ 02 Oct 2023 12:10:00 PM
 > 
-> > [!important] Striking/Intense
-> > his view was inaccurate
+> geology—and just as completely outside human history as the Ocean itself or the Great Bear,4 with those wild fishermen for whom no more than for the whales had there been any Middle Ages—it had been a great delight for me to see it suddenly take its place in the sequence of the centuries, now that it had experienced theRomanesque period, and to know that the Gothic trefoil had come at the proper time topattern those wild rocks too, like the frail but hardy plants which, when spring comes, spangle here and there the polar snow
 > 
-> ### 2023-08-01 23:03 @ Page: 115 / 3
-> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+> > [!quote] Quotable/Concept/General Idea: * a note of importance
 > 
-> > [!danger] In Discord
-> > his view was inaccurate
 > 
-> ### 2023-08-01 23:03 @ Page: 115 / 4
-> In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+> ### Page: 290 (84.30%) @ 02 Oct 2023 12:11:00 PM
 > 
-> > [!question] Thought Provoking
-> > his view was inaccurate
+> perfumes, colors seemed to me of any value; forthis alternation of images had brought about a change of direction in my desire, and—as abrupt as those that occur now and then in music—a complete change of tone in my sensibility. Thus it came about that a simple variation in the atmosphere was enough toprovoke this modulation in me without any need to wait for the return of a season. Foroften, in one season, we find a day that has strayed from another and that immediatelyevokes its particular pleasures, lets us experience
+> 
+> > [!important] Striking/Intense: another one!
+> 
 
 ##### Raw
 
 ```markdown
-# Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018)
-##### Judea Pearl
+# Proust, Marcel - Swann's Way
+##### Marcel Proust
 
-## CHAPTER 1 The Ladder of Causation
-### 2023-08-01 23:01 @ Page: 49
-very early in our evolution, we humans realized that the world is not made up only of dry facts (what we might call data today
+## PART II - Swann in Love
+### Page: 166 (48.26%) @ 28 Sep 2023 01:11:00 PM
+
+It even seemed, for a moment, that this love for a phrase of music would have to open in Swann the possibility of a sort of rejuvenation. He had for so long given up directing his life toward an ideal goal and limited it to the pursuit of everyday satisfactions that he believed, without ever saying so formally to himself, that this would not change as long as he lived; much worse, since his mind no longer entertained any lofty ideas, he had ceased to believe in their reality, though without being able to deny it altogether.
+
+> [!question] Thought Provoking: a common pitfall.
+
+
+### Page: 173 (50.29%) @ 02 Oct 2023 12:09:00 PM
+
+fix you up,” and with the conceited little laugh she would have given at some invention of her own, had settled behind Swann’s head, and under his feet, cushions of Japanese silk which she kneaded as if she were lavish with these riches and careless of their value. But when the valet came bringing one after another the many lamps which, nearly all enclosed in large Chinese vases, burned singly or in pairs, all on different pieces of furniture as though on altars, and which hadsummoned back to the already almost nocturnal again in her, nevertheless that resemblance conferred a certain beauty on her too, made her more precious. Swann reproached himself for having misunderstood the value of a creature who would have appeared captivating to the great Sandro, and he felt happy that his pleasure in seeing Odette could be justified by his own aesthetic culture. He told himself
 
 > [!quote] Quotable/Concept/General Idea
 
-## CHAPTER 2 From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
-### 2023-08-01 23:03 @ Page: 115
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+## PART III - Place-Names: The Name
+### Page: 288 (83.72%) @ 02 Oct 2023 12:09:00 PM
+
+AMONG THE BEDROOMS whose images I summoned up most often in my nights of insomnia, none resembled less the rooms at Combray, dusted with an atmosphere that was grainy, pollinated, edible, and devout, than the room at the Grand-Hôtel de la Plage, at Balbec, whose enamel-painted walls contained, like the polished sides of a swimming pool which tints the water blue, a pure azure salt sea air. The Bavarian decorator commissioned to furnish the hotel had varied the design schemes of the rooms and on three sides, along the walls, in the one I was occupying, had placed low bookcases, with glass panes, in which, depending on the spot they occupied, and by an effect he had not foreseen, one part or another of the changing picture of the sea was reflected, unfurling a frieze
 
 > [!quote] Quotable/Concept/General Idea
-> his view was inaccurate
+
+### Page: 289 (84.01%) @ 02 Oct 2023 12:10:00 PM
+
+geology—and just as completely outside human history as the Ocean itself or the Great Bear,4 with those wild fishermen for whom no more than for the whales had there been any Middle Ages—it had been a great delight for me to see it suddenly take its place in the sequence of the centuries, now that it had experienced theRomanesque period, and to know that the Gothic trefoil had come at the proper time topattern those wild rocks too, like the frail but hardy plants which, when spring comes, spangle here and there the polar snow
+
+> [!quote] Quotable/Concept/General Idea: * a note of importance
 
 
-### 2023-08-01 23:03 @ Page: 115 / 2
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
+### Page: 290 (84.30%) @ 02 Oct 2023 12:11:00 PM
 
-> [!important] Striking/Intense
-> his view was inaccurate
+perfumes, colors seemed to me of any value; forthis alternation of images had brought about a change of direction in my desire, and—as abrupt as those that occur now and then in music—a complete change of tone in my sensibility. Thus it came about that a simple variation in the atmosphere was enough toprovoke this modulation in me without any need to wait for the return of a season. Foroften, in one season, we find a day that has strayed from another and that immediatelyevokes its particular pleasures, lets us experience
 
-
-### 2023-08-01 23:03 @ Page: 115 / 3
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
-
-> [!danger] In Discord
-> his view was inaccurate
-
-
-### 2023-08-01 23:03 @ Page: 115 / 4
-In Pearson’s eyes, Galton had enlarged the vocabulary of science. Causation was reduced to nothing more than a special case of correlation
-
-> [!question] Thought Provoking
-> his view was inaccurate
+> [!important] Striking/Intense: another one!
 ```
 
 [^1]: The default reading app for Onyx Boox Devices.
