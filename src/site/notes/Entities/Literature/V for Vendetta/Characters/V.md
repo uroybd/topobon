@@ -1,5 +1,5 @@
 ---
-{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-26T12:57153:11+06:00","dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-26T16:20:30+06:00","dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 *V* is the masked protagonist with a pronounced knack for theatrics. A man with a mission yet to be unveiled.
