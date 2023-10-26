@@ -168,5 +168,5 @@ This reading has an image. A photograph taken in 1940, during the bombing of Lon
 
 
 
-![Media/Library At WWII.jpg](/img/user/Media/Library%20At%20WWII.jpg)
+![Media/Library At WWII.jpg|undefined](/img/user/Media/Library%20At%20WWII.jpg)
 
