@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2023-10-28T23:27:25+06:00","read_count":"3","authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"In Progress","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2023-10-29T02:27:31+06:00","read_count":"3","authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"In Progress","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 To me, this is Alan Moor's greatest work. He is so clear, and so in command of the ideas he wanted to expose, I couldn't find a place where they got watered down which is so much common in comics.
@@ -9,7 +9,7 @@ To me, this is Alan Moor's greatest work. He is so clear, and so in command of t
 > The following sections may contain spoilers. I prefer you to read the work untainted by my views. Be wary of reading this if you haven't read V for Vendetta already.
 
 ## Episodic Analysis
-### Issue 01
+### Volume 01
 This issue set up some of the major premises. The world, some of the major characters.
 
 Firstly, it deals with the past of [[Entities/Literature/V for Vendetta/Characters/Evey Hammond\|Evey Hammond]].
@@ -28,7 +28,7 @@ Secondly, it gives us the first taste of how [[Entities/Literature/V for Vendett
 
 Thirdly, [[Entities/Literature/V for Vendetta/Characters/V\|V]] takes his theatric entry and persists on this aspect of his character. This issue also sheds some light on his origin.
 
-### Issue 02
+### Volume 02
 This issue gave us a monologue by the [[Entities/Literature/V for Vendetta/Characters/Adam James Susan\|leader]] which is very revealing.
 
 
@@ -46,13 +46,13 @@ Although evil, the leader is a sincere person. He simply puts *all* before the *
 
 
 
-V puts *freedom* over *law and justice*. In his monologue in **Issue 02**, before destroying the sculpture of justice, he eloquently expounded his view on this matter. 
+V puts *freedom* over *law and justice*. In his monologue in **Volume 02**, before destroying the sculpture of justice, he eloquently expounded his view on this matter. 
 
 </div></div>
 
 
 This issue also saw the murder of [[Entities/Literature/V for Vendetta/Characters/Bishop Anthony Lilliman\|Bishop Anthony Lilliman]].
-### Issue 03
+### Volume 03
 Issue 03 shows the rather [[Entities/Literature/V for Vendetta/Characters/V#Delia Surridge\|doleful murder of Delia Surridge]], and [[Entities/Literature/V for Vendetta/Characters/V\|V]]'s origin has been explained from [[Entities/Literature/V for Vendetta/Characters/Delia Surridge\|Delia Surridge]]'s diary entries.
 
 > [!info] About V for Vendetta (New Edition) by Alan Moore
