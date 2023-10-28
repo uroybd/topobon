@@ -367,10 +367,6 @@ body {
         }
     }
 
-    .search-button {
-        border-radius: 10px;
-    }
-
     .toc-container li::before {
         content: "" !important;
     }
@@ -393,6 +389,18 @@ body {
                 background-image: url(/img/logo.svg);
                 margin-right: 5px;
                 background-position: bottom;
+            }
+
+            span {
+                margin-left: 10px;
+            }
+        }
+
+        .search-button {
+            border-radius: 10px;
+
+            @media (max-width: 800px) {
+                margin-right: 10px;
             }
         }
     }
