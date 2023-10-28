@@ -1,5 +1,5 @@
 ---
-{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-28T23:23:55+06:00","dg-publish":true,"dg-note-icon":2,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-29T02:26:33+06:00","dg-publish":true,"dg-note-icon":2,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ![Media/V from v for vendetta.jpg](/img/user/Media/V%20from%20v%20for%20vendetta.jpg)
@@ -10,7 +10,7 @@
 V is a survivor of the [[Entities/Literature/V for Vendetta/Places/Larkhill\|Larkhill]]. He was injected with the *Batch 5* by [[Entities/Literature/V for Vendetta/Characters/Delia Surridge\|Delia Surridge]] which endowed him with some superhuman abilities.
 
 ## Characteristics
-V puts *freedom* over *law and justice*. In his monologue in **Issue 02**, before destroying the sculpture of justice, he eloquently expounded his view on this matter.
+V puts *freedom* over *law and justice*. In his monologue in **Volume 02**, before destroying the sculpture of justice, he eloquently expounded his view on this matter.
 { #e1c563}
 
 
