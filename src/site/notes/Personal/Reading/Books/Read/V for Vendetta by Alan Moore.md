@@ -46,7 +46,7 @@ Although evil, the leader is a sincere person. He simply puts *all* before the *
 
 
 
-V puts *freedom* over *law and justice*. In his monologue in **Issue 02**, before destroying the sculpture of justice, he expounded his view on this matter eloquently. 
+V puts *freedom* over *law and justice*. In his monologue in **Issue 02**, before destroying the sculpture of justice, he eloquently expounded his view on this matter. 
 
 </div></div>
 
