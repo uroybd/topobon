@@ -28,7 +28,7 @@ This reading has an image. A photograph taken in 1940, during the bombing of Lon
 </div></div>
 
 
-![Media/Library At WWII.jpg|undefined](/img/user/Media/Library%20At%20WWII.jpg)
+![Media/Library At WWII.jpg](/img/user/Media/Library%20At%20WWII.jpg)
 
 > [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/History of Reading by Alberto Manguel\|History of Reading by Alberto Manguel]])
