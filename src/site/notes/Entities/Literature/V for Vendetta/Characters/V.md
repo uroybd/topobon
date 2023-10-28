@@ -1,5 +1,5 @@
 ---
-{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-28T20:46:54+06:00","dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-28T21:05:09+06:00","dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 *V* is the masked protagonist with a pronounced knack for theatrics. A man with a mission yet to be unveiled.
@@ -21,3 +21,6 @@ This act does full justice to the word *vendetta*. The re-enactment ensures that
 
 ### Bishop Anthony Liliman
 V lured [[Entities/Literature/V for Vendetta/Characters/Bishop Anthony Lilliman\|Lilliman]] using [[Entities/Literature/V for Vendetta/Characters/Evey Hammond\|Evey]], and killed him using a poisoned wafer.
+
+### Delia Surridge
+The Vendetta against Delia Surridge shows some sense of empathy from V's part. V injected him with poison while she was asleep and was very kind to her through the lat minutes of her life.
