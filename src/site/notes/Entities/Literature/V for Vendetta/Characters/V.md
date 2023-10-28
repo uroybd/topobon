@@ -1,5 +1,5 @@
 ---
-{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-28T23:13:17+06:00","dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-28T23:14:22+06:00","dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 ![Media/V from v for vendetta.jpg](/img/user/Media/V%20from%20v%20for%20vendetta.jpg)
@@ -25,4 +25,4 @@ This act does full justice to the word *vendetta*. The re-enactment ensures that
 V lured [[Entities/Literature/V for Vendetta/Characters/Bishop Anthony Lilliman\|Lilliman]] using [[Entities/Literature/V for Vendetta/Characters/Evey Hammond\|Evey]], and killed him using a poisoned wafer.
 
 ### Delia Surridge
-The Vendetta against Delia Surridge shows some sense of empathy from V's part. V injected him with poison while she was asleep and was very kind to her through the lat minutes of her life.
+The Vendetta against Delia Surridge shows some sense of empathy on V's part. V injected him with poison while she was asleep and was very kind to her through the last minutes of her life.
