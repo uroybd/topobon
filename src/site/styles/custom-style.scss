@@ -1,4 +1,8 @@
-:root {
+body.theme-dark,
+body.theme-light {
+    --text-accent: #0097bd;
+    --text-accent-hover: #006f8b;
+    --interactive-accent: #0097bd;
     --h1-color: var(--interactive-accent);
 }
 
