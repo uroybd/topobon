@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2023-11-06T11:49:45+06:00","read_count":"3","authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"In Progress","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2023-11-07T15:35:48+06:00","read_count":"3","authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"In Progress","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 To me, this is Alan Moor's greatest work. He is so clear, and so in command of the ideas he wanted to expose, I couldn't find a place where they got watered down which is so much common in comics.
@@ -9,6 +9,12 @@ Most of the characters in V for Vendetta are complex. Seldom there is a major ch
 However, the characters are only backdrops here. Alan Moore used these characters to effectively convey some very elaborate ideas— freedom, anarchy, justice, integrity, etc.
 
 So, when [[Entities/Literature/V for Vendetta/Characters/V\|V]] started his vendetta, it was not only against some people. It is against the system, even against the lack of aesthetics that the system enforces (hence the theatrical nature of V).
+
+## The Movie
+I'm aware of the difficulties regarding comparing works of two different mediums.
+
+The recurring thing I noticed in the movie is it lacks depth. This is very unfortunate. Doubly so because it seems like the lack is there not by mistake, but by design. Everything is toned down in the movie. It's a caricature.
+
 
 > [!warning] Spoilers
 > The following sections may contain spoilers. I prefer you to read the work untainted by my views. Be wary of reading this if you haven't read V for Vendetta already.
