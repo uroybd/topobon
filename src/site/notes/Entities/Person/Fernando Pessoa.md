@@ -1,5 +1,5 @@
 ---
-{"title":"Fernando Pessoa","aliases":["Pessoa"],"type":"Person","dg-publish":true,"dg-note-icon":2,"tags":["person","person/writer"],"updated":"2023-10-08T12:18:57+06:00","created":"2023-01-15T11:36:37+06:00","dg-path":"Entities/People/Fernando Pessoa.md","permalink":"/entities/people/fernando-pessoa/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Fernando Pessoa","aliases":["Pessoa"],"type":"Person","dg-publish":true,"dg-note-icon":2,"tags":["person","person/writer"],"updated":"2023-10-08T12:18:57","created":"2023-01-15T11:36:37","dg-path":"Entities/People/Fernando Pessoa.md","permalink":"/entities/people/fernando-pessoa/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 [Fernando Pessoa](https://en.wikipedia.org/wiki/Fernando%20Pessoa) has a special place in my mind, which is exactly like he wanted— an enigma, an impenetrable castle.
