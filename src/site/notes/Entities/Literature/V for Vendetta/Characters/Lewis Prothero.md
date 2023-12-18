@@ -1,5 +1,5 @@
 ---
-{"title":"Lewis Prothero","aliases":["Lewis Prothero"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-26T12:16:52+06:00","updated":"2023-10-28T23:21:24+06:00","dg-publish":true,"dg-note-icon":2,"permalink":"/entities/literature/v-for-vendetta/characters/lewis-prothero/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Lewis Prothero","aliases":["Lewis Prothero"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-26T12:16:52","updated":"2023-10-28T23:21:24","dg-publish":true,"dg-note-icon":2,"permalink":"/entities/literature/v-for-vendetta/characters/lewis-prothero/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 Prothero is a richly compound character.
