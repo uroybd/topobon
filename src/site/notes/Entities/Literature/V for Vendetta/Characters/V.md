@@ -1,5 +1,5 @@
 ---
-{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43+06:00","updated":"2023-10-29T02:26:33+06:00","dg-publish":true,"dg-note-icon":2,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43","updated":"2023-10-29T02:26:33","dg-publish":true,"dg-note-icon":2,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ![Media/V from v for vendetta.jpg](/img/user/Media/V%20from%20v%20for%20vendetta.jpg)
