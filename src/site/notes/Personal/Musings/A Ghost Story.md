@@ -1,5 +1,5 @@
 ---
-{"title":"A Ghost Story","aliases":["A Ghost Story"],"created":"2023-12-17T20:11:27+06:00","updated":"2023-12-19T08:47:51+06:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/A Ghost Story.md","permalink":"/musings/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"A Ghost Story","aliases":["A Ghost Story"],"created":"2023-12-17T20:11:27+06:00","updated":"2023-12-19T08:47:51+06:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["politics"],"dg-path":"Musings/A Ghost Story.md","permalink":"/musings/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 Ghosts are people— untimely demised with urges intact.
