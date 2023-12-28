@@ -1,5 +1,5 @@
 ---
-{"title":"Why Men Fight","aliases":["Why Men Fight"],"authors":["Bertrand Russell"],"publisher":"Routledge","publish":"2009-09-10","pages":191,"isbn10":"1135191824","isbn13":"9781135191825","rating":"4.5","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Philosophy","sociology","politics"],"log":[{"status":"Read","timestamp":"2023-12-28T12:15:59+06:00"},{"status":"In Progress","timestamp":"2023-12-23T15:30:56+06:00"},{"status":"To Read","timestamp":"2023-12-23T15:30:36+06:00"}],"created":"2023-12-23T15:30:36+06:00","updated":"2023-12-28T12:41:43+06:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Why Men Fight by Bertrand Russell.md","permalink":"/reading/books/read/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Why Men Fight","aliases":["Why Men Fight"],"authors":["Bertrand Russell"],"publisher":"Routledge","publish":"2009-09-10","pages":191,"isbn10":"1135191824","isbn13":"9781135191825","rating":"4.5","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Philosophy","sociology","politics"],"log":[{"status":"Read","timestamp":"2023-12-28T12:15:59+06:00"},{"status":"In Progress","timestamp":"2023-12-23T15:30:56+06:00"},{"status":"To Read","timestamp":"2023-12-23T15:30:36+06:00"}],"created":"2023-12-23T15:30:36+06:00","updated":"2023-12-28T14:15:22+06:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Why Men Fight by Bertrand Russell.md","permalink":"/reading/books/read/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 Not many intellectuals paid the price for their pacifism as dearly as Russell did. Once, he was a social pariah for this reason only. Yet he composed these lectures in the hope of talking some sense into the young minds of Europe.
@@ -13,6 +13,11 @@ Russell explored the various forms of social institutions, their merits-demerits
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/why-men-fight-by-bertrand-russell/#page-117-76-47-28-dec-2023-11-26-41-am" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+$<div class="markdown-embed-title">
+
+# Chapter 08: WHAT WE CAN DO, Page 117
+
+</div>
 
 
 
