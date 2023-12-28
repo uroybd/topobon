@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Why Men Fight","aliases":["Notes from Why Men Fight"],"author":"Russell, Bertrand","created":"2023-12-28T12:14:21+06:00","updated":"2023-12-28T12:36:25+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Why Men Fight by Bertrand Russell.md","permalink":"/reading/notes-and-highlights/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Why Men Fight","aliases":["Notes from Why Men Fight"],"author":"Russell, Bertrand","created":"2023-12-28T12:14:21+06:00","updated":"2023-12-28T12:42:01+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Why Men Fight by Bertrand Russell.md","permalink":"/reading/notes-and-highlights/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Why Men Fight
@@ -116,14 +116,8 @@ The whole wage-earning system is an abomination, not only because of the social 
 ### Page: 117 (76.47%) @ 28 Dec 2023 11:26:41 AM
 
 In seeking a political theory which is to be useful at any given moment, what is wanted is not the invention of a Utopia, but the discovery of the best direction of movement. The direction which is good at one time may be superficially very different from that which is good at another time. Useful thought is that which indicates the right direction for the present time. But in judging what is the right direction there are two general principles which are always applicable.
-{ #7f48dd}
-
 1. The growth and vitality of individuals and communities is to be promoted as far as possible.
-{ #7dd3bd}
-
 2. The growth of one individual or one community is to be as little as possible at the expense of another.
-{ #e8c4b2}
-
 
 > [!question] Thought Provoking
 
