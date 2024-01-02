@@ -465,15 +465,19 @@ body {
                             padding: 0;
                         }
                     }
-                    td:nth-child(2) {
-                        min-height: 70px;
-                    }
+                    // td:nth-child(2) {
+                    //     min-height: 70px;
+                    // }
 
                     td {
                         svg {
                             width: 14px;
                             height: auto;
                         }
+
+                        display: flex;
+                        flex-direction: row;
+                        align-items: center;
                     }
                 }
             }
