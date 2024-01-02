@@ -1,5 +1,5 @@
 ---
-{"title":"A Ghost Story","aliases":["A Ghost Story"],"created":"2023-12-17T20:11:27+06:00","updated":"2023-12-20T09:53:28+06:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["politics"],"dg-path":"Musings/A Ghost Story.md","permalink":"/musings/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"A Ghost Story","aliases":["A Ghost Story"],"created":"2023-12-17T20:11:27+06:00","updated":"2024-01-02T14:46:39+06:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["politics"],"dg-path":"Musings/A Ghost Story.md","permalink":"/musings/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 Ghosts are people— untimely demised with urges intact.
@@ -12,4 +12,4 @@ Often I feel the urge to call Bhoot FM[^1] and say, "You won't believe Russell b
 
 The subtlest ghosts, with the most ephemeral differences from us, however, can be found only if we look into a mirror. Under our skin, I cannot ignore me eroding every day, with every vote I couldn't make, every scheme by syndicates, every draconian punishment on us to keep us mum, to give away our last one free inch, our integrity. I cannot ignore my gradual disenfranchisement robbing me of any social meaning a human has. I find myself a ghost, with all the urges intact, but not human anymore.
 
-[^1]: A show discontinued.
+[^1]: A radio program which was discontinued long ago.
