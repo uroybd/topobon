@@ -1,5 +1,5 @@
 ---
-{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art"],"created":"2023-02-07T10:56:05+06:00","updated":"2024-01-09T10:25:47+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/On CyberEnsō.md","permalink":"/musings/on-cyber-enso/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art"],"created":"2023-02-07T10:56:05+06:00","updated":"2024-01-09T10:26:46+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/On CyberEnsō.md","permalink":"/musings/on-cyber-enso/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 ![Today's CyberEnso](https://enso.utsob.me/daily-source.jpg)
@@ -9,7 +9,7 @@ A few years back, I had an encounter with _[Ensō](https://en.wikipedia.org/wiki
 This led me to an idea to build a Generative Art based on Ensō which I named [CyberEnsō](https://enso.utsob.me/).
 
 ### How Does it Work?
-To draw an Ensō, one must _free one's mind of thoughts_, then _let one's body take control_, and _allow it to create a circle— momentous, signifying the phenomenon of life itself instead of a conscious intention_.
+To draw an Ensō, one must _free one's mind of thoughts_, then _let one's body take control, and _allow it to create a circle— momentous, signifying the phenomenon of life itself instead of a conscious intention_.
 
 CyberEnsō can be considered a means to do so. One has to free one's mind of thought and CyberEnsō takes that thought as the input. Then, it **[hashes](https://en.wikipedia.org/wiki/Hash_function)** it, which is a destructive process, adds some randomness to it and produces a unique circle. The computer here is just like a calligraphy brush. With the hashing and randomness, a body in [mu-shin](https://en.wikipedia.org/wiki/Mushin_(mental_state)) state has as much control over it as it has on a brush.
 
