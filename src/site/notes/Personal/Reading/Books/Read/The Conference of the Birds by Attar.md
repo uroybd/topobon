@@ -1,5 +1,5 @@
 ---
-{"title":"The Conference of the Birds","aliases":["The Conference of the Birds"],"authors":["Attar of Nishapur","Sholeh Wolpé (Translation)"],"publisher":"W. W. Norton & Company","publish":"2017-03-07","pages":3,"isbn10":"0393292193","isbn13":"9780393292190","rating":"5","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/1kx8DAAAQBAJ?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","Poetry"],"log":[{"status":"Read","timestamp":"2024-02-17T23:33:08+06:00"},{"status":"In Progress","timestamp":"2024-01-29T16:17:28+06:00"},{"status":"To Read","timestamp":"2024-01-29T16:16:16+06:00"}],"created":"2024-01-29T16:16:16+06:00","updated":"2024-02-20T14:54:22+06:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/The Conference of the Birds by Attar.md","permalink":"/reading/books/read/the-conference-of-the-birds-by-attar/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Conference of the Birds","aliases":["The Conference of the Birds"],"authors":["Attar of Nishapur","Sholeh Wolpé (Translation)"],"publisher":"W. W. Norton & Company","publish":"2017-03-07","pages":3,"isbn10":"0393292193","isbn13":"9780393292190","rating":"5","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/1kx8DAAAQBAJ?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","Poetry"],"log":[{"status":"Read","timestamp":"2024-02-17T23:33:08+06:00"},{"status":"In Progress","timestamp":"2024-01-29T16:17:28+06:00"},{"status":"To Read","timestamp":"2024-01-29T16:16:16+06:00"}],"created":"2024-01-29T16:16:16+06:00","updated":"2024-02-20T15:05:21+06:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/The Conference of the Birds by Attar.md","permalink":"/reading/books/read/the-conference-of-the-birds-by-attar/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 A seminal text of the Sufi literature. It influenced both thinkers and the writing styles of subsequent generations. As far as Sufi spiritualism is concerned, the content is timeless.
@@ -25,7 +25,7 @@ can it stop being a stranger to itself.
 </div></div>
 
 
-It is difficult to explain the accuracy of this statement without reading the book first.
+It is difficult to appreciate the accuracy of this statement without reading the book first.
 
 Sufism is all about love. Unconditional, unfailing, love and submission. This brought the practitioners into broad daylight from a narrow tunnel of organised religion. Since they reject anything that is against love, they reject hatred and welcome even critical thinking to a certain extent.
 
