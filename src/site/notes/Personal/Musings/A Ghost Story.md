@@ -1,12 +1,12 @@
 ---
-{"title":"A Ghost Story","aliases":["A Ghost Story"],"created":"2023-12-17T20:11:27+06:00","updated":"2024-01-02T14:46:39+06:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["politics"],"dg-path":"Musings/A Ghost Story.md","permalink":"/musings/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"A Ghost Story","aliases":["A Ghost Story"],"created":"2023-12-17T20:11:27+06:00","updated":"2024-04-14T23:59:21+06:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["politics"],"dg-path":"Musings/A Ghost Story.md","permalink":"/musings/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 Ghosts are people— untimely demised with urges intact.
 
 As a modern man, you don't believe ghosts exist, do you?
 
-Of course, they are real! I can prove that to you. On a summer afternoon in Dhaka, be careful to notice or you'll miss, the Rickshaw-Pullers. Illusive they are with sweats and breaths, and a bodily existence, they are indeed ghosts. If you observe, you will find their muscles are composed of thin but tenacious dolour. Notice the fiery eyes, vivid, yet empty of essence. Notice how they pull their rickshaws, like clockwork, with some sort of supernatural strength as if space is elastic and time doesn't move for them. Take note of their faces, devoid of expression, devoid of meaning, rhythm, or reason. They were robbed of their bare necessities, dignity, and even a life worth living, a meaning that doesn't depend solely on other's profit— what remains but a ghost?
+Of course, they are real! I can prove that to you. On a summer afternoon in Dhaka, be carefully notice the Rickshaw-Pullers. Illusive they are with sweats and breaths, and a bodily existence, they are indeed ghosts. If you observe, you will find their muscles are composed of thin but tenacious dolour. Notice the fiery eyes, vivid, yet empty of essence. Notice how they pull their rickshaws, like clockwork, with some sort of supernatural strength as if space is elastic and time doesn't move for them. Take note of their faces, devoid of expression, devoid of meaning, rhythm, or reason. They were robbed of their bare necessities, dignity, and even a life worth living, a meaning that doesn't depend solely on other's profit— what remains but a ghost?
 
 Often I feel the urge to call Bhoot FM[^1] and say, "You won't believe Russell bhai! Today, when I was coming back from office, my rickshaw-wala was a ghost, and so was the one who was overtaking us…"
 
