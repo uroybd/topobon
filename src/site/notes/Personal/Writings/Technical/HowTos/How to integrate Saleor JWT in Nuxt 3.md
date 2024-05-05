@@ -1,5 +1,5 @@
 ---
-{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2024-04-29T11:15:47+06:00","dg-publish":true,"dg-note-icon":2,"tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2024-05-05T17:18:58+06:00","dg-publish":true,"dg-note-icon":3,"tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 [Saleor](https://saleor.io) uses [JWT Authentication](https://docs.saleor.io/docs/3.x/api-usage/authentication) which is very easy to integrate in nuxt. Call the login API, get the token, and call the `onLogin` in [NuxtApollo](https://apollo.nuxtjs.org/recipes/authentication). Straightforward, isn't it?
@@ -46,30 +46,32 @@ export default defineEventHandler(async (event) => {
   const { email, password, additionalFields } = body;
 
   if (!email) {
-    return {
+    throw createError({
       statusCode: 400,
-      body: JSON.stringify({
+      statusMessage: "Email is required",
+      data: {
         errors: [
           {
             message: "Email is required",
             code: "MISSING_FIELD",
           },
         ],
-      }),
-    };
+      },
+    });
   }
   if (!password) {
-    return {
+    throw createError({
       statusCode: 400,
-      body: JSON.stringify({
+      statusMessage: "Password is required",
+      data: {
         errors: [
           {
             message: "Password is required",
             code: "MISSING_FIELD",
           },
         ],
-      }),
-    };
+      },
+    });
   }
 
   const query = loginQuery.replace(
@@ -81,11 +83,11 @@ export default defineEventHandler(async (event) => {
     method: "POST",
     body: {
       query,
-      variables: { email, phoneNumber, password },
+      variables: { email, password },
     },
   });
   const { token, refreshToken, errors, ...additionalData } = data?.tokenCreate;
-  let statusCode = 400;
+  const responseData = { ...additionalData, token, errors };
   if (data.tokenCreate?.token && data.tokenCreate?.refreshToken) {
     setCookie(event, "refreshToken", refreshToken, {
       httpOnly: true,
@@ -93,13 +95,22 @@ export default defineEventHandler(async (event) => {
       path: "/api/auth",
       expires: new Date(jwtDecode(refreshToken).exp * 1000),
     });
-    statusCode = 200;
+    return { data: responseData };
+  } else {
+    const error = responseData.errors[0].code;
+    let code = 400;
+    if (error === "INVALID_CREDENTIALS") {
+      code = 401;
+    } else if (error === "ACCOUNT_NOT_CONFIRMED") {
+      code = 407;
+    }
+    throw createError({
+      statusCode: code,
+      data: responseData,
+    });
   }
-  return {
-    statusCode,
-    body: JSON.stringify({ data: { ...additionalData, token, errors } }),
-  };
 });
+
 ```
 
 The support for supplying `additonalFields` parameter allows user to get the user profile in one go with the tokens.
@@ -117,18 +128,19 @@ const payload = {
   password: "averyhardpassword",
   additionalFields: USER_FIELDS,
 };
-const { data } = await $fetch("/api/auth/login", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-  },
-  body: JSON.stringify(payload),
-});
-if (!data.token) {
+try {
+  const { data } = await $fetch("/api/auth/login", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(payload),
+  });
+  onLogin(data.token);
+} catch (error) {
   // ...handle errors
-} else {
-  onLogin(token);
 }
+
 ```
 
 ### Refresh
@@ -156,17 +168,18 @@ export default defineEventHandler(async (event) => {
   const cookies = parseCookies(event);
   const refreshToken = cookies.refreshToken;
   if (!refreshToken) {
-    return {
+    throw createError({
       statusCode: 400,
-      body: JSON.stringify({
+      statusMessage: "Refresh expired",
+      data: {
         errors: [
           {
             message: "Refresh expired",
             code: "REFRESH_EXPIRED",
           },
         ],
-      }),
-    };
+      },
+    });
   }
   const query = refreshQuery.replace(
     "<additionalFields>",
@@ -187,9 +200,14 @@ export default defineEventHandler(async (event) => {
       secure: true,
       path: "/api/auth",
     });
+    return { data };
   }
-  return { data };
+  throw createError({
+    statusCode: 400,
+    data,
+  });
 });
+
 ```
 
 ### Logout
