@@ -1,0 +1,16 @@
+---
+{"created":"2024-05-10T23:04:00+06:00","updated":"2024-05-15T12:10:25+06:00","title":"Amar Singh Chamkila: A Mirror","tags":["movie-review"],"dg-publish":true,"dg-note-icon":2,"dg-path":"Writings/Creative/Prose/Review/Movie/Amar Singh Chamkila_ A Mirror.md","permalink":"/writings/creative/prose/review/movie/amar-singh-chamkila-a-mirror/","dgPassFrontmatter":true,"noteIcon":2}
+---
+
+Recently, I watched the biopic [Amar Singh Chamkila](https://www.imdb.com/title/tt26658272/) by Imtiaz Ali. I'm unqualified to do serious movie reviews and my opinions should be considered personal.
+
+Before proceeding to the part that motivated me to express my opinion, let's discuss 
+Firstly, The director, music director, and actors' crafts were superb. I liked the creative process behind this work.
+
+Secondly, I liked the historical accuracy of the work. It is not uncommon (Hollywood is particularly good at doing so) to bend the historical truths to the point that they can only be labelled as lies for the sake of a good story. Imtiaz Ali was very accurate regarding history. He could've created a straw man to blame Chamkila's murder. He refrained. He could've omitted the first wife of Chamkila altogether like the omission of John Nash's girlfriend in *A Beautiful Mind*.[^1]
+
+If art is the most authentic self-expression, then Chamkila was an artist. However, since his psyche was mostly composed of everything around him, and he lacked refinement we can consider his arts *'coarse'* (as opposed to *'fine arts'*). I believe, the director conveyed this point succinctly. In a scene, his show manager in Canada gleefully notified him that Amitabh Bachchan required much fewer extra seats than him, and Chamkila was crestfallen. He knew the worth of his work and understood the lack of taste in the general audience.
+
+Coarse arts get despised, and for good reason. But it is striking that he got killed for that even when he was at the peak of his fame. Chamkila essentially was a mirror. A mirror that reflected the vulgar side of the society that is very much real. That vulgarity was so real that it garnered love and despise at the same time. The people who listened couldn't forgive themselves for listening to him. It was a shameful guilty pleasure they indulged. They looked in the mirror and saw their ugly face, shameful acts, and coarseness. In a feat of anger, they broke the mirror, unable to cope with their shortcomings.
+
+[^1]: In 1951, the [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") (MIT) hired Nash as a [C. L. E. Moore instructor](https://en.wikipedia.org/wiki/C._L._E._Moore_instructor "C. L. E. Moore instructor") in the mathematics faculty. About a year later, Nash began a relationship with Eleanor Stier, a nurse he met while admitted as a patient. They had a son, John David Stier, but Nash left Stier when she told him of her pregnancy. ([Full Article](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.))
