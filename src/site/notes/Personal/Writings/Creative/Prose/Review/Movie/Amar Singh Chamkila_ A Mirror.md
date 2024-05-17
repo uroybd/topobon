@@ -1,10 +1,11 @@
 ---
-{"created":"2024-05-10T23:04:00+06:00","updated":"2024-05-15T12:10:25+06:00","title":"Amar Singh Chamkila: A Mirror","tags":["movie-review"],"dg-publish":true,"dg-note-icon":2,"dg-path":"Writings/Creative/Prose/Review/Movie/Amar Singh Chamkila_ A Mirror.md","permalink":"/writings/creative/prose/review/movie/amar-singh-chamkila-a-mirror/","dgPassFrontmatter":true,"noteIcon":2}
+{"created":"2024-05-10T23:04:00+06:00","updated":"2024-05-17T16:41:52+06:00","title":"Amar Singh Chamkila: A Mirror","tags":["movie-review"],"dg-publish":true,"dg-note-icon":2,"dg-path":"Writings/Creative/Prose/Review/Movie/Amar Singh Chamkila_ A Mirror.md","permalink":"/writings/creative/prose/review/movie/amar-singh-chamkila-a-mirror/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 Recently, I watched the biopic [Amar Singh Chamkila](https://www.imdb.com/title/tt26658272/) by Imtiaz Ali. I'm unqualified to do serious movie reviews and my opinions should be considered personal.
 
-Before proceeding to the part that motivated me to express my opinion, let's discuss 
+Before proceeding to the part that motivated me to express my opinion, let's touch the secondary observations.
+
 Firstly, The director, music director, and actors' crafts were superb. I liked the creative process behind this work.
 
 Secondly, I liked the historical accuracy of the work. It is not uncommon (Hollywood is particularly good at doing so) to bend the historical truths to the point that they can only be labelled as lies for the sake of a good story. Imtiaz Ali was very accurate regarding history. He could've created a straw man to blame Chamkila's murder. He refrained. He could've omitted the first wife of Chamkila altogether like the omission of John Nash's girlfriend in *A Beautiful Mind*.[^1]
