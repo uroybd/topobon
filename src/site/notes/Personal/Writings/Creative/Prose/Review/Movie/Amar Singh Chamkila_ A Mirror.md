@@ -1,5 +1,5 @@
 ---
-{"created":"2024-05-10T23:04:00+06:00","updated":"2024-05-17T16:41:52+06:00","title":"অমর সিং চমকিলা: একটি আয়নার গল্প","tags":["movie-review"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Prose/Review/Movie/Amar Singh Chamkila_ A Mirror.md","permalink":"/writings/creative/prose/review/movie/amar-singh-chamkila-a-mirror/","dgPassFrontmatter":true,"noteIcon":3}
+{"created":"2024-05-10T23:04:00+06:00","updated":"2024-05-17T16:41:52+06:00","title":"অমর সিং চমকিলা: একটি আয়নার গল্প","tags":["movie-review","amar-singh-chamkila","imtiaz-ali","art","music","biopic"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Prose/Review/Movie/Amar Singh Chamkila_ A Mirror.md","permalink":"/writings/creative/prose/review/movie/amar-singh-chamkila-a-mirror/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 সম্প্রতি ইমতিয়াজ আলির '[অমর সিং চমকিলা](https://www.imdb.com/title/tt26658272/)' দেখলাম। সাধারণত, মুভি রিভিউ আমি লিখি না, লেখার বুৎপত্তিও আমার নেই। এই মতামত বা নিরীক্ষাগুলো ব্যক্তিগত ধারণা হিসেবে নেওয়াই ভালো।  
