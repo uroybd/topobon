@@ -1,5 +1,5 @@
 ---
-{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2024-05-05T17:18:58+06:00","dg-publish":true,"dg-note-icon":3,"tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2024-06-24T15:42:11+06:00","dg-publish":true,"dg-note-icon":3,"tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 [Saleor](https://saleor.io) uses [JWT Authentication](https://docs.saleor.io/docs/3.x/api-usage/authentication) which is very easy to integrate in nuxt. Call the login API, get the token, and call the `onLogin` in [NuxtApollo](https://apollo.nuxtjs.org/recipes/authentication). Straightforward, isn't it?
@@ -9,7 +9,6 @@ The real challenge is to secure the Refresh Token. Ideally, Refresh Tokens are s
 ## Implementation
 ### Login
 We will start by implementing the login. The flow is roughly like this:
-
 ![Media/JWT Login 2.png](/img/user/Media/JWT%20Login%202.png)
 
 1. A user will attempt to login with his credentials, but not directly to Saleor. The request will be made to `/api/auth/login`.
