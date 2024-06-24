@@ -1,5 +1,5 @@
 ---
-{"title":"What is the Fourth Dimension?","aliases":["What is the Fourth Dimension?"],"authors":["Charles Howard Hinton"],"publisher":"","publish":"1897","pages":32,"isbn10":"","isbn13":"OCLC:26279457","rating":"5","reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677810279i/21970444.jpg","read_count":1,"tags":["book","philosophy","physics","scientific-romance"],"log":[{"status":"Read","timestamp":"2024-06-24T01:26:26+06:00"},{"status":"In Progress","timestamp":"2024-06-23T11:26:12+06:00"},{"status":"To Read","timestamp":"2024-06-23T11:24:52+06:00"}],"created":"2024-06-23T11:24:52+06:00","updated":"2024-06-24T09:42:48+06:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/What is the Fourth Dimension by Charles Howard Hinton.md","permalink":"/reading/books/read/what-is-the-fourth-dimension-by-charles-howard-hinton/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"What is the Fourth Dimension?","aliases":["What is the Fourth Dimension?"],"authors":["Charles Howard Hinton"],"publisher":"","publish":"1897","pages":32,"isbn10":"","isbn13":"OCLC:26279457","rating":"5","reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677810279i/21970444.jpg","read_count":1,"tags":["book","philosophy","physics","scientific-romance"],"log":[{"status":"Read","timestamp":"2024-06-24T01:26:26+06:00"},{"status":"In Progress","timestamp":"2024-06-23T11:26:12+06:00"},{"status":"To Read","timestamp":"2024-06-23T11:24:52+06:00"}],"created":"2024-06-23T11:24:52+06:00","updated":"2024-06-24T10:05:53+06:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/What is the Fourth Dimension by Charles Howard Hinton.md","permalink":"/reading/books/read/what-is-the-fourth-dimension-by-charles-howard-hinton/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -24,8 +24,10 @@ If you fail to find anything new in this book in regard to the fourth dimension,
 As the name reveals, this book is a musing/speculation about the fourth dimension.
 
 Hinton's four-dimensional space is an Euclidean one. This shouldn't be confused with the non-Euclidean four-dimensional space like the [Minkowski's](http://web.mit.edu/redingtn/www/netadv/SP20130311.html) which was the basis of the Theory of Relativity. Hinton never mentioned *time* as the fourth dimension and it would've required a [[Personal/Reading/Books/Read/The Structure of Scientific Revolutions by Thomas S. Kuhn#^3d1f04\|paradigm shift]] on Hinton's part. While it is not the *spacetime* we know now, it is quite an interesting system.
+{ #a63817}
 
-I liked how— example by example— Hinton built a system of fourth-dimensional space in a few pages which is consistent, sound in its structure and extremely thought-provoking.
+
+I liked how— example by example— Hinton built a system of fourth-dimensional space in a few pages which is consistent— complete with physical properties and consciousness, sound in its structure and extremely thought-provoking.
 
 > [!note] Notes and Highlights
 > (Notes:: [[Personal/Reading/Notes and Highlights/What is the Fourth Dimension by Charles Howard Hinton\|What is the Fourth Dimension by Charles Howard Hinton]])
