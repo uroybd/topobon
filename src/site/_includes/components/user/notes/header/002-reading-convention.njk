@@ -1,4 +1,4 @@
-{%- if tags and 'reading-notes-old' in tags or 'reading-note' in tags -%}
+{%- if tags and 'reading-notes-old' in tags -%}
 {%- for note in collections.note -%}
 {%- if note.data.tags and 'reading-convention' in note.data.tags -%}
 <div class="callout" data-callout="info">
