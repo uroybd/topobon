@@ -52,7 +52,7 @@ Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpos
 
 Explore fellow readers in the book webring:
 
-<a href="https://webri.ng/webring/thebookring/previous?via=https://hermitage.utsob.me"><img src="https://i.imgur.com/sIR6aFP.gif" width="13" height="13"> </a><a href="https://library.marigold.town/"><img src="https://i.imgur.com/kZzmx1a.gif" width="88" height="31"></a><a href="https://webri.ng/webring/thebookring/next?via=https://hermitage.utsob.me"> <img src="https://i.imgur.com/6ni3bTd.gif" width="13" height="13"></a>
+<a href="https://webri.ng/webring/thebookring/previous?via=https://hermitage.utsob.me"><img src="https://i.imgur.com/sIR6aFP.gif" width="13" height="13"> </a><a href="https://library.marigold.town/"><img src="https://i.imgur.com/kZzmx1a.gif" width="88" height="31"></a><a href="https://webri.ng/webring/thebookring/next?via=https://hermitage.utsob.me"><img src="https://i.imgur.com/6ni3bTd.gif" width="13" height="13"></a>
 
 ## On Top of My mind…
 | Cover                                                        | Title                                                                                                                  | Updated                                                              | Created                                                             | Tags                                                                  |
