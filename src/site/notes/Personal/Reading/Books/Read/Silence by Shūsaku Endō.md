@@ -13,7 +13,7 @@ This is predominantly a novel about Christian sympathy. A person's journey throu
 
 
 
-<u>What do I want to say? I myself do not quite understand. Only that today, when for the glory of God Mokichi and Ichizo moaned, suffered and died, I cannot bear the monotonous sound of the dark sea gnawing at the shore. Behind the depressing silence of this sea, the silence of God. … the feeling that while men raise their voices in anguish God remains with folded arms, silent.</u> 
+What do I want to say? I myself do not quite understand. Only that today, when for the glory of God Mokichi and Ichizo moaned, suffered and died, I cannot bear the monotonous sound of the dark sea gnawing at the shore. Behind the depressing silence of this sea, the silence of God. … the feeling that while men raise their voices in anguish God remains with folded arms, silent. 
 
 </div></div>
 
@@ -27,10 +27,9 @@ What I liked about this book is how the priest was officially apostatized. He ha
 
 
 
-<u>‘Don’t deceive yourself! ’ said Ferreira. ‘Don’t disguise your own weakness with those beautiful words. ’
+‘Don’t deceive yourself! ’ said Ferreira. ‘Don’t disguise your own weakness with those beautiful words. ’
 ‘My weakness? ’ The priest shook his head; yet he had no self-confidence. ‘What do you mean? It’s because I believe in the salvation of these people … ’
-‘You make yourself more important than them. You are preoccupied with your own salvation. If you say that you will apostatize, those people will be taken out of the pit. They will be saved from suffering. And you refuse to do so. It’s because you dread to betray the Church. You dread to be the dregs of the Church, like me.
-’ Until now Ferreira’s words had burst out as a single breath of anger, but now his voice gradually weakened as he said: ‘Yet I was the same as you. On that cold, black night I, too, was as you are now. And yet is your way of acting love? A priest ought to live in imitation of Christ. If Christ were here … ’ For a moment Ferreira remained silent; then he suddenly broke out in a strong voice: ‘Certainly Christ would have apostatized for them. ’</u> 
+‘You make yourself more important than them. You are preoccupied with your own salvation. If you say that you will apostatize, those people will be taken out of the pit. They will be saved from suffering. And you refuse to do so. It’s because you dread to betray the Church. You dread to be the dregs of the Church, like me.’ Until now Ferreira’s words had burst out as a single breath of anger, but now his voice gradually weakened as he said: ‘Yet I was the same as you. On that cold, black night I, too, was as you are now. And yet is your way of acting love? A priest ought to live in imitation of Christ. If Christ were here … ’ For a moment Ferreira remained silent; then he suddenly broke out in a strong voice: ‘Certainly Christ would have apostatized for them. ’ 
 
 </div></div>
 
