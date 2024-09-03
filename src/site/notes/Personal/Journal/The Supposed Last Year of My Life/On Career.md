@@ -1,12 +1,12 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2023-02-22T22:47:57+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2022-08-22T18:25:53+06:00","dg-path":"Journal/On Career.md","permalink":"/journal/on-career/","dgPassFrontmatter":true,"noteIcon":2}
+{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2024-09-03T23:51:47+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2022-08-22T18:25:53+06:00","dg-path":"Journal/On Career.md","permalink":"/journal/on-career/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 An introspection of my life cannot be possibly done without a retrospection, a walk down the aisles between desks.
 
 The profession is not something strictly financial for me. A person can be a professional without making a cent from what is being professionally done by the said one. Anyway, I made plenty of money from my primary profession, which is programming. My secondary profession is writing, which I take very seriously. I never wrote anything of much value, though.
 
-Programming appealed to my **deep** urge of making sense, itemizing and organizing, and making a system of things. The emphasis on 'deep' asks for an explanation. It is deep because superficially I am disorganization incarnated. I live in a state of a complete mess. Yes, I do go to the office well-dressed, but that is a mindless thing I just practised. I don't care about how I look.
+Programming appealed to my **deep** urge of making sense, itemizing and organizing, and making a system of things. The emphasis on 'deep' asks for an explanation. It is deep because superficially I am disorganization incarnated. I live in a state of a complete mess. Yes, I do go to the office well-dressed, but that is a mindless thing I just practiced. I don't care about how I look.
 
 However, I like to organize my thoughts. I want to make connections about everything I perceive. The problem is, I know too little. In fact, we know too little. My deep urge to find the theory of everything has been and is being thwarted by nature from time immemorial.
 

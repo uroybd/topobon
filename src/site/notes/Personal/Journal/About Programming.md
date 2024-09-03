@@ -1,10 +1,10 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2023-02-22T22:44:26+06:00","tags":["passion","philosophy","programming"],"dg-publish":true,"dg-note-icon":"withered","created":"2018-10-04T07:41:24+06:00","dg-path":"Journal/About Programming.md","permalink":"/journal/about-programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
+{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2024-09-03T23:46:42+06:00","tags":["passion","philosophy","programming"],"dg-publish":true,"dg-note-icon":"withered","created":"2018-10-04T07:41:24+06:00","dg-path":"Journal/About Programming.md","permalink":"/journal/about-programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
 ---
 
 Among the two passions I have, programming is the one I'm less passionate about. But, it's a passion still and, since it is the work that bring me money, I spend a considerable amount of time with it. After all, we seldom can create a job out of our passion in this unforgiving, ever-expecting monster of a society.
 
-When I started, it was purely a passion. Never thought that it will be a profession for me. But, professionalism has little to do with procession. It's an attitude to do things in the best way possible.
+When I started, it was purely a passion. Never thought that it will be a profession for me. But, professionalism has little to do with profession. It's an attitude to do things in the best way possible.
 
 > [!fail] Outdated
 > The following two paragraphs contain an outdated view regarding the power of infotech. My opinion regarding this has been expressed [[Personal/Journal/The Supposed Last Year of My Life/On Career#^a97315\|here]].
