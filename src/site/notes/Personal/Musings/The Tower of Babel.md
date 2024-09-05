@@ -1,5 +1,5 @@
 ---
-{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-05T14:02:54+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-05T14:25:45+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 > [!quote] [Genesis 11:1-9 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
@@ -15,6 +15,6 @@ The Lord assailed by his insecurities and fear of usurpation started confusing t
 
 But, is that enough? Even two men sharing their thoughts will soon include the third. Two tribes will form a city. States will eventually be multilingual. Another tower in another plane in Shinar will be built…
 
-The Lord won't take any risk. He started to build walls again. This time, in every individual mind. Despite the apparent semblance in their tongues, no two humans speak the same language. Thus, we perceive another's fear and insecurities as defiance. Two lovers, except for an intense bodily deadlock, cannot express how they love each other. Two philosophers cannot agree on the fundamental points since the points are shifting in the quagmire of interpretation. A person is never to be understood by another.
+The Lord won't take any risk. He started to build walls again. This time, an invisible wall encasing every mind. Despite the apparent semblance in their tongues, no two humans speak the same language. Thus, we perceive another's fear and insecurities as defiance. Two lovers, except for an intense bodily deadlock, cannot express how they love each other. Two philosophers cannot agree on the fundamental points since the points are shifting in the quagmire of interpretation. A person is never to be understood by another.
 
 Then he divided our individuality. He put up a wall between our reptile selves and the intellect. How often do we find it hard to choose what is right and what is in our favour? Our lower brain with its bodily energy wins most of the time. Succumbed to greed we wage war and cheat friends. Making kindness sparser, walking further and further, we lost the view of the tower in Shinar— our monument of civility.
