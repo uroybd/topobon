@@ -1,5 +1,5 @@
 ---
-{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-05T18:53:07+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-05T18:56:17+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 > [!quote] [Genesis 11:1-9 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
@@ -13,7 +13,7 @@
 
 The Lord assailed by his insecurities and fear of usurpation started confusing the people. He confiscated the bricks yet to be used to build the tower and started building his invisible walls of languages. Tribes formed and started going their own ways— to distance planes, mountains, valleys, and islands.
 
-But, is that enough? Even two men sharing their thoughts will soon include the third. Two tribes will form a city. States will form based on mutual respect and balance of power despite the differences. Another tower in another plane in Shinar will be built…
+But, is that enough? Even two men sharing their thoughts will soon include the third. Two tribes will form a city. States will form based on mutual respect and balance of power despite the differences. Another tower in another Shinar will be built…
 
 The Lord won't take any risk. He started to build walls again. This time, an invisible wall encasing every mind. Despite the apparent semblance in their tongues, no two humans speak the same language. Thus, we perceive another's fear and insecurities as defiance. Two lovers, except for an intense bodily deadlock, cannot express how they love each other. Two philosophers cannot agree on the fundamental points since the points are shifting in the quagmire of interpretation. A person is never to be understood by another.
 
