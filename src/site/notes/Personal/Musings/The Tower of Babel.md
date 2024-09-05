@@ -1,5 +1,5 @@
 ---
-{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-05T18:56:17+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-05T20:57:09+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 > [!quote] [Genesis 11:1-9 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
@@ -11,7 +11,7 @@
 > 
 > *8* So the Lord scattered them from there over all the earth, and they stopped building the city. *9* That is why it was called Babel(That is, Babylon; *Babel* sounds like the Hebrew for *confused*.)—because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth.
 
-The Lord assailed by his insecurities and fear of usurpation started confusing the people. He confiscated the bricks yet to be used to build the tower and started building his invisible walls of languages. Tribes formed and started going their own ways— to distance planes, mountains, valleys, and islands.
+The Lord, assailed by his insecurities and fear of usurpation, started confusing the people. He confiscated the bricks yet to be used to build the tower and started building his invisible walls of languages. Tribes formed and started going their own ways— to distance planes, mountains, valleys, and islands.
 
 But, is that enough? Even two men sharing their thoughts will soon include the third. Two tribes will form a city. States will form based on mutual respect and balance of power despite the differences. Another tower in another Shinar will be built…
 
