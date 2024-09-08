@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Treat it Gentle by Sidney Bechet","updated":"2023-04-30T14:46:24+06:00","created":"2021-08-28T06:01:35+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["history","autobiography","jazz","music","american","reading-note"],"dg-path":"Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet.md","permalink":"/reading/notes-and-highlights/treat-it-gentle-by-sidney-bechet/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Treat it Gentle by Sidney Bechet","updated":"2024-09-07T01:15:52+06:00","created":"2021-08-28T06:01:35+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["history","autobiography","jazz","music","american","reading-note"],"dg-path":"Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet.md","permalink":"/reading/notes-and-highlights/treat-it-gentle-by-sidney-bechet/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Treat it Gentle
@@ -17,7 +17,9 @@ There's two kinds of music. There's classic and there's ragtime. When I tell you
 
 
 ### Time: 2021-08-24 02:13
-But if you have a feeling for the music, you can understand him, and that's why he keeps it so important to himself. And he's always been trying. The black man, he's been learning his way from the beginning. A way of saying something from inside himself, as far back as time, as far back as Africa, in the jungle, and the way the drums talked across the jungle, the way they filled the whole air with a sound like the blood beat- ing inside himself.
+But if you have a feeling for the music, you can understand him, and that's why he keeps it so important to himself. And he's always been trying. The black man, he's been learning his way from the beginning. A way of saying something from inside himself, as far back as time, as far back as Africa, in the jungle, and the way the drums talked across the jungle, the way they filled the whole air with a sound like the blood beating inside himself.
+{ #d38c7f}
+
 
 
 ### Time: 2021-08-24 02:17
