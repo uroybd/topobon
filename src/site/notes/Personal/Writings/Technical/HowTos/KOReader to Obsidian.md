@@ -1,5 +1,5 @@
 ---
-{"title":"KOReader to Obsidian: Export Notes and Highlights","aliases":["KOReader to Obsidian: Export Notes and Highlights"],"created":"2023-09-10T14:38:12+06:00","updated":"2024-09-08T15:17:24+06:00","dg-note-icon":3,"dg-publish":true,"tags":["koreader","obsidian","how-to","notes-export"],"dg-path":"Writings/Technical/HowTos/KOReader to Obsidian.md","permalink":"/writings/technical/how-tos/ko-reader-to-obsidian/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"KOReader to Obsidian: Export Notes and Highlights","aliases":["KOReader to Obsidian: Export Notes and Highlights"],"created":"2023-09-10T14:38:12+06:00","updated":"2024-09-08T15:18:48+06:00","dg-note-icon":3,"dg-publish":true,"tags":["koreader","obsidian","how-to","notes-export"],"dg-path":"Writings/Technical/HowTos/KOReader to Obsidian.md","permalink":"/writings/technical/how-tos/ko-reader-to-obsidian/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 Previously, I used [KOReader](https://github.com/koreader/koreader)'s notes and highlight export function to export as markdown and store them in my Obsidian vault (I've contributed to its development too). I export with styles so that they give me context later. It is very convenient. However, sometimes, it is also hard to read. In Obsidian we have [callouts](https://help.obsidian.md/Editing+and+formatting/Callouts) which are not standard markdown, and therefore, is not a good candidate to add support for it in the KOReader directly. So I decided to export as JSON from KOReader and use that JSON to generate markdown the way I like.
@@ -91,11 +91,6 @@ Lines 23-26 use a [custom callout](https://help.obsidian.md/Editing+and+formatti
     --callout-icon: lucide-brush;
 }
 ```
-
-> [!fail]- This is not required anymore.
-> As I am writing this If you have to change the colour, you have to go through the `Style` menu. Few additional taps. Quite cumbersome if you take a lot of notes. You can,
-> > 1. Either fallback to the style-based version [[Personal/Writings/Technical/HowTos/KOReader to Obsidian#Before Version 2024.08\|mentioned below]].
-> > 2. Or, Put the following [user patch](https://github.com/koreader/koreader/wiki/User-patches) in the `koreader/patches` folder to add the colour menu in the highlight context menu for direct access.<script src="https://gist.github.com/uroybd/1f9af11fdf0bba6c6c7e728eaded4833.js"></script><script src="https://gist.github.com/uroybd/1f9af11fdf0bba6c6c7e728eaded4833.js"></script>
 
 ### An Example
 Here's an exported JSON file I used to generate a note from:
