@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"title":"A Musical Offering","created":"2021-05-21T12:00:00+06:00","updated":"2024-06-09T12:53:55+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/A Musical Offering by Luis Sagasti.md","permalink":"/reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-note"],"title":"A Musical Offering","created":"2021-05-21T12:00:00+06:00","updated":"2024-09-19T23:48:06+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/A Musical Offering by Luis Sagasti.md","permalink":"/reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # A Musical Offering
@@ -104,13 +104,6 @@ The stars are the neurons of the galaxies.
 And the galaxies, brains roaming the cosmos, singing songs we cannot hear.
 
 > [!question] Thought Provoking
-
-### Page: 70 (76.09%) @ 07 Jun 2024 12:48:39 PM
-
-The stars are the neurons of the galaxies.
-And the galaxies, brains roaming the cosmos, singing songs we cannot hear.
-
-> [!quote] Quotable/Concept/General Idea
 
 ## Exotic Birds
 
