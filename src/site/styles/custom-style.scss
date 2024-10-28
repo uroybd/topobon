@@ -539,6 +539,25 @@ body {
 //     }
 // }
 
+.callout[data-callout="stylish"] {
+  --callout-color: var(--color-purple-rgb);
+  --callout-icon: lucide-brush;
+}
+
+.callout[data-callout="quote-with-source"] {
+  display: flex;
+  flex-direction: column;
+  --callout-color: var(--bg1);
+  --callout-icon: lucide-minus;
+}
+
+.callout[data-callout="quote-with-source"] .callout-title {
+  order: 2;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
 body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="stone"]::before,
 body.filetree-note-icon .filename[data-note-icon="stone"]::before,
 body.links-note-icon .internal-link[data-note-icon="stone"]::before,
