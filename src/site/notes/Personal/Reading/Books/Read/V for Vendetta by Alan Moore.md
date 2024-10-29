@@ -99,7 +99,7 @@ Dancing in the Street by Martha Reeves & The Vandellas
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75zMKn5euxQdlkZgu4P42J?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Source**: Rolling Stone ([Sympath for the Devil](https://www.azlyrics.com/lyrics/rollingstones/sympathyforthedevil.html))
+**Source**: Rolling Stone ([Sympathy for the Devil](https://www.azlyrics.com/lyrics/rollingstones/sympathyforthedevil.html))
 
 ### 08 (Page 71)
 
