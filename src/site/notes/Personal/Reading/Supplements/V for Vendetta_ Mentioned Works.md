@@ -1,32 +1,6 @@
 ---
-{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2024-10-29T17:01:09+06:00","read_count":4,"authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"In Progress","timestamp":"2024-10-27T17:00:09+06:00"},{"status":"Read","timestamp":"2023-12-05T01:05:08+06:00"},{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"In Progress","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-10-29T17:03:33+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
 ---
-
-To me, this is Alan Moor's greatest work. He is so clear, and so in command of the ideas he wanted to expose, I couldn't find a place where they got watered down which is so much common in comics.
-
-Most of the characters in V for Vendetta are complex. Seldom there is a major character like [[Entities/Literature/V for Vendetta/Characters/Bishop Anthony Lilliman\|Bishop Lilliman]] who is typical. So well-crafted the characters are, their inner struggles, and conflicts with the world out that they felt real, yet full of surprise. Moore has shown a mastery of psychology which is a hallmark of great fiction writers.
-
-However, the characters are only backdrops here. Alan Moore used these characters to effectively convey some very elaborate ideas— freedom, anarchy, justice, integrity, etc.
-
-So, when [[Entities/Literature/V for Vendetta/Characters/V\|V]] started his vendetta, it was not only against some people. It is against the system, even against the lack of aesthetics that the system enforces (hence the theatrical nature of V).
-
-## The Movie
-I'm aware of the difficulties of comparing works of two different mediums.
-
-The recurring thing I noticed in the movie is it lacks depth. This is very unfortunate. Doubly so because it seems like the lack is there not by mistake, but by design. Everything is toned down in the movie. It's a caricature.
-
-## Mentioned Works
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/supplements/v-for-vendetta-mentioned-works/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# V for Vendetta: Mentioned Works
-
-</div>
-
-
 
 [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]] is littered with literary and cultural references. These are the ones I have identified by far.
 ## Issue 01
@@ -144,10 +118,3 @@ Dancing in the Street by Martha Reeves & The Vandellas
 
 Delia Surridge explains [Milgram experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
 
-
-
-</div></div>
-
-
-> [!info] About V for Vendetta (New Edition) by Alan Moore
-> <img src="https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> A powerful story about the loss of freedom and individuality, V FOR VENDETTA takes place in a totalitarian England following a devastating war that changed the face of the planet. In a world without political freedom, personal freedom, and precious little faith in anything, comes a mysterious man in a white porcelain mask who fights political oppressors through terrorism and seemingly absurd acts in this gripping tale of the blurred lines between ideological good and evil.
