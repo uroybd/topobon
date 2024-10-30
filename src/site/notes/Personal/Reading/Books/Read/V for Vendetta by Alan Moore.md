@@ -145,6 +145,16 @@ Dancing in the Street by Martha Reeves & The Vandellas
 
 Delia Surridge explains [Milgram experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
 
+## Issue 04
+### 14 (Page 122)
+
+The first line of **This Vicious Cabaret** nods to the song "_There's a Broken Heart for Every Light on Broadway_" by Marin Mazzie and Zach Braff.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tFitPNaoQn49KCoJa47xR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+You can also listen to _This Vicious Cabaret_:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 </div></div>

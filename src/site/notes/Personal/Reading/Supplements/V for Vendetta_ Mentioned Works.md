@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-10-29T22:34:38+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-10-30T09:07:56+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]] is littered with literary and cultural references. These are the ones I have identified by far.
@@ -119,3 +119,13 @@ Dancing in the Street by Martha Reeves & The Vandellas
 
 Delia Surridge explains [Milgram experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
 
+## Issue 04
+### 14 (Page 122)
+
+The first line of **This Vicious Cabaret** nods to the song "_There's a Broken Heart for Every Light on Broadway_" by Marin Mazzie and Zach Braff.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tFitPNaoQn49KCoJa47xR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+You can also listen to _This Vicious Cabaret_:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
