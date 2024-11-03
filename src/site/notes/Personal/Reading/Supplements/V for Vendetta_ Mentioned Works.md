@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-10-30T09:07:56+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-11-03T00:38:48+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]] is littered with literary and cultural references. These are the ones I have identified by far.
@@ -129,3 +129,19 @@ The first line of **This Vicious Cabaret** nods to the song "_There's a Broken H
 You can also listen to _This Vicious Cabaret_:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Issue 08
+### 15 (Page 264)
+
+> It will all be over by the Christmas
+
+People used to believe that the World War I will be finished by the Christmas of 1914.
+
+### 16 (Page 279)
+
+> Turning and turning in the widening gyre
+> The falcon cannot hear the falconer;
+> Things fall apart; the centre cannot hold;
+> Mere anarchy is loosed upon the world,
+
+**Source**: W.B. Yeats (The Second Coming)

@@ -156,6 +156,21 @@ You can also listen to _This Vicious Cabaret_:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+## Issue 08
+### 15 (Page 264)
+
+> It will all be over by the Christmas
+
+People used to believe that the World War I will be finished by the Christmas of 1914.
+
+### 16 (Page 279)
+
+> Turning and turning in the widening gyre
+> The falcon cannot hear the falconer;
+> Things fall apart; the centre cannot hold;
+> Mere anarchy is loosed upon the world,
+
+**Source**: W.B. Yeats (The Second Coming)
 
 </div></div>
 
