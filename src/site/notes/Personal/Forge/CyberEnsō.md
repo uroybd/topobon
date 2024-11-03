@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-03T12:33:12+06:00","updated":"2024-11-03T20:20:34+06:00","title":"CyberEnsō","tags":["generative-art","tool"],"deployment_link":"https://enso.utsob.me","source_link":"https://github.com/uroybd/cyberenso","description":"Ensō on screen.","dg-publish":true,"dg-note-icon":"chest","cover":"https://enso.utsob.me/daily-source.jpg","permalink":"/personal/forge/cyber-enso/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"created":"2024-11-03T12:33:12+06:00","updated":"2024-11-03T20:20:34+06:00","title":"CyberEnsō","tags":["generative-art","tool"],"deployment_link":"https://enso.utsob.me","source_link":"https://github.com/uroybd/cyberenso","description":"Ensō on screen.","dg-publish":true,"dg-note-icon":"chest","cover":"https://enso.utsob.me/daily-source.jpg","dg-path":"Forge/CyberEnsō.md","permalink":"/forge/cyber-enso/","dgPassFrontmatter":true,"noteIcon":"chest"}
 ---
 
 ![Today's CyberEnso](https://enso.utsob.me/daily-source.jpg)
