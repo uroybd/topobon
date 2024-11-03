@@ -43,6 +43,7 @@ const noteLabels = {
   },
   signpost: { label: "Signpost", count: 0, icon: "signpost" },
   stone: { label: "Stone", count: 0, icon: "stone" },
+  chest: { label: "Chest", count: 0, icon: "chest" }
 };
 
 function forestData(data) {

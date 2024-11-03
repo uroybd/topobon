@@ -579,6 +579,14 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
   background-image: url(/img/withered.svg);
 }
 
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="chest"]::before,
+body.filetree-note-icon .filename[data-note-icon="chest"]::before,
+body.links-note-icon .internal-link[data-note-icon="chest"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
+  background-image: url(/img/chest.svg);
+}
+
 .align-icon {
   display: inline-flex;
   align-items: center;
