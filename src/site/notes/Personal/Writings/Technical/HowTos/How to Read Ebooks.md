@@ -1,5 +1,5 @@
 ---
-{"title":"Reading E-Books for dummies অথবা কীভাবে ইবুক পড়তে হয়...","aliases":["Reading E-Books for dummies অথবা কীভাবে ইবুক পড়তে হয়..."],"created":"2023-10-17T14:41:02+06:00","updated":"2024-11-03T20:28:51+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["how-to","reading"],"dg-path":"Writings/Technical/HowTos/How to Read Ebooks.md","permalink":"/writings/technical/how-tos/how-to-read-ebooks/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"Reading E-Books for dummies অথবা কীভাবে ইবুক পড়তে হয়...","aliases":["Reading E-Books for dummies অথবা কীভাবে ইবুক পড়তে হয়..."],"created":"2023-10-17T14:41:02+06:00","updated":"2024-11-03T20:30:08+06:00","dg-publish":true,"dg-note-icon":2,"tags":["how-to","reading"],"dg-path":"Writings/Technical/HowTos/How to Read Ebooks.md","permalink":"/writings/technical/how-tos/how-to-read-ebooks/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ## ফরম্যাট
