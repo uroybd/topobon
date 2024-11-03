@@ -245,9 +245,9 @@ body {
     font-size: 24px;
     z-index: 999999;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-end;
-    gap: 10px;
+    gap: 5px;
 
     .svg-icon,
     i {
