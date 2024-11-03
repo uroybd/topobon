@@ -1,0 +1,14 @@
+{% if noteIcon == "chest" %}
+<div class="tool-links">
+{% if deployment_link %}
+<div class="tool-link">
+<a href="{{ deployment_link }}"><i icon-name="external-link"></i></a>
+</div>
+{% endif %}
+{% if source_link %}
+<div class="tool-link">
+<a href="{{ source_link }}"><i icon-name="github"></i></a>
+</div>
+{% endif %}
+</div>
+{% endif %}
