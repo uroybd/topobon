@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-11-03T00:38:48+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-11-04T01:20:03+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]] is littered with literary and cultural references. These are the ones I have identified by far.
@@ -145,3 +145,31 @@ People used to believe that the World War I will be finished by the Christmas of
 > Mere anarchy is loosed upon the world,
 
 **Source**: W.B. Yeats (The Second Coming)
+
+## Issue IX
+### 17 (Page 307)
+
+> Everytime we say goodbye
+> I die a little
+
+**Source**: Song by Ella Fitzgerald
+
+### 18 (Page 311)
+
+Evey refers to Ray Bradbury's **The Scythe**, a short story.
+
+### 19 (Page 313)
+
+> I'm waiting for the man.
+
+Song by Velvet Underground
+
+### 20 (Page 325)
+
+> So, how can you tell me you're lonely
+> And say for you that the sun don't shine?
+> Let me take you by the hand
+> And lead you through the streets of London
+> Show you something to make you change your mind
+
+Streets of London, Song by Ralph McTell

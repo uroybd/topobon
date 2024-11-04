@@ -172,6 +172,34 @@ People used to believe that the World War I will be finished by the Christmas of
 
 **Source**: W.B. Yeats (The Second Coming)
 
+## Issue IX
+### 17 (Page 307)
+
+> Everytime we say goodbye
+> I die a little
+
+**Source**: Song by Ella Fitzgerald
+
+### 18 (Page 311)
+
+Evey refers to Ray Bradbury's **The Scythe**, a short story.
+
+### 19 (Page 313)
+
+> I'm waiting for the man.
+
+Song by Velvet Underground
+
+### 20 (Page 325)
+
+> So, how can you tell me you're lonely
+> And say for you that the sun don't shine?
+> Let me take you by the hand
+> And lead you through the streets of London
+> Show you something to make you change your mind
+
+Streets of London, Song by Ralph McTell
+
 </div></div>
 
 
