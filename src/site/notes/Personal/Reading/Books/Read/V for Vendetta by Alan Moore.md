@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2024-10-29T17:01:09+06:00","read_count":4,"authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"In Progress","timestamp":"2024-10-27T17:00:09+06:00"},{"status":"Read","timestamp":"2023-12-05T01:05:08+06:00"},{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"In Progress","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2024-11-05T18:58:28+06:00","read_count":5,"authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"Read","timestamp":"2024-11-05T18:58:25+06:00"},{"status":"In Progress","timestamp":"2024-10-27T17:00:09+06:00"},{"status":"Read","timestamp":"2023-12-05T01:05:08+06:00"},{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 To me, this is Alan Moor's greatest work. He is so clear, and so in command of the ideas he wanted to expose, I couldn't find a place where they got watered down which is so much common in comics.
@@ -180,6 +180,8 @@ People used to believe that the World War I will be finished by the Christmas of
 
 **Source**: Song by Ella Fitzgerald
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dRsNHZdFTtYKDh05EyfJw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 18 (Page 311)
 
 Evey refers to Ray Bradbury's **The Scythe**, a short story.
@@ -188,7 +190,9 @@ Evey refers to Ray Bradbury's **The Scythe**, a short story.
 
 > I'm waiting for the man.
 
-Song by Velvet Underground
+**Source**: Song by Velvet Underground
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fElupNRLRJ0tbUDahPrAb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 20 (Page 325)
 
@@ -198,7 +202,10 @@ Song by Velvet Underground
 > And lead you through the streets of London
 > Show you something to make you change your mind
 
-Streets of London, Song by Ralph McTell
+**Source**: Streets of London, Song by Ralph McTell
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zwH1NlxBEpzVlvzXNHQso?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 </div></div>
 

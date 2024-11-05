@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-11-04T01:20:03+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2024-10-28T20:06:38+06:00","updated":"2024-11-05T21:35:04+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]] is littered with literary and cultural references. These are the ones I have identified by far.
@@ -154,6 +154,8 @@ People used to believe that the World War I will be finished by the Christmas of
 
 **Source**: Song by Ella Fitzgerald
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dRsNHZdFTtYKDh05EyfJw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 18 (Page 311)
 
 Evey refers to Ray Bradbury's **The Scythe**, a short story.
@@ -162,7 +164,9 @@ Evey refers to Ray Bradbury's **The Scythe**, a short story.
 
 > I'm waiting for the man.
 
-Song by Velvet Underground
+**Source**: Song by Velvet Underground
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fElupNRLRJ0tbUDahPrAb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 20 (Page 325)
 
@@ -172,4 +176,6 @@ Song by Velvet Underground
 > And lead you through the streets of London
 > Show you something to make you change your mind
 
-Streets of London, Song by Ralph McTell
+**Source**: Streets of London, Song by Ralph McTell
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zwH1NlxBEpzVlvzXNHQso?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
