@@ -63,7 +63,7 @@ Kafka’s intuition that if the world has coherence, it is one that we can never
 
 
 ### Time: 2021-09-03 22:05
-Pope Gregory the Great would echo Saint Nilus’s views: “It is one thing to worship a picture, it is another to learn in depth, by means of pictures, a venerable story. For that which writing makes present to the reader, pictures make present to the illiterate, to those who only perceive visually, because in pictures the ignorant see the story they ought to follow, and those who don’t know their letters find that they can, after a fashion, read.Therefore, especially for the common folk, pictures are the equivalent of reading.”8 In 1025the Synod of Arras stated that “what simple people could not grasp through reading the scriptures could be learned by means of contemplating pictures.”
+Pope Gregory the Great would echo Saint Nilus’s views: “It is one thing to worship a picture, it is another to learn in depth, by means of pictures, a venerable story. For that which writing makes present to the reader, pictures make present to the illiterate, to those who only perceive visually, because in pictures the ignorant see the story they ought to follow, and those who don’t know their letters find that they can, after a fashion, read. Therefore, especially for the common folk, pictures are the equivalent of reading.”8 In 1025the Synod of Arras stated that “what simple people could not grasp through reading the scriptures could be learned by means of contemplating pictures.”
 
 ---
 *Nice pedagogical aspect.*
