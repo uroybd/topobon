@@ -69,6 +69,8 @@ Scientific control of society is no highway to Utopia.
 ### Page: 55 (19.16%) @ 20 Dec 2024 12:41:15 AM
 
 A system can be defined as a set of elements standing in interrelations. Interrelation means that elements, p, stand in relations, R, so that the behavior of an element p in R is different from its behavior in another relation, R′. If the behaviors in R and R′ are not different, there is no interaction, and the elements behave independently with respect to the relations R and R′.
+{ #82aa6e}
+
 
 > [!quote] Quotable/Concept/General Idea
 
@@ -117,8 +119,6 @@ What has been said are not metaphysical or philosophic contentions. We are not e
 
 > [!question] Thought Provoking
 > This clarifies the confusion I had in the previous highlight, I guess.
-
-
 
 ## Advances of General System Theory
 
@@ -200,6 +200,8 @@ Greek sculpture, Renaissance painting. German music—indeed, any aspect of cult
 ### Page: 193 (67.25%) @ 04 Jan 2025 05:54:22 PM
 
 Also the principle of stress, so often invoked in psychology, psychiatry and psychosomatics, needs some reevaluation. As everything in the world, stress too is an ambivalent thing. Stress is not only a danger to life to be controlled and neutralized by adaptive mechanisms; it also creates higher life. If life, after disturbance from outside, had simply returned to the so-called homeostatic equilibrium, it would never have progressed beyond the amoeba which, after all, is the best adapted creature in the world—it has survived billions of years from the primeval ocean to the present day.
+{ #8d3ac9}
+
 
 > [!question] Thought Provoking
 
