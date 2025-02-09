@@ -1,4 +1,4 @@
-{% if noteIcon == "chest" %}
+{% if noteIcon == "chest" and (deployment_link or source_link) %}
 <p style="font-style: italic">{{ description }}</p>
 <div class="tool-links">
 {% if deployment_link %}
