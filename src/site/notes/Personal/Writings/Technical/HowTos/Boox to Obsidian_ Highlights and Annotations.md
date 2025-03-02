@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2024-11-03T20:28:37+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2025-03-02T12:46:44+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":"chest"}
 ---
 
 ## Problem
@@ -14,7 +14,9 @@ Here's a workflow (basically a [Templater](https://silentvoid13.github.io/Templa
     -  `!` for important notes.
     - `@` for disagreement.
     - `?` for thought-provoking things.
-    - `>` for continued highlight. NeoReader doesn't allow to spill the highlight to another page. This will allow you to merge consecutive notes into one.
+    - `/` for ideas I am sceptic about.
+    - `~` for warning
+    - `#` for stylishly written content.
 
 Only these symbols at the beginning will be treated differently.
 
@@ -37,14 +39,10 @@ Reading Notes | <<Proust, Marcel - Swann's Way>>Marcel Proust
 PART II - Swann in Love
 2023-09-28 13:11  |  Page No.: 166
 It even seemed, for a moment, that this love for a phrase of music would have to open in Swann the possibility of a sort of rejuvenation. He had for so long given up directing his life toward an ideal goal and limited it to the pursuit of everyday satisfactions that he believed, without ever saying so formally to himself, that this would not change as long as he lived; much worse, since his mind no longer entertained any lofty ideas, he had ceased to believe in their reality, though without being able to deny it altogether.
-【Note】? a common pitfall.
+【Annotation】? a common pitfall.
 -------------------
 2023-10-02 12:09  |  Page No.: 173
-fix you up,” and with the conceited little laugh she would have given at some invention of her own, had settled behind Swann’s head, and under his feet, cushions of Japanese silk which she kneaded as if she were lavish with these riches and careless of their value. But when the valet came bringing one after another the many lamps which, nearly all enclosed in large Chinese vases, burned singly or in pairs, all on different pieces of furniture as though on altars, and which hadsummoned back to the already almost nocturnal
--------------------
-2023-10-02 12:09  |  Page No.: 175
-again in her, nevertheless that resemblance conferred a certain beauty on her too, made her more precious. Swann reproached himself for having misunderstood the value of a creature who would have appeared captivating to the great Sandro, and he felt happy that his pleasure in seeing Odette could be justified by his own aesthetic culture. He told himself
-【Note】>
+fix you up,” and with the conceited little laugh she would have given at some invention of her own, had settled behind Swann’s head, and under his feet, cushions of Japanese silk which she kneaded as if she were lavish with these riches and careless of their value. But when the valet came bringing one after another the many lamps which, nearly all enclosed in large Chinese vases, burned singly or in pairs, all on different pieces of furniture as though on altars, and which hadsummoned back to the already almost nocturnal again in her, nevertheless that resemblance conferred a certain beauty on her too, made her more precious. Swann reproached himself for having misunderstood the value of a creature who would have appeared captivating to the great Sandro, and he felt happy that his pleasure in seeing Odette could be justified by his own aesthetic culture. He told himself
 -------------------
 PART III - Place-Names: The Name
 2023-10-02 12:09  |  Page No.: 288
@@ -52,11 +50,11 @@ AMONG THE BEDROOMS whose images I summoned up most often in my nights of insomni
 -------------------
 2023-10-02 12:10  |  Page No.: 289
 geology—and just as completely outside human history as the Ocean itself or the Great Bear,4 with those wild fishermen for whom no more than for the whales had there been any Middle Ages—it had been a great delight for me to see it suddenly take its place in the sequence of the centuries, now that it had experienced theRomanesque period, and to know that the Gothic trefoil had come at the proper time topattern those wild rocks too, like the frail but hardy plants which, when spring comes, spangle here and there the polar snow
-【Note】* a note of importance
+【Annotation】* a note of importance
 -------------------
 2023-10-02 12:11  |  Page No.: 290
 perfumes, colors seemed to me of any value; forthis alternation of images had brought about a change of direction in my desire, and—as abrupt as those that occur now and then in music—a complete change of tone in my sensibility. Thus it came about that a simple variation in the atmosphere was enough toprovoke this modulation in me without any need to wait for the return of a season. Foroften, in one season, we find a day that has strayed from another and that immediatelyevokes its particular pleasures, lets us experience
-【Note】! another one!
+【Annotation】! another one!
 -------------------
 ```
 
