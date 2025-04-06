@@ -1,5 +1,5 @@
 ---
-{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2025-03-25T20:08:37+06:00","updated":"2025-04-04T15:39:08+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/House Of Leaves.md","permalink":"/reading/notes-and-highlights/house-of-leaves/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2025-03-25T20:08:37+06:00","updated":"2025-04-06T15:44:38+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/House Of Leaves.md","permalink":"/reading/notes-and-highlights/house-of-leaves/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # House Of Leaves
@@ -86,7 +86,7 @@ What can I say, I'm a sucker for abandoned stuff, misplaced stuff, forgotten stu
 
 ### Page: 58 (7.84%) @ 03 Mar 2025 12:35:07 AM
 
-Karen refuses the knowledge. A reluctant Eve who prefers tanger ines to apples
+Karen refuses the knowledge. A reluctant Eve who prefers tangerines to apples.
 
 > [!stylish] Stylish
 
@@ -110,7 +110,7 @@ At first glance, it seems hard to believe these two men are even related let alo
 
 ### Page: 60 (8.11%) @ 03 Mar 2025 12:46:27 AM
 
-As science writer and sometime theologian David Conte wrote: "God for all intents and purposes is an equal sign, and at least up until now, something humanity has always been able to believe in is that the universe adds up
+As science writer and sometime theologian David Conte wrote: "God for all intents and purposes is an equal sign, and at least up until now, something humanity has always been able to believe in is that the universe adds up.
 
 > [!question] Thought Provoking
 
@@ -118,7 +118,7 @@ As science writer and sometime theologian David Conte wrote: "God for all intent
 
 ### Page: 61 (8.24%) @ 03 Mar 2025 01:04:46 AM
 
-It is beneficial to consider the origins of " riddle." The Old English rēdelse means "opinion, conjure" which is related to the Old English radon "to interpret" in turn belonging to the same etymological history of "read." "Riddling" is an offshoot of "reading" calling to mind the participatory nature of that act-to interpret-which is all the adult world has left when faced with the unsolvable.
+It is beneficial to consider the origins of "riddle." The Old English rēdelse means "opinion, conjure" which is related to the Old English radon "to interpret" in turn belonging to the same etymological history of "read." "Riddling" is an offshoot of "reading" calling to mind the participatory nature of that act-to interpret-which is all the adult world has left when faced with the unsolvable.
 
 > [!important] Striking/Intense
 
@@ -136,7 +136,7 @@ imperceivable and alone, though not I think so lonely
 
 ### Page: 67 (9.05%) @ 03 Mar 2025 12:16:13 PM
 
-When confronting the spatial disparity in the house, Karen set her mind on familiar things while Navidson went in search of a solution. The children, however, just accepted it. They raced through the closet. They played in it. They inhabited it. They denied the paradox by swallowing it whole. Paradox, after all, is two irreconcilable trüths. But children do not know the laws of the world well enough yet to fear the ramifications of the irreconcilable. There are certainly no primal associations with spatial anomalies.
+When confronting the spatial disparity in the house, Karen set her mind on familiar things while Navidson went in search of a solution. The children, however, just accepted it. They raced through the closet. They played in it. They inhabited it. They denied the paradox by swallowing it whole. Paradox, after all, is two irreconcilable truths. But children do not know the laws of the world well enough yet to fear the ramifications of the irreconcilable. There are certainly no primal associations with spatial anomalies.
 
 > [!question] Thought Provoking
 
@@ -171,7 +171,7 @@ In 1989, however, the noted southern theologian Hanson Edwin Rose dramatically r
 
 ### Page: 73 (9.86%) @ 03 Mar 2025 12:44:44 PM
 
-Why did god create a dual universe? So he might say, "Be not like me. I am alone." And it might be heard,
+Why did god create a dual universe? So he might say, "Be not like me. I am alone." And it might be heard.
 
 > [!stylish] Stylish
 
@@ -180,7 +180,7 @@ Why did god create a dual universe? So he might say, "Be not like me. I am alone
 
 ### Page: 78 (10.54%) @ 03 Mar 2025 01:05:24 PM
 
-Myth makes Echo the subject of longing and desire. Physics makes Echo the subject of distance and design. Where emotion and reason are concerned both claims are accurate. And where there is no Echo there is no description of space or love. There is only silence.65
+Myth makes Echo the subject of longing and desire. Physics makes Echo the subject of distance and design. Where emotion and reason are concerned both claims are accurate. And where there is no Echo there is no description of space or love. There is only silence.
 
 > [!stylish] Stylish
 
@@ -200,7 +200,7 @@ Quick note here: if this crush-slash-swooning stuff is hard for you to stomach; 
 
 ### Page: 115 (15.54%) @ 05 Mar 2025 12:50:32 AM
 
-Even after seeing Navidson's accomplished shots, it is hard to disagree with Holloway. The darkness recreated in a lab or television set does not begin to tell the true story. Whether chemical clots determining black or video grey approximating absence, the images still remain two-dimensional. In order to have a third dimension, depčh cues are required, which in the case of the stairway means more light. The flares, however, barely illuminate the size of that bore. In fact, they are easily extinguished by the very thing they are supposed to expose. Only knowledge illuminates that bottomless place, disclosing the deep ultimately absent in all the tapes and stills -those strange cartes de visites. It is unfortunate that Holloway's images cannot even be counted as approximations of that vast abrupt, where as Rilke wrote, "aber da, an diesem schwarzen Fellel wird dein stärkstes Schauen aufgelöst
+Even after seeing Navidson's accomplished shots, it is hard to disagree with Holloway. The darkness recreated in a lab or television set does not begin to tell the true story. Whether chemical clots determining black or video grey approximating absence, the images still remain two-dimensional. In order to have a third dimension, depčh cues are required, which in the case of the stairway means more light. The flares, however, barely illuminate the size of that bore. In fact, they are easily extinguished by the very thing they are supposed to expose. Only knowledge illuminates that bottomless place, disclosing the deep ultimately absent in all the tapes and stills -those strange cartes de visites. It is unfortunate that Holloway's images cannot even be counted as approximations of that vast abrupt, where as Rilke wrote, "aber da, an diesem schwarzen Fellel wird dein stärkstes Schauen aufgelöst"
 
 > [!question] Thought Provoking
 
@@ -209,7 +209,7 @@ Even after seeing Navidson's accomplished shots, it is hard to disagree with Hol
 
 ### Page: 140 (18.92%) @ 08 Mar 2025 02:27:35 AM
 
-This is why classical thought concerning structure could say that the center is, paradoxically, within the structure and outside it. The center is at the center of the totality, and yet, since the center does not belong to the totality (is not part of the totality), the totality has its center elsewhere. The center is not the center,131
+This is why classical thought concerning structure could say that the center is, paradoxically, within the structure and outside it. The center is at the center of the totality, and yet, since the center does not belong to the totality (is not part of the totality), the totality has its center elsewhere. The center is not the center.
 
 > [!question] Thought Provoking
 
@@ -218,7 +218,7 @@ This is why classical thought concerning structure could say that the center is,
 
 ### Page: 151 (20.41%) @ 08 Mar 2025 03:14:03 AM
 
-"Goethe once remarked in a letter to Johann Peter Eckermann [March 23, 1829]: 'I call architecture frozen music.'15
+"Goethe once remarked in a letter to Johann Peter Eckermann [March 23, 1829]: 'I call architecture frozen music.'
 
 > [!important] Striking/Intense
 
@@ -236,7 +236,7 @@ I wash the sweat off my face, do my best to suppress a shiver, can't, return to 
 
 ### Page: 394 (53.24%) @ 17 Mar 2025 05:45:14 PM
 
-I don't think I'm alone in feeling the immutable sadness contained in these fragments. Perhaps that is the price of remembering, the price of perceiving accurately. At least with such sorrow must come knowledge,
+I don't think I'm alone in feeling the immutable sadness contained in these fragments. Perhaps that is the price of remembering, the price of perceiving accurately. At least with such sorrow must come knowledge.
 
 > [!stylish] Stylish
 
@@ -245,7 +245,7 @@ I don't think I'm alone in feeling the immutable sadness contained in these frag
 
 ### Page: 396 (53.51%) @ 17 Mar 2025 05:52:34 PM
 
-There are only 8,160 frames in Karen's film and yet they serve as the perfect counterpoint to that infinite stretch of hallways, rooms and stairs. The house is empty, her piece is full. The house is dark, her film glows. A growl haunts that place, her place is blessed by Charlie Parker. On Ăsh Tree Lane stands a house of darkness, cold, and emptiness. In 16mm stands a house of light, love, and colour.
+There are only 8,160 frames in Karen's film and yet they serve as the perfect counterpoint to that infinite stretch of hallways, rooms and stairs. The house is empty, her piece is full. The house is dark, her film glows. A growl haunts that place, her place is blessed by Charlie Parker. On Ash Tree Lane stands a house of darkness, cold, and emptiness. In 16mm stands a house of light, love, and colour.
 
 > [!stylish] Stylish
 
@@ -263,7 +263,7 @@ Here then at long last is my darkness. No cry of light, no glimmer, not even the
 
 ### Page: 530 (71.62%) @ 23 Mar 2025 02:12:00 PM
 
-A quick re-read of all this and I begin to see I'm tracing the wrong history. Virginia may have meant a great deal to Zampanò's imagination. doesn't to mine. I'm following something else. Maybe parallel. Possibly harmonic. Certainly personal. A vein of it inhabiting every place I've visited so far, whether in Texasyes, I finally went New Orleans, Asheville, North Carolina or any other twist of road or broken town I happened to cross on my way east. I cannot tell you why I didn't see her until now. And it wasn't a scent that brought her back either or the wistful edges of some found object or any other on-the-road revelation. It was my own hand that did this. Maybe you saw her first? Caught a glimpse, between the lines, between the letters, like a ghost in the mirror, a ghost in the wings? My mother is right before me now, right before you. There as the docent, as the interpreter, maybe even as this strange and tangled countryside. Her shallow face, the dark lyric in her eyes and of course her words, in those far-reaching letters she used to send me when I was young, secretly alluding to how she could sit and watch the night seal the đusk, year after year, waiting it out like a cat. Or observe how WOrds themselves can also Write. Or even, in her own beautiful, and yes horrifying way, instruct me on how to murder. One day even demonstrate it. She is here now. She has always been here.
+A quick re-read of all this and I begin to see I'm tracing the wrong history. Virginia may have meant a great deal to Zampanò's imagination. doesn't to mine. I'm following something else. Maybe parallel. Possibly harmonic. Certainly personal. A vein of it inhabiting every place I've visited so far, whether in Texsus, I finally went New Orleans, Asheville, North Carolina or any other twist of road or broken town I happened to cross on my way east. I cannot tell you why I didn't see her until now. And it wasn't a scent that brought her back either or the wistful edges of some found object or any other on-the-road revelation. It was my own hand that did this. Maybe you saw her first? Caught a glimpse, between the lines, between the letters, like a ghost in the mirror, a ghost in the wings? My mother is right before me now, right before you. There as the docent, as the interpreter, maybe even as this strange and tangled countryside. Her shallow face, the dark lyric in her eyes and of course her words, in those far-reaching letters she used to send me when I was young, secretly alluding to how she could sit and watch the night seal the đusk, year after year, waiting it out like a cat. Or observe how WOrds themselves can also Write. Or even, in her own beautiful, and yes horrifying way, instruct me on how to murder. One day even demonstrate it. She is here now. She has always been here.
 
 > [!stylish] Stylish
 
