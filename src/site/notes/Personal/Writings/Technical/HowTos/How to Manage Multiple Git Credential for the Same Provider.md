@@ -55,7 +55,7 @@ fi
 > [!warning] Points to Note
 > 1. We're assuming that your *Personal SSH key* is the default one of your system. Therefore, we need to use the official key (`~/.ssh/id_ed25519_official`) when we are in the `office-projects` directory.
 > 2. Notice the `office_repos_regex`. You should modify it based on your structure.
-> 3. Replace `/usr/bin/git` with the git path you got from [[Personal/Writings/Technical/HowTos/How to Manage Multiple Git Credential for the Same Provider#Know your current git path\|here]].
+> 3. Replace `/usr/bin/git` with the git path you got from [[#Know your current git path|here]].
 > 4. Replace `~/.ssh/id_ed25519_official` with your *Official SSH key*.
 
 It is a simple script to identify if you're in an official repository and use official ssh key for all git commands.
