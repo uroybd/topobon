@@ -1,6 +1,10 @@
 ---
-{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2025-03-02T12:46:44+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"Boox to Obsidian: Highlights and Annotations","aliases":["Boox to Obsidian: Highlights and Annotations"],"created":"2023-08-01T13:46:56+06:00","updated":"2025-05-09T16:55:41+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["obsidian","boox","neoreader","how-to"],"dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-highlights-and-annotations/","dgPassFrontmatter":true,"noteIcon":"chest"}
 ---
+
+
+> [!INFO] A better approach…
+> Although a little complicated, but better approach is to download the exported highlights as JSON from the Boox-cloud and use that to generate notes as we want (with rich context provided by the colour being used to highlight). You can find out how to do that [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud\|in this note]].
 
 ## Problem
 One can easily export highlights and annotations from NeoReader[^1] as txt file. However, it has some very important downsides:
