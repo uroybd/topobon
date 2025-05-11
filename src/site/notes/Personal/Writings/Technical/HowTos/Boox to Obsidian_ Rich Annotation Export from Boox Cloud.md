@@ -1,8 +1,8 @@
 ---
-{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2025-04-01T17:24:19+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2025-05-11T20:23:49+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest"}
 ---
 
-[Many like me](https://christiantietze.de/posts/2023/05/boox-neoreader-annotation-export-is-meh/), have already noticed that annotations exported as text or HTML from Boox devices are inadequate at best. They lack context. Previously, I tried to make situation better by [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations\|adding some context in the notes]]. It works, but it is very cumbersome to handle.
+[Many like me](https://christiantietze.de/posts/2023/05/boox-neoreader-annotation-export-is-meh/), have already noticed that annotations exported as text or HTML from Boox devices are inadequate at best. They lack context. Previously, I tried to make the situation better by [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations\|adding some context in the notes]]. It works, but it is very cumbersome to handle.
 
 **But, I found a better way.**
 
@@ -11,7 +11,6 @@ First, lets get the data from Boox Cloud as JSON. These JSON files will contain 
 First, install the plugin in your browser and add the following script:
 
 ```js
-
 // ==UserScript==
 // @name         Boox Annotations
 // @namespace    http://tampermonkey.net/
@@ -30,6 +29,8 @@ First, install the plugin in your browser and add the following script:
   const databases = await window.indexedDB.databases();
   return databases.find(db => db.name.startsWith("_pouch") && db.name.endsWith("-library"))
 }
+
+const validTypes = ["epub", "pdf", "cbz"]
 
 
 function loadFromIndexedDB(storeName){
@@ -74,11 +75,14 @@ async function getContent() {
 var bookCommands = [];
 var content = [];
 
+
 function selectBook(content) {
-  let books = content.filter((item) => item.progress != undefined && item.title != undefined && item.title != null)
+  let books = content.filter((item) => item.progress != undefined && validTypes.includes(item.type))
+
   books = books.filter((item, index) => {
       return books.findIndex((otherItem) => otherItem.uniqueId == item.uniqueId && otherItem.updatedAt > item.updatedAt) == -1
   })
+  console.log(books)
   // Create a modal with the list of books:
   const modal = document.createElement("div");
     // Position it to center
@@ -101,9 +105,15 @@ function selectBook(content) {
     const list = document.createElement("ul")
     // Style it without bullets
     list.style.listStyle = "none"
+    list.style.overflow = "scroll"
+    list.style.maxHeight = "80vh"
     books.forEach((book) => {
       const btn = document.createElement("li")
-      btn.textContent = book.title
+      var title = book.title
+      if (!title) {
+          title = book.name
+      }
+      btn.textContent = title
       btn.addEventListener("click", () => {
         document.body.removeChild(modal)
         const ann = getAnnotations(book)
@@ -156,6 +166,7 @@ function getAnnotations(book) {
     format: book.type,
     pageNumber: parseInt(book.progress.split("/")[1]),
     annotations: annotations.map((item) => {
+        console.log(item);
       return {
         quote: item.quote,
         note: item.note,
@@ -188,6 +199,8 @@ function download(annotations) {
   document.body.removeChild(a);
   console.log(annotations)
 }
+
+
 
 GM.registerMenuCommand("Download Book's Annotations", async (event) => {
   content = await getContent()
