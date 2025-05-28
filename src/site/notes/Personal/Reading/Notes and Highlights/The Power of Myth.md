@@ -1,20 +1,20 @@
 ---
-{"tags":["reading-notes-old"],"created":"2018-03-01T18:20:36+06:00","updated":"2023-01-11T14:16:10+06:00","dg-publish":true,"dg-note-icon":"stone","title":"Notes from The Power of Myth","dg-path":"Reading/Notes and Highlights/The Power of Myth.md","permalink":"/reading/notes-and-highlights/the-power-of-myth/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"created":"2018-03-01T18:20:36+06:00","updated":"2025-05-28T12:20:45+06:00","dg-publish":true,"dg-note-icon":"stone","title":"Notes from The Power of Myth","tags":["reading-notes-old"],"dg-path":"Reading/Notes and Highlights/The Power of Myth.md","permalink":"/reading/notes-and-highlights/the-power-of-myth/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
 
 # The Power of Myth
-##### by Joseph Campbell; Bill D. Moyers; Betty S. Flowers
+##### By Joseph Campbell; Bill D. Moyers; Betty S. Flowers
 
-## Introduction 
+## Introduction
 ### Page 12 @ March 1, 2018
 One story he especially liked told of the troubled woman who came to the Indian saint and sage Ramakrishna, saying, "O Master, I do not find that I love God."
 
 ---
 Sadly, Ramakrishna is not a mainstream. Hinduism has it's own very dark corners.
 
-## MYTH AND THE MODERN WORLD 
+## MYTH AND THE MODERN WORLD
 ### Page 17 @ March 1, 2018
 With the loss of that, we've really lost something because we don't have a comparable literature to take its place. These bits of information from ancient times, which have to do with the themes that have supported human life, built civilizations, and informed religions over the millennia, have to do with deep inner problems, inner mysteries, inner thresholds of passage, and if you don't know what the guide-signs are along the way, you have to work it out yourself. But once this subject catches you, there is such a feeling, from one or another of these traditions, of information of a deep, rich, life-vivifying sort that you don't want to give it up.
 { #dcccd1}
@@ -53,7 +53,7 @@ The number thirteen is the number of transformation and rebirth. At the Last Sup
 ---
 What sort of bullshit is this?!
 
-## THE JOURNEY INWARD 
+## THE JOURNEY INWARD
 ### Page 64 @ March 6, 2018
 In the beginning, according to this story, the ancestors were not distinguished as to sex. There were no births, there were no deaths. Then a great public dance was celebrated, and in the course of the dance one of the participants was trampled to death and torn to pieces, and the pieces were buried. At the moment of that killing the sexes became separated, so that death was now balanced by begetting, begetting by death, while from the buried parts of the dismembered body food plants grew. Time had come into being, death, birth, and the killing and eating of other living beings, for the preservation of life. The timeless time of the beginning had been
 
@@ -78,7 +78,7 @@ There has to be a training to help you open your ears so that you can begin to h
 ---
 "কান পেতে রই" all over again…
 
-## THE HERO'S ADVENTURE 
+## THE HERO'S ADVENTURE
 ### Page 172 @ March 13, 2018
 the edge, the interface between what can be known and what is never to be discovered because it is a mystery that transcends all human research. The source of life -- what is it? No one knows. We don't even know what an atom is, whether it is a wave or a particle -- it is both. We don't have any idea of what these things are.
 
@@ -91,14 +91,14 @@ Not the first cause, but a higher cause? CAMPBELL:I would say, a more inward cau
 ---
 Interesting…
 
-## TALES OF LOVE AND MARRIAGE 
+## TALES OF LOVE AND MARRIAGE
 ### Page 241 @ March 17, 2018
 The whole troubadour tradition was extinguished in Provence in the so-called Albigensian Crusade of 1209, which was launched by Pope Innocent III, and which is regarded as one of the most monstrous crusades in the history of Europe.
 
 ---
 Pope Innocent III! What an irony.
 
-## MASKS OF ETERNITY 
+## MASKS OF ETERNITY
 ### Page 272 @ March 17, 2018
 I've lived through the twentieth century, and I know what I was told as a boy about a people who weren't yet and never had been our enemies. In order to represent them as potential enemies, and to justify our attack upon them, a campaign of hatred, misrepresentation, and denigration was launched, of which the echoes ring to this day.
 

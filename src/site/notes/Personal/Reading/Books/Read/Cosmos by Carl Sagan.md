@@ -1,5 +1,5 @@
 ---
-{"title":"Cosmos","created":"2016-02-14T00:00:00+06:00","updated":"2023-01-26T16:14:30+06:00","read_count":"1","authors":["Carl Sagan"],"isbn10":307800989,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-04-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-02-14T00:00:00+06:00"}],"dg-note-icon":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"tags":["bestreads","science","pop"],"status":"Read","dg-path":"Reading/Books/Read/Cosmos by Carl Sagan.md","permalink":"/reading/books/read/cosmos-by-carl-sagan/","metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Cosmos","created":"2016-02-14T00:00:00+06:00","updated":"2025-05-27T19:59:12+06:00","read_count":"1","authors":["Carl Sagan"],"isbn10":307800989,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-04-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-02-14T00:00:00+06:00"}],"dg-note-icon":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"tags":["bestreads","science","pop"],"status":"Read","reading_notes":"[[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan|Notes from Cosmos by Carl Sagan]]","dg-path":"Reading/Books/Read/Cosmos by Carl Sagan.md","permalink":"/reading/books/read/cosmos-by-carl-sagan/","metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ### Review
@@ -46,7 +46,7 @@ But the Darwinian lesson is clear: There will be no humans elsewhere. Only here.
 আগেই বলেছি, বইয়ের লেখা সাবলীল ও আকর্ষণীয়। এটা হচ্ছে সেইধরণের বই যা প্রত্যেকের পড়া উচিত। প্রত্যেকের।
 
 > [!note] Notes and Highlights
-> (Notes:: [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan\|Notes from Cosmos]])
+> [[Personal/Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan\|Notes from Cosmos by Carl Sagan]]
 
 > [!info] About Cosmos by Carl Sagan
 ><img src="https://d.gr-assets.com/books/1407113244l/11509720.jpg" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> * Spacecraft missions to nearby planets * The Library of ancient Alexandria * The human brain * Egyptian hieroglyphics * The origin of life * The death of the sun * The evolution of galaxies * The origins of matter, suns and worlds The story of fifteen billion years of cosmic evolution transforming matter and life into consciousness, of how science and civilisation grew up together, and of the forces and individuals who helped shape modern science. A story told with Carl Sagan's remarkable ability to make scientific ideas both comprehensible and exciting.

@@ -1,5 +1,5 @@
 ---
-{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2023-01-26T16:24:35+06:00","read_count":"1","authors":["Ernest Becker"],"isbn10":"141659034X","rating":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg","tags":["death","philosophy","psychology"],"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"reviewed":true,"dg-publish":true,"dg-note-icon":2,"log":[{"status":"Read","timestamp":"2019-01-11T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-10-26T00:00:00+06:00"}],"status":"Read","dg-path":"Reading/Books/Read/The Denial of Death by Ernest Becker.md","permalink":"/reading/books/read/the-denial-of-death-by-ernest-becker/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Denial of Death","created":"2018-10-26T00:00:00+06:00","updated":"2025-05-27T21:39:05+06:00","read_count":"1","authors":["Ernest Becker"],"isbn10":"141659034X","rating":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg","tags":["death","philosophy","psychology"],"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"reviewed":true,"dg-publish":true,"dg-note-icon":2,"log":[{"status":"Read","timestamp":"2019-01-11T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-10-26T00:00:00+06:00"}],"status":"Read","reading_notes":"[[Personal/Reading/Notes and Highlights/The Denial of Death|The Denial of Death]]","dg-path":"Reading/Books/Read/The Denial of Death by Ernest Becker.md","permalink":"/reading/books/read/the-denial-of-death-by-ernest-becker/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 ### Review
@@ -14,7 +14,7 @@ Thought Provoking.
 সাইকোঅ্যানালাইসিস আজ অব্দি বোধহয় শুদ্ধ বিজ্ঞান না। এর অনেকটাই মানুষের সাবজেক্টিভ রিয়্যালিটির ওপর নির্ভরশীল এবং সাবজেক্টিভ রিয়্যালিটির এই অংশগুলো যথার্থভাবে ট্রান্সফার বা প্রকাশের বিশেষ সুবিধা মানুষের নেই। কনভার্সেশনই শেষ ভরসা। অনেকটাই অন্ধের হাতি দেখার মত অবস্থা। সেসব মেনে নিলে সাইকোঅ্যালাইসিসের রথী-মহারথীরা যথার্থই জিনিয়াস। কিন্তু শুদ্ধ বিজ্ঞান হতে হয়ত অনেকটা দূর যেতে হবে।
 
 > [!note] Notes and Highlights
-> (Notes:: [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]])
+> [[Personal/Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]]
 
 > [!info] About The Denial of Death by Ernest Becker
 ><img src="https://books.google.com/books/content?id=wP9zAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Drawing from religion and the human sciences, particularly psychology after Freud, the author attempts to demonstrate that the fear of death is man's central concern

@@ -1,5 +1,5 @@
 ---
-{"title":"Tractatus Logico-Philosophicus","created":"2020-06-05T00:00:00+06:00","updated":"2023-07-11T11:29:08+06:00","read_count":"1","authors":["Ludwig Wittgenstein","Bertrand Russell","Charles Kay Ogden"],"rating":5,"reviewed":true,"tags":["logic","philosophy","bestreads"],"log":[{"status":"Read","timestamp":"2020-06-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-06-05T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/reading/books/read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Tractatus Logico-Philosophicus","created":"2020-06-05T00:00:00+06:00","updated":"2025-05-28T13:01:47+06:00","read_count":"1","authors":["Ludwig Wittgenstein","Bertrand Russell","Charles Kay Ogden"],"rating":5,"reviewed":true,"tags":["logic","philosophy","bestreads"],"log":[{"status":"Read","timestamp":"2020-06-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-06-05T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg","dg-publish":true,"dg-note-icon":2,"reading_notes":"[[Personal/Reading/Notes and Highlights/Tractatus Logico-Philosophicus by Ludwig Wittgenstein|Tractatus Logico-Philosophicus by Ludwig Wittgenstein]]","dg-path":"Reading/Books/Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/reading/books/read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 > [!Warning] Re-reading Required
@@ -83,6 +83,9 @@ It is exactly analogous for space. When, for example, we say that neither of two
 
   
 Now, this is a small book, so I don't want to exhaust anyone with a long review. He can be right, he can be wrong. My trust in natural science says sometimes that he is wrong in many things. However, I can't deny his genius. His way of thinking is simply mind-blowing.
+
+> [!note] Notes and Highlights
+> [[Personal/Reading/Notes and Highlights/Tractatus Logico-Philosophicus by Ludwig Wittgenstein\|Tractatus Logico-Philosophicus by Ludwig Wittgenstein]]
 
 
 > [!info] About Tractatus Logico-Philosophicus by Ludwig Wittgenstein

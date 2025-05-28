@@ -1,5 +1,5 @@
 ---
-{"title":"On Photography","aliases":["On Photography"],"authors":["Susan Sontag"],"publisher":"Delta","publish":"1977","pages":232,"isbn10":"0141187166","isbn13":"9780141187167","rating":"5","reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671548651i/52372.jpg","read_count":"1","tags":["book","Photography","art"],"log":[{"status":"Read","timestamp":"2024-01-12T23:17:59+06:00"},{"status":"In Progress","timestamp":"2023-12-31T13:24:31+06:00"},{"status":"To Read","timestamp":"2023-12-31T13:23:59+06:00"}],"created":"2023-12-31T13:23:59+06:00","updated":"2024-10-03T13:46:55+06:00","status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"Reading/Books/Read/On Photography by Susan Sontag.md","permalink":"/reading/books/read/on-photography-by-susan-sontag/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"On Photography","aliases":["On Photography"],"authors":["Susan Sontag"],"publisher":"Delta","publish":"1977","pages":232,"isbn10":"0141187166","isbn13":"9780141187167","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671548651i/52372.jpg","read_count":"1","tags":["book","Photography","art"],"log":[{"status":"Read","timestamp":"2024-01-12T23:17:59+06:00"},{"status":"In Progress","timestamp":"2023-12-31T13:24:31+06:00"},{"status":"To Read","timestamp":"2023-12-31T13:23:59+06:00"}],"created":"2023-12-31T13:23:59+06:00","updated":"2025-05-28T13:36:32+06:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[[Personal/Reading/Notes and Highlights/On Photography by Susan Sontag|On Photography by Susan Sontag]]","dg-path":"Reading/Books/Read/On Photography by Susan Sontag.md","permalink":"/reading/books/read/on-photography-by-susan-sontag/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 These days, photography feels like one of the most important vehicles to build [[Personal/Reading/Books/Read/The Society of the Spectacle by Guy Debord\|The Society of the Spectacle]] and social media are oversaturated by photographs.
@@ -13,7 +13,7 @@ She also explored the social side of photography quite a bit, especially how tou
 It is a pleasure to read. Sontag can express quite succinctly her point with a storyteller's captivating charm.
 
 > [!note] Notes and Highlights
-> (Notes:: [[Personal/Reading/Notes and Highlights/On Photography by Susan Sontag\|On Photography by Susan Sontag]])
+> [[Personal/Reading/Notes and Highlights/On Photography by Susan Sontag\|On Photography by Susan Sontag]]
 
 
 > [!info] About On Photography by Susan Sontag
