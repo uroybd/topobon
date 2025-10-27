@@ -43,11 +43,11 @@ This is a deal-breaker for me. Of course, Lofland is mostly a chronicler here, a
 **If I follow the advice of one such movement, I'll have a very unhappy death for sure.** Instead, I would like to assume a dying role for me which is based on knowledge and emotional understanding of what it means to be dead:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/journal/the-importance-of-dying/#2bfa47" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/journal/the-importance-of-dying-sincerely/#2bfa47" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-**I propose you die, you die with a complete psychological image of what death really is, what it means to be dead. Die in every exhalation, like you live while you breathe in. Die slowly while nature cushions your footprints with grasses and daisies. Die a thousand times when you perform eulogies with sincerity. Die while the present passes away to the past and live in the future that just came to be present. Stretch the inevitable 'full stop at the end' to a tapestry of fireflies. Die till you die completely and there is no more death, there is no 'no', and no 'more' for you.** 
+**I propose you die, you die with a complete psychological image of what death really is, what it means to be dead. Die in every exhalation, like you live while you breathe in. Die slowly while nature cushions your footprints with grasses and daisies. Die a thousand times when you perform eulogies with sincerity. Die while the present passes away to the past, and live in the future that just came to be present. Stretch the inevitable 'full stop at the end' to a tapestry of fireflies. Die till you die completely, and there is no more death, there is no 'no', and no 'more' for you.** 
 
 </div></div>
 
