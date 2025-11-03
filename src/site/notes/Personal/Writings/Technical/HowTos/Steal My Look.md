@@ -1,11 +1,11 @@
 ---
-{"title":"Steal My Look!","aliases":["Steal My Look!"],"created":"2025-11-03T15:25:58+06:00","updated":"2025-11-03T16:09:27+06:00","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Steal My Look.md","permalink":"/writings/technical/how-tos/steal-my-look/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"Steal My Look!","aliases":["Steal My Look!"],"created":"2025-11-03T15:25:58+06:00","updated":"2025-11-03T16:16:17+06:00","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Steal My Look.md","permalink":"/writings/technical/how-tos/steal-my-look/","dgPassFrontmatter":true,"noteIcon":"chest"}
 ---
 
 You visited my digital garden and are wondering how to replicate it (maybe partially)? I will try to guide you through it.
 
 This is the repository containing my source code:
- 
+
 [![uroybd/topobon - GitHub](https://gh-card.dev/repos/uroybd/topobon.svg)](https://github.com/uroybd/topobon)
 
 > [!INFO] Having difficulties?
