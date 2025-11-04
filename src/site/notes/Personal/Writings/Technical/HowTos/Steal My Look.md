@@ -1,5 +1,5 @@
 ---
-{"title":"Steal My Look!","aliases":["Steal My Look!"],"created":"2025-11-03T15:25:58+06:00","updated":"2025-11-03T16:16:17+06:00","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Steal My Look.md","permalink":"/writings/technical/how-tos/steal-my-look/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"Steal My Look!","aliases":["Steal My Look!"],"created":"2025-11-03T15:25:58+06:00","updated":"2025-11-04T18:16:56+06:00","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Steal My Look.md","permalink":"/writings/technical/how-tos/steal-my-look/","dgPassFrontmatter":true,"noteIcon":"chest"}
 ---
 
 You visited my digital garden and are wondering how to replicate it (maybe partially)? I will try to guide you through it.
@@ -35,10 +35,10 @@ Most of the customisations you see in my garden are done using the [Custom Compo
         1. [Tool Links](https://github.com/uroybd/topobon/blob/main/src/site/_includes/components/user/notes/beforeContent/001-tool-links.njk): To show a section for *Tool* notes with links.
     3. Footer:
         1. [Comment](https://github.com/uroybd/topobon/blob/main/src/site/_includes/components/user/notes/footer/001-comment.njk): For Disqus comment.
-        2. [Slider]: To show a note as a slider. [[Personal/Writings/Creative/Poems/হেমন্তের হাইকু\|See in action]].
+        2. [Slider](https://github.com/uroybd/topobon/blob/main/src/site/_includes/components/user/notes/footer/002-slider.njk): To show a note as a slider. [[Personal/Writings/Creative/Poems/হেমন্তের হাইকু\|See in action]].
     4. Header:
         1. [Aliases](https://github.com/uroybd/topobon/blob/main/src/site/_includes/components/user/notes/header/001-aliases.njk): To show note aliases in the header.
-        2. [Reading Convention](https://github.com/uroybd/topobon/blob/main/src/site/_includes/components/user/notes/header/002-reading-convention.njk): for highlighting conventions of some of my older reading notes. Adding it here for completeness' sake.
+        2. [Reading Convention](https://github.com/uroybd/topobon/blob/main/src/site/_includes/components/user/notes/header/002-reading-convention.njk): for highlighting conventions of some of my older reading notes. I am adding it here for completeness' sake.
 
 ### Forest
 The aforementioned forest component requires a little more work than just adding components. To make it work, some site-wide calculation is needed. The relevant part can be found in the [userUtils.js file](https://github.com/uroybd/topobon/blob/main/src/helpers/userUtils.js)
