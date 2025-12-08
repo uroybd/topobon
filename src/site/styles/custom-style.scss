@@ -633,6 +633,8 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 }
 
 .sidebar {
+  left: unset !important;
+  right: 20px;
   .toc-container {
     max-height: unset;
 
