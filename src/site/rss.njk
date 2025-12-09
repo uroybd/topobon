@@ -1,0 +1,31 @@
+---json
+{
+  "permalink": "/rss.xml",
+  "eleventyExcludeFromCollections": true
+}
+---
+{%if meta.siteBaseUrl %}<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{{ meta.siteName }}</title>
+        <link>{{ meta.siteBaseUrl }}</link>
+        <description>{{ meta.siteDescription or meta.siteName }}</description>
+        <language>en</language>
+        <lastBuildDate>{{ collections.notes | getNewestCollectionItemDate | dateToRfc3339 }}</lastBuildDate>
+        <atom:link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self" type="application/rss+xml" />
+        {%- for note in collections.note | reverse %}
+        <item>
+            <title>
+                {%- if note.data.title -%}{{ note.data.title }}
+                {%- else -%}{{ note.fileSlug }}
+                {%- endif -%}
+            </title>
+            <link>{{ meta.siteBaseUrl }}{{ note.url | url }}</link>
+            <guid isPermaLink="true">{{ meta.siteBaseUrl }}{{ note.url | url }}</guid>
+            <pubDate>{{ note.date | dateToRfc3339 }}</pubDate>
+            <description><![CDATA[{{ note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) }}]]></description>
+        </item>
+        {%- endfor %}
+    </channel>
+</rss>
+{% endif %}
