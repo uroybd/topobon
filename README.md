@@ -25,6 +25,12 @@ body {
 }
 ```
 
+### Responsive Layout Notes
+
+- Content will never overlap the filetree, regardless of `--dg-content-max-width` value
+- The right sidebar (TOC/graph/backlinks) automatically hides when there isn't enough viewport space
+- To make the sidebar appear at smaller viewports, reduce `--dg-sidebar-max-width`
+
 ### Available Variables
 
 #### Color Variables
@@ -148,6 +154,9 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-navbar-title-size-mobile` | `18px` | Navbar title size on mobile |
 | `--dg-navbar-search-margin` | `20px` | Navbar search button margin |
 | `--dg-navbar-search-min-width` | `36px` | Navbar search min width |
+| `--dg-logo-height` | `40px` | Site logo height on desktop |
+| `--dg-logo-height-mobile` | `32px` | Site logo height on mobile |
+| `--dg-logo-margin` | `10px 15px` | Site logo margin |
 
 #### Note Link / Filetree Item Variables
 
