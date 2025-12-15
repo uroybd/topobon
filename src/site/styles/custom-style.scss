@@ -15,6 +15,7 @@ body.theme-light {
 body {
   --graph-main: var(--text-accent-hover);
   --graph-muted: rgba(126, 126, 126, 0.5);
+  --dg-filetree-width: 350px;
 
   .timestamps {
     display: flex;
@@ -89,61 +90,49 @@ body {
   //     }
   // }
 
-  .graph {
-    flex: unset !important;
 
-    @media (max-width: 1490px) {
-      display: block !important;
-      order: 3;
+  .sidebar {
+    left: unset !important;
+    right: 20px;
+
+    // Reset transform when graph is fullscreen to allow proper fixed positioning
+    &:has(.graph-fs) {
+      transform: none !important;
     }
-  }
 
-  .toc {
-    @media (max-width: 1490px) {
-      display: block !important;
+    // Reset transform when global graph is shown
+    &:has(#full-graph.show) {
+      transform: none !important;
     }
   }
 
   .sidebar-container {
-    &>div:not(.graph) {
-      width: 320px;
-      max-height: 365px;
+    .toc-container {
+      max-height: 45vh;
       overflow-y: auto;
     }
+
+
+    justify-content: space-between;
 
     @media (max-width: 1490px) {
       flex-wrap: wrap;
       flex-direction: row;
-      justify-content: space-between;
     }
   }
 
   nav.filetree-sidebar {
-    top: 85px;
     left: 20px;
     position: fixed;
-    height: calc(100% - 160px);
-    display: flex;
-    flex-direction: column;
-    border-radius: 10px;
-    overflow-x: hidden;
+    height: calc(100% - 20px);
 
-    .search-button {
-      margin: 10px;
-      min-width: 160px;
-      margin-bottom: 20px;
-    }
 
-    &>.folder {
-      flex: 1;
-      overflow-y: auto;
-      overflow-x: hidden;
-      margin-right: -10px;
-    }
 
     .notelink {
       border-radius: 10px;
       padding: 5px 0 5px 8px;
+      border: none;
+      margin-left: 2px;
 
       a::before {
         margin-right: 2px;
@@ -151,7 +140,7 @@ body {
     }
 
     .notelink.active-note {
-      transform: unset;
+      background: var(--background-primary-alt);
     }
 
     .fa-sticky-note {
@@ -416,13 +405,6 @@ body {
       }
     }
 
-    .search-button {
-      border-radius: 10px;
-
-      @media (max-width: 800px) {
-        margin-right: 10px;
-      }
-    }
   }
 
   .cards {
@@ -632,25 +614,16 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   position: fixed;
 }
 
-.sidebar {
-  left: unset !important;
-  right: 20px;
-  .toc-container {
-    max-height: unset;
-
-    @media (max-width: 1400px) {
-      max-height: 320px;
-    }
-  }
-
-  .backlinks {
-    flex: unset;
-
-    @media (max-width: 1400px) {
-      order: 3;
-    }
-  }
+// Fix fullscreen graph centering
+.graph-fs {
+  transform: translate(-50%, -50%) !important;
 }
+
+// Fix global graph centering
+#full-graph {
+  transform: translate(-50%, -50%) !important;
+}
+
 
 .tool-links {
   display: flex;
