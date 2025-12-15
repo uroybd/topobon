@@ -122,10 +122,10 @@ body {
   }
 
   nav.filetree-sidebar {
-    left: 20px;
+    left: 0px;
     position: fixed;
-    height: calc(100% - 20px);
-
+    height: 100vh;
+    background: var(--background-primary-alt);
 
 
     .notelink {
@@ -140,7 +140,7 @@ body {
     }
 
     .notelink.active-note {
-      background: var(--background-primary-alt);
+      background: var(--background-primary);
     }
 
     .fa-sticky-note {
