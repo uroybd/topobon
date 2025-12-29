@@ -614,16 +614,21 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   position: fixed;
 }
 
-// Fix fullscreen graph centering
+#link-graph {
+  background-color: var(--background-primary-alt);
+}
+
+#graph-controls {
+  background-color: var(--background-primary-alt);
+}
+
 .graph-fs {
-  transform: translate(-50%, -50%) !important;
+  background-color: var(--background-primary-alt);
 }
 
-// Fix global graph centering
 #full-graph {
-  transform: translate(-50%, -50%) !important;
+  background-color: var(--background-primary-alt);
 }
-
 
 .tool-links {
   display: flex;
