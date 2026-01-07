@@ -1,0 +1,70 @@
+---
+{"dg-publish":true,"cssClasses":"canvas-page","dg-path":"Writings/Technical/Canvases/JWT Login.canvas","permalink":"/writings/technical/canvases/jwt-login.canvas/","contentClasses":"canvas-page","dgPassFrontmatter":true,"noteIcon":"1"}
+---
+
+<div id="JWT_Logincanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-JWT_Logincanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-JWT_Logincanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+<marker id="arrow-a882ff" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="#a882ff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-a882ff-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="#a882ff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M -140 -110 C -60.3005646193149 -110, 50 -249.6994353806851, 50 -170" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ceac62c79ab16a14"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 290 310 C 290 460.5722417977497, 50 170.57224179774968, 50 20" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7dbe0735c7c01d51"  marker-end="url(#arrow-vartextmuted)" /><text x="170" y="277.9291813483123" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">tokens and data</text>
+<path d="M -60 -75 C -148.56635930193812 -75, -280 38.56635930193812, -280 -50" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="7c64ae5055333595"  marker-end="url(#arrow-a882ff)" /><text x="-203.2123847382268" y="-29.287615261773205" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="#a882ff">Strip refreshToken and respond</text>
+<path d="M 50 20 C 50 147.81236246936368, -250 257.8123624693637, -250 130" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="2a576eb9101b877f"  marker-end="url(#arrow-a882ff)" /><text x="-100" y="170.85927185202274" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="#a882ff">Save refreshToken</text>
+<path d="M 160 -75 C 229.42621983083913 -75, 290 -29.42621983083913, 290 40" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="d5c468e7472cd929"  marker-end="url(#arrow-a882ff)" /><text x="251.03483243656467" y="-43.53483243656467" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="#a882ff">Request for
+tokens and
+additional data.</text>
+		</svg>
+		<div class="canvas-node canvas-node-text has-color" data-node-id="5c9a4315a4679708" style="transform: translate(-420px, -170px); width: 280px; height: 120px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="UmVxdWVzdCBsb2dpbiB3aXRoIGNyZWRlbnRpYWxzIChhbmQgb3B0aW9uYWxseSBhZGRpdGlvbmFsIGRhdGEgcXVlcnkp"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="be8175bfc0ef3ab5" style="transform: translate(-60px, -170px); width: 220px; height: 190px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMjIC9hcGkvYXV0aC9sb2dpbg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="2004493e9c85d40e" style="transform: translate(-380px, 70px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBDb29raWVz"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="91e088a35d34745d" style="transform: translate(160px, 40px); width: 260px; height: 270px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBTYWxlb3I="></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
