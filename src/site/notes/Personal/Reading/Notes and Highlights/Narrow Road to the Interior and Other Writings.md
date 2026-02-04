@@ -1,9 +1,9 @@
 ---
-{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2023-03-15T22:39:25+06:00","created":"2021-06-26T12:28:11+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings.md","permalink":"/reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2026-02-04T21:13:18+06:00","created":"2021-06-26T12:28:11+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings.md","permalink":"/reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Notes & Highlights: Narrow Road to the Interior and Other Writings
-## Matsuo Basho (Translated by Sam Hamill)
+## Matsuo Bashō (Translated by Sam Hamill)
 ### Translator’s Introduction
 #### Time：2021-06-26 16:18
 Ki-no-Tsurayuki’s co-compiler of the Kokinshū, Mibu-no-Tadamine (868–965), introduced another new term to the Japanese critical canon by praising a quality in certain poems which he called yūgen, a word borrowed from Chinese Buddhist writingto identify “depth of meaning,” a character made by combining the character for “dim” or “dark” with the character identifying a deep, reddish black color. Tadamine use dyūgen to identify “aesthetic feeling not explicitly expressed.” He wanted a term by which to identify subtleties and implications. Over the course of the next hundred or so years, yūgen would also be adopted by Zennists to define “ghostly qualities,” as in ink paintings. But the term’s origin lies within seventh-century Chinese Buddhist literary terminology. As an aesthetic concept, it was esteemed throughout the medieval period. An excellent study of Buddhism and literary arts in medieval Japan, William R. LaFleur’s The Karma of Words, devotes an entire chapter to yūgen.
@@ -348,6 +348,8 @@ katami ka na
 With a warbler for  
 a soul, it sleeps peacefully,  
 this mountain willow
+{ #baafce}
+
 
 Uguisu wo  
 tama ni nemuru ka  
