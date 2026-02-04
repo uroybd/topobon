@@ -1,5 +1,5 @@
 ---
-{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T21:10:24+06:00","updated":"2026-02-04T22:01:50+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/A Mountain Willow.md","permalink":"/musings/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T21:10:24+06:00","updated":"2026-02-04T22:04:47+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/A Mountain Willow.md","permalink":"/musings/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 > [!quote-with-source] Matsuo Bashō
@@ -20,9 +20,9 @@ this mountain willow
 </div></div>
 
 
-It takes a mountain will with a warbler for a soul to write a poem like this.
+It takes a mountain willow with a warbler for a soul to write a poem like this.
 
-Imagine being a weeping willow, slender, almost economical in its existence. Imagine growing over the years, atop a mountain, from a sprout to a deciduous giant— understanding [[Entities/Concept/Buddhism/Anitya\|transience]] as if you are composed of it— ring by ring. Drooping are your leaves, dripping dew in autumn. Winter brings a shading yellowness under your feet. Spring brings the gift of new life— vying for your attention. You meet that attention with your ambivalence, and ambivalence turns into another ring in your trunk. You don't really weep but exude a profound dolour.
+Imagine being a weeping willow, slender, almost economical in its existence. Imagine growing over the years, atop a mountain, from a sprout to a deciduous giant— understanding [[Entities/Concept/Buddhism/Anitya\|transience]] as if you are composed of it— ring by ring. Drooping are your leaves, dripping dew in autumn. Winter brings a shading yellowness— covering your feet. Spring brings the gift of new life— vying for your attention. You meet that attention with your ambivalence, and ambivalence turns into another ring in your trunk. You don't really weep but exude a profound dolour.
 
 Life requires change, and change brings excitement, even on a molecular level, as we all know. This excitement permeates through your ambivalence; it affects you, it becomes one with you, it becomes a warbler. No, this warbler is just another structure within you. It becomes a song of a warbler— brief and beautiful— *Hooo- hokekyo, hooo- hokekyo*.[^1]
 
