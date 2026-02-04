@@ -9,7 +9,7 @@
 
 It takes a mountain willow with a warbler for a soul to write a poem[^1] like this.
 
-Imagine being a weeping willow, slender, almost economical in its existence. Imagine growing over the years, atop a mountain, from a sprout to a deciduous giant— understanding [[Entities/Concept/Buddhism/Anitya\|transience]] as if you are composed of it— ring by ring. Drooping are your leaves, dripping dew in autumn. Winter brings a shading yellowness— covering your feet. Spring brings the gift of new life— vying for your attention. You meet that attention with your ambivalence, and ambivalence turns into another ring in your trunk. You don't really weep but exude a profound dolour.
+Imagine being a weeping willow— slender, almost economical in its existence. Imagine growing over the years, atop a mountain, from a sprout to a deciduous giant— understanding [[Entities/Concept/Buddhism/Anitya\|transience]] as if you are composed of it— ring by ring. Drooping are your leaves, dripping dew in autumn. Winter brings a shading yellowness— covering your feet. Spring brings the gift of new life— vying for your attention. You meet that attention with your ambivalence, and ambivalence turns into another ring in your trunk. You don't really weep but exude a profound dolour.
 
 Life requires change, and change brings excitement, even on a molecular level, as we all know. This excitement permeates through your ambivalence; it affects you, it becomes one with you, it becomes a warbler. No, this warbler is just another structure within you. It becomes a song of a warbler— brief and beautiful— *Hooo- hokekyo, hooo- hokekyo*.[^2]
 
