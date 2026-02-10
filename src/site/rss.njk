@@ -13,19 +13,17 @@
         <language>en</language>
         <lastBuildDate>{{ collections.notes | getNewestCollectionItemDate | dateToRfc3339 }}</lastBuildDate>
         <atom:link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self" type="application/rss+xml" />
-        {%- for note in collections.note | reverse %}
+        {%- for note in collections.note | reverse -%}
+        {%- if note.url != "/" -%}
         <item>
-            <title>
-                {%- if note.data.title -%}{{ note.data.title }}
-                {%- else -%}{{ note.fileSlug }}
-                {%- endif -%}
-            </title>
+            <title>{%- if note.data.title -%}{{ note.data.title }}{%- else -%}{{ note.fileSlug }}{%- endif -%}</title>
             <link>{{ meta.siteBaseUrl }}{{ note.url | url }}</link>
             <guid isPermaLink="true">{{ meta.siteBaseUrl }}{{ note.url | url }}</guid>
             <pubDate>{{ note.date | dateToRfc3339 }}</pubDate>
-            <description><![CDATA[{{ note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) }}]]></description>
+            <description><![CDATA[{{- note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) | xmlSafe -}}]]></description>
         </item>
-        {%- endfor %}
+        {%- endif -%}
+        {%- endfor -%}
     </channel>
 </rss>
 {% endif %}
