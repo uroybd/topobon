@@ -1,9 +1,11 @@
 ---
-{"title":"Being a Connoisseur","aliases":["Being a Connoisseur"],"mood":"good","weather":"night","location":"Badda, Dhaka","created":"2026-02-10T19:05:43+06:00","updated":"2026-02-10T20:35:02+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/Being a Connoisseur.md","permalink":"/musings/being-a-connoisseur/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Being a Connoisseur","aliases":["Being a Connoisseur"],"mood":"good","weather":"night","location":"Badda, Dhaka","created":"2026-02-10T19:05:43+06:00","updated":"2026-02-10T20:35:34+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/Being a Connoisseur.md","permalink":"/musings/being-a-connoisseur/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
-## A Second Prize?
+> [!INFO] Connoisseur (noun)
+> One who enjoys with discrimination and appreciation of subtleties.
 
+## A Second Prize?
 Till I was 20, I dabbled in many arts. I did theatre and recitation, I painted and was quite good at it, I started learning violin and then the life happened… I got accolades, even unexpectedly, for recitation and painting. I was a budding amateur with possibilities according to all my teachers.
 
 **I stopped doing all that**, and started writing. Writing still is one of my two primary vocations. I haven't nothing substantial to publish (yet). But, I have not left the trade already.
@@ -13,10 +15,6 @@ Before, diving deep into the next part I have to clarify to me that *am I making
 Well, no. I have not pursued them because I lacked the necessary talent. Even if I don't have, I didn't know that when I abandoned those. I simply abandoned them because I wanted to become a thinker,[^1] and a writer.
 
 ## Why?
-
-> [!INFO] Connoisseur (noun)
-> One who enjoys with discrimination and appreciation of subtleties.
-
 Frank Zappa once said, **"So many books, so little time."** This is not only true for the books, but every form of art, be it music, or paintings, even food. One cannot help but being discriminatory.
 
 Imagine your emotional structure as a tree. If you allow it to grow rampart, it can do anything. But if you groom it periodically you can get most sunlight. We can hone our emotions like tuning forks so that only the beautiful things can move us.
