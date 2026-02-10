@@ -1,5 +1,5 @@
 ---
-{"title":"Being a Connoisseur","aliases":["Being a Connoisseur"],"mood":"good","weather":"night","location":"Badda, Dhaka","created":"2026-02-10T19:05:43+06:00","updated":"2026-02-10T20:33:27+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/Being a Connoisseur.md","permalink":"/musings/being-a-connoisseur/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Being a Connoisseur","aliases":["Being a Connoisseur"],"mood":"good","weather":"night","location":"Badda, Dhaka","created":"2026-02-10T19:05:43+06:00","updated":"2026-02-10T20:35:02+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/Being a Connoisseur.md","permalink":"/musings/being-a-connoisseur/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 ## A Second Prize?
@@ -14,7 +14,7 @@ Well, no. I have not pursued them because I lacked the necessary talent. Even if
 
 ## Why?
 
-> [!INFO] Connoisseur [noun]
+> [!INFO] Connoisseur (noun)
 > One who enjoys with discrimination and appreciation of subtleties.
 
 Frank Zappa once said, **"So many books, so little time."** This is not only true for the books, but every form of art, be it music, or paintings, even food. One cannot help but being discriminatory.
