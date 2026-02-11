@@ -8,6 +8,8 @@
 ## Chapter 10
 ### Page 91 @ August 27, 2017
 ALL ANIMALS ARE EQUAL BUT SOME ANIMALS ARE MORE EQUAL THAN OTHERS
+{ #4c0e49}
+
 
 ---
 The punchline.
