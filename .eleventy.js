@@ -591,10 +591,10 @@ module.exports = function(eleventyConfig) {
     }
   });
 
-  eleventyConfig.addTransform("htmlMinifier", async (content) => {
+  eleventyConfig.addTransform("htmlMinifier", async function(content) {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
-      (this.page.outputPath || "").endsWith(".html")
+      (this.page?.outputPath || "").endsWith(".html")
     ) {
       try {
         return await htmlMinifier.minify(content, {
