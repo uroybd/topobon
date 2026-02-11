@@ -1,5 +1,5 @@
 ---
-{"title":"On Death","dg-publish":true,"updated":"2026-02-11T22:39:15+06:00","created":"2021-10-16T21:38:35+06:00","dg-note-icon":2,"tags":["death"],"dg-path":"Musings/On Death.md","permalink":"/musings/on-death/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Death","dg-publish":true,"updated":"2026-02-11T22:39:15+06:00","created":"2021-10-16T21:39:26+06:00","dg-note-icon":2,"tags":["death"],"dg-path":"Musings/On Death.md","permalink":"/musings/on-death/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 Death is possibly my most favourite topic to muse. Perhaps, because I know next to nothing about it, and that enables me to think about it with the utmost freedom.
@@ -16,4 +16,4 @@ And then I've seen people who died, killed for some disgusting reason or no reas
 
 This contrast, balance, triviality, incomprehensibility, and a relation of the fulfilment in life and death never cease to amaze me.
 
-Lately, it occurred to me, *one's understanding of death is the most important foundation of one's philosophy of life.* For those who believe in afterlife, it is a stoppage in a longer way. But, it is an important stoppage, a nexus point. Because, what is beyond that no one can tell. This, along with some other factors (e.g. belief system, cunning), create one's Ethos. Those who don't believe in afterlife, similarly response with what they think about death. [[Personal/Reading/Books/Read/The Craft of Dying by Lyn H. Lofland\|The Craft of Dying by Lyn H. Lofland]] contains some such accounts.
+Lately, it occurred to me, *one's understanding of death is the most important foundation of one's philosophy of life.* For those who believe in afterlife, it is a stoppage in a longer way. But, it is an important stoppage, a nexus point. Because, what is beyond that no one can tell. This, along with some other factors (e.g. belief system, cunning), create one's Ethos.s. Those who don't believe in afterlife, similarly response with what they think about death. [[Personal/Reading/Books/Read/The Craft of Dying by Lyn H. Lofland\|The Craft of Dying by Lyn H. Lofland]] contains some such accounts.

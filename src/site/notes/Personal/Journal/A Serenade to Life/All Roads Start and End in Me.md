@@ -1,5 +1,5 @@
 ---
-{"title":"All Roads Start and End in Me","aliases":["All Roads Start and End in Me"],"mood":"moody","weather":"sunny","location":"Badda, Dhaka","created":"2026-02-09T13:45:11+06:00","updated":"2026-02-09T14:04:02+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Journal/A Serenade to Life/All Roads Start and End in Me.md","permalink":"/journal/a-serenade-to-life/all-roads-start-and-end-in-me/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"All Roads Start and End in Me","aliases":["All Roads Start and End in Me"],"mood":"moody","weather":"sunny","location":"Badda, Dhaka","created":"2026-02-09T13:45:11+06:00","updated":"2026-02-09T14:04:02+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Journal/All Roads Start and End in Me.md","permalink":"/journal/all-roads-start-and-end-in-me/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 [[Entities/Person/Matsuo Bashō\|Bashō]] Asked me to join in. I picked up my bag and my sandals. We went through the mountains and valleys towards Kyoto. The narrow road to the interior, it is called. Interior to my being.
