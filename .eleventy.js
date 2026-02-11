@@ -594,8 +594,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addTransform("htmlMinifier", async (content) => {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
-      this.page.outputPath &&
-      this.page.outputPath.endsWith(".html")
+      (this.page.outputPath || "").endsWith(".html")
     ) {
       try {
         return await htmlMinifier.minify(content, {
