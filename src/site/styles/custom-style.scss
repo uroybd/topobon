@@ -375,25 +375,6 @@ body {
     border-radius: 10px;
     border: var(--cards-border-width) solid var(--background-modifier-border);
     z-index: 99999;
-
-    .navbar-inner {
-      h1::before {
-        content: " ";
-        display: inline-block;
-        width: 1em;
-        height: 1.2em;
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-image: url(/img/logo.svg);
-        margin-right: 5px;
-        background-position: bottom;
-      }
-
-      span {
-        margin-left: 10px;
-      }
-    }
-
   }
 
   .cards {
