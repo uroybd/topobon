@@ -7,6 +7,8 @@ How I wish for an accident! A slip on the stairs, or an ankle sprain in a pothol
 Such is a lament of mine.
 
 We perceive reality as a smooth experience. By smooth I mean consecutive, and infinitely divisible. Yes, we forget events or confuse them regularly. But, we never experience the gap between any two given moments. It all comes as a continuous stream.
+{ #397dfb}
+
 
 The reality, of course, is not like that. One can produce a false sense of continuity with only 24 images per second. Our [[Entities/Concept/Buddhism/Anatman\|consciousness is an aggregation]]. Yet, I never found my senses failing to produce me.
 
