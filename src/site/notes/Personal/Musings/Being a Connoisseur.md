@@ -1,5 +1,5 @@
 ---
-{"title":"Being a Connoisseur","aliases":["Being a Connoisseur"],"mood":"good","weather":"night","location":"Badda, Dhaka","created":"2026-02-10T19:05:43+06:00","updated":"2026-02-11T01:03:03+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/Being a Connoisseur.md","permalink":"/musings/being-a-connoisseur/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Being a Connoisseur","aliases":["Being a Connoisseur"],"mood":"good","weather":"night","location":"Badda, Dhaka","created":"2026-02-10T19:05:43+06:00","updated":"2026-02-17T02:52:19+06:00","dg-publish":true,"dg-note-icon":3,"tags":["art","culture","music","literature","aesthetics"],"dg-path":"Musings/Being a Connoisseur.md","permalink":"/musings/being-a-connoisseur/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 > [!INFO] Connoisseur (noun)
