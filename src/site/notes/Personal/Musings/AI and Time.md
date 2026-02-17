@@ -1,5 +1,5 @@
 ---
-{"title":"AI and Time","aliases":["AI and Time"],"location":"Badda, Dhaka","tags":["ai","agi","time","intelligence","consciousness"],"created":"2026-02-17T02:22:27+06:00","updated":"2026-02-17T02:55:22+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/AI and Time.md","permalink":"/musings/ai-and-time/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"AI and Time","aliases":["AI and Time"],"location":"Badda, Dhaka","tags":["ai","agi","time","intelligence","consciousness"],"created":"2026-02-17T02:22:27+06:00","updated":"2026-02-17T17:35:05+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/AI and Time.md","permalink":"/musings/ai-and-time/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 As humans, not only we quantify (e.g. 1 hour) and label time (e.g. 17th February 2026, 2:26 AM), we perceive them as a **flow**, and our consciousness flowing with it. Time is crucial for every human experience.
@@ -14,7 +14,7 @@ We perceive reality as a smooth experience. By smooth I mean consecutive, and in
 </div></div>
 
 
-I think I am not far from truth if I state that the natural faculty of our brain to follow reason step-by-step is a natural development of our sense of causality which itself is based on how we perceive time as a flow.
+I think I am not far from the truth if I state that the natural faculty of our brain to follow reason step-by-step is a natural development of our sense of causality which itself is based on how we perceive time as a flow.
 
 **Quite understandably, AIs' don't have that sense of flow.**
 
