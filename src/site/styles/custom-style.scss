@@ -631,6 +631,8 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   }
 
   td.webring-prev {
-    justify-content: flex-end;
+    a {
+      justify-content: flex-end;
+    }
   }
 }
