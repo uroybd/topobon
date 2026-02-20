@@ -620,3 +620,17 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 
   }
 }
+
+#thebookring {
+  td {
+    border: none !important;
+
+    a {
+      display: flex;
+    }
+  }
+
+  td.webring-prev {
+    justify-content: flex-end;
+  }
+}
