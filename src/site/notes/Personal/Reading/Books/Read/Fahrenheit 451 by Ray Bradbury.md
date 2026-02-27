@@ -1,5 +1,5 @@
 ---
-{"title":"Fahrenheit 451","aliases":["Fahrenheit 451"],"authors":["Ray Bradbury"],"publisher":"Simon and Schuster","publish":"1953-01-01","pages":272,"isbn10":"143914267X","isbn13":"9781439142677","reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/OYtkbGl2j0sC?fife=w600-h900&source=gbs_api","read_count":0,"tags":["book","fiction","dystopian"],"status":"To Read","log":[{"status":"To Read","timestamp":"2026-02-27T23:06:31+06:00"}],"created":"2026-02-27T23:06:31+06:00","updated":"2026-02-27T23:46:51+06:00","reading_notes":"[[Personal/Reading/Notes and Highlights/Fahrenheit 451 by Ray Bradbury|Fahrenheit 451 by Ray Bradbury]]","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Fahrenheit 451 by Ray Bradbury.md","permalink":"/reading/books/read/fahrenheit-451-by-ray-bradbury/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Fahrenheit 451","aliases":["Fahrenheit 451"],"authors":["Ray Bradbury"],"publisher":"Simon and Schuster","publish":"1953-01-01","pages":272,"isbn10":"143914267X","isbn13":"9781439142677","reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/OYtkbGl2j0sC?fife=w600-h900&source=gbs_api","read_count":0,"tags":["book","fiction","dystopian"],"status":"To Read","log":[{"status":"To Read","timestamp":"2026-02-27T23:06:31+06:00"}],"created":"2026-02-27T23:06:31+06:00","updated":"2026-02-27T23:48:11+06:00","reading_notes":"[[Personal/Reading/Notes and Highlights/Fahrenheit 451 by Ray Bradbury|Fahrenheit 451 by Ray Bradbury]]","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Fahrenheit 451 by Ray Bradbury.md","permalink":"/reading/books/read/fahrenheit-451-by-ray-bradbury/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 I have read quite a few #dystopian novels. Some of them are the archetypes of this genre. **NONE** have moved me as much as Fahrenheit 451 did.
@@ -26,8 +26,6 @@ Many good dystopian works shares an aspect with satires— exaggeration. This is
 
 
 In twenty-first century, it doesn't sound so far from truth with apps like Blinkist. Another such prophetic paragraph is this:
-
-
 
 Without books, and full of *non-combustible data*, with walls of drawing room covered with large TVs, the citizens are living in a blissful [[Personal/Reading/Books/Read/The Society of the Spectacle by Guy Debord\|society of the spectacles]] where even thinking is commodity. Faber pointed out the emptiness of such a society:
 
