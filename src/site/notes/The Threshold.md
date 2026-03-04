@@ -11,7 +11,7 @@ This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-g
 
 Unsurprisingly, thoughts here are, like every thought, ever-changing.
 
-If you have any questions or opinions, please feel free to contact me at [connect@utsob.me](mailto:connect@utsob.me) or see the [[#Discussion|Discussion]] section for other options.
+If you have any questions or opinions, please feel free to contact me at [connect@utsob.me](mailto:connect@utsob.me) or see the [[The Threshold#Discussion\|Discussion]] section for other options.
 
 ## Maturity Levels
 The maturity level for each note is represented by plant icons of various growth.
