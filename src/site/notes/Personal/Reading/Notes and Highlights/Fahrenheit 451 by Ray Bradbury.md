@@ -1,5 +1,5 @@
 ---
-{"title":"Fahrenheit 451 by Ray Bradbury","updated":"2026-02-27T23:46:36+06:00","created":"2022-04-12T06:22:17+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"tags":["novel","classic","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Fahrenheit 451 by Ray Bradbury.md","permalink":"/reading/notes-and-highlights/fahrenheit-451-by-ray-bradbury/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Fahrenheit 451 by Ray Bradbury","updated":"2026-03-04T20:44:05+06:00","created":"2022-04-12T06:22:17+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"tags":["novel","classic","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Fahrenheit 451 by Ray Bradbury.md","permalink":"/reading/notes-and-highlights/fahrenheit-451-by-ray-bradbury/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Fahrenheit 451
@@ -27,7 +27,7 @@
 { #682e10}
 
 ### 10 Apr 2022 12:04 PM
-<u>"t's been a long time. I'm not a religious man. But it's been a long time." Faber turned the pages, stopping here and there to read. "It's as good as I remember. Lord, how they've changed it- in our 'parlours' these days. Christ is one of the 'family' now. I often wonder if God recognizes His own son the way we've dressed him up, or is it dressed him down? He's a regular peppermint stick now, all sugar-crystal and saccharine when he isn't making veiled references to certain commercial products that every worshipper absolutely needs."</u>
+<u>"It's been a long time. I'm not a religious man. But it's been a long time." Faber turned the pages, stopping here and there to read. "It's as good as I remember. Lord, how they've changed it- in our 'parlours' these days. Christ is one of the 'family' now. I often wonder if God recognizes His own son the way we've dressed him up, or is it dressed him down? He's a regular peppermint stick now, all sugar-crystal and saccharine when he isn't making veiled references to certain commercial products that every worshipper absolutely needs."</u>
 ### 10 Apr 2022 12:08 PM
 **So now do you see why books are hated and feared? They show the pores in the face of life. The comfortable people want only wax moon faces, poreless, hairless, expressionless. We are living in a time when flowers are trying to live on flowers, instead of growing on good rain and black loam.**
 ### 10 Apr 2022 12:07 PM
