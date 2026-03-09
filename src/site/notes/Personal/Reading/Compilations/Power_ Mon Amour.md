@@ -1,14 +1,11 @@
 ---
-{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T20:42:46+06:00","dg-publish":true,"dg-note-icon":2,"tags":["fascism","dystopian","politics","books","recommendations","anarchism"],"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T20:43:23+06:00","dg-publish":true,"dg-note-icon":2,"tags":["fascism","dystopian","politics","books","recommendations","anarchism"],"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 > [!quote-with-source] Warren Ellis (Castlevania S04E10)
 > — Strength and power are different. You wanted strength. Carmilla wanted power.
-> 
 > — In the end, yes. That's what it turned into. Which is what ruined my life. Power. Big, international, non-diplomatic, projected power is something else. It lends you more might, but it doesn't have the utilities of strength. It lays eggs in you. It becomes a parasite you have to feed. Power does nothing but eat.
-> 
 > — Like a vampire.
-> 
 > — Like a vampire.
 
 Succinctly, well put. This is a potent overview, really. And then, there are sociological, psychological, and, of course, political discourses in volumes of pages dissecting this subject. Here, however, I will compile a list that doesn't teach you theories, but helps you to internalise them. Our goal is not only to understand,[^1] but to feel.
