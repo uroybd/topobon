@@ -1,5 +1,5 @@
 ---
-{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:33:35+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T20:42:46+06:00","dg-publish":true,"dg-note-icon":2,"tags":["fascism","dystopian","politics","books","recommendations","anarchism"],"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 > [!quote-with-source] Warren Ellis (Castlevania S04E10)
@@ -21,7 +21,9 @@ Succinctly, well put. This is a potent overview, really. And then, there are soc
 
 ## 03. Fahrenheit 451 by Ray Bradbury
 <img src="https://books.google.com/books/publisher/content/images/frontcover/OYtkbGl2j0sC?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> [[Personal/Reading/Books/Read/Fahrenheit 451 by Ray Bradbury\|Fahrenheit 451]] deals with a dystopia with some interesting differences from 1984. Resources are not really scarce, and people live a plentiful life. However, they live a hollow life, an absolute [[Personal/Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord\|society of the spectacle]].
+
 In their too comfortable life, where the government is in an extreme effort to eliminate thinking and questioning, people are living a life that can only be described as **impulsive**.
+
 This points to another core truth about Power. Power doesn't want you to be miserable by default. It simply doesn't care about you. It will do whatever suits it best, regardless of the implications it may have on you.
 
 ## 04. The Handmaid's Tale by Margaret Atwood
@@ -31,7 +33,9 @@ This is a feminist book and particularly explores the position of women, who are
 
 ## 05. V for Vendetta by Alan Moore
 <img src="https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Here, we are again in an English dystopia. But here, we journey with a hopeful note, for our protagonist, V, is strong, and in a war with power, restoring hope in the possibility of redemption.
+
 A graphic novel, a cult classic, [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]], is not by any means a typical superhero comic. It explores the premises of anarchism thoroughly, so much so that if you want to be familiar with the political theory of anarchism, this is a much better primer than many well-known alternatives.
+
 This has so many intertwining stories with deep psychological insights and complex power structure, so many [[Personal/Reading/Supplements/V for Vendetta_ Mentioned Works\|cultural references]], you may want to read it several times.
 
 [^1]: I believe political scientists themselves understand this matter very little. Being a *soft science*, it is less formal. Also, governments keep many secrets that become available after a long time. It is hard to catch up with all the machinations at play.
