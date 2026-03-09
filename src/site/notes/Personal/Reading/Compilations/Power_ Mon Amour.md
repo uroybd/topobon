@@ -1,9 +1,9 @@
 ---
-{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:21:33+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:33:10+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
-> [!quote] Warren Ellis (Castlevania S04E10)
+> [!quote-with-source] Warren Ellis (Castlevania S04E10)
 > — Strength and power are different. You wanted strength. Carmilla wanted power.
 > 
 > — In the end, yes. That's what it turned into. Which is what ruined my life. Power. Big, international, non-diplomatic, projected power is something else. It lends you more might, but it doesn't have the utilities of strength. It lays eggs in you. It becomes a parasite you have to feed. Power does nothing but eat.
