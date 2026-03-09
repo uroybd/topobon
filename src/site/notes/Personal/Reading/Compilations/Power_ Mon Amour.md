@@ -1,7 +1,6 @@
 ---
-{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:33:10+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:33:35+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
 ---
-
 
 > [!quote-with-source] Warren Ellis (Castlevania S04E10)
 > — Strength and power are different. You wanted strength. Carmilla wanted power.
