@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Being and Time by Martin Heidegger","updated":"2026-03-21T16:59:31+06:00","created":"2021-05-11T07:34:15+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","existentialism","reading-note"],"dg-path":"Reading/Notes and Highlights/Being and Time by Martin Heidegger.md","permalink":"/reading/notes-and-highlights/being-and-time-by-martin-heidegger/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Being and Time by Martin Heidegger","updated":"2026-03-21T18:13:24+06:00","created":"2021-05-11T07:34:15+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","existentialism","reading-note"],"dg-path":"Reading/Notes and Highlights/Being and Time by Martin Heidegger.md","permalink":"/reading/notes-and-highlights/being-and-time-by-martin-heidegger/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Being and Time
@@ -126,7 +126,7 @@ Beingception! 😌
 
 *Page Number: 323*
 ###### Time：2021-04-29 00:09
-> But Dasein is equiprimordially in untruth. Anticipatory resoluteness at the same time gives Dasein the primordial certainty of its being closed off. In anticipatory resoluteness, Dasein holds itself open for its constant lostness in the irresoluteness of the they-a lostness which is possible from the very ground of its own being. As a constant possibility of Dasein, irresoluteness is co-certain
+> But Dasein is equiprimordially in untruth. Anticipatory resoluteness at the same time gives Dasein the primordial certainty of its being closed off. In anticipatory resoluteness, Dasein holds itself open for its constant lostness in the irresoluteness of the they-a lostness which is possible from the very ground of its own being. As a constant possibility of Dasein, irresoluteness is co-certain.
 
 *Page Number: 325*
 #### § 65. Temporality as the Ontological Meaning of Care

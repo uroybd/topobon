@@ -1,5 +1,5 @@
 ---
-{"authors":["Jacques Derrida"],"status":"Read","reviewed":true,"tags":["philosophy","Phenomenology"],"pages":24,"reading_notes":"[[Personal/Reading/Notes and Highlights/Differance by Jacques Derrida|Differance by Jacques Derrida]]","updated":"2026-03-21T16:59:25+06:00","created":"2026-03-18T05:38:05+06:00","title":"\"Differance\"","log":[{"status":"Read","timestamp":"2026-03-21T14:28:20+06:00"},{"status":"In Progress","timestamp":"2026-03-18T05:40:19+06:00"},{"status":"To Read","timestamp":"2026-03-18T05:39:54+06:00"}],"read_count":1,"rating":4.5,"dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Differance.md","permalink":"/reading/books/read/differance/","dgPassFrontmatter":true,"noteIcon":2}
+{"authors":["Jacques Derrida"],"status":"Read","reviewed":true,"tags":["philosophy","Phenomenology"],"pages":24,"reading_notes":"[[Personal/Reading/Notes and Highlights/Differance by Jacques Derrida|Differance by Jacques Derrida]]","updated":"2026-03-21T18:13:12+06:00","created":"2026-03-18T05:38:05+06:00","title":"\"Differance\"","log":[{"status":"Read","timestamp":"2026-03-21T14:28:20+06:00"},{"status":"In Progress","timestamp":"2026-03-18T05:40:19+06:00"},{"status":"To Read","timestamp":"2026-03-18T05:39:54+06:00"}],"read_count":1,"rating":4.5,"dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Differance.md","permalink":"/reading/books/read/differance/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 > [!tldr] TL;DR
@@ -48,7 +48,7 @@ What we note as differance will thus be the movement of play that “produces”
 </div></div>
 
 
-`Differance` is also the driving force for Dasein. Dasein or Being is a temporal phenomenon. It doesn't exist at a point in time, but over a stretch of time, ever changing, ever interacting. It is the tapestry of ever-accumulating *traces* created by `Differance`, which often has the illusion of being only at present.
+`Differance` is also the driving force for Dasein— [[Personal/Reading/Notes and Highlights/Being and Time by Martin Heidegger#Time：2021-04-30 23 34\|a temporal phenomenon]]. It doesn't exist at a point in time, but over a stretch of time, ever changing, ever interacting. It is the tapestry of ever-accumulating *traces* created by `Differance`, which often has [[Personal/Reading/Notes and Highlights/Being and Time by Martin Heidegger#Time：2021-02-21 15 35\|the illusion of being only at present]].
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/differance-by-jacques-derrida/#6f049c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
