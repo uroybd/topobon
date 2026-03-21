@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Being and Time by Martin Heidegger","updated":"2023-02-14T18:05:06+06:00","created":"2021-05-11T07:34:15+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","existentialism","reading-note"],"dg-path":"Reading/Notes and Highlights/Being and Time by Martin Heidegger.md","permalink":"/reading/notes-and-highlights/being-and-time-by-martin-heidegger/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Being and Time by Martin Heidegger","updated":"2026-03-21T16:59:31+06:00","created":"2021-05-11T07:34:15+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","existentialism","reading-note"],"dg-path":"Reading/Notes and Highlights/Being and Time by Martin Heidegger.md","permalink":"/reading/notes-and-highlights/being-and-time-by-martin-heidegger/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 # Being and Time
@@ -15,7 +15,7 @@
 ### Chapter Two. The Double Tusk in Working Out the Question of Being: The Method of the Investigation and It's Outline
 #### § 6. The Task of a Destruction of the History of Ontology
 ###### Time：2021-02-21 15:33
-> The preparatory interpretation of the fundamental structures of Dasein with regard to its usual and average way of being-in which it is also first of all historical-will make the following clear: Dasein not only has the inclination to be entangled in the world in which it is and to interpret itself in terms of that world by its reflected light; at the same time Dase:in is also entangled in a tradition which it more or less explicitly grasps. This tradition deprives Dasein of its own leadership in questioning and choosing. This is especially true of that understanding (and its possible development) which is rooted :in the most proper being of Dasein-the ontological understanding.
+> The preparatory interpretation of the fundamental structures of Dasein with regard to its usual and average way of being-in which it is also first of all historical-will make the following clear: Dasein not only has the inclination to be entangled in the world in which it is and to interpret itself in terms of that world by its reflected light; at the same time Dasein is also entangled in a tradition which it more or less explicitly grasps. This tradition deprives Dasein of its own leadership in questioning and choosing. This is especially true of that understanding (and its possible development) which is rooted in the most proper being of Dasein-the ontological understanding.
 
 *Page Number: 50*
 
@@ -34,7 +34,7 @@
 ### Chapter One. The Exposition of the Task of a Preparatory Analysis of Daseing
 #### § 9. The Theme of the Analytic of Dasein
 ###### Time：2021-02-24 14:43
-> The bemg whose analysis our task is, is always we* ourselves. The being of this bemg is always mine. In the being of this being it is related to its being.+ As the being of this being, it is entrusted to its own being. It is being+ about which this being is concerned. From this characteristic of Dasein two things follow.
+> The being whose analysis our task is, is always we* ourselves. The being of this being is always mine. In the being of this being it is related to its being. As the being of this being, it is entrusted to its own being. It is being about which this being is concerned. From this characteristic of Dasein two things follow.
 ---
 Beingception! 😌
 
@@ -45,9 +45,9 @@ Beingception! 😌
 *Page Number: 72*
 
 ### Chapter Three. The Worldliness of the Being
-#### § 16. The Worldly Character of fhe Surrounding WorldAnnouncing Itself in Innerworldly Beings
+#### § 16. The Worldly Character of Fhe Surrounding WorldAnnouncing Itself in Innerworldly Beings
 ###### Time：2021-03-08 21:21
-> According to our foregoing interpretation, being-in-the-world sig￾\nifies the unthematic, circumspect absorption in the references constitutive for the handiness of the totality of useful things. Taking care of things always already occurs on the basis of a familiarity with the world. In this familiarity Dasein can lose itself in what it encounters within the world and be numbed by it. With what is Dasein familiar? Why can the worldly character of innerworldly beings appear? How is the referential totality [Verweisungsganzheit] in which circumspection "moves" to be understood more precisely? When this totality is broken, the presence of beings is thrust to the fore.
+> According to our foregoing interpretation, being-in-the-world signifies the unthematic, circumspect absorption in the references constitutive for the handiness of the totality of useful things. Taking care of things always already occurs on the basis of a familiarity with the world. In this familiarity Dasein can lose itself in what it encounters within the world and be numbed by it. With what is Dasein familiar? Why can the worldly character of innerworldly beings appear? How is the referential totality [Verweisungsganzheit] in which circumspection "moves" to be understood more precisely? When this totality is broken, the presence of beings is thrust to the fore.
 
 *Page Number: 105*
 
@@ -126,7 +126,7 @@ Beingception! 😌
 
 *Page Number: 323*
 ###### Time：2021-04-29 00:09
-> But Dasein is equiprimordially in untruth. Anticipatory resoluteness at the same time gives Dasein the primordial certamty of its being closed off. In anticipatory resoluteness, Dasein holds itself open for its constant lostness in the irresoluteness of the they-a lostness which is possible from the very ground of its own being. As a constant possibility of Dasein, irresoluteness is co-certain
+> But Dasein is equiprimordially in untruth. Anticipatory resoluteness at the same time gives Dasein the primordial certainty of its being closed off. In anticipatory resoluteness, Dasein holds itself open for its constant lostness in the irresoluteness of the they-a lostness which is possible from the very ground of its own being. As a constant possibility of Dasein, irresoluteness is co-certain
 
 *Page Number: 325*
 #### § 65. Temporality as the Ontological Meaning of Care
@@ -136,14 +136,14 @@ Beingception! 😌
 *Page Number: 341*
 ### Chapter Four. Temporality and Everydayness
 #### § 69. The Temporality of Being-in-the-World and the Problem of the Transcendence of the World
-##### (b) The Temporal Meaning of the Way in which Circumspect Taking Care Becomes Modified into the Theoretical Discovery ofThat Which is Present Within the World.
+##### (b) The Temporal Meaning of the Way in Which Circumspect Taking Care Becomes Modified into the Theoretical Discovery ofThat Which is Present Within the World.
 ###### Time：2021-04-30 11:35
 > The existential concept understands science as a mode of existence and thus a mode of being-in-the-world which discovers or discloses beings or being
 
 *Page Number: 370*
 #### § 70. The Temporality of the Spatiality Characteristic of Dasein
 ###### Time：2021-04-30 22:49
-> Dasein can be spatial only as care, in the sense of facti.cally entangled existing. Negatively this means that Dasein is never objectively present in space, not even initially. Dasein does not fill out a piece of space as a real thing or useful thing would do, so that the boundaries dividing it from the surrounding space would themselves just define that space spatially. In tl1e literal sense, Dasein takes space in. It is by no means merely objectively present in the piece of space that its corporeal body [Leibkorper] fills out.
+> Dasein can be spatial only as care, in the sense of factically entangled existing. Negatively this means that Dasein is never objectively present in space, not even initially. Dasein does not fill out a piece of space as a real thing or useful thing would do, so that the boundaries dividing it from the surrounding space would themselves just define that space spatially. In the literal sense, Dasein takes space in. It is by no means merely objectively present in the piece of space that its corporeal body [Leibkorper] fills out.
 
 *Page Number: 380*
 ### Chapter Five. Temporality and Historicity
