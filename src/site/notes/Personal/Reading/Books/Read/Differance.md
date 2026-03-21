@@ -1,5 +1,5 @@
 ---
-{"authors":["Jacques Derrida"],"status":"Read","reviewed":true,"tags":["philosophy","Phenomenology"],"pages":24,"reading_notes":"[[Personal/Reading/Notes and Highlights/Differance by Jacques Derrida|Differance by Jacques Derrida]]","updated":"2026-03-21T18:14:43+06:00","created":"2026-03-18T05:38:05+06:00","title":"\"Differance\"","log":[{"status":"Read","timestamp":"2026-03-21T14:28:20+06:00"},{"status":"In Progress","timestamp":"2026-03-18T05:40:19+06:00"},{"status":"To Read","timestamp":"2026-03-18T05:39:54+06:00"}],"read_count":1,"rating":4.5,"dg-publish":true,"dg-note-icon":2,"cover":"https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603202072i/55745723.jpg","dg-path":"Reading/Books/Read/Differance.md","permalink":"/reading/books/read/differance/","dgPassFrontmatter":true,"noteIcon":2}
+{"authors":["Jacques Derrida"],"status":"Read","reviewed":true,"tags":["philosophy","Phenomenology"],"pages":24,"reading_notes":"[[Personal/Reading/Notes and Highlights/Differance by Jacques Derrida|Differance by Jacques Derrida]]","updated":"2026-03-21T18:28:28+06:00","created":"2026-03-18T05:38:05+06:00","title":"\"Differance\"","log":[{"status":"Read","timestamp":"2026-03-21T14:28:20+06:00"},{"status":"In Progress","timestamp":"2026-03-18T05:40:19+06:00"},{"status":"To Read","timestamp":"2026-03-18T05:39:54+06:00"}],"read_count":1,"rating":4.5,"dg-publish":true,"dg-note-icon":2,"cover":"https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603202072i/55745723.jpg","dg-path":"Reading/Books/Read/Differance.md","permalink":"/reading/books/read/differance/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 > [!tldr] TL;DR
@@ -35,7 +35,7 @@ It was Saussure who first of all set forth the arbitrariness of signs and the di
 </div></div>
 
 
-It means our knowledge about this world, all the categorisations we have in our head, so that we can distinguish this or that, **is not based on our comprehensive knowledge of things**. Instead, we know too little, but we know the differences between things. So, you can imagine that our reality is a big block of marble and we see it being chiselled away bit by bit, acknowledging differences, we get to know the ontological categories. These differences are the defining factors of the world.[^1]
+It means our knowledge about this world, all the categorisations we have in our head, so that we can distinguish this or that, **is not based on our comprehensive knowledge of things**. Instead, we know too little, but we know the differences between things. So, you can imagine that our reality is a big block of marble and we see it being chiselled away bit by bit, acknowledging differences, we get to know the ontological categories. These differences are the defining factors of the world.
 
 `Differance` is that process of chiselling, over time.
 
@@ -60,8 +60,12 @@ I shall only note that between differance as temporalizing-temporalization (whic
 </div></div>
 
 
+Coming back to the *signs*, the signs we use in our languages are placeholders for things that are not present. This act of signification itself depends on `differance` because with this sign, we are deferring the entity we are signifying. Maybe we haven't stumbled upon languages and found a nice tool to use. Languages, perhaps, have a deeper ontological root, which makes it necessary for sentient beings, which brings us to the closing thought of this essay:
+
+> Being
+> speaks
+> through every language;
+> everywhere and always.
 
 > [!note] Notes and Highlights
 > [[Personal/Reading/Notes and Highlights/Differance by Jacques Derrida\|Differance by Jacques Derrida]]
-
-[^1]: Signs we use in our languages are placeholders for things that are not present. This act of signification itself depends on `differance` because with this sign, we are deferring the entity we are signifying. Maybe we haven't stumbled upon languages and found a nice tool to use. Languages, perhaps, have a deeper ontological root which makes it necessary for sentient Beings.
