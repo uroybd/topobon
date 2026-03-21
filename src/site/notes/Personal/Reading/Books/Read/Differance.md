@@ -1,5 +1,5 @@
 ---
-{"authors":["Jacques Derrida"],"status":"Read","reviewed":true,"tags":["philosophy","Phenomenology"],"pages":24,"reading_notes":"[[Personal/Reading/Notes and Highlights/Differance by Jacques Derrida|Differance by Jacques Derrida]]","updated":"2026-03-21T18:28:28+06:00","created":"2026-03-18T05:38:05+06:00","title":"\"Differance\"","log":[{"status":"Read","timestamp":"2026-03-21T14:28:20+06:00"},{"status":"In Progress","timestamp":"2026-03-18T05:40:19+06:00"},{"status":"To Read","timestamp":"2026-03-18T05:39:54+06:00"}],"read_count":1,"rating":4.5,"dg-publish":true,"dg-note-icon":2,"cover":"https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603202072i/55745723.jpg","dg-path":"Reading/Books/Read/Differance.md","permalink":"/reading/books/read/differance/","dgPassFrontmatter":true,"noteIcon":2}
+{"authors":["Jacques Derrida"],"status":"Read","reviewed":true,"tags":["philosophy","Phenomenology"],"pages":24,"reading_notes":"[[Personal/Reading/Notes and Highlights/Differance by Jacques Derrida|Differance by Jacques Derrida]]","updated":"2026-03-21T18:29:41+06:00","created":"2026-03-18T05:38:05+06:00","title":"\"Differance\"","log":[{"status":"Read","timestamp":"2026-03-21T14:28:20+06:00"},{"status":"In Progress","timestamp":"2026-03-18T05:40:19+06:00"},{"status":"To Read","timestamp":"2026-03-18T05:39:54+06:00"}],"read_count":1,"rating":4.5,"dg-publish":true,"dg-note-icon":2,"cover":"https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603202072i/55745723.jpg","dg-path":"Reading/Books/Read/Differance.md","permalink":"/reading/books/read/differance/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 > [!tldr] TL;DR
@@ -62,6 +62,7 @@ I shall only note that between differance as temporalizing-temporalization (whic
 
 Coming back to the *signs*, the signs we use in our languages are placeholders for things that are not present. This act of signification itself depends on `differance` because with this sign, we are deferring the entity we are signifying. Maybe we haven't stumbled upon languages and found a nice tool to use. Languages, perhaps, have a deeper ontological root, which makes it necessary for sentient beings, which brings us to the closing thought of this essay:
 
+> [!quote-with-source] Jacques Derrida
 > Being
 > speaks
 > through every language;
