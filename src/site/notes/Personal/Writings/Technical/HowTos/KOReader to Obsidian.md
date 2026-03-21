@@ -1,5 +1,5 @@
 ---
-{"title":"KOReader to Obsidian: Export Notes and Highlights","aliases":["KOReader to Obsidian: Export Notes and Highlights"],"created":"2023-09-10T14:38:12+06:00","updated":"2026-03-21T15:38:34+06:00","dg-note-icon":"chest","dg-publish":true,"tags":["koreader","obsidian","how-to","notes-export"],"dg-path":"Writings/Technical/HowTos/KOReader to Obsidian.md","permalink":"/writings/technical/how-tos/ko-reader-to-obsidian/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"KOReader to Obsidian: Export Notes and Highlights","aliases":["KOReader to Obsidian: Export Notes and Highlights"],"created":"2023-09-10T14:38:12+06:00","updated":"2026-03-21T15:42:14+06:00","dg-note-icon":"chest","dg-publish":true,"tags":["koreader","obsidian","how-to","notes-export"],"dg-path":"Writings/Technical/HowTos/KOReader to Obsidian.md","permalink":"/writings/technical/how-tos/ko-reader-to-obsidian/","dgPassFrontmatter":true,"noteIcon":"chest"}
 ---
 
 Previously, I used [KOReader](https://github.com/koreader/koreader)'s notes and highlight export function to export as markdown and store them in my Obsidian vault (I've contributed to its development too). I export with styles so that they give me context later. It is very convenient. However, sometimes, it is also hard to read. In Obsidian, we have [callouts](https://help.obsidian.md/Editing+and+formatting/Callouts) which are not standard markdown, and therefore, are not a good candidate to add support for it in the KOReader directly. So I decided to export as JSON from KOReader and use that JSON to generate markdown the way I like.
@@ -25,7 +25,7 @@ The basic idea is, You keep another file in Obsidian for the book you're reading
 In that note, use the following template to generate a block for your note.
 
 ```gist
-uroybd/350b9c7848ca727aaae9e4dcba0498d8#Highlight Companion.md
+uroybd/350b9c7848ca727aaae9e4dcba0498d8#Highlight Companion
 ```
 It will generate a block like this, here `hj24v0` is the ID:
 
