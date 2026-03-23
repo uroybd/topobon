@@ -13,6 +13,7 @@ const {
   userMarkdownSetup,
   userEleventySetup,
 } = require("./src/helpers/userSetup");
+const { basesPlugin } = require("./src/helpers/basesPlugin");
 
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
@@ -103,6 +104,19 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
+
+  // Fix Obsidian wiki-link pipe escaping (\|) in YAML frontmatter.
+  // Obsidian writes [[Page\|Alias]] in frontmatter, but \| is an invalid
+  // YAML escape sequence inside double-quoted strings, causing js-yaml to throw.
+  const jsYaml = require(require.resolve("js-yaml", { paths: [require.resolve("gray-matter")] }));
+  eleventyConfig.setFrontMatterParsingOptions({
+    engines: {
+      yaml: {
+        parse: (str) => jsYaml.load(str.replace(/\\\|/g, "|")),
+        stringify: (obj) => jsYaml.dump(obj),
+      },
+    },
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
@@ -140,6 +154,7 @@ module.exports = function(eleventyConfig) {
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
+    .use(basesPlugin)
     .use(function(md) {
       //https://github.com/DCsunset/markdown-it-mermaid-plugin
       const origFenceRule =
@@ -156,27 +171,6 @@ module.exports = function(eleventyConfig) {
         if (token.info === "transclusion") {
           const code = token.content.trim();
           return `<div class="transclusion">${md.render(code)}</div>`;
-        }
-        if (token.info === "gist") {
-          const code = token.content.trim();
-          // Support multiple gist references, one per line
-          const gistLines = code.split('\n').filter(line => line.trim());
-          
-          const scripts = gistLines.map(line => {
-            line = line.trim();
-            // Parse format: [username/]gist-id[#filename]
-            const parts = line.split('#');
-            const gistPath = parts[0];
-            const filename = parts[1] || '';
-            
-            // Build the GitHub Gist embed URL
-            const gistUrl = `https://gist.github.com/${gistPath}.js`;
-            const scriptUrl = filename ? `${gistUrl}?file=${encodeURIComponent(filename)}` : gistUrl;
-            
-            return `<script src="${scriptUrl}"></script>`;
-          });
-          
-          return scripts.join('\n');
         }
         if (token.info.startsWith("ad-")) {
           const code = token.content.trim();
@@ -359,6 +353,13 @@ module.exports = function(eleventyConfig) {
         return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
       })
     );
+  });
+
+  eleventyConfig.addFilter("stripForSearch", function(content) {
+    return content
+      .replace(/<[^>]*>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
   });
 
   eleventyConfig.addFilter("searchableTags", function(str) {
@@ -666,6 +667,22 @@ module.exports = function(eleventyConfig) {
         });
       } catch {
         // If the html minifying fails for some reason due to some malformed text, just return the content as is.
+        return content;
+      }
+    }
+    return content;
+  });
+
+  eleventyConfig.addTransform("jsonMinifier", async (content, outputPath) => {
+    if (
+      (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
+      outputPath &&
+      outputPath.endsWith(".json")
+    ) {
+      try {
+        return JSON.stringify(JSON.parse(content));
+      } catch {
+        // If the JSON minifying fails for some reason due to malformed JSON, just return the content as is.
         return content;
       }
     }
