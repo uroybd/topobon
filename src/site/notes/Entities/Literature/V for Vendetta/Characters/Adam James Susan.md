@@ -1,5 +1,5 @@
 ---
-{"title":"Adam James Susan","aliases":["Adam James Susan","The Leader"],"type":"Character","created":"2023-10-26T12:29:00","updated":"2023-10-27T01:22:10","dg-publish":true,"dg-note-icon":1,"tags":["VforVendetta"],"permalink":"/entities/literature/v-for-vendetta/characters/adam-james-susan/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"Adam James Susan","aliases":["Adam James Susan","The Leader"],"type":"Character","created":"2023-10-26T12:29:00","updated":"2023-10-27T01:22:10","dg-publish":true,"dg-note-icon":1,"tags":["VforVendetta"],"permalink":"/entities/literature/v-for-vendetta/characters/adam-james-susan/","dgPassFrontmatter":true,"noteIcon":1,"dg-note-properties":{"title":"Adam James Susan","aliases":["Adam James Susan","The Leader"],"type":"Character","created":"2023-10-26T12:29:00","updated":"2023-10-27T01:22:10","tags":["VforVendetta"]}}
 ---
 
 Adam James Susan is the leader of the **Norsefire** and the leader of the [[Entities/Literature/V for Vendetta/Entities/The Government\|government]].

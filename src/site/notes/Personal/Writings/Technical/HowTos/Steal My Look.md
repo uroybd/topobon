@@ -1,5 +1,5 @@
 ---
-{"title":"Steal My Look!","aliases":["Steal My Look!"],"created":"2025-11-03T15:25:58+06:00","updated":"2025-11-04T18:16:56+06:00","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Steal My Look.md","permalink":"/writings/technical/how-tos/steal-my-look/","dgPassFrontmatter":true,"noteIcon":"chest"}
+{"title":"Steal My Look!","aliases":["Steal My Look!"],"created":"2025-11-03T15:25:58+06:00","updated":"2025-11-04T18:16:56+06:00","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Steal My Look.md","permalink":"/writings/technical/how-tos/steal-my-look/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Steal My Look!","aliases":["Steal My Look!"],"created":"2025-11-03T15:25:58+06:00","updated":"2025-11-04T18:16:56+06:00"}}
 ---
 
 You visited my digital garden and are wondering how to replicate it (maybe partially)? I will try to guide you through it.

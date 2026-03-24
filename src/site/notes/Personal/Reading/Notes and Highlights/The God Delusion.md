@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The God Delusion","created":"2016-12-04T18:30:02+06:00","updated":"2025-05-27T21:40:48+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"Reading/Notes and Highlights/The God Delusion.md","permalink":"/reading/notes-and-highlights/the-god-delusion/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The God Delusion","created":"2016-12-04T18:30:02+06:00","updated":"2025-05-27T21:40:48+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"Reading/Notes and Highlights/The God Delusion.md","permalink":"/reading/notes-and-highlights/the-god-delusion/","dgPassFrontmatter":true,"noteIcon":"stone","dg-note-properties":{"title":"Notes from The God Delusion","created":"2016-12-04T18:30:02+06:00","updated":"2025-05-27T21:40:48+06:00","tags":["reading-notes-old"]}}
 ---
 
 # The God Delusion

@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Differance by Jacques Derrida","aliases":["Differance by Jacques Derrida"],"created":"2026-03-21T14:28:40+06:00","updated":"2026-03-21T16:59:17+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Differance by Jacques Derrida.md","permalink":"/reading/notes-and-highlights/differance-by-jacques-derrida/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Differance by Jacques Derrida","aliases":["Differance by Jacques Derrida"],"created":"2026-03-21T14:28:40+06:00","updated":"2026-03-21T16:59:17+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Differance by Jacques Derrida.md","permalink":"/reading/notes-and-highlights/differance-by-jacques-derrida/","dgPassFrontmatter":true,"noteIcon":"stone","dg-note-properties":{"title":"Notes from Differance by Jacques Derrida","aliases":["Differance by Jacques Derrida"],"created":"2026-03-21T14:28:40+06:00","updated":"2026-03-21T16:59:17+06:00"}}
 ---
 
 # Differance

@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2024-09-03T23:51:47+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2022-08-22T18:25:53+06:00","dg-path":"Journal/On Career.md","permalink":"/journal/on-career/","dgPassFrontmatter":true,"noteIcon":2}
+{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2024-09-03T23:51:47+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2022-08-22T18:25:53+06:00","dg-path":"Journal/On Career.md","permalink":"/journal/on-career/","dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2024-09-03T23:51:47+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2022-08-22T18:25:53+06:00"}}
 ---
 
 An introspection of my life cannot be possibly done without a retrospection, a walk down the aisles between desks.

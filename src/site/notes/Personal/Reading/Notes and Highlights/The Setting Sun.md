@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old"],"title":"The Setting Sun","created":"2019-12-03T17:40:07+06:00","updated":"2025-05-28T12:38:19+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Setting Sun.md","permalink":"/reading/notes-and-highlights/the-setting-sun/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"The Setting Sun","created":"2019-12-03T17:40:07+06:00","updated":"2025-05-28T12:38:19+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Setting Sun.md","permalink":"/reading/notes-and-highlights/the-setting-sun/","dgPassFrontmatter":true,"noteIcon":"stone","dg-note-properties":{"tags":["reading-notes-old"],"title":"The Setting Sun","created":"2019-12-03T17:40:07+06:00","updated":"2025-05-28T12:38:19+06:00"}}
 ---
 
 # The Setting Sun

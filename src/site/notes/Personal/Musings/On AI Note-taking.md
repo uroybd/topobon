@@ -1,5 +1,5 @@
 ---
-{"title":"On AI Note-taking","aliases":["On AI Note-taking"],"location":"Badda, Dhaka","tags":["ai","note-taking"],"created":"2025-07-20T02:26:14+06:00","updated":"2025-07-20T03:43:04+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/On AI Note-taking.md","permalink":"/musings/on-ai-note-taking/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On AI Note-taking","aliases":["On AI Note-taking"],"location":"Badda, Dhaka","tags":["ai","note-taking"],"created":"2025-07-20T02:26:14+06:00","updated":"2025-07-20T03:43:04+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/On AI Note-taking.md","permalink":"/musings/on-ai-note-taking/","dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"On AI Note-taking","aliases":["On AI Note-taking"],"location":"Badda, Dhaka","tags":["ai","note-taking"],"created":"2025-07-20T02:26:14+06:00","updated":"2025-07-20T03:43:04+06:00"}}
 ---
 
 Much of the early AI research (and contemporary ones, to an extent) revolved around using content and actions working on that content interchangeably. That is why languages like LISP gained so much popularity in AI programming.

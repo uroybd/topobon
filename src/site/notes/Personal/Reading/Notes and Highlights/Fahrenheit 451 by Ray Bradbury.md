@@ -1,5 +1,5 @@
 ---
-{"title":"Fahrenheit 451 by Ray Bradbury","updated":"2026-03-04T20:44:05+06:00","created":"2022-04-12T06:22:17+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"tags":["novel","classic","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Fahrenheit 451 by Ray Bradbury.md","permalink":"/reading/notes-and-highlights/fahrenheit-451-by-ray-bradbury/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Fahrenheit 451 by Ray Bradbury","updated":"2026-03-04T20:44:05+06:00","created":"2022-04-12T06:22:17+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"tags":["novel","classic","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Fahrenheit 451 by Ray Bradbury.md","permalink":"/reading/notes-and-highlights/fahrenheit-451-by-ray-bradbury/","dgPassFrontmatter":true,"noteIcon":"stone","dg-note-properties":{"title":"Fahrenheit 451 by Ray Bradbury","updated":"2026-03-04T20:44:05+06:00","created":"2022-04-12T06:22:17+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"tags":["novel","classic","reading-notes-old"]}}
 ---
 
 # Fahrenheit 451

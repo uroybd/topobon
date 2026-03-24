@@ -1,5 +1,5 @@
 ---
-{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:40:27+06:00","dg-publish":true,"dg-note-icon":2,"tags":["fascism","dystopian","politics","books","recommendations","anarchism"],"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:40:27+06:00","dg-publish":true,"dg-note-icon":2,"tags":["fascism","dystopian","politics","books","recommendations","anarchism"],"dg-path":"Reading/Compilations/Power_ Mon Amour.md","permalink":"/reading/compilations/power-mon-amour/","dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"Power, Mon Amour","aliases":["Power, Mon Amour"],"created":"2026-03-09T13:41:34+06:00","updated":"2026-03-09T15:40:27+06:00","tags":["fascism","dystopian","politics","books","recommendations","anarchism"]}}
 ---
 
 > [!quote-with-source] Warren Ellis (Castlevania S04E10)

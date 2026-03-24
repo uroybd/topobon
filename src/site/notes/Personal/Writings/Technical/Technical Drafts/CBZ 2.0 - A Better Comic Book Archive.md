@@ -1,5 +1,5 @@
 ---
-{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-07-12T09:26:54+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-07-12T09:26:54+06:00","tags":["techincal-draft","ebook","comic-book"],"dg-publish":true,"dg-note-icon":1,"dg-path":"Technical Drafts/CBZ 2.0 - A Better Comic Book Archive.md","permalink":"/technical-drafts/cbz-2-0-a-better-comic-book-archive/","dgPassFrontmatter":true,"noteIcon":1,"dg-note-properties":{"title":"CBZ 2.0 - A Better Comic Book Format","aliases":["CBZ 2.0 - A Better Comic Book Format"],"created":"2023-04-25T09:32:42+06:00","updated":"2023-07-12T09:26:54+06:00","tags":["techincal-draft","ebook","comic-book"]}}
 ---
 
 CBZ (and derivatives) have been used as an e-book format for comic books for quite a long time. While they work well on larger screens, using them on smaller handheld devices is very hard.

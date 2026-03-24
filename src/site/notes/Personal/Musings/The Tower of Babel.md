@@ -1,5 +1,5 @@
 ---
-{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-16T00:24:50+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-16T00:24:50+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-16T00:24:50+06:00"}}
 ---
 
 > [!quote] [Genesis 11:1-9 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)

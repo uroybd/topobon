@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","title":"Notes from Animal Farm by George Orwell","created":"2017-08-27T18:23:37+06:00","updated":"2025-05-27T17:44:49+06:00","dg-path":"Reading/Notes and Highlights/Animal Farm by George Orwell.md","permalink":"/reading/notes-and-highlights/animal-farm-by-george-orwell/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","title":"Notes from Animal Farm by George Orwell","created":"2017-08-27T18:23:37+06:00","updated":"2025-05-27T17:44:49+06:00","dg-path":"Reading/Notes and Highlights/Animal Farm by George Orwell.md","permalink":"/reading/notes-and-highlights/animal-farm-by-george-orwell/","dgPassFrontmatter":true,"noteIcon":"stone","dg-note-properties":{"tags":["reading-note"],"title":"Notes from Animal Farm by George Orwell","created":"2017-08-27T18:23:37+06:00","updated":"2025-05-27T17:44:49+06:00"}}
 ---
 
 # Animal Farm

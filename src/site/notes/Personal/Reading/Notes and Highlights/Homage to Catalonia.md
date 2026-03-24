@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","title":"Notes from Homage to Catalonia","created":"2029-03-22T17:48:41+06:00","updated":"2023-01-30T23:42:18+06:00","dg-path":"Reading/Notes and Highlights/Homage to Catalonia.md","permalink":"/reading/notes-and-highlights/homage-to-catalonia/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","title":"Notes from Homage to Catalonia","created":"2029-03-22T17:48:41+06:00","updated":"2023-01-30T23:42:18+06:00","dg-path":"Reading/Notes and Highlights/Homage to Catalonia.md","permalink":"/reading/notes-and-highlights/homage-to-catalonia/","dgPassFrontmatter":true,"noteIcon":"stone","dg-note-properties":{"tags":["reading-note"],"title":"Notes from Homage to Catalonia","created":"2029-03-22T17:48:41+06:00","updated":"2023-01-30T23:42:18+06:00"}}
 ---
 
 # Homage to Catalonia

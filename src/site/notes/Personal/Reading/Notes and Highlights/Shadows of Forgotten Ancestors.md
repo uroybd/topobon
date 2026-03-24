@@ -1,5 +1,5 @@
 ---
-{"title":"Shadows of Forgotten Ancestors","aliases":["Notes from Shadows of Forgotten Ancestors"],"author":["Carl Sagan","Ann Druyan"],"created":"2026-03-05T17:16:55+06:00","updated":"2026-03-05T18:08:59+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Shadows of Forgotten Ancestors.md","permalink":"/reading/notes-and-highlights/shadows-of-forgotten-ancestors/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Shadows of Forgotten Ancestors","aliases":["Notes from Shadows of Forgotten Ancestors"],"author":["Carl Sagan","Ann Druyan"],"created":"2026-03-05T17:16:55+06:00","updated":"2026-03-05T18:08:59+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Shadows of Forgotten Ancestors.md","permalink":"/reading/notes-and-highlights/shadows-of-forgotten-ancestors/","dgPassFrontmatter":true,"noteIcon":"stone","dg-note-properties":{"title":"Shadows of Forgotten Ancestors","aliases":["Notes from Shadows of Forgotten Ancestors"],"author":["Carl Sagan","Ann Druyan"],"created":"2026-03-05T17:16:55+06:00","updated":"2026-03-05T18:08:59+06:00"}}
 ---
 
 # Shadows of Forgotten Ancestors

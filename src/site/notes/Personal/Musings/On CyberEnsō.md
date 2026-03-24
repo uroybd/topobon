@@ -1,5 +1,5 @@
 ---
-{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art"],"created":"2023-02-07T10:56:05+06:00","updated":"2024-01-09T10:26:46+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/On CyberEnsō.md","permalink":"/musings/on-cyber-enso/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art"],"created":"2023-02-07T10:56:05+06:00","updated":"2024-01-09T10:26:46+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/On CyberEnsō.md","permalink":"/musings/on-cyber-enso/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art"],"created":"2023-02-07T10:56:05+06:00","updated":"2024-01-09T10:26:46+06:00"}}
 ---
 
 ![Today's CyberEnso](https://enso.utsob.me/daily-source.jpg)
