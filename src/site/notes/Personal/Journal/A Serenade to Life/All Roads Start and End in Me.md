@@ -1,10 +1,10 @@
 ---
-{"title":"All Roads Start and End in Me","aliases":["All Roads Start and End in Me"],"mood":"moody","weather":"sunny","location":"Badda, Dhaka","created":"2026-02-09T13:45:11+06:00","updated":"2026-02-17T02:51:47+06:00","dg-publish":true,"dg-note-icon":3,"tags":["journal","life"],"dg-path":"Journal/All Roads Start and End in Me.md","permalink":"/journal/all-roads-start-and-end-in-me/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"All Roads Start and End in Me","aliases":["All Roads Start and End in Me"],"mood":"moody","weather":"sunny","location":"Badda, Dhaka","created":"2026-02-09T13:45:11+06:00","updated":"2026-02-17T02:51:47+06:00","tags":["journal","life"]}}
+{"title":"All Roads Start and End in Me","aliases":["All Roads Start and End in Me"],"mood":"moody","weather":"sunny","location":"Badda, Dhaka","created":"2026-02-09T13:45:11+06:00","updated":"2026-05-27T20:49:15+06:00","dg-publish":true,"dg-note-icon":3,"tags":["journal","life"],"dg-path":"Journal/All Roads Start and End in Me.md","permalink":"/journal/all-roads-start-and-end-in-me/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"All Roads Start and End in Me","aliases":["All Roads Start and End in Me"],"mood":"moody","weather":"sunny","location":"Badda, Dhaka","created":"2026-02-09T13:45:11+06:00","updated":"2026-05-27T20:49:15+06:00","tags":["journal","life"]}}
 ---
 
 [[Entities/Person/Matsuo Bashō\|Bashō]] Asked me to join in. I picked up my bag and my sandals. We went through the mountains and valleys towards Kyoto. The narrow road to the interior, it is called. Interior to my being.
 
-Along the way, joined Dostoyevsky, a veritable madman. We met Attar along the way, [[Entities/Concept/Sufism/Fana\|Fanā]] to his bone. All my friends are quite mad, to be honest. 
+Along the way, Dostoyevsky, a veritable madman, joined our party. We met Attar along the way, [[Entities/Concept/Sufism/Fana\|Fanā]] to his bone. All my friends are quite mad, to be honest. 
 
 In a Tasca in Lisbon, we met [[Entities/Person/Fernando Pessoa\|Pessoa]] and [[Entities/Person/Jibanananda Das\|Jibanananda]]. We answered the riddles of the absurd Sphinx and passed by the impenetrable castle. Evening approached with a [[Entities/Mood/Hüzün\|Huzun]] on Lisbon, blown away from Istanbul.
 
