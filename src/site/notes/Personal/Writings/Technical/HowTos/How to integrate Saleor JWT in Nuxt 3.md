@@ -1,5 +1,5 @@
 ---
-{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T19:45:15+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T19:45:15+06:00","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"]}}
+{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T19:51:39+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T19:51:39+06:00","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"]}}
 ---
 
 [Saleor](https://saleor.io) uses [JWT Authentication](https://docs.saleor.io/docs/3.x/api-usage/authentication), which is very easy to integrate in Nuxt. Call the login API, get the token, and call the `onLogin` in [NuxtApollo](https://apollo.nuxtjs.org/recipes/authentication). Straightforward, isn't it?
@@ -24,7 +24,7 @@ flowchart
         api(POST /api/auth/login)
         auth@{shape: diamond, label: "Is Authentic?"}
         tokengen["Generate Access & Refresh Token"]
-        loginresp[/"Login Response (Access Token Only)"/]
+        loginresp(("Login Response (Access Token Only)"))
 
         login --> api
         api --> auth
@@ -37,11 +37,15 @@ flowchart
         refapi("GET /api/auth/refresh")
         validate@{shape: diamond, label: "Is Valid?"}
         atokengen["Generate Access Token"]
-        refreshresp[/"Refresh Response (Access Token Only)"/]
+        refreshresp(("Refresh Response (Access Token Only)"))
         refresh ==> refapi
         validate -- yes --> atokengen
         atokengen --> refreshresp
     end
+    
+    style err fill:#ff0000,color:#fff
+    style refreshresp fill:#008000,color:#fff
+    style loginresp fill:#008000,color:#fff
 ```
 
 ### Login
