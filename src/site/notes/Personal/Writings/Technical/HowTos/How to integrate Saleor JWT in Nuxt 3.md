@@ -1,5 +1,5 @@
 ---
-{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T16:21:12+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T16:21:12+06:00","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"]}}
+{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T19:45:15+06:00","dg-publish":true,"dg-note-icon":"chest","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"],"dg-path":"Writings/Technical/HowTos/How to integrate Saleor JWT in Nuxt 3.md","permalink":"/writings/technical/how-tos/how-to-integrate-saleor-jwt-in-nuxt-3/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"How to integrate Saleor JWT in Nuxt 3","aliases":["How to integrate Saleor JWT in Nuxt 3"],"created":"2024-04-29T10:26:43+06:00","updated":"2026-06-10T19:45:15+06:00","tags":["technical","how-to","nuxt3","nuxt","apollo","graphql","saleor","jwt","django"]}}
 ---
 
 [Saleor](https://saleor.io) uses [JWT Authentication](https://docs.saleor.io/docs/3.x/api-usage/authentication), which is very easy to integrate in Nuxt. Call the login API, get the token, and call the `onLogin` in [NuxtApollo](https://apollo.nuxtjs.org/recipes/authentication). Straightforward, isn't it?
@@ -7,8 +7,7 @@
 The real challenge is to secure the Refresh Token. Ideally, Refresh Tokens are sensitive and **should be stored in secure HTTP cookies**; they shouldn't be transported to the frontend JavaScript at all.
 
 ## Implementation
-### Login
-We will start by implementing the login. The flow is roughly like this:
+
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'stepAfter' } } }%%
 flowchart
@@ -45,9 +44,12 @@ flowchart
     end
 ```
 
-1. A user will attempt to log in with his credentials, but not directly to Saleor. The request will be made to `/api/auth/login`.
-2. Our server's API handler will request on our behalf to Saleor's API.
-3. Then it will **strip the `refreshToken` from the response** and return the Access Token and the `additonalData` to the user.
+### Login
+We will start by implementing the login. The flow is roughly like this:
+
+1. A user will attempt to log in with their credentials, but not directly to Saleor. The request will be made to `/api/auth/login`.
+2. Our server's API handler will request on our behalf from Saleor's API.
+3. Then it will **strip the `refreshToken` from the response** and return the Access Token and the `additionalData` to the user.
 
 ```javascript
 // server/api/auth/login.js
@@ -146,9 +148,9 @@ export default defineEventHandler(async (event) => {
 
 ```
 
-The support for supplying `additonalFields` parameter allows the user to get the user profile in one go with the tokens.
+The support for supplying the `additionalFields` parameter allows the user to get the user profile in one go with the tokens.
 
-Notice that, we have set the `path` for the cookie to `/api/auth`. This will make the cookie accessible only to `/api/auth` routes. We have also set the expiry time to automatically expire the `refreshToken`.
+Note that we have set the `path` for the cookie to `/api/auth`. This will make the cookie accessible only to `/api/auth` routes. We have also set the expiry time to automatically expire the `refreshToken`.
 
 From the frontend, the login request may look like this:
 
