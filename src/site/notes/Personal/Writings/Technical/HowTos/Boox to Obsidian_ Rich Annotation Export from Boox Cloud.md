@@ -1,217 +1,24 @@
 ---
-{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2025-05-11T20:23:49+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2025-05-11T20:23:49+06:00","location":"Dhaka"}}
+{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-12T19:42:01+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-12T19:42:01+06:00","location":"Dhaka"}}
 ---
 
 [Many like me](https://christiantietze.de/posts/2023/05/boox-neoreader-annotation-export-is-meh/), have already noticed that annotations exported as text or HTML from Boox devices are inadequate at best. They lack context. Previously, I tried to make the situation better by [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations\|adding some context in the notes]]. It works, but it is very cumbersome to handle.
 
-**But, I found a better way.**
+**But I found a better way.**
 
-First, lets get the data from Boox Cloud as JSON. These JSON files will contain rich context. To do that we will use [Tampermonkey](https://www.tampermonkey.net/)
+First, download **Boox Rich Annotations** app from the latest release page:
 
-First, install the plugin in your browser and add the following script:
+[![uroybd/BooxRichAnnotations - GitHub](https://gh-card.dev/repos/uroybd/BooxRichAnnotations.svg)]([https://github.com/uroybd/BooxRichAnnotations](https://github.com/uroybd/BooxRichAnnotations/releases/latest))
 
-```js
-// ==UserScript==
-// @name         Boox Annotations
-// @namespace    http://tampermonkey.net/
-// @version      2025-02-26
-// @description  export Boox annotations as JSON
-// @author       Utsob Roy
-// @include        https://push.boox.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=mozilla.org
-// @grant GM.registerMenuCommand
-// ==/UserScript==
+Once you download, install, and open it, you will be presented with a screen like this, where you can see all the books of `epub`, `mobi` and `azw` format in a list:
 
-(function() {
-    'use strict';
+![Media/main_page.png](/img/user/Media/main_page.png)
 
-   async function getDBSpec() {
-  const databases = await window.indexedDB.databases();
-  return databases.find(db => db.name.startsWith("_pouch") && db.name.endsWith("-library"))
-}
+Choose the book you want to export highlights from, and tap `Download as JSON` to download the annotations. It will be saved in your downloads folder and **doesn't require an active internet connection**.
 
-const validTypes = ["epub", "pdf", "cbz"]
+![Media/download_page.png](/img/user/Media/download_page.png)
 
-
-function loadFromIndexedDB(storeName){
-  return new Promise(
-    function(resolve, reject) {
-      var dbRequest = indexedDB.open(storeName);
-
-      dbRequest.onerror = function(event) {
-        reject(Error("Error text"));
-      };
-
-      dbRequest.onupgradeneeded = function(event) {
-        // Objectstore does not exist. Nothing to load
-        event.target.transaction.abort();
-        reject(Error('Not found'));
-      };
-
-      dbRequest.onsuccess = function(event) {
-        var content = [];
-        var database = event.target.result;
-        database.transaction("by-sequence").objectStore("by-sequence").openCursor().onsuccess = (event) => {
-          const cursor = event.target.result;
-          if (cursor) {
-            content.push(cursor.value);
-            cursor.continue();
-          } else {
-            console.log("No more entries!");
-            resolve(content);
-          }
-        };
-      };
-    }
-  );
-}
-
-async function getContent() {
-  const db = await getDBSpec();
-  const content = await loadFromIndexedDB(db.name);
-  return content
-}
-
-var bookCommands = [];
-var content = [];
-
-
-function selectBook(content) {
-  let books = content.filter((item) => item.progress != undefined && validTypes.includes(item.type))
-
-  books = books.filter((item, index) => {
-      return books.findIndex((otherItem) => otherItem.uniqueId == item.uniqueId && otherItem.updatedAt > item.updatedAt) == -1
-  })
-  console.log(books)
-  // Create a modal with the list of books:
-  const modal = document.createElement("div");
-    // Position it to center
-    modal.style.position = "fixed"
-    modal.style.top = "50%"
-    modal.style.left = "50%"
-    modal.style.transform = "translate(-50%, -50%)"
-    modal.style.padding = "20px"
-    modal.style.backgroundColor = "white"
-    modal.style.zIndex = "9999"
-    modal.style.border = "1px solid black"
-    modal.style.borderRadius = "10px"
-
-    // Add a title
-    const title = document.createElement("h3")
-    title.textContent = "Select a book"
-    modal.appendChild(title)
-
-    // Add the list of books
-    const list = document.createElement("ul")
-    // Style it without bullets
-    list.style.listStyle = "none"
-    list.style.overflow = "scroll"
-    list.style.maxHeight = "80vh"
-    books.forEach((book) => {
-      const btn = document.createElement("li")
-      var title = book.title
-      if (!title) {
-          title = book.name
-      }
-      btn.textContent = title
-      btn.addEventListener("click", () => {
-        document.body.removeChild(modal)
-        const ann = getAnnotations(book)
-        download(ann)
-      })
-      // Style it like buttons
-      btn.style.cursor = "pointer"
-      btn.style.border = "1px solid green"
-      btn.style.borderRadius = "10px"
-      btn.style.padding = "10px"
-      btn.style.marginBottom = "10px"
-      list.appendChild(btn)
-    })
-    modal.appendChild(list)
-    document.body.appendChild(modal)
-    // Add a close button
-    const close = document.createElement("button")
-    close.textContent = "Close"
-    modal.appendChild(close)
-    close.addEventListener("click", () => {
-      document.body.removeChild(modal)
-    })
-}
-
-function integerToColorHex(num) {
-num >>>= 0;
-    var b = num & 0xFF,
-        g = (num & 0xFF00) >>> 8,
-        r = (num & 0xFF0000) >>> 16
-  return "#" + ("00" + r.toString(16)).substr(-2) + ("00" + g.toString(16)).substr(-2) + ("00" + b.toString(16)).substr(-2);
-}
-
-function getAnnotations(book) {
-  let annotations = content.filter((item) => item.documentId == book.uniqueId && item.status == 0 && item.pageNumber != undefined && item.color != undefined)
-  annotations.sort((a, b) => {
-      const pageDiff = a.pageNumber - b.pageNumber
-      if (pageDiff == 0) {
-          return a.createdAt - b.createdAt
-      }
-      return pageDiff
-  })
-  // Remove duplicate entries from annotiations. First, match by uniqueId, then keep the one with the highest updatedA
-  annotations = annotations.filter((item, index) => {
-      return annotations.findIndex((otherItem) => otherItem.uniqueId == item.uniqueId && otherItem.updatedAt > item.updatedAt) == -1
-  })
-
-  const rdata = {
-    title: book.title,
-    authors: book.authors,
-    format: book.type,
-    pageNumber: parseInt(book.progress.split("/")[1]),
-    annotations: annotations.map((item) => {
-        console.log(item);
-      return {
-        quote: item.quote,
-        note: item.note,
-        pageNumber: item.pageNumber,
-        chapter: item.chapter,
-        createdAt: item.createdAt,
-        color: integerToColorHex(item.color)
-      }
-    })
-  }
-  return rdata
-}
-
-const formatedTimestamp = ()=> {
-  const d = new Date()
-  const date = d.toISOString().split('T')[0];
-  const time = d.toTimeString().split(' ')[0].replace(/:/g, '-');
-  return `${date}-${time}`
-}
-
-function download(annotations) {
-  // Create blob and download
-  const blob = new Blob([JSON.stringify(annotations, null, 4)], { type: "application/json" });
-  const url = window.URL.createObjectURL(blob);
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = formatedTimestamp(new Date()) + "-annotations.json";
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  console.log(annotations)
-}
-
-
-
-GM.registerMenuCommand("Download Book's Annotations", async (event) => {
-  content = await getContent()
-  selectBook(content)
-});
-})();
-```
-
-So, what are we doing here? We are registering a command. Buy clicking on that menu command, you will be presented with a list of book, click any of them, and the annotations will be downloaded as JSON. We are not violating any security or law. The data is already present in the browser, and essentially your data.
-
-Once you got it exported as JSON, you will get something like this:
+Once you have it downloaded as JSON, you will get something like this, where fields like highlight style and colours are present:
 
 ```json
 {
@@ -226,6 +33,7 @@ Once you got it exported as JSON, you will get something like this:
             "pageNumber": 19,
             "chapter": "Introduction ",
             "createdAt": 1740509505032,
+            "style": "underline",
             "color": "#ee00ff"
         },
         {
@@ -234,6 +42,7 @@ Once you got it exported as JSON, you will get something like this:
             "pageNumber": 22,
             "chapter": "Introduction ",
             "createdAt": 1740760531837,
+            "style": "underline",
             "color": "#ee00ff"
         },
         {
@@ -242,6 +51,7 @@ Once you got it exported as JSON, you will get something like this:
             "pageNumber": 22,
             "chapter": "Introduction ",
             "createdAt": 1740760623457,
+            "style": "underline",
             "color": "#ee00ff"
         },
         {
@@ -250,6 +60,7 @@ Once you got it exported as JSON, you will get something like this:
             "pageNumber": 23,
             "chapter": "Introduction ",
             "createdAt": 1740760696601,
+            "style": "underline",
             "color": "#00b036"
         }
     ]
