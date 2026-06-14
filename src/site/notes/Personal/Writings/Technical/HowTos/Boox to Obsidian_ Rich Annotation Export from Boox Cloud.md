@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-12T20:33:37+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-12T20:33:37+06:00","location":"Dhaka"}}
+{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T05:13:07+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T05:13:07+06:00","location":"Dhaka"}}
 ---
 
 [Many like me](https://christiantietze.de/posts/2023/05/boox-neoreader-annotation-export-is-meh/), have already noticed that annotations exported as text or HTML from Boox devices are inadequate at best. They lack context. Previously, I tried to make the situation better by [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations\|adding some context in the notes]]. It works, but it is very cumbersome to handle.
@@ -12,11 +12,9 @@ First, download **Boox Rich Annotations** app from the latest release page:
 
 Once you download, install, and open it, you will be presented with a screen like this, where you can see all the books of `epub`, `mobi` and `azw` format in a list:
 
-![Media/main_page.png](/img/user/Media/main_page.png)
+![Boox Rich Annotations App](https://github.com/uroybd/BooxRichAnnotations/blob/main/screenshots/main_page.png?raw=true)
 
-Choose the book you want to export highlights from, and tap `Download as JSON` to download the annotations. It will be saved in your downloads folder and **doesn't require an active internet connection**.
-
-![Media/download_page.png](/img/user/Media/download_page.png)
+You can either press the save button to save the annotations as JSON in your **Downloads** folder or the share button to share the JSON through your system's share sheet. It **doesn't require an active internet connection**.
 
 Once you have it downloaded as JSON, you will get something like this, where fields like highlight style and colours are present:
 
