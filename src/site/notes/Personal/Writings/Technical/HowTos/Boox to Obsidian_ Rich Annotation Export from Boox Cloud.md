@@ -1,5 +1,5 @@
 ---
-{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T05:13:07+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T05:13:07+06:00","location":"Dhaka"}}
+{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T15:41:03+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T15:41:03+06:00","location":"Dhaka"}}
 ---
 
 [Many like me](https://christiantietze.de/posts/2023/05/boox-neoreader-annotation-export-is-meh/), have already noticed that annotations exported as text or HTML from Boox devices are inadequate at best. They lack context. Previously, I tried to make the situation better by [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations\|adding some context in the notes]]. It works, but it is very cumbersome to handle.
@@ -23,7 +23,7 @@ Once you have it downloaded as JSON, you will get something like this, where fie
     "title": "House Of Leaves",
     "authors": "Mark Z. Danielewski",
     "format": "pdf",
-    "pageNumber": 740,
+    "totalPages": 740,
     "annotations": [
         {
             "quote": "As I discovered, there were reams and reams of \nit. Endless snarls of words, sonetines twisting into \nmeaning, sometimes into nothing at all, frequently \nbreaking apart, always branching off into other pieces \nI'd come across later-on old napkins, the tattered \nedges of an envelope, once even on the back of a \npostage stamp; everything and anything but empty; each \nfragment completely covered with the creep of years \nand years of ink pronouncements; layered, crossed out,\namended; handwritten, typed; legible, illegible;\nimpenetrable, lucid; torn, stained, scotch taped; some \nbits crisp and clean, others faded, burnt or folded \nand refolded so many times the creases have \nobliterated whole passages of god knows what-sense?\ntruth? deceit? a legacy of prophecy or lunacy or \nnothing of the kind?, and in the end achieving,\ndesignating, describing, recreating-find your own \nwords; I have no more; or plenty more but why? and all \nto tellwhat?",
@@ -165,7 +165,7 @@ async function format_json_highlights(content) {
 		  entry.pageNumber
 		} (${format_percentages(
 		  entry.pageNumber,
-		  data.pageNumber
+		  data.totalPages
 		)}) @ ${window.moment(entry.createdAt).format("DD MMM YYYY hh:mm:ss A")}\n`;
 		output += `\n${format_quote(entry.quote, keepBreak)}`;
 		const note_type = get_note_style(entry);
