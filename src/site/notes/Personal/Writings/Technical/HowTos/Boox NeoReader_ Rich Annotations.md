@@ -1,5 +1,5 @@
 ---
-{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-16T02:34:02+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"],"dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox NeoReader_ Rich Annotations.md","permalink":"/writings/technical/how-tos/boox-neo-reader-rich-annotations/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-16T02:34:02+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"]}}
+{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-16T02:39:09+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"],"dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox NeoReader_ Rich Annotations.md","permalink":"/writings/technical/how-tos/boox-neo-reader-rich-annotations/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-16T02:39:09+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"]}}
 ---
 
 Reading is never really only reading, at least to me. It comes with an arsenal of cerebral processes— analysis, deduction, deconstruction… the usual lot. And, it is of paramount importance to me that I retain my thoughts and mood of those times. Hence, my emphasis on how much metadata I can store in the annotations I collect from a bvolved about the same annotation. I want to refer to them with as much accuracy as I can get.
@@ -10,10 +10,10 @@ Since there's no native way to do that in NeoReader, I, by far, have attempted t
 
 My third and by far the best approach is to create an Android app to do so. Let me introduce:
 
-[![uroybd/BooxRichAnnotations - GitHub](https://githubcard.com/uroybd/BooxRichAnnotations.svg?d=ahadHc9n)](https://github.com/uroybd/BooxRichAnnotations/releases/latest)
+[![uroybd/BooxRichAnnotations - GitHub](https://githubcard.com/uroybd/BooxRichAnnotations.svg?d=Wpsb4Tfx)](https://github.com/uroybd/BooxRichAnnotations/releases/latest)
 
 And, it is understandably a better option for several reasons:
-1. It works for multiple formats: `JSON`, `CSV`, and `text`
+1. It works for multiple formats: `JSON`, `CSV`, and `text``
 2. The template for `text` is customizable. So, you can be really creative with it.
 3. It doesn't depend on elaborate setups like setting up a template or Tampermonkey script.
 4. And it integrates with everything nicely. Both `JSON` and `CSV` are easy to import or program anywhere. You can customise the text format to your needs to get exactly what you want, to an extent.
