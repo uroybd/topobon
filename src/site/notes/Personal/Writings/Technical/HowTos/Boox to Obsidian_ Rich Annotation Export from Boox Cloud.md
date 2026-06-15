@@ -1,19 +1,23 @@
 ---
-{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T16:48:24+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-15T16:48:24+06:00","location":"Dhaka"}}
+{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-16T02:09:20+06:00","location":"Dhaka","dg-publish":true,"dg-note-icon":"withered","dg-path":"Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud.md","permalink":"/writings/technical/how-tos/boox-to-obsidian-rich-annotation-export-from-boox-cloud/","dgPassFrontmatter":true,"noteIcon":"withered","dg-note-properties":{"title":"Boox to Obsidian: Rich Annotation Export from Boox Cloud","aliases":["Boox to Obsidian: Rich Annotation Export from Boox Cloud"],"created":"2025-03-27T12:13:35+06:00","updated":"2026-06-16T02:09:20+06:00","location":"Dhaka"}}
 ---
 
-[Many like me](https://christiantietze.de/posts/2023/05/boox-neoreader-annotation-export-is-meh/), have already noticed that annotations exported as text or HTML from Boox devices are inadequate at best. They lack context. Previously, I tried to make the situation better by [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations\|adding some context in the notes]]. It works, but it is very cumbersome to handle.
+> [!fail] Superseded
+> A superior approach has been introduced in [[Personal/Writings/Technical/HowTos/Boox NeoReader_ Rich Annotations\|Boox NeoReader: Rich Annotations]]
+
+[Many like me](https://christiantietze.de/posts/2023/05/boox-neoreader-annotation-export-is-meh/), have already noticed that annotations exported as text or HTML from Boox devices are inadequate at best. They lack context. Previously, I tried to make the situation better by [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations from Boox Cloud\|adding some context in the notes]]. It works, but it is very cumbersome to handle.
 
 **But I found a better way.**
 
 First, download **Boox Rich Annotations** app from the latest release page:
 
-[![uroybd/BooxRichAnnotations - GitHub](https://gh-card.dev/repos/uroybd/BooxRichAnnotations.svg)](https://github.com/uroybd/BooxRichAnnotations/releases/latest)
+[![uroybd/BooxRichAnnotations - GitHub](https://githubcard.com/uroybd/BooxRichAnnotations.svg)](https://github.com/uroybd/BooxRichAnnotations/releases/latest)
 
-Once you download, install, and open it, you will be presented with a screen like this, where you can see all the books of `epub`, `mobi` and `azw` format in a list:
+Once you download, install, and open it, you will be presented with a screen like this, where you can see all the books with annotations in a list:
 
 ![Boox Rich Annotations App](https://github.com/uroybd/BooxRichAnnotations/blob/main/screenshots/main_page.png?raw=true)
 
+### Older Way: JSON + Templater
 You can either press the save button to save the annotations as JSON in your **Downloads** folder or the share button to share the JSON through your system's share sheet. It **doesn't require an active internet connection**.
 
 Once you have it downloaded as JSON, you will get something like this, where fields like highlight style and colours are present:
@@ -66,7 +70,6 @@ Once you have it downloaded as JSON, you will get something like this, where fie
 ```
 
 You can transform it anyway you want (if you know how to code)! Here I am formatting to Markdown using [Templater](https://silentvoid13.github.io/Templater/). Here's the template I'm using:
-
 ```gist
 uroybd/9a10174687d8983e9e697a47500c1ce6
 ```
