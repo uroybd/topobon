@@ -1,5 +1,5 @@
 ---
-{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-17T14:20:31+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"],"dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox NeoReader_ Rich Annotations.md","permalink":"/writings/technical/how-tos/boox-neo-reader-rich-annotations/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-17T14:20:31+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"]}}
+{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-21T02:51:50+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"],"dg-publish":true,"dg-note-icon":"chest","dg-path":"Writings/Technical/HowTos/Boox NeoReader_ Rich Annotations.md","permalink":"/writings/technical/how-tos/boox-neo-reader-rich-annotations/","dgPassFrontmatter":true,"noteIcon":"chest","dg-note-properties":{"created":"2026-06-15T23:22:01+06:00","updated":"2026-06-21T02:51:50+06:00","title":"Boox NeoReader: Rich Annotations","aliases":["Boox NeoReader: Rich Annotations"]}}
 ---
 
 Reading is never really only reading, at least to me. It comes with an arsenal of cerebral processes— analysis, deduction, deconstruction… the usual lot. And, it is of paramount importance to me that I retain my thoughts and mood of those times. Hence, my emphasis on how much metadata I can store in the annotations I collect from a bvolved about the same annotation. I want to refer to them with as much accuracy as I can get.
@@ -58,7 +58,7 @@ exportedAt: "{{ book.exportedAt | date('dd MMM yyyy hh:mm:ss a') }}"
 ## {{ annotation.chapter }}
 {%- set prevChapter = annotation.chapter %}
 {%- endif %}
-### Page: {{ annotation.pageNumber }}{% if book.totalPages %} ({{ (annotation.pageNumber / book.totalPages * 100) | round(2) }}%){% endif %} @ {{ annotation.createdAt | date("dd MMM yyyy hh:mm:ss a") }}
+### Page: {{ annotation.pageNumber }}{% if book.totalPages %} ({{ percentage(annotation.pageNumber, book.totalPages, 2) }}%){% endif %} @ {{ annotation.createdAt | date("dd MMM yyyy hh:mm:ss a") }}
 
 {{ annotation.quote }}
 
