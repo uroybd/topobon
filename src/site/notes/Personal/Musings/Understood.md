@@ -1,5 +1,5 @@
 ---
-{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-06-23T14:27:51+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/Understood.md","permalink":"/musings/understood/","dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-06-23T14:27:58+06:00"}}
+{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-06-23T14:27:58+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/Understood.md","permalink":"/musings/understood/","dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-06-23T14:27:58+06:00"}}
 ---
 
 > **Person 1:** This and this, and that and that…. understood?

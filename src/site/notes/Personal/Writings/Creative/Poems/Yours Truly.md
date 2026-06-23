@@ -1,5 +1,5 @@
 ---
-{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T14:18:26+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T14:18:26+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
+{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T14:28:48+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T14:28:48+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
 ---
 
 Here, beloved, at this very moment, let me present to you,
@@ -19,9 +19,11 @@ yet if you call it a colour— it must be pitch black.
 Let's punctuate this, holding my being at check;
 Let me give it to you piecemeal.
 
+```
                     ,
                             ,
                     .
+```
 
 Now, you can pause.
 Now you can think about how to utter this emptiness.
