@@ -1,5 +1,5 @@
 ---
-{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T15:21:41+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T15:21:41+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
+{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T15:21:41+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T22:26:24+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
 ---
 
 Here, beloved, at this very moment, let me present to you,
@@ -60,7 +60,7 @@ A grand chest-bursting pause….
 A satisfied exhalation….
 ```
 
-No, that is praanaayaam.
+No, that is Praanaayaam.
 Let's not work on it and utter my Being through grunts.
 Simply be, and listen to how our bodies work. It is simply:
 
