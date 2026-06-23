@@ -1,14 +1,14 @@
 ---
-{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T14:30:27+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T14:30:27+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
+{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T15:21:41+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-23T15:21:41+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
 ---
 
 Here, beloved, at this very moment, let me present to you,
 MY BEING!
 
 ```
-
-
-
+    
+    
+    
 ```
 
 … there. Oh, read it to me—
@@ -61,7 +61,7 @@ A satisfied exhalation….
 ```
 
 No, that is praanaayaam.
-Let's not work on it and utter my soul through grunts.
+Let's not work on it and utter my Being through grunts.
 Simply be, and listen to how our bodies work. It is simply:
 
 ```
@@ -73,7 +73,7 @@ exhale…..
 Ah! The staggering simplicity of our life.
 The Bhaaratnaatyam with only three Mudraas.
 
-Now that you have inhaled my soul, what did you feel?
+Now that you have inhaled my Being, what did you feel?
 What is it to our existence?
 A rot?
 An incurable disease?
