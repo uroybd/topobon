@@ -1,5 +1,5 @@
 ---
-{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T18:31:52+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T18:31:52+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
+{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T20:30:33+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T20:30:33+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
 ---
 
 Here, beloved, at this very moment, let me present to you,
@@ -86,9 +86,9 @@ A dance that my life is.
 ---
 
 ### About This Poem
-Our language and thinking are codependent. Our capacity of thinking affects our language, and for most of us, I think, language affects our thinking even more. They share both strengths and weaknesses.
+Our capacity of thinking affects our language, and for most of us, I think, language affects our thinking even more. They share both strengths and weaknesses.
 
-Poetising, i.e., the act of writing poetry, is an active effort to me instead of a natural outburst. With the aesthetics of this craft internalised and the fluidity of expression it brings along, I intend to push the limit of my language and thinking to find expressions for (or, at least give a notion of) the phenomenon I find inexpressible.
+Poetising, i.e., the act of writing poetry, is an active effort to me instead of a natural outburst. With the aesthetics of this craft internalised and the fluidity of expression it brings along, I intend to push the limit of my language and thinking to find expressions for (or, at least give a notion of) the phenomena I find inexpressible.
 
 This poem deals with one such concept: Being.[^1] Or to be specific, how the being of my Being is going on.
 
