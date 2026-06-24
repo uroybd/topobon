@@ -1,5 +1,5 @@
 ---
-{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T18:03:29+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T18:03:29+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
+{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T18:19:40+06:00","location":"Badda, Dhaka","tags":["poetry","existential"],"dg-publish":true,"dg-note-icon":3,"dg-path":"Writings/Creative/Poems/Yours Truly.md","permalink":"/writings/creative/poems/yours-truly/","dgPassFrontmatter":true,"noteIcon":3,"dg-note-properties":{"title":"Yours Truly","aliases":["Yours Truly"],"created":"2026-06-23T01:31:01+06:00","updated":"2026-06-24T18:19:40+06:00","location":"Badda, Dhaka","tags":["poetry","existential"]}}
 ---
 
 Here, beloved, at this very moment, let me present to you,
@@ -19,7 +19,7 @@ yet if you call it a colour— it must be pitch black.
 Let's punctuate this, holding my being at check;
 Let me give it to you piecemeal.
 
-```
+```poetry
                     ,
                             ,
                     .
@@ -35,7 +35,7 @@ There is the low humming of the AC,
 the vehicles in a far-away avenue,
 There is this unnoticed backdrop of a city that never sleeps.
 
-```
+```poetry
 humm….., [a deep inhale]
 humm longer…., [inhale]
 humm…… [inhale]
@@ -46,7 +46,7 @@ Every child's umbilical darkness— sung by their mothers.
 
 Or, we can now hold our hands and inhale my Being.
 
-```
+```poetry
 inhaaaale….,
 paaaaaaaaaaause……,
 exhale…..
@@ -55,7 +55,7 @@ exhale…..
 No, you are doing it all wrong.
 It is not:
 
-```
+```poetry
 Anticipating inhalation….
 A grand chest-bursting pause….
 A satisfied exhalation….
@@ -65,7 +65,7 @@ No, that is [Praanaayaam](https://en.wikipedia.org/wiki/Pranayama).
 Let's not work on it and utter my Being through grunts.
 Simply be, and listen to how our bodies work. It is simply:
 
-```
+```poetry
 inhaaaale….,
 paaaaaaaaaaause……,
 exhale…..
