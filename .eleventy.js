@@ -759,6 +759,10 @@ module.exports = function(eleventyConfig) {
     return (arr || []).filter((item) => !item.data.hide);
   });
 
+  eleventyConfig.addFilter("startsWith", function (str, prefix) {
+    return typeof str === "string" && str.indexOf(prefix) === 0;
+  });
+
   eleventyConfig.addFilter("validJson", function(variable) {
     if (Array.isArray(variable)) {
       return variable.map((x) => x.replaceAll("\\", "\\\\")).join(",");
