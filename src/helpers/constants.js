@@ -8,6 +8,6 @@ exports.ALL_NOTE_SETTINGS = [
   "dgEnableSearch",
   "dgShowToc",
   "dgLinkPreview",
-  "dgGraphDepthControl",
+  "dgShowGraphDepthControl",
   "dgShowTags",
 ];
