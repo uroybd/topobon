@@ -1,21 +1,26 @@
 ---json
 {
-  "permalink": "/llms.txt",
-  "eleventyExcludeFromCollections": true
+"permalink": "/llms.txt",
+"eleventyExcludeFromCollections": true
 }
 ---
 {%- macro noteList(prefix) -%}
 {%- for note in collections.note | notHidden -%}
-{%- if note.url | startsWith(prefix) -%}
-- [{{ note.data.title | safe }}]({{ meta.siteBaseUrl }}{{ note.url | url }}){% if note.data.metatags and note.data.metatags.description %}: {{ note.data.metatags.description | safe }}{% endif %}
+{%- if note.url.startsWith(prefix) -%}
+- [{{ note.data.title }}]({{ meta.siteBaseUrl }}{{ note.url | url }}){% if note.data.metatags and
+note.data.metatags.description %}: {{ note.data.metatags.description | safe }}{% endif %}
 {% endif -%}
 {%- endfor -%}
 {%- endmacro -%}
 # {{ meta.siteName }}
 
-> Utsob Roy's digital garden: a public, evolving collection of musings, journal entries, essays, and reading notes on philosophy, religion, art, and technology, alongside technical how-tos and personal software projects.
+> Utsob Roy's digital garden: a public, evolving collection of musings, journal entries, essays, and reading notes on
+philosophy, religion, art, and technology, alongside technical how-tos and personal software projects.
 
-This is a [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/), not a blog: notes are living documents that keep changing, and each one carries a maturity marker (seedling, sapling, tree, withered, stone, signpost, or chest) noted near its title. A "seedling" is a half-formed thought; a "tree" is settled. See [{{ meta.siteBaseUrl }}/]({{ meta.siteBaseUrl }}/) for the full explanation of maturity levels. Contact: connect@utsob.me.
+This is a [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/), not a blog: notes are
+living documents that keep changing, and each one carries a maturity marker (seedling, sapling, tree, withered, stone,
+signpost, or chest) noted near its title. A "seedling" is a half-formed thought; a "tree" is settled. See [{{
+meta.siteBaseUrl }}/]({{ meta.siteBaseUrl }}/) for the full explanation of maturity levels. Contact: connect@utsob.me.
 
 ## Musings
 Personal reflections and essays on philosophy, religion, art, and technology.
@@ -44,7 +49,8 @@ How-tos and technical drafts.
 {{ noteList("/writings/technical/") }}
 
 ## Reading
-Notes and highlights from books. Most of these are per-book highlight compilations; only the curated series and compilations are listed here. The full list is in the [sitemap]({{ meta.siteBaseUrl }}/sitemap.xml).
+Notes and highlights from books. Most of these are per-book highlight compilations; only the curated series and
+compilations are listed here. The full list is in the [sitemap]({{ meta.siteBaseUrl }}/sitemap.xml).
 
 {{ noteList("/reading/series/") }}
 {{ noteList("/reading/compilations/") }}
