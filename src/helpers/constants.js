@@ -3,11 +3,11 @@ exports.ALL_NOTE_SETTINGS = [
   "dgPassFrontmatter",
   "dgShowBacklinks",
   "dgShowLocalGraph",
+  "dgShowGraphDepthControl",
   "dgShowInlineTitle",
   "dgShowFileTree",
   "dgEnableSearch",
   "dgShowToc",
   "dgLinkPreview",
-  "dgShowGraphDepthControl",
   "dgShowTags",
 ];
