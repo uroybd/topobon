@@ -3,6 +3,9 @@
  * Generates static HTML for table, cards, and list views.
  */
 
+const { parseWikilink, createNoteIndex } = require("./noteLinks");
+const { headerToId } = require("../utils");
+
 // --- Metadata helpers ---
 
 /**
@@ -36,12 +39,77 @@ function getMetaKeys(metadata) {
 // URL-to-title lookup, populated by renderViews before rendering
 let urlTitleMap = {};
 
+// Published-image index for shortest-path wikilink resolution,
+// populated by renderViews before rendering
+let imageIndex = null;
+
+// Note index for resolving wikilink property values,
+// populated by renderViews before rendering
+let noteIndex = null;
+
+/**
+ * Render a wikilink-shaped property value as an internal link, or a
+ * styled dead link when the target isn't published. Returns null when
+ * the value isn't a wikilink so callers fall through to other formats.
+ */
+function formatNoteLinkValue(value) {
+	const link = parseWikilink(value);
+	if (!link) return null;
+
+	const resolved = noteIndex ? noteIndex.resolve(link.target) : null;
+	const label =
+		link.alias ||
+		(resolved && resolved.title) ||
+		link.target.split("/").pop();
+
+	if (!resolved) {
+		return `<a href="/404" class="internal-link is-unresolved">${escapeHtml(label)}</a>`;
+	}
+
+	let href = resolved.url;
+	if (link.heading) {
+		href += "#" + headerToId(link.heading);
+	}
+
+	return `<a href="${escapeHtml(href)}" class="internal-link">${escapeHtml(label)}</a>`;
+}
+
 // --- Date formatting ---
 
 const ISO_DATE_REGEX = /^\d{4}-\d{2}-\d{2}(T\d{2}:\d{2}(:\d{2})?(\.\d+)?(Z|[+-]\d{2}:\d{2})?)?$/;
 
 function isISODate(str) {
 	return ISO_DATE_REGEX.test(str);
+}
+
+/**
+ * Return the YYYY-MM-DD calendar date for a Date that represents a
+ * date-only value, or null if it has a real time component.
+ * Date-only values reach us as UTC midnight (js-yaml parses unquoted
+ * `born: 1707-04-17` that way) or local midnight (coerceDate in
+ * exprEval builds dates in local time to match Obsidian). Serializing
+ * them with toISOString() would let the client's timezone conversion
+ * shift the displayed day and append a spurious midnight timestamp.
+ */
+function dateOnlyString(date) {
+	if (
+		date.getUTCHours() === 0 &&
+		date.getUTCMinutes() === 0 &&
+		date.getUTCSeconds() === 0 &&
+		date.getUTCMilliseconds() === 0
+	) {
+		return date.toISOString().slice(0, 10);
+	}
+	if (
+		date.getHours() === 0 &&
+		date.getMinutes() === 0 &&
+		date.getSeconds() === 0 &&
+		date.getMilliseconds() === 0
+	) {
+		const pad = (n) => String(n).padStart(2, "0");
+		return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
+	}
+	return null;
 }
 
 // --- Helper functions ---
@@ -96,10 +164,11 @@ function getDisplayName(column, properties) {
 
 	if (column === "file.name") return "Name";
 
-	// Strip prefixes: formula.x → x, file.folder → folder
+	// Strip prefixes: formula.x → x, file.folder → folder, note.x → x
 	let name = column;
 	if (name.startsWith("formula.")) name = name.slice(8);
 	if (name.startsWith("file.")) name = name.slice(5);
+	if (name.startsWith("note.")) name = name.slice(5);
 
 	// Capitalize first letter
 	return name.charAt(0).toUpperCase() + name.slice(1);
@@ -118,6 +187,11 @@ function getFileName(row) {
  * Get a cell value from a row for a given column.
  */
 function getCellValue(row, column) {
+	// Obsidian writes user-property references as note.x in .base files
+	if (column.startsWith("note.")) {
+		column = column.slice(5);
+	}
+
 	if (column === "file.name") {
 		return getFileName(row);
 	}
@@ -181,6 +255,8 @@ function formatCellValue(value, column, row) {
 
 	if (Array.isArray(value)) {
 		return value.map((item) => {
+			const linkHtml = formatNoteLinkValue(item);
+			if (linkHtml) return linkHtml;
 			if (typeof item === "string" && item.startsWith("/")) {
 				// URL path — render as clickable internal link with title
 				const title = urlTitleMap[item]
@@ -206,6 +282,11 @@ function formatCellValue(value, column, row) {
 		return "";
 	}
 
+	if (typeof value === "string") {
+		const linkHtml = formatNoteLinkValue(value);
+		if (linkHtml) return linkHtml;
+	}
+
 	// Render ISO dates using the same pattern as the existing site —
 	// a <span class="human-date"> that Luxon formats client-side using
 	// the user's configured TIMESTAMP_FORMAT setting.
@@ -221,7 +302,8 @@ function formatCellValue(value, column, row) {
 		if (value._basesType === "now") {
 			return '<span class="bases-dynamic-date" data-type="now"></span>';
 		}
-		return `<span class="human-date" data-date="${escapeHtml(value.toISOString())}"></span>`;
+		const dateOnly = dateOnlyString(value);
+		return `<span class="human-date" data-date="${escapeHtml(dateOnly || value.toISOString())}"></span>`;
 	}
 
 	return escapeHtml(String(value));
@@ -345,6 +427,40 @@ function renderCards(view, properties) {
 	return buildCardsGrid(rows, columns, cardSize, imageField, imageFit, imageAspectRatio, properties);
 }
 
+/**
+ * Resolve a frontmatter image value to a URL on the published site.
+ * Handles wikilinks ([[path]], ![[path|alias]]), markdown links
+ * ([label](url), as produced when the plugin's link conversion touched
+ * the value), vault-relative paths (rewritten to /img/user/), and
+ * absolute/external URLs (left as-is).
+ */
+function resolveImageSource(imgValue) {
+	let src = String(imgValue).trim();
+
+	const wikilink = src.match(/^!?\[\[([^\]]+)\]\]$/);
+	if (wikilink) {
+		src = wikilink[1].split("|")[0].split("#")[0].trim();
+	}
+
+	const markdownLink = src.match(/^!?\[[^\]]*\]\(([^)]+)\)$/);
+	if (markdownLink) {
+		src = markdownLink[1].trim();
+	}
+
+	if (!src.startsWith("http") && !src.startsWith("/")) {
+		// Frontmatter wikilinks use Obsidian's "shortest path when
+		// possible" format ([[cover.jpg]]), so look the file up among
+		// the published images to recover its real location.
+		if (imageIndex) {
+			const resolved = imageIndex.resolve(src);
+			if (resolved) src = resolved;
+		}
+		src = "/img/user/" + src;
+	}
+
+	return src;
+}
+
 function buildCardsGrid(rows, columns, cardSize, imageField, imageFit, imageAspectRatio, properties) {
 	let html = `<div class="obsidian-base-cards" style="grid-template-columns: repeat(auto-fill, minmax(${cardSize}px, 1fr));">`;
 
@@ -353,14 +469,10 @@ function buildCardsGrid(rows, columns, cardSize, imageField, imageFit, imageAspe
 
 		// Image section
 		if (imageField) {
-			let imgValue = getCellValue(row, imageField);
+			const imgValue = getCellValue(row, imageField);
 			if (imgValue) {
-				imgValue = String(imgValue);
-				// Resolve vault image paths to published URLs
-				if (!imgValue.startsWith("http") && !imgValue.startsWith("/")) {
-					imgValue = "/img/user/" + imgValue;
-				}
-				html += `<div class="obsidian-base-card-image"><img src="${escapeHtml(imgValue)}" style="object-fit: ${escapeHtml(imageFit)}; aspect-ratio: ${escapeHtml(String(imageAspectRatio))};" loading="lazy" /></div>`;
+				const imgSrc = resolveImageSource(imgValue);
+				html += `<div class="obsidian-base-card-image"><img src="${escapeHtml(imgSrc)}" style="object-fit: ${escapeHtml(imageFit)}; aspect-ratio: ${escapeHtml(String(imageAspectRatio))};" loading="lazy" /></div>`;
 			}
 		}
 
@@ -446,8 +558,11 @@ function viewTypeIcon(type) {
  * @param {object} queryResult - Output from executeBaseQuery
  * @returns {string} HTML string
  */
-function renderViews(queryResult, allNotes) {
+function renderViews(queryResult, allNotes, options) {
 	const { properties, views } = queryResult;
+
+	imageIndex = (options && options.imageIndex) || null;
+	noteIndex = createNoteIndex(allNotes);
 
 	// Build URL-to-title map for resolving link display names
 	urlTitleMap = {};
