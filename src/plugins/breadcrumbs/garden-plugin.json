@@ -1,0 +1,27 @@
+{
+  "id": "breadcrumbs",
+  "name": "Breadcrumbs",
+  "version": "1.0.0",
+  "description": "Shows the note's folder path above its title.",
+  "author": "Ole Eskild Steensen",
+  "hooks": "index.js",
+  "slots": {
+    "notes.header": "templates/trail.njk"
+  },
+  "styles": ["styles/trail.scss"],
+  "settings": [
+    {
+      "key": "homeLabel",
+      "name": "Home label",
+      "description": "First crumb, linking to the home page. Leave empty to hide it.",
+      "type": "text",
+      "default": "Home"
+    },
+    {
+      "key": "separator",
+      "name": "Separator",
+      "type": "text",
+      "default": "/"
+    }
+  ]
+}

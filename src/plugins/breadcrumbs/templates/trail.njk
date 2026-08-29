@@ -1,0 +1,12 @@
+{%- set gpTrail = filetree | gpBreadcrumbs(permalink) -%}
+{%- if gpTrail.length > 0 or pluginSettings.homeLabel -%}
+<nav class="gp-breadcrumbs" aria-label="Breadcrumb">
+  {%- if pluginSettings.homeLabel -%}
+  <a href="/">{{ pluginSettings.homeLabel }}</a>
+  {%- endif -%}
+  {%- for folder in gpTrail -%}
+  {%- if not loop.first or pluginSettings.homeLabel -%}<span class="gp-crumb-sep">{{ pluginSettings.separator }}</span>{%- endif -%}
+  <span>{{ folder }}</span>
+  {%- endfor -%}
+</nav>
+{%- endif -%}
