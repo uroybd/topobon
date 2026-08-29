@@ -1,0 +1,30 @@
+{
+  "id": "rounded-images",
+  "name": "Rounded Images",
+  "version": "1.0.0",
+  "description": "Rounds the corners of images with a configurable radius.",
+  "author": "Ole Eskild Steensen",
+  "slots": {
+    "common.head": "templates/style.njk"
+  },
+  "settings": [
+    {
+      "key": "radius",
+      "name": "Corner radius (px)",
+      "description": "How rounded the image corners should be, in pixels.",
+      "type": "number",
+      "default": 8,
+      "env": "ROUNDED_IMAGES_RADIUS"
+    },
+    {
+      "key": "scope",
+      "name": "Which images",
+      "description": "Round only images inside note content, or every image on the site.",
+      "type": "select",
+      "options": ["content", "all"],
+      "default": "content",
+      "env": "ROUNDED_IMAGES_SCOPE"
+    }
+  ],
+  "noteSettings": ["dgNoRoundedImages"]
+}
