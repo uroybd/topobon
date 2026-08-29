@@ -14,6 +14,19 @@
         "src/plugins/breadcrumbs/styles/trail.scss",
         "src/plugins/breadcrumbs/templates/trail.njk"
       ]
+    },
+    "copy-code-button": {
+      "repo": "oleeskild/garden-plugin-copy-code-button",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-08-29T08:59:32.881Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/copy-code-button/README.md",
+        "src/plugins/copy-code-button/garden-plugin.json",
+        "src/plugins/copy-code-button/styles/copy.scss",
+        "src/plugins/copy-code-button/templates/copy.njk"
+      ]
     }
   }
 }

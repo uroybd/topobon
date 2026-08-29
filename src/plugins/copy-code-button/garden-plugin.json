@@ -1,0 +1,11 @@
+{
+  "id": "copy-code-button",
+  "name": "Copy Code Button",
+  "version": "1.0.0",
+  "description": "Adds a copy button to every code block.",
+  "author": "Ole Eskild Steensen",
+  "slots": {
+    "common.footer": "templates/copy.njk"
+  },
+  "styles": ["styles/copy.scss"]
+}

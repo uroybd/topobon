@@ -1,0 +1,31 @@
+<script>
+  (function () {
+    document.querySelectorAll(".content pre").forEach(function (pre) {
+      var code = pre.querySelector("code");
+      if (!code) return;
+
+      var wrapper = document.createElement("div");
+      wrapper.className = "gp-code-wrapper";
+      pre.parentNode.insertBefore(wrapper, pre);
+      wrapper.appendChild(pre);
+
+      var button = document.createElement("button");
+      button.className = "gp-copy-code";
+      button.type = "button";
+      button.textContent = "Copy";
+      button.setAttribute("aria-label", "Copy code to clipboard");
+      wrapper.appendChild(button);
+
+      button.addEventListener("click", function () {
+        navigator.clipboard.writeText(code.innerText).then(function () {
+          button.textContent = "Copied!";
+          button.classList.add("is-copied");
+          setTimeout(function () {
+            button.textContent = "Copy";
+            button.classList.remove("is-copied");
+          }, 1500);
+        });
+      });
+    });
+  })();
+</script>

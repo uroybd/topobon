@@ -1,0 +1,27 @@
+.gp-code-wrapper {
+  position: relative;
+
+  &:hover .gp-copy-code,
+  .gp-copy-code:focus-visible {
+    opacity: 1;
+  }
+}
+
+.gp-copy-code {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 3px 10px;
+  font-size: 0.75rem;
+  border-radius: 4px;
+  border: 1px solid var(--background-modifier-border, rgba(128, 128, 128, 0.4));
+  background: var(--background-primary, rgba(0, 0, 0, 0.5));
+  color: inherit;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 120ms;
+
+  &.is-copied {
+    border-color: var(--text-accent, currentColor);
+  }
+}
