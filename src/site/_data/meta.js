@@ -85,6 +85,8 @@ module.exports = async (data) => {
     backlinkHeader: process.env.UI_BACKLINK_HEADER || "Pages mentioning this page",
     noBacklinksMessage: process.env.UI_NO_BACKLINKS_MESSAGE || "No other pages mentions this page",
     searchButtonText: process.env.UI_SEARCH_BUTTON_TEXT || "Search",
+    pagePanelLabel: process.env.UI_PAGE_PANEL_LABEL || "On this page",
+    pagePanelClose: process.env.UI_PAGE_PANEL_CLOSE || "Close",
     searchPlaceholder: process.env.UI_SEARCH_PLACEHOLDER || "Start typing...",
     searchNotStarted: process.env.UI_SEARCH_NOT_STARTED_TEXT || "Enter your search text in the box above",
     searchEnterHotkey: process.env.UI_SEARCH_ENTER_HOTKEY || "Enter",

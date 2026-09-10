@@ -1,0 +1,8 @@
+{#
+  Mobile-only toggle for the page panel (the sidebar rendered as a bottom
+  sheet on narrow screens). Hidden by CSS on desktop and whenever the page
+  has no sidebar. Include it next to the navbar.actions slot in any navbar.
+#}
+<button type="button" class="page-panel-toggle" aria-controls="page-panel" aria-expanded="false" aria-label="{{ meta.uiStrings.pagePanelLabel }}" title="{{ meta.uiStrings.pagePanelLabel }}">
+    <i data-lucide="panel-right"></i>
+</button>
