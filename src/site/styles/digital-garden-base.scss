@@ -550,66 +550,251 @@ body:has(.content.canvas-page) .sidebar {
     }
 }
 
-@media (max-width: 1400px) {
-    #link-graph {
-        border-radius: var(--dg-graph-border-radius);
-    }
-    .sidebar {
-        position: relative !important;
-        left: auto !important;
-        right: auto !important;
-        top: auto !important;
-        transform: none;
-        margin-top: 40px;
-        max-width: calc(100vw - 300px);
-        margin-left: 270px;
-        margin-right: 20px;
-        padding: 30px 0;
-        justify-content: space-between;
-        height: auto;
-        border-top: 1px solid var(--background-modifier-border, rgba(255,255,255,0.1));
-    }
+// Floating action stack: fixed to the bottom-right corner and filled from the
+// corner upward (column-reverse). Core renders the page panel toggle here and
+// plugins add to it through the floating.bottomRight slot. The container
+// ignores pointer events so an empty stack never blocks the page beneath it.
+.floating-actions {
+    position: fixed;
+    right: 1rem;
+    bottom: calc(1rem + env(safe-area-inset-bottom));
+    z-index: 19;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    gap: 0.5rem;
+    pointer-events: none;
 
-    .sidebar-container {
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        gap: 40px;
-        height: auto;
-    }
-
-    .graph {
-        flex: 0 0 auto;
-        .graph-title-container {
-            justify-content: flex-start;
-        }
-    }
-
-    .backlinks {
-        flex: 1;
-        max-width: 300px;
-    }
-
-    .toc {
-        display: none;
+    > * {
+        pointer-events: auto;
     }
 }
 
-@media (max-width: 1000px) {
+// Gardens created before the floating stack may still carry Forestry's
+// legacy "Powered by" footer component, which pins itself to the same corner.
+// Lift the stack above it so the page panel toggle stays reachable.
+body:has(.forestry-fixed-ui[data-fixed-position="bottom-right"]) .floating-actions {
+    bottom: calc(3.25rem + env(safe-area-inset-bottom));
+}
+
+// Page panel: whenever the sidebar does not fit beside the content (below
+// 1400px) it becomes a bottom sheet opened from .page-panel-toggle. On phones
+// the toggle sits in the navbar; between 1000px and 1400px with the filetree
+// on there is no navbar, so the floating toggle (.page-panel-fab, in
+// .floating-actions) is shown instead. Backdrop, handle and close button
+// only exist on the sheet.
+.page-panel-toggle,
+.page-panel-backdrop,
+.page-panel-header {
+    display: none;
+}
+
+.navbar-actions {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+@media (max-width: 1400px) {
+    // Only offer the button on pages that actually have a sidebar
+    body:has(#page-panel) .page-panel-toggle {
+        display: inline-flex;
+    }
+
+    // The floating toggle is only for the navbar-less filetree range
+    body:has(#page-panel) .page-panel-fab {
+        display: none;
+    }
+
+    @media (min-width: 1001px) {
+        body:not(.no-filetree):has(#page-panel) .page-panel-fab {
+            display: inline-flex;
+        }
+    }
+
+    body.page-panel-open .page-panel-toggle.page-panel-fab {
+        visibility: hidden;
+    }
+
+    .page-panel-toggle.page-panel-fab {
+        width: 48px;
+        height: 48px;
+        margin: 0;
+        border-radius: 50%;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+
+        svg {
+            width: 20px;
+            height: 20px;
+        }
+    }
+
+    .page-panel-toggle {
+        align-items: center;
+        justify-content: center;
+        width: var(--dg-search-btn-height);
+        height: var(--dg-search-btn-height);
+        margin: 10px 20px 10px 0;
+        padding: 0;
+        border-radius: var(--dg-search-btn-radius);
+        border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.1));
+        background-color: var(--background-primary);
+        color: var(--text-muted);
+        cursor: pointer;
+        flex-shrink: 0;
+
+        &[aria-expanded="true"] {
+            color: var(--text-accent);
+        }
+
+        svg {
+            width: 18px;
+            height: 18px;
+        }
+    }
+
+    // The search button in the navbar carries its own outer margin; pull the
+    // two actions together when both are present.
+    .navbar .navbar-actions .search-button {
+        margin-right: 8px;
+    }
+
+    .page-panel-backdrop {
+        display: block;
+        position: fixed;
+        inset: 0;
+        z-index: 20;
+        background-color: var(--dg-overlay-bg);
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.25s ease, visibility 0s linear 0.25s;
+    }
+
     .sidebar {
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 700px;
-        padding: 20px;
+        position: fixed !important;
+        left: 0 !important;
+        right: 0 !important;
+        top: auto !important;
+        bottom: 0;
+        z-index: 21;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        max-width: none;
+        min-width: 0;
+        height: auto;
+        max-height: 85dvh;
+        flex-direction: column;
+        border-top: none;
+        border-radius: 16px 16px 0 0;
+        background-color: var(--background-secondary);
+        box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.25);
+        transform: translateY(100%);
+        visibility: hidden;
+        transition: transform 0.25s ease, visibility 0s linear 0.25s;
+    }
+
+    // transform: none (not translateY(0)) so the open sheet is not a containing
+    // block for the fixed fullscreen graph overlay rendered inside it.
+    .sidebar.is-open {
+        transform: none;
+        visibility: visible;
+        transition: transform 0.25s ease;
+    }
+
+    @media (min-width: 760px) {
+        .sidebar {
+            max-width: 720px;
+            margin: 0 auto;
+        }
+    }
+
+    body.page-panel-open .page-panel-backdrop {
+        opacity: 1;
+        visibility: visible;
+        transition: opacity 0.25s ease;
+    }
+
+    body.page-panel-open {
+        overflow: hidden;
+    }
+
+    .page-panel-header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        flex-shrink: 0;
+        padding: 10px 16px 4px;
+    }
+
+    .page-panel-handle {
+        width: 40px;
+        height: 4px;
+        border-radius: 2px;
+        background-color: var(--background-modifier-border, rgba(255,255,255,0.2));
+    }
+
+    .page-panel-close {
+        position: absolute;
+        right: 12px;
+        top: 6px;
+        width: 32px;
+        height: 32px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        border: none;
+        border-radius: 50%;
+        background: transparent;
+        color: var(--text-muted);
+        cursor: pointer;
+
+        svg {
+            width: 18px;
+            height: 18px;
+        }
     }
 
     .sidebar-container {
         flex-direction: column;
-        gap: 20px;
+        gap: 24px;
+        height: auto;
+        overflow-y: auto;
+        overscroll-behavior: contain;
+        padding: 8px 20px calc(24px + env(safe-area-inset-bottom));
+        -webkit-overflow-scrolling: touch;
+    }
+
+    // Reading order for a phone: contents, then backlinks, then the graph.
+    // Plugin slot content keeps its document position after these.
+    .toc {
+        order: -2;
+        max-width: none;
     }
 
     .backlinks {
+        order: -1;
         max-width: none;
+        margin-top: 0;
+        padding-left: 0;
+    }
+
+    .toc-container {
+        max-height: none;
+    }
+
+    .backlink-list {
+        max-height: none;
+    }
+
+    .sidebar .graph {
+        width: 100%;
+
+        #link-graph {
+            width: 100%;
+        }
     }
 }
 
