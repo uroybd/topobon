@@ -1,5 +1,12 @@
 <aside>
-      <div class="sidebar">
+      <div class="page-panel-backdrop" data-page-panel-close></div>
+      <div class="sidebar" id="page-panel">
+            <div class="page-panel-header">
+                  <span class="page-panel-handle" aria-hidden="true"></span>
+                  <button type="button" class="page-panel-close" data-page-panel-close aria-label="{{ meta.uiStrings.pagePanelClose }}">
+                        <i data-lucide="x"></i>
+                  </button>
+            </div>
             <div class="sidebar-container">
                   {% set slotName = "sidebar.top" %}{% include "components/pluginSlot.njk" %}
                   {% for imp in dynamics.sidebar.top %}
@@ -81,4 +88,44 @@
                   {% endfor %}
             </div>
       </div>
+      <script>
+            (function () {
+                  const panel = document.getElementById('page-panel');
+                  if (!panel) return;
+                  const mobile = window.matchMedia('(max-width: 1400px)');
+
+                  function setOpen(open) {
+                        panel.classList.toggle('is-open', open);
+                        document.body.classList.toggle('page-panel-open', open);
+                        document.querySelectorAll('.page-panel-toggle').forEach(btn => {
+                              btn.setAttribute('aria-expanded', String(open));
+                        });
+                        document.dispatchEvent(new CustomEvent(open ? 'page-panel:open' : 'page-panel:close'));
+                  }
+
+                  document.addEventListener('click', evt => {
+                        if (evt.target.closest('.page-panel-toggle')) {
+                              setOpen(!panel.classList.contains('is-open'));
+                              return;
+                        }
+                        if (evt.target.closest('[data-page-panel-close]')) {
+                              setOpen(false);
+                              return;
+                        }
+                        // Following a TOC entry or backlink should reveal the target, not the sheet
+                        if (mobile.matches && evt.target.closest('#page-panel a[href]')) {
+                              setOpen(false);
+                        }
+                  });
+
+                  document.addEventListener('keydown', evt => {
+                        if (evt.key === 'Escape' && panel.classList.contains('is-open')) setOpen(false);
+                  });
+
+                  // Leaving the mobile breakpoint restores the normal sidebar
+                  mobile.addEventListener('change', evt => {
+                        if (!evt.matches) setOpen(false);
+                  });
+            })();
+      </script>
 </aside>

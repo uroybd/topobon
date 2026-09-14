@@ -1,0 +1,13 @@
+{#
+  Fixed stack of floating actions in the bottom-right corner. It fills from
+  the corner upward: the core page panel toggle sits nearest the corner and
+  anything plugins render into the floating.bottomRight slot stacks above it.
+  Each slot template should render a single element; it becomes a flex item.
+  The toggle is hidden by CSS on desktop and on pages without a sidebar.
+#}
+<div class="floating-actions floating-bottom-right">
+    <button type="button" class="page-panel-toggle page-panel-fab" aria-controls="page-panel" aria-expanded="false" aria-label="{{ meta.uiStrings.pagePanelLabel }}" title="{{ meta.uiStrings.pagePanelLabel }}">
+        <i data-lucide="panel-right"></i>
+    </button>
+    {% set slotName = "floating.bottomRight" %}{% include "components/pluginSlot.njk" %}
+</div>
