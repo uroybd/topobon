@@ -75,9 +75,16 @@ slots render unconditionally.
 | `filetree.actions` | filetree sidebar below the site title |
 | `filetree.beforeTitle` / `filetree.afterTitle` | around the filetree site title |
 | `sidebar.top` / `sidebar.bottom` | right-hand sidebar |
+| `floating.bottomRight` | fixed stack in the bottom-right corner, filled from the corner upward; core's page panel toggle sits nearest the corner. Render **one element** per template (a button or link), it becomes a flex item and stacks above the previous one |
 
 Manifest form: `"slots": { "<slot>": "file.njk" }` or a list of files.
 Use `common.footer` for anything with a `<script>` or overlay markup.
+
+Render order within a slot is the site owner's call, not the plugin's:
+plugins render by the `order` number on their entry in
+`src/plugins/plugins.json` (lower first, default 0), then by id. In
+`floating.bottomRight` a lower order sits nearer the corner. Example:
+`{"plugins": {"theme-switcher": {"order": 10}, "random-note": {"order": 20}}}`.
 
 ## Regions (exclusive replacement)
 
