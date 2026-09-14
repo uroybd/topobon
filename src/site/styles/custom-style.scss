@@ -512,6 +512,11 @@ body {
   justify-content: flex-end;
 }
 
+.callout[data-callout="quote-with-source"] .callout-content {
+  font-size: 1.3rem;
+}
+
+
 body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="stone"]::before,
 body.filetree-note-icon .filename[data-note-icon="stone"]::before,
 body.links-note-icon .internal-link[data-note-icon="stone"]::before,
