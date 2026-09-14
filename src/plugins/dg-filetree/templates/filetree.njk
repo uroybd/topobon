@@ -49,7 +49,10 @@
                     {% endfor %}
                 </div>
 
-                {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
+                <div class="navbar-actions">
+                    {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
+                    {% include "components/pagePanelButton.njk" %}
+                </div>
             </nav>
         </div>
 
