@@ -51,6 +51,7 @@ const KNOWN_SLOTS = new Set([
   "sidebar.top",
   "sidebar.bottom",
   "navbar.actions",
+  "floating.bottomRight",
 ]);
 
 /**
@@ -232,7 +233,24 @@ function normalizePlugin(root, dirName, manifest, registryEntry) {
     noteSettings: asArray(manifest.noteSettings).filter((s) => typeof s === "string" && s.length > 0),
     settings: resolveSettings(manifest, registryEntry),
     enabled: !registryEntry || registryEntry.enabled !== false,
+    order: registryOrder(registryEntry),
   };
+}
+
+/**
+ * Site-owner render order from the registry entry ("order": number). Lower
+ * renders first; plugins without one share 0 and fall back to id order.
+ */
+function registryOrder(registryEntry) {
+  const value = registryEntry && registryEntry.order;
+  return typeof value === "number" && Number.isFinite(value) ? value : 0;
+}
+
+/** Enabled plugins in render order: registry "order" ascending, then id. */
+function orderedPlugins(options) {
+  return enabledPlugins(options)
+    .slice()
+    .sort((a, b) => a.order - b.order || (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
 }
 
 /**
@@ -476,7 +494,7 @@ function getTemplateData(options) {
     settings: {},
   };
 
-  for (const plugin of enabledPlugins(options)) {
+  for (const plugin of orderedPlugins(options)) {
     data.enabled.push(plugin.id);
     data.settings[plugin.id] = plugin.settings;
 
