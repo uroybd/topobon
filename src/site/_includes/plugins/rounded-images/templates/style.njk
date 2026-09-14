@@ -1,0 +1,8 @@
+{% if settings.dgNoRoundedImages !== true %}
+{% set roundedImagesRadius = pluginSettings.radius | float(8) %}
+<style>
+  {% if pluginSettings.scope === "all" %}img{% else %}main.content img{% endif %} {
+    border-radius: {{ roundedImagesRadius }}px;
+  }
+</style>
+{% endif %}
