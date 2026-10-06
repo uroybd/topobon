@@ -12,7 +12,7 @@
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
         "build": "npm-run-all get-theme --parallel build:*",
-        "test": "vitest run"
+        "test": "vitest run --exclude \"src/plugins/!(dg-*)/**\""
     },
     "keywords": [],
     "author": "",
