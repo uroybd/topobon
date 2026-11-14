@@ -1,5 +1,5 @@
 ---
-{"title":"The Encounter","updated":"2023-02-09T12:11:59+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"Badda, Dhaka","dg-publish":true,"tags":["creative","prose","short-story"],"dg-note-icon":2,"series":{"unlived":1},"dg-metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dg-path":"Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter.md","permalink":"/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"The Encounter","updated":"2023-02-09T12:11:59+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"Badda, Dhaka","tags":["creative","prose","short-story"],"series":{"unlived":1}}}
+{"title":"The Encounter","updated":"2026-11-14T22:30:43+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"Badda, Dhaka","dg-publish":true,"tags":["creative","prose","short-story"],"dg-note-icon":2,"series":{"unlived":1},"dg-metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dg-path":"Writings/Creative/Prose/Unlived Lives of Ours/01 The Encounter.md","permalink":"/writings/creative/prose/unlived-lives-of-ours/01-the-encounter/","metatags":{"og:title":"The Encounter | Unlived Lives of Ours"},"dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"The Encounter","updated":"2026-11-14T22:30:43+06:00","created":"2021-09-25T18:45:26+06:00","latitude":23.78275989,"longitude":90.42133105,"altitude":-18.9308,"location":"Badda, Dhaka","tags":["creative","prose","short-story"],"series":{"unlived":1}}}
 ---
 
 On an ordinary day a few months back, I first met a person who is not me. That is NOT to say that it is another person— for I met many other persons throughout my life. This person who is not me could have been who I am, but our temporality robbed his reality.
@@ -10,7 +10,7 @@ Let's call this person the unlived one.
 
 If you're annoyed by this rhetorical tint in my writing (and justifiably so) let me assure you that this is necessary. I could've written this monologue in Lojban for all I care. However, these curves and crooks of this style are essential— for the unlived one cannot live but this exaggeration.
 
-One doesn't live by bread alone. We live by pretty places to live, dresses to were, gadgets to show off. Surely, we live by avoiding pain and maximising happiness.
+One doesn't live by bread alone. We live by pretty places to live, dresses to wear, gadgets to show off. Surely, we live by avoiding pain and maximising happiness.
 
 But the unlived one, by definition, does not live. Therefore, he unlives by the texture of croissants. He unlives in a dark cave or under the open sky, naked to the root of his existence. He thrives on suffering.
 
