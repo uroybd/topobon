@@ -1,5 +1,5 @@
 ---
-{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-06-23T14:27:58+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/Understood.md","permalink":"/musings/understood/","dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-06-23T14:27:58+06:00"}}
+{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-11-14T22:37:05+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/Understood.md","permalink":"/musings/understood/","dgPassFrontmatter":true,"noteIcon":2,"dg-note-properties":{"title":"Understood?","aliases":["Understood?"],"location":"Badda, Dhaka","tags":["language","cognition","critical-thinking"],"created":"2026-05-11T23:03:40+06:00","updated":"2026-11-14T22:37:05+06:00"}}
 ---
 
 > **Person 1:** This and this, and that and that…. understood?
@@ -51,4 +51,4 @@ This is a **cognitive shortcoming** we build for ourselves by not being precise 
 
 To remedy this situation, we have to think about the words we are using. This is something easier said than done. Because we are thinking about the words we are using, that is, the words we are using to express another thought of ours. This is meta-thinking, breaking the fourth wall. It requires some active effort on our part and will reward us with ever-sharpening tools of thinking.
 
-[^1]: The [actual list](https://dictionary.cambridge.org/dictionary/english/understand) It is much longer.
+[^1]: The [actual list](https://dictionary.cambridge.org/dictionary/english/understand) is much longer.
